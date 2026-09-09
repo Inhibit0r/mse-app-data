@@ -1,6 +1,6 @@
 {
  "course": 1,
- "generatedAt": "2026-09-08T22:00:32+00:00",
+ "generatedAt": "2026-09-09T08:46:54+00:00",
  "groups": [
   1,
   2,
@@ -952,6 +952,32 @@
    "start": "15:45",
    "subject": "Искусственный интеллект: наука и образование",
    "subjectRaw": "Искуственный интелект наука и образование",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "K4",
+   "date": "2026-09-10",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "d6945f377425",
+   "kind": "lecture",
+   "lessonKey": "75f602f1b58c",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ ВВЕДЕНИЕ В ЭКОНОМИКУ Некипелов А. Д. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Некипелов А.Д."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Введение в экономику",
+   "subjectRaw": "ВВЕДЕНИЕ В ЭКОНОМИКУ",
    "timeOverride": false
   },
   {
@@ -4191,7 +4217,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 128,
+  "cells": 129,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -4223,8 +4249,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "E73D1C56C8DFC8AF80CEC839082160A309155B1E",
-  "mtime": 1788787659,
+  "hash": "1FAB4F66CA9ECE988B5B4D45BF028C5AA763DBC6",
+  "mtime": 1788943320,
   "name": "1_курс_Бакалавриат_2026.xlsx",
   "sheet": "1 курс_СЕНТЯБРЬ_26",
   "weblink": "zXBY/Ti1JkH8ip"
