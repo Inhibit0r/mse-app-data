@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-09T07:39:49+00:00",
+ "generatedAt": "2026-09-09T08:41:49+00:00",
  "groups": [
   1,
   2,
@@ -580,15 +580,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "12d660a81c39",
+   "id": "b7204c40b062",
    "kind": "lecture",
    "lessonKey": "bb4019220676",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ АНАЛИЗ-II Пепа Р.Ю. 302",
+   "raw": "ЛЕКЦИЯ АНАЛИЗ-II Пепа Р.Ю. 417",
    "segments": [
     {
      "groups": [],
-     "room": "302",
+     "room": "417",
      "subgroup": "",
      "teacher": "Пепа Р.Ю."
     }
@@ -3057,8 +3057,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "D2E43CA5BDE8588DE7FAAE552475FE2869384DA1",
-  "mtime": 1788939423,
+  "hash": "7B065F79196D5A3DBD8E1EEFF2B73702EC228BAA",
+  "mtime": 1788943109,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
