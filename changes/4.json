@@ -2,6 +2,18 @@
  "course": 4,
  "events": [
   {
+   "date": "2026-09-10",
+   "detectedAt": "2026-09-09T08:52:07+00:00",
+   "groups": [],
+   "id": "0b0791e8772f",
+   "kind": "lecture",
+   "lessonKey": "bb4019220676",
+   "pair": 1,
+   "subject": "Анализ II",
+   "text": "Чт 10.09, 1 пара: Лекция Анализ II, аудитория 302 → 417",
+   "type": "room"
+  },
+  {
    "date": "2026-09-16",
    "detectedAt": "2026-09-09T07:50:09+00:00",
    "groups": [],
