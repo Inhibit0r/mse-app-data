@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-09T08:41:49+00:00",
+ "generatedAt": "2026-09-09T09:07:20+00:00",
  "groups": [
   1,
   2,
@@ -658,18 +658,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "26edfb6f36fe",
+   "id": "0b5e78200168",
    "kind": "seminar",
    "lessonKey": "e32b0626a6c4",
    "pair": 4,
-   "raw": "СЗ АНАЛИЗ - II 2,3 гр. Пепа Р.Ю. 113",
+   "raw": "СЗ АНАЛИЗ - II 2,3 гр. Пепа Р.Ю. 418",
    "segments": [
     {
      "groups": [
       2,
       3
      ],
-     "room": "113",
+     "room": "418",
      "subgroup": "",
      "teacher": "Пепа Р.Ю."
     }
@@ -687,18 +687,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "2a4bf4a0ee01",
+   "id": "aa2c8e9b5eb5",
    "kind": "seminar",
    "lessonKey": "b8820197b433",
    "pair": 5,
-   "raw": "СЗ АНАЛИЗ - II 1,4 гр. Пепа Р.Ю. 113",
+   "raw": "СЗ АНАЛИЗ - II 1,4 гр. Пепа Р.Ю. 418",
    "segments": [
     {
      "groups": [
       1,
       4
      ],
-     "room": "113",
+     "room": "418",
      "subgroup": "",
      "teacher": "Пепа Р.Ю."
     }
@@ -3057,8 +3057,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "7B065F79196D5A3DBD8E1EEFF2B73702EC228BAA",
-  "mtime": 1788943109,
+  "hash": "CFD3F94E6F3BCFE0B737B6CC31B33AE395272F09",
+  "mtime": 1788944834,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
