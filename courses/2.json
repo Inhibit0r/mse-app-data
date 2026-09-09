@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-09-08T22:00:32+00:00",
+ "generatedAt": "2026-09-09T09:43:36+00:00",
  "groups": [
   1,
   2,
@@ -2833,6 +2833,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "T14",
+   "date": "2026-09-19",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "bcefaede1526",
+   "kind": "commission",
+   "lessonKey": "90c560da3da1",
+   "pair": 3,
+   "raw": "12:30 Комиссия по Истории России Щербакова Е.И. Мойса Н.И.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Щербакова Е.И., Мойса Н."
+    }
+   ],
+   "start": "12:30",
+   "subject": "По истории россии и",
+   "subjectRaw": "по Истории России И",
+   "timeOverride": true
+  },
+  {
    "audience": "stream",
    "cell": "V4",
    "date": "2026-09-21",
@@ -5121,7 +5147,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 151,
+  "cells": 152,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -5153,8 +5179,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "68079C141444F1E6B91A299AD7B93C84E4F7A9BB",
-  "mtime": 1788876733,
+  "hash": "11CE6B9F5B2B5B5F97B72DD2C1A5F459ED385B92",
+  "mtime": 1788947013,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "sheet": "2 курс_СЕНТЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
