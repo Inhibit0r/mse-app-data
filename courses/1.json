@@ -1,6 +1,6 @@
 {
  "course": 1,
- "generatedAt": "2026-09-09T08:57:09+00:00",
+ "generatedAt": "2026-09-09T10:03:55+00:00",
  "groups": [
   1,
   2,
@@ -1540,32 +1540,6 @@
    "start": "09:00",
    "subject": "Математический анализ",
    "subjectRaw": "МАТЕМАТИЧЕСКИЙ АНАЛИЗ",
-   "timeOverride": false
-  },
-  {
-   "audience": "stream",
-   "cell": "P6",
-   "date": "2026-09-15",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "cec7c92f15ab",
-   "kind": "lecture",
-   "lessonKey": "1dd13c681ac0",
-   "pair": 2,
-   "raw": "ЛЕКЦИЯ ВВЕДЕНИЕ В ЭКОНОМИКУ Некипелов А. Д. 302",
-   "segments": [
-    {
-     "groups": [],
-     "room": "302",
-     "subgroup": "",
-     "teacher": "Некипелов А.Д."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Введение в экономику",
-   "subjectRaw": "ВВЕДЕНИЕ В ЭКОНОМИКУ",
    "timeOverride": false
   },
   {
@@ -4191,7 +4165,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 128,
+  "cells": 127,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -4223,8 +4197,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "CD9935A9224A3DF77BE3F4D8DB0EE2ACB85A1D7B",
-  "mtime": 1788944077,
+  "hash": "6383B5F5499046B16CCBE7270BDB742F238DE224",
+  "mtime": 1788948078,
   "name": "1_курс_Бакалавриат_2026.xlsx",
   "sheet": "1 курс_СЕНТЯБРЬ_26",
   "weblink": "zXBY/Ti1JkH8ip"
