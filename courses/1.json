@@ -1,6 +1,6 @@
 {
  "course": 1,
- "generatedAt": "2026-09-09T08:46:54+00:00",
+ "generatedAt": "2026-09-09T08:57:09+00:00",
  "groups": [
   1,
   2,
@@ -2543,32 +2543,6 @@
    "timeOverride": false
   },
   {
-   "audience": "stream",
-   "cell": "W6",
-   "date": "2026-09-22",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "94bed9a1ff45",
-   "kind": "lecture",
-   "lessonKey": "f298b3ac4428",
-   "pair": 2,
-   "raw": "ЛЕКЦИЯ ВВЕДЕНИЕ В ЭКОНОМИКУ Некипелов А. Д. 113",
-   "segments": [
-    {
-     "groups": [],
-     "room": "113",
-     "subgroup": "",
-     "teacher": "Некипелов А.Д."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Введение в экономику",
-   "subjectRaw": "ВВЕДЕНИЕ В ЭКОНОМИКУ",
-   "timeOverride": false
-  },
-  {
    "audience": "groups",
    "cell": "W8",
    "date": "2026-09-22",
@@ -4217,7 +4191,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 129,
+  "cells": 128,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -4249,8 +4223,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "1FAB4F66CA9ECE988B5B4D45BF028C5AA763DBC6",
-  "mtime": 1788943320,
+  "hash": "CD9935A9224A3DF77BE3F4D8DB0EE2ACB85A1D7B",
+  "mtime": 1788944077,
   "name": "1_курс_Бакалавриат_2026.xlsx",
   "sheet": "1 курс_СЕНТЯБРЬ_26",
   "weblink": "zXBY/Ti1JkH8ip"
