@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-08T22:26:09+00:00",
+ "generatedAt": "2026-09-09T07:39:49+00:00",
  "groups": [
   1,
   2,
@@ -1135,32 +1135,6 @@
    "timeOverride": false
   },
   {
-   "audience": "stream",
-   "cell": "Q4",
-   "date": "2026-09-16",
-   "end": "10:30",
-   "flags": {
-    "conflict": false
-   },
-   "id": "cc7199f5fd46",
-   "kind": "lecture",
-   "lessonKey": "b94bd2105bb3",
-   "pair": 1,
-   "raw": "ЛЕКЦИЯ ФИНАНСЫ И КРЕДИТ Мусаев Р.А. 417",
-   "segments": [
-    {
-     "groups": [],
-     "room": "417",
-     "subgroup": "",
-     "teacher": "Мусаев Р.А."
-    }
-   ],
-   "start": "09:00",
-   "subject": "Финансы и кредит",
-   "subjectRaw": "ФИНАНСЫ И КРЕДИТ",
-   "timeOverride": false
-  },
-  {
    "audience": "groups",
    "cell": "Q6",
    "date": "2026-09-16",
@@ -1192,92 +1166,6 @@
     }
    ],
    "start": "10:40",
-   "subject": "Теория отраслевых рынков",
-   "subjectRaw": "ТОР",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "Q7",
-   "date": "2026-09-16",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "2cff2126b2a7",
-   "kind": "seminar",
-   "lessonKey": "994adbd26723",
-   "pair": 2,
-   "raw": "СЗ ФИНАНСЫ И КРЕДИТ 2,3 гр. Мусаев Р.А. 417",
-   "segments": [
-    {
-     "groups": [
-      2,
-      3
-     ],
-     "room": "417",
-     "subgroup": "",
-     "teacher": "Мусаев Р.А."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Финансы и кредит",
-   "subjectRaw": "ФИНАНСЫ И КРЕДИТ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "Q8",
-   "date": "2026-09-16",
-   "end": "13:55",
-   "flags": {
-    "conflict": false
-   },
-   "id": "c0e7019f8dbd",
-   "kind": "seminar",
-   "lessonKey": "e8b1d47bfa88",
-   "pair": 3,
-   "raw": "СЗ ФИНАНСЫ И КРЕДИТ 1,4 гр. Мусаев Р.А. 417",
-   "segments": [
-    {
-     "groups": [
-      1,
-      4
-     ],
-     "room": "417",
-     "subgroup": "",
-     "teacher": "Мусаев Р.А."
-    }
-   ],
-   "start": "12:25",
-   "subject": "Финансы и кредит",
-   "subjectRaw": "ФИНАНСЫ И КРЕДИТ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "Q9",
-   "date": "2026-09-16",
-   "end": "13:55",
-   "flags": {
-    "conflict": false
-   },
-   "id": "ecec0b8f2e8e",
-   "kind": "seminar",
-   "lessonKey": "3b98911f8f92",
-   "pair": 3,
-   "raw": "СЗ ТОР 2 гр. Аванесова И.Б. 418",
-   "segments": [
-    {
-     "groups": [
-      2
-     ],
-     "room": "418",
-     "subgroup": "",
-     "teacher": "Аванесова И.Б."
-    }
-   ],
-   "start": "12:25",
    "subject": "Теория отраслевых рынков",
    "subjectRaw": "ТОР",
    "timeOverride": false
@@ -1869,32 +1757,6 @@
    "timeOverride": false
   },
   {
-   "audience": "stream",
-   "cell": "X4",
-   "date": "2026-09-23",
-   "end": "10:30",
-   "flags": {
-    "conflict": false
-   },
-   "id": "f55ed375dc3b",
-   "kind": "lecture",
-   "lessonKey": "c6f3a1a382c9",
-   "pair": 1,
-   "raw": "ЛЕКЦИЯ ФИНАНСЫ И КРЕДИТ Мусаев Р.А. 417",
-   "segments": [
-    {
-     "groups": [],
-     "room": "417",
-     "subgroup": "",
-     "teacher": "Мусаев Р.А."
-    }
-   ],
-   "start": "09:00",
-   "subject": "Финансы и кредит",
-   "subjectRaw": "ФИНАНСЫ И КРЕДИТ",
-   "timeOverride": false
-  },
-  {
    "audience": "groups",
    "cell": "X6",
    "date": "2026-09-23",
@@ -1928,64 +1790,6 @@
    "start": "10:40",
    "subject": "Теория отраслевых рынков",
    "subjectRaw": "ТОР",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "X7",
-   "date": "2026-09-23",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "b349a83bd447",
-   "kind": "seminar",
-   "lessonKey": "129b1b41534a",
-   "pair": 2,
-   "raw": "СЗ ФИНАНСЫ И КРЕДИТ 2,3 гр. Мусаев Р.А. 417",
-   "segments": [
-    {
-     "groups": [
-      2,
-      3
-     ],
-     "room": "417",
-     "subgroup": "",
-     "teacher": "Мусаев Р.А."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Финансы и кредит",
-   "subjectRaw": "ФИНАНСЫ И КРЕДИТ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "X8",
-   "date": "2026-09-23",
-   "end": "13:55",
-   "flags": {
-    "conflict": false
-   },
-   "id": "bd6e7e848852",
-   "kind": "seminar",
-   "lessonKey": "8693b350d42d",
-   "pair": 3,
-   "raw": "СЗ ФИНАНСЫ И КРЕДИТ 1,4 гр. Мусаев Р.А. 417",
-   "segments": [
-    {
-     "groups": [
-      1,
-      4
-     ],
-     "room": "417",
-     "subgroup": "",
-     "teacher": "Мусаев Р.А."
-    }
-   ],
-   "start": "12:25",
-   "subject": "Финансы и кредит",
-   "subjectRaw": "ФИНАНСЫ И КРЕДИТ",
    "timeOverride": false
   },
   {
@@ -2555,6 +2359,664 @@
    "subject": "Военная кафедра",
    "subjectRaw": "",
    "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AD7",
+   "date": "2026-09-29",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "8d241334aa84",
+   "kind": "seminar",
+   "lessonKey": "d353e7d3d5bf",
+   "pair": 2,
+   "raw": "СЗ ТОР 3 гр. Аванесова И.Б. 404",
+   "segments": [
+    {
+     "groups": [
+      3
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Аванесова И.Б."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Теория отраслевых рынков",
+   "subjectRaw": "ТОР",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AD8",
+   "date": "2026-09-29",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "721c094a3eb5",
+   "kind": "lecture",
+   "lessonKey": "5039aaf1c80a",
+   "pair": 3,
+   "raw": "ЛЕКЦИЯ ТЕОРИЯ ОТРАСЛЕВЫХ РЫНКОВ Аванесова И.Б. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Аванесова И.Б."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Теория отраслевых рынков",
+   "subjectRaw": "ТЕОРИЯ ОТРАСЛЕВЫХ РЫНКОВ",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AD10",
+   "date": "2026-09-29",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "474a7660fd75",
+   "kind": "lecture",
+   "lessonKey": "7e90ab56141f",
+   "pair": 4,
+   "raw": "ЛЕКЦИЯ ЭКОНОМИКА ТРУДА Починкин Д.В. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Починкин Д.В."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Экономика труда",
+   "subjectRaw": "ЭКОНОМИКА ТРУДА",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AD12",
+   "date": "2026-09-29",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "1596ac103c75",
+   "kind": "seminar",
+   "lessonKey": "34b0a77bd4e7",
+   "pair": 5,
+   "raw": "СЗ ЭКСПЕРИМЕНТАЛЬНАЯ ЭКОНОМИКА Колпаков Д.В. 304",
+   "segments": [
+    {
+     "groups": [],
+     "room": "304",
+     "subgroup": "",
+     "teacher": "Колпаков Д.В."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Экспериментальная экономика",
+   "subjectRaw": "ЭКСПЕРИМЕНТАЛЬНАЯ ЭКОНОМИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AE4",
+   "date": "2026-09-30",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "a7fe06c10c72",
+   "kind": "lecture",
+   "lessonKey": "4fefd59d9f1d",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ ФИНАНСЫ И КРЕДИТ Мусаев Р.А. 417",
+   "segments": [
+    {
+     "groups": [],
+     "room": "417",
+     "subgroup": "",
+     "teacher": "Мусаев Р.А."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Финансы и кредит",
+   "subjectRaw": "ФИНАНСЫ И КРЕДИТ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AE6",
+   "date": "2026-09-30",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "d2af6354dc7d",
+   "kind": "seminar",
+   "lessonKey": "4c5b25a175e8",
+   "pair": 2,
+   "raw": "СЗ ТОР 1 гр. Селезнев А.И. 315 4гр. Аванесова И.Б. 418",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "315",
+     "subgroup": "",
+     "teacher": "Селезнев А.И."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "418",
+     "subgroup": "",
+     "teacher": "Аванесова И.Б."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Теория отраслевых рынков",
+   "subjectRaw": "ТОР",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AE7",
+   "date": "2026-09-30",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "24462afb018b",
+   "kind": "seminar",
+   "lessonKey": "8d44e98fb044",
+   "pair": 2,
+   "raw": "СЗ ФИНАНСЫ И КРЕДИТ 2,3 гр. Мусаев Р.А. 417",
+   "segments": [
+    {
+     "groups": [
+      2,
+      3
+     ],
+     "room": "417",
+     "subgroup": "",
+     "teacher": "Мусаев Р.А."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Финансы и кредит",
+   "subjectRaw": "ФИНАНСЫ И КРЕДИТ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AE8",
+   "date": "2026-09-30",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "ece6afa82fd6",
+   "kind": "seminar",
+   "lessonKey": "ea5a4bb952d6",
+   "pair": 3,
+   "raw": "СЗ ФИНАНСЫ И КРЕДИТ 1,4 гр. Мусаев Р.А. 417",
+   "segments": [
+    {
+     "groups": [
+      1,
+      4
+     ],
+     "room": "417",
+     "subgroup": "",
+     "teacher": "Мусаев Р.А."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Финансы и кредит",
+   "subjectRaw": "ФИНАНСЫ И КРЕДИТ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AE9",
+   "date": "2026-09-30",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "f3d614bbd279",
+   "kind": "seminar",
+   "lessonKey": "5295bf6824c4",
+   "pair": 3,
+   "raw": "СЗ ТОР 2 гр. Аванесова И.Б. 418",
+   "segments": [
+    {
+     "groups": [
+      2
+     ],
+     "room": "418",
+     "subgroup": "",
+     "teacher": "Аванесова И.Б."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Теория отраслевых рынков",
+   "subjectRaw": "ТОР",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "AE10",
+   "date": "2026-09-30",
+   "end": "16:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "a41363202130",
+   "kind": "mfk",
+   "lessonKey": "fe51417ff9ef",
+   "pair": 4,
+   "raw": "15.10-16.40 МЕЖФАКУЛЬТЕТСКИЕ КУРСЫ",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "15:10",
+   "subject": "Межфакультетские курсы",
+   "subjectRaw": "",
+   "timeOverride": true
+  },
+  {
+   "audience": "personal",
+   "cell": "AE10",
+   "date": "2026-09-30",
+   "end": "16:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "4cff1f872ee7",
+   "kind": "mfk",
+   "lessonKey": "87f98bc3ba2b",
+   "pair": 5,
+   "raw": "15.10-16.40 МЕЖФАКУЛЬТЕТСКИЕ КУРСЫ",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "15:10",
+   "subject": "Межфакультетские курсы",
+   "subjectRaw": "",
+   "timeOverride": true
+  },
+  {
+   "audience": "stream",
+   "cell": "AF4",
+   "date": "2026-10-01",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "266e50057d02",
+   "kind": "lecture",
+   "lessonKey": "0a15a7802e45",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ АНАЛИЗ-II Пепа Р.Ю. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Пепа Р.Ю."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Анализ II",
+   "subjectRaw": "АНАЛИЗ-II",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AF6",
+   "date": "2026-10-01",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "8758d3d1c854",
+   "kind": "lecture",
+   "lessonKey": "d903ff98df48",
+   "pair": 2,
+   "raw": "ЛЕКЦИЯ СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Потапенко В.В. 113",
+   "segments": [
+    {
+     "groups": [],
+     "room": "113",
+     "subgroup": "",
+     "teacher": "Потапенко В.В."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Состояние и перспективы российской экономики",
+   "subjectRaw": "СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AF8",
+   "date": "2026-10-01",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "21b243e19a6a",
+   "kind": "lecture",
+   "lessonKey": "1bc8bfffe689",
+   "pair": 3,
+   "raw": "ЛЕКЦИЯ СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Потапенко В.В. 113",
+   "segments": [
+    {
+     "groups": [],
+     "room": "113",
+     "subgroup": "",
+     "teacher": "Потапенко В.В."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Состояние и перспективы российской экономики",
+   "subjectRaw": "СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AF10",
+   "date": "2026-10-01",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "f017da8d5365",
+   "kind": "seminar",
+   "lessonKey": "2f2313c62881",
+   "pair": 4,
+   "raw": "СЗ ЭКОНОМИКА ТРУДА 1,4 гр. Починкин Д.В. 404",
+   "segments": [
+    {
+     "groups": [
+      1,
+      4
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Починкин Д.В."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Экономика труда",
+   "subjectRaw": "ЭКОНОМИКА ТРУДА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AF11",
+   "date": "2026-10-01",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "23fe21d4dee7",
+   "kind": "seminar",
+   "lessonKey": "e123fb5192d1",
+   "pair": 4,
+   "raw": "СЗ АНАЛИЗ - II 2,3 гр. Пепа Р.Ю. 405",
+   "segments": [
+    {
+     "groups": [
+      2,
+      3
+     ],
+     "room": "405",
+     "subgroup": "",
+     "teacher": "Пепа Р.Ю."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Анализ II",
+   "subjectRaw": "АНАЛИЗ - II",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AF12",
+   "date": "2026-10-01",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "f5a09ab82b3e",
+   "kind": "seminar",
+   "lessonKey": "bba73f0e34b1",
+   "pair": 5,
+   "raw": "СЗ ЭКОНОМИКА ТРУДА 2,3 гр. Починкин Д.В. 404",
+   "segments": [
+    {
+     "groups": [
+      2,
+      3
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Починкин Д.В."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Экономика труда",
+   "subjectRaw": "ЭКОНОМИКА ТРУДА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AF13",
+   "date": "2026-10-01",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "68cc9de88556",
+   "kind": "seminar",
+   "lessonKey": "1af6d4e7228b",
+   "pair": 5,
+   "raw": "СЗ АНАЛИЗ - II 1,4 гр. Пепа Р.Ю. 405",
+   "segments": [
+    {
+     "groups": [
+      1,
+      4
+     ],
+     "room": "405",
+     "subgroup": "",
+     "teacher": "Пепа Р.Ю."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Анализ II",
+   "subjectRaw": "АНАЛИЗ - II",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AG6",
+   "date": "2026-10-02",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "d73cdb57000b",
+   "kind": "lecture",
+   "lessonKey": "a429fd5dd9df",
+   "pair": 2,
+   "raw": "ЛЕКЦИЯ СЕТЕВАЯ ЭКОНОМИКА Устюжанина Е.В. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Устюжанина Е.В."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Сетевая экономика",
+   "subjectRaw": "СЕТЕВАЯ ЭКОНОМИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AG8",
+   "date": "2026-10-02",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "751c834d0b8e",
+   "kind": "lecture",
+   "lessonKey": "5e883742cf6f",
+   "pair": 3,
+   "raw": "ЛЕКЦИЯ ЭКОНОМИЧЕСКАЯ ПОЛИТИКА Головнин М.Ю. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Головнин М.Ю."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Экономическая политика",
+   "subjectRaw": "ЭКОНОМИЧЕСКАЯ ПОЛИТИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AG10",
+   "date": "2026-10-02",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "3b900de3a890",
+   "kind": "lecture",
+   "lessonKey": "6f4507ce7626",
+   "pair": 4,
+   "raw": "ЛЕКЦИЯ ЭКОНОМИЧЕСКАЯ ПОЛИТИКА Головнин М.Ю. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Головнин М.Ю."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Экономическая политика",
+   "subjectRaw": "ЭКОНОМИЧЕСКАЯ ПОЛИТИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AG12",
+   "date": "2026-10-02",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "bdbc080aad76",
+   "kind": "seminar",
+   "lessonKey": "230904061fe0",
+   "pair": 5,
+   "raw": "СЗ ТОР 3 гр. Аванесова И.Б. 402",
+   "segments": [
+    {
+     "groups": [
+      3
+     ],
+     "room": "402",
+     "subgroup": "",
+     "teacher": "Аванесова И.Б."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Теория отраслевых рынков",
+   "subjectRaw": "ТОР",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AH6",
+   "date": "2026-10-03",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "f5ed61135b40",
+   "kind": "lecture",
+   "lessonKey": "c6e428bfd5e0",
+   "pair": 2,
+   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА - II Пылин А.Г. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Пылин А.Г."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Мировая экономика II",
+   "subjectRaw": "МИРОВАЯ ЭКОНОМИКА - II",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AH8",
+   "date": "2026-10-03",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "7fda5e110017",
+   "kind": "lecture",
+   "lessonKey": "ec2e4cfb3f85",
+   "pair": 3,
+   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА - II Пылин А.Г. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Пылин А.Г."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Мировая экономика II",
+   "subjectRaw": "МИРОВАЯ ЭКОНОМИКА - II",
+   "timeOverride": false
   }
  ],
  "range": {
@@ -2563,7 +3025,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 78,
+  "cells": 94,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -2595,8 +3057,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "0E4534364741745FB6EA6933BC7414A57EA30844",
-  "mtime": 1788860750,
+  "hash": "D2E43CA5BDE8588DE7FAAE552475FE2869384DA1",
+  "mtime": 1788939423,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
