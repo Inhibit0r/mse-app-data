@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-09T09:07:20+00:00",
+ "generatedAt": "2026-09-09T09:12:39+00:00",
  "groups": [
   1,
   2,
@@ -1166,6 +1166,34 @@
     }
    ],
    "start": "10:40",
+   "subject": "Теория отраслевых рынков",
+   "subjectRaw": "ТОР",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "Q8",
+   "date": "2026-09-16",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "ecec0b8f2e8e",
+   "kind": "seminar",
+   "lessonKey": "3b98911f8f92",
+   "pair": 3,
+   "raw": "СЗ ТОР 2 гр. Аванесова И.Б. 418",
+   "segments": [
+    {
+     "groups": [
+      2
+     ],
+     "room": "418",
+     "subgroup": "",
+     "teacher": "Аванесова И.Б."
+    }
+   ],
+   "start": "12:25",
    "subject": "Теория отраслевых рынков",
    "subjectRaw": "ТОР",
    "timeOverride": false
@@ -3025,7 +3053,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 94,
+  "cells": 95,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -3057,8 +3085,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "CFD3F94E6F3BCFE0B737B6CC31B33AE395272F09",
-  "mtime": 1788944834,
+  "hash": "FED90AA3A3868971D41D80D084D225ABBEF104B2",
+  "mtime": 1788945099,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
