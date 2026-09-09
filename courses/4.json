@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-09T09:12:39+00:00",
+ "generatedAt": "2026-09-09T12:51:07+00:00",
  "groups": [
   1,
   2,
@@ -1876,6 +1876,32 @@
   },
   {
    "audience": "personal",
+   "cell": "X14",
+   "date": "2026-09-23",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "4eb9a28bab79",
+   "kind": "retake",
+   "lessonKey": "2dead281bca3",
+   "pair": 4,
+   "raw": "14:10 Пересдача Эконометрика Пепа Р.Ю. Аршакян Р.А.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Пепа Р.Ю., Аршакян Р."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Эконометрика а",
+   "subjectRaw": "Эконометрика А",
+   "timeOverride": true
+  },
+  {
+   "audience": "personal",
    "cell": "X10",
    "date": "2026-09-23",
    "end": "16:40",
@@ -3053,7 +3079,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 95,
+  "cells": 96,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -3085,8 +3111,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "FED90AA3A3868971D41D80D084D225ABBEF104B2",
-  "mtime": 1788945099,
+  "hash": "F82F9F379561E6EC72253B20D81D22AC8D17A5AE",
+  "mtime": 1788957975,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
