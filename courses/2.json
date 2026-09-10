@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-09-10T12:49:49+00:00",
+ "generatedAt": "2026-09-10T12:54:51+00:00",
  "groups": [
   1,
   2,
@@ -2413,22 +2413,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "87a632bacf24",
+   "id": "55689761e5b1",
    "kind": "commission",
-   "lessonKey": "de489b8af94e",
+   "lessonKey": "13467c8c0f7a",
    "pair": 5,
-   "raw": "15:45 Комиссия за зиму Линейная алгебра Мироненков А.А. Пепа Р.Ю. 302",
+   "raw": "15:45 Комиссия за зиму Экономическая география Гузенко И.С. 405",
    "segments": [
     {
      "groups": [],
-     "room": "302",
+     "room": "405",
      "subgroup": "",
-     "teacher": "Мироненков А.А., Пепа Р.Ю."
+     "teacher": "Гузенко И.С."
     }
    ],
    "start": "15:45",
-   "subject": "Линейная алгебра",
-   "subjectRaw": "Линейная алгебра",
+   "subject": "Экономическая география",
+   "subjectRaw": "Экономическая география",
    "timeOverride": true
   },
   {
@@ -2736,6 +2736,32 @@
    "subject": "Право",
    "subjectRaw": "ПРАВО",
    "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "R14",
+   "date": "2026-09-17",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "afdc5bd3bd13",
+   "kind": "commission",
+   "lessonKey": "506002da57e6",
+   "pair": 5,
+   "raw": "15:45 Комиссия за зиму Психология и экономическое поведение Белоусова В.В. 404",
+   "segments": [
+    {
+     "groups": [],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Белоусова В.В."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Психология и экономическое поведение",
+   "subjectRaw": "Психология и экономическое поведение",
+   "timeOverride": true
   },
   {
    "audience": "stream",
@@ -3525,6 +3551,32 @@
    "subject": "Межфакультетские курсы",
    "subjectRaw": "",
    "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "X14",
+   "date": "2026-09-23",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "5b6fa28fb18c",
+   "kind": "commission",
+   "lessonKey": "7e1395f6d1e9",
+   "pair": 4,
+   "raw": "14:10 Комиссия за зиму БЖ Дынник В.П.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Дынник В."
+    }
+   ],
+   "start": "14:10",
+   "subject": "БЖ п",
+   "subjectRaw": "БЖ П",
+   "timeOverride": true
   },
   {
    "audience": "personal",
@@ -4902,6 +4954,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "AF14",
+   "date": "2026-10-01",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "ddcd39179c26",
+   "kind": "commission",
+   "lessonKey": "40ec7d0623ad",
+   "pair": 5,
+   "raw": "15:45 Комиссия за зиму Линейная алгебра Мироненков А.А. Пепа Р.Ю. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Мироненков А.А., Пепа Р.Ю."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Линейная алгебра",
+   "subjectRaw": "Линейная алгебра",
+   "timeOverride": true
+  },
+  {
    "audience": "stream",
    "cell": "AG4",
    "date": "2026-10-02",
@@ -5068,7 +5146,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 150,
+  "cells": 153,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -5100,8 +5178,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "C88766065F993EB0EBFEECC2BAE79B2C02A9617C",
-  "mtime": 1789044555,
+  "hash": "AA7B92E22F9D700933FB5BB86CE62240BC8CA18C",
+  "mtime": 1789044882,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "sheet": "2 курс_СЕНТЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
