@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-09-10T13:00:07+00:00",
+ "generatedAt": "2026-09-10T13:05:19+00:00",
  "groups": [
   1,
   2,
@@ -2196,15 +2196,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "1005e9ce0cfe",
+   "id": "81cc3662f556",
    "kind": "lecture",
    "lessonKey": "1d04490043ed",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА Кукушкин Д.С. 308",
+   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА Кукушкин Д.С. 113",
    "segments": [
     {
      "groups": [],
-     "room": "308",
+     "room": "113",
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     }
@@ -2275,6 +2275,32 @@
    "subject": "Русский язык для иностранцев",
    "subjectRaw": "",
    "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "R14",
+   "date": "2026-09-17",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "8d29a6843cfb",
+   "kind": "commission",
+   "lessonKey": "6d7b71d157ee",
+   "pair": 5,
+   "raw": "15:45 Комиссия за зиму Английский язык Сахарова А.Б. 314",
+   "segments": [
+    {
+     "groups": [],
+     "room": "314",
+     "subgroup": "",
+     "teacher": "Сахарова А.Б."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Английский язык",
+   "subjectRaw": "Английский язык",
+   "timeOverride": true
   },
   {
    "audience": "personal",
@@ -4497,7 +4523,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 134,
+  "cells": 135,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -4529,8 +4555,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "C9224F72E3EAC7ABF3B00D6CAF32E56CEF743381",
-  "mtime": 1789045164,
+  "hash": "D093F58D1F6F8099DF8239C66C135996D4BBC95D",
+  "mtime": 1789045504,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "sheet": "3 курс_СЕНТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
