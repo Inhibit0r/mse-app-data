@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-09T13:48:31+00:00",
+ "generatedAt": "2026-09-10T09:28:15+00:00",
  "groups": [
   1,
   2,
@@ -716,16 +716,16 @@
    "flags": {
     "conflict": false
    },
-   "id": "dd577cfe1b06",
+   "id": "af03e2f412b5",
    "kind": "seminar",
    "lessonKey": "05ae32844af2",
    "pair": 1,
-   "raw": "СЗ СЕТЕВАЯ ЭКОНОМИКА 1,4 гр. Устюжанина Е.В. 302",
+   "raw": "СЗ СЕТЕВАЯ ЭКОНОМИКА 2,3 гр. Устюжанина Е.В. 302",
    "segments": [
     {
      "groups": [
-      1,
-      4
+      2,
+      3
      ],
      "room": "302",
      "subgroup": "",
@@ -743,18 +743,18 @@
    "date": "2026-09-11",
    "end": "12:10",
    "flags": {
-    "conflict": true
+    "conflict": false
    },
-   "id": "1ebe5f09f7ba",
+   "id": "94d3e8255b0d",
    "kind": "seminar",
    "lessonKey": "c0a517640dfc",
    "pair": 2,
-   "raw": "СЗ СЕТЕВАЯ ЭКОНОМИКА 2,3 гр. Устюжанина Е.В. 302",
+   "raw": "СЗ СЕТЕВАЯ ЭКОНОМИКА 1,4гр. Устюжанина Е.В. 302",
    "segments": [
     {
      "groups": [
-      2,
-      3
+      1,
+      4
      ],
      "room": "302",
      "subgroup": "",
@@ -772,7 +772,7 @@
    "date": "2026-09-11",
    "end": "12:10",
    "flags": {
-    "conflict": true
+    "conflict": false
    },
    "id": "a7627c8efc48",
    "kind": "seminar",
@@ -3111,20 +3111,11 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "EAD8788C41A9114A5A24929C39D286B300B95794",
-  "mtime": 1788961705,
+  "hash": "ABA80D3B8DDED1229234EE72277374FD2C279D34",
+  "mtime": 1789032272,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
  },
- "warnings": [
-  {
-   "cells": [
-    "L6",
-    "L7"
-   ],
-   "code": "conflict",
-   "message": "конфликт групп 2026-09-11 пара 2: группа 3 в двух парах"
-  }
- ]
+ "warnings": []
 }
