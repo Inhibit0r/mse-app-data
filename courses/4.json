@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-10T09:28:15+00:00",
+ "generatedAt": "2026-09-10T11:32:30+00:00",
  "groups": [
   1,
   2,
@@ -1520,34 +1520,6 @@
    "start": "14:10",
    "subject": "Экономическая политика",
    "subjectRaw": "ЭКОНОМИЧЕСКАЯ ПОЛИТИКА",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "S12",
-   "date": "2026-09-18",
-   "end": "17:15",
-   "flags": {
-    "conflict": false
-   },
-   "id": "b8be7124da75",
-   "kind": "seminar",
-   "lessonKey": "38e419a5d671",
-   "pair": 5,
-   "raw": "СЗ ТОР 3 гр. Аванесова И.Б. 402",
-   "segments": [
-    {
-     "groups": [
-      3
-     ],
-     "room": "402",
-     "subgroup": "",
-     "teacher": "Аванесова И.Б."
-    }
-   ],
-   "start": "15:45",
-   "subject": "Теория отраслевых рынков",
-   "subjectRaw": "ТОР",
    "timeOverride": false
   },
   {
@@ -3079,7 +3051,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 96,
+  "cells": 95,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -3111,8 +3083,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "ABA80D3B8DDED1229234EE72277374FD2C279D34",
-  "mtime": 1789032272,
+  "hash": "E9E1D1CB95C2FD867071ACB22674C6E6E72ED94B",
+  "mtime": 1789039821,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
