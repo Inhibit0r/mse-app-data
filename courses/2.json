@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-09-10T12:29:19+00:00",
+ "generatedAt": "2026-09-10T12:34:23+00:00",
  "groups": [
   1,
   2,
@@ -1796,19 +1796,19 @@
    "timeOverride": false
   },
   {
-   "audience": "groups",
+   "audience": "personal",
    "cell": "P14",
    "date": "2026-09-15",
    "end": null,
    "flags": {
-    "conflict": true,
+    "conflict": false,
     "noTime": true
    },
-   "id": "d8922ddb37b5",
-   "kind": "other",
-   "lessonKey": "0decb6a41ed3",
+   "id": "d786862fbbe5",
+   "kind": "commission",
+   "lessonKey": "9b97031a36d1",
    "pair": 1,
-   "raw": "Эк. информатика 15:45 1 гр. Хизгияев С.В. 303 17:20 2,3,4 гр. Колпаков Д.В.303",
+   "raw": "Комиссия за зиму Эк. информатика 15:45 1 гр. Хизгияев С.В. 303 17:20 2,3,4 гр. Колпаков Д.В.303",
    "segments": [
     {
      "groups": [
@@ -1840,7 +1840,7 @@
    "date": "2026-09-15",
    "end": "10:30",
    "flags": {
-    "conflict": true
+    "conflict": false
    },
    "id": "f08f7d268d91",
    "kind": "seminar",
@@ -1869,7 +1869,7 @@
    "date": "2026-09-15",
    "end": "10:30",
    "flags": {
-    "conflict": true
+    "conflict": false
    },
    "id": "8974b8caf5a9",
    "kind": "seminar",
@@ -5048,8 +5048,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "003A929BFA25879ABFE7D6310713472CE07559C8",
-  "mtime": 1789043241,
+  "hash": "57EC992944F4E7A1093992BE607232DD97712F23",
+  "mtime": 1789043614,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "sheet": "2 курс_СЕНТЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
@@ -5061,30 +5061,6 @@
    ],
    "code": "no_time",
    "message": "событие без времени в ячейке P14 (2026-09-15)"
-  },
-  {
-   "cells": [
-    "P14",
-    "P4"
-   ],
-   "code": "conflict",
-   "message": "конфликт групп 2026-09-15 пара 1: группа 1 в двух парах"
-  },
-  {
-   "cells": [
-    "P14",
-    "P4"
-   ],
-   "code": "conflict",
-   "message": "конфликт групп 2026-09-15 пара 1: группа 3 в двух парах"
-  },
-  {
-   "cells": [
-    "P14",
-    "P5"
-   ],
-   "code": "conflict",
-   "message": "конфликт групп 2026-09-15 пара 1: группа 2 в двух парах"
   }
  ]
 }
