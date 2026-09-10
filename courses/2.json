@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-09-10T12:39:33+00:00",
+ "generatedAt": "2026-09-10T12:49:49+00:00",
  "groups": [
   1,
   2,
@@ -2404,6 +2404,32 @@
    "subject": "Межфакультетские курсы",
    "subjectRaw": "",
    "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "Q14",
+   "date": "2026-09-16",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "87a632bacf24",
+   "kind": "commission",
+   "lessonKey": "de489b8af94e",
+   "pair": 5,
+   "raw": "15:45 Комиссия за зиму Линейная алгебра Мироненков А.А. Пепа Р.Ю. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Мироненков А.А., Пепа Р.Ю."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Линейная алгебра",
+   "subjectRaw": "Линейная алгебра",
+   "timeOverride": true
   },
   {
    "audience": "groups",
@@ -5042,7 +5068,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 149,
+  "cells": 150,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -5074,8 +5100,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "FA3836285CA520053F748B4D75450DAA3EA813AF",
-  "mtime": 1789043710,
+  "hash": "C88766065F993EB0EBFEECC2BAE79B2C02A9617C",
+  "mtime": 1789044555,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "sheet": "2 курс_СЕНТЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
