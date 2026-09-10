@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-09-10T12:34:23+00:00",
+ "generatedAt": "2026-09-10T12:39:33+00:00",
  "groups": [
   1,
   2,
@@ -1794,6 +1794,32 @@
    "subject": "Русский язык для иностранцев",
    "subjectRaw": "",
    "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "O14",
+   "date": "2026-09-14",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "0ad98999dd10",
+   "kind": "commission",
+   "lessonKey": "634acf871623",
+   "pair": 5,
+   "raw": "15:45 Комиссия за зиму Линейная алгебра Мироненков А.А. Пепа Р.Ю. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Мироненков А.А., Пепа Р.Ю."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Линейная алгебра",
+   "subjectRaw": "Линейная алгебра",
+   "timeOverride": true
   },
   {
    "audience": "personal",
@@ -5016,7 +5042,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 148,
+  "cells": 149,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -5048,8 +5074,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "57EC992944F4E7A1093992BE607232DD97712F23",
-  "mtime": 1789043614,
+  "hash": "FA3836285CA520053F748B4D75450DAA3EA813AF",
+  "mtime": 1789043710,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "sheet": "2 курс_СЕНТЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
