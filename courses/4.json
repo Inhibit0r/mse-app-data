@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-10T11:32:30+00:00",
+ "generatedAt": "2026-09-10T13:10:39+00:00",
  "groups": [
   1,
   2,
@@ -1142,11 +1142,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "1c45512a2f4c",
+   "id": "f7d68967631a",
    "kind": "seminar",
    "lessonKey": "d4bd38285863",
    "pair": 2,
-   "raw": "СЗ ТОР 1 гр. Селезнев А.И. 315 4гр. Аванесова И.Б. 418",
+   "raw": "СЗ ТОР 1 гр. Селезнев А.И. 315 4гр. Аванесова И.Б. 417",
    "segments": [
     {
      "groups": [
@@ -1160,7 +1160,7 @@
      "groups": [
       4
      ],
-     "room": "418",
+     "room": "417",
      "subgroup": "",
      "teacher": "Аванесова И.Б."
     }
@@ -1178,17 +1178,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "ecec0b8f2e8e",
+   "id": "edc086ddcbee",
    "kind": "seminar",
    "lessonKey": "3b98911f8f92",
    "pair": 3,
-   "raw": "СЗ ТОР 2 гр. Аванесова И.Б. 418",
+   "raw": "СЗ ТОР 2 гр. Аванесова И.Б. 417",
    "segments": [
     {
      "groups": [
       2
      ],
-     "room": "418",
+     "room": "417",
      "subgroup": "",
      "teacher": "Аванесова И.Б."
     }
@@ -1310,15 +1310,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "581e5287f038",
+   "id": "9ee2bd44dfd6",
    "kind": "lecture",
    "lessonKey": "b1d5d276d76e",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Потапенко В.В. 113",
+   "raw": "ЛЕКЦИЯ СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Потапенко В.В. 417",
    "segments": [
     {
      "groups": [],
-     "room": "113",
+     "room": "417",
      "subgroup": "",
      "teacher": "Потапенко В.В."
     }
@@ -1336,18 +1336,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "b8913dc14627",
+   "id": "dea0a36759a2",
    "kind": "seminar",
    "lessonKey": "bca9d855d41a",
    "pair": 4,
-   "raw": "СЗ ЭКОНОМИКА ТРУДА 1,4 гр. Починкин Д.В. 404",
+   "raw": "СЗ ЭКОНОМИКА ТРУДА 1,4 гр. Починкин Д.В. 113",
    "segments": [
     {
      "groups": [
       1,
       4
      ],
-     "room": "404",
+     "room": "113",
      "subgroup": "",
      "teacher": "Починкин Д.В."
     }
@@ -1365,18 +1365,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "31079622595f",
+   "id": "24547a3ed429",
    "kind": "seminar",
    "lessonKey": "0aea46f645f9",
    "pair": 4,
-   "raw": "СЗ АНАЛИЗ - II 2,3 гр. Пепа Р.Ю. 405",
+   "raw": "СЗ АНАЛИЗ - II 2,3 гр. Пепа Р.Ю. 418",
    "segments": [
     {
      "groups": [
       2,
       3
      ],
-     "room": "405",
+     "room": "418",
      "subgroup": "",
      "teacher": "Пепа Р.Ю."
     }
@@ -1394,18 +1394,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "2546d687210f",
+   "id": "6910422c0fa0",
    "kind": "seminar",
    "lessonKey": "dc97c11a44fa",
    "pair": 5,
-   "raw": "СЗ ЭКОНОМИКА ТРУДА 2,3 гр. Починкин Д.В. 404",
+   "raw": "СЗ ЭКОНОМИКА ТРУДА 2,3 гр. Починкин Д.В. 113",
    "segments": [
     {
      "groups": [
       2,
       3
      ],
-     "room": "404",
+     "room": "113",
      "subgroup": "",
      "teacher": "Починкин Д.В."
     }
@@ -1423,18 +1423,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "7fd7852064cc",
+   "id": "66b12561b926",
    "kind": "seminar",
    "lessonKey": "648e7a850f2c",
    "pair": 5,
-   "raw": "СЗ АНАЛИЗ - II 1,4 гр. Пепа Р.Ю. 405",
+   "raw": "СЗ АНАЛИЗ - II 1,4 гр. Пепа Р.Ю. 418",
    "segments": [
     {
      "groups": [
       1,
       4
      ],
-     "room": "405",
+     "room": "418",
      "subgroup": "",
      "teacher": "Пепа Р.Ю."
     }
@@ -3083,8 +3083,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "E9E1D1CB95C2FD867071ACB22674C6E6E72ED94B",
-  "mtime": 1789039821,
+  "hash": "F7EDAA9B0CAFBF68C649A93CE7A3D3CF5610A25A",
+  "mtime": 1789045746,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
