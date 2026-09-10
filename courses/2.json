@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-09-10T10:14:46+00:00",
+ "generatedAt": "2026-09-10T12:08:47+00:00",
  "groups": [
   1,
   2,
@@ -2937,32 +2937,6 @@
    "timeOverride": false
   },
   {
-   "audience": "stream",
-   "cell": "V10",
-   "date": "2026-09-21",
-   "end": "15:40",
-   "flags": {
-    "conflict": false
-   },
-   "id": "71299ae91708",
-   "kind": "lecture",
-   "lessonKey": "be485608d295",
-   "pair": 4,
-   "raw": "ЛЕКЦИЯ ЭКОНОМИКА ПРИРОДОПОЛЬЗОВАНИЯ Никоноров С.М. 113",
-   "segments": [
-    {
-     "groups": [],
-     "room": "113",
-     "subgroup": "",
-     "teacher": "Никоноров С.М."
-    }
-   ],
-   "start": "14:10",
-   "subject": "Экономика природопользования",
-   "subjectRaw": "ЭКОНОМИКА ПРИРОДОПОЛЬЗОВАНИЯ",
-   "timeOverride": false
-  },
-  {
    "audience": "personal",
    "cell": "V12",
    "date": "2026-09-21",
@@ -3409,42 +3383,6 @@
   },
   {
    "audience": "groups",
-   "cell": "X7",
-   "date": "2026-09-23",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "39c8f9386855",
-   "kind": "seminar",
-   "lessonKey": "26e30b5c69a6",
-   "pair": 2,
-   "raw": "СЗ ЭК.ПРИРОДОПОЛЬ-ИЯ 3 гр. Никоноров С.М. 302 4гр. Лобанова Е.О.",
-   "segments": [
-    {
-     "groups": [
-      3
-     ],
-     "room": "302",
-     "subgroup": "",
-     "teacher": "Никоноров С.М."
-    },
-    {
-     "groups": [
-      4
-     ],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Лобанова Е."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Экономика природопользования",
-   "subjectRaw": "ЭК.ПРИРОДОПОЛЬ-ИЯ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
    "cell": "X8",
    "date": "2026-09-23",
    "end": "13:55",
@@ -3469,42 +3407,6 @@
    "start": "12:25",
    "subject": "Философия",
    "subjectRaw": "ФИЛОСОФИЯ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "X9",
-   "date": "2026-09-23",
-   "end": "13:55",
-   "flags": {
-    "conflict": false
-   },
-   "id": "9c9dca57fa37",
-   "kind": "seminar",
-   "lessonKey": "e3abf5c7a7e1",
-   "pair": 3,
-   "raw": "СЗ ЭК.ПРИРОДОПОЛЬ-ИЯ 1 гр. Никоноров С.М. 302 2гр. Лобанова Е.О.",
-   "segments": [
-    {
-     "groups": [
-      1
-     ],
-     "room": "302",
-     "subgroup": "",
-     "teacher": "Никоноров С.М."
-    },
-    {
-     "groups": [
-      2
-     ],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Лобанова Е."
-    }
-   ],
-   "start": "12:25",
-   "subject": "Экономика природопользования",
-   "subjectRaw": "ЭК.ПРИРОДОПОЛЬ-ИЯ",
    "timeOverride": false
   },
   {
@@ -4104,32 +4006,6 @@
    "timeOverride": false
   },
   {
-   "audience": "stream",
-   "cell": "AC10",
-   "date": "2026-09-28",
-   "end": "15:40",
-   "flags": {
-    "conflict": false
-   },
-   "id": "61f302ecdc3b",
-   "kind": "lecture",
-   "lessonKey": "f08df5daaf2d",
-   "pair": 4,
-   "raw": "ЛЕКЦИЯ ЭКОНОМИКА ПРИРОДОПОЛЬЗОВАНИЯ Никоноров С.М. 113",
-   "segments": [
-    {
-     "groups": [],
-     "room": "113",
-     "subgroup": "",
-     "teacher": "Никоноров С.М."
-    }
-   ],
-   "start": "14:10",
-   "subject": "Экономика природопользования",
-   "subjectRaw": "ЭКОНОМИКА ПРИРОДОПОЛЬЗОВАНИЯ",
-   "timeOverride": false
-  },
-  {
    "audience": "personal",
    "cell": "AC12",
    "date": "2026-09-28",
@@ -4542,42 +4418,6 @@
   },
   {
    "audience": "groups",
-   "cell": "AE7",
-   "date": "2026-09-30",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "20bb544cc016",
-   "kind": "seminar",
-   "lessonKey": "52031666109c",
-   "pair": 2,
-   "raw": "СЗ ЭК.ПРИРОДОПОЛЬ-ИЯ 3 гр. Никоноров С.М. 402 4гр. Лобанова Е.О. 404",
-   "segments": [
-    {
-     "groups": [
-      3
-     ],
-     "room": "402",
-     "subgroup": "",
-     "teacher": "Никоноров С.М."
-    },
-    {
-     "groups": [
-      4
-     ],
-     "room": "404",
-     "subgroup": "",
-     "teacher": "Лобанова Е.О."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Экономика природопользования",
-   "subjectRaw": "ЭК.ПРИРОДОПОЛЬ-ИЯ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
    "cell": "AE8",
    "date": "2026-09-30",
    "end": "13:55",
@@ -4610,42 +4450,6 @@
    "start": "12:25",
    "subject": "Философия",
    "subjectRaw": "ФИЛОСОФИЯ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "AE9",
-   "date": "2026-09-30",
-   "end": "13:55",
-   "flags": {
-    "conflict": false
-   },
-   "id": "8e204831e664",
-   "kind": "seminar",
-   "lessonKey": "13e706810193",
-   "pair": 3,
-   "raw": "СЗ ЭК.ПРИРОДОПОЛЬ-ИЯ 1 гр. Никоноров С.М. 113 2гр. Лобанова Е.О. 302",
-   "segments": [
-    {
-     "groups": [
-      1
-     ],
-     "room": "113",
-     "subgroup": "",
-     "teacher": "Никоноров С.М."
-    },
-    {
-     "groups": [
-      2
-     ],
-     "room": "302",
-     "subgroup": "",
-     "teacher": "Лобанова Е.О."
-    }
-   ],
-   "start": "12:25",
-   "subject": "Экономика природопользования",
-   "subjectRaw": "ЭК.ПРИРОДОПОЛЬ-ИЯ",
    "timeOverride": false
   },
   {
@@ -5173,7 +4977,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 153,
+  "cells": 147,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -5205,8 +5009,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "BA8519D8CDF7B34BE5D95F678C9D8577F843D194",
-  "mtime": 1789035139,
+  "hash": "CF3FD959138D04DA1D2D0C76DE41C5A55D746A69",
+  "mtime": 1789041950,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "sheet": "2 курс_СЕНТЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
