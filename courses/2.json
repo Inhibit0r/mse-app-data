@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-09-09T09:48:45+00:00",
+ "generatedAt": "2026-09-10T10:14:46+00:00",
  "groups": [
   1,
   2,
@@ -3320,6 +3320,32 @@
    "timeOverride": true
   },
   {
+   "audience": "personal",
+   "cell": "W14",
+   "date": "2026-09-22",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "a065d4bc5fa0",
+   "kind": "commission",
+   "lessonKey": "99a9dba015f9",
+   "pair": 5,
+   "raw": "15:45 Комиссия за зиму Английский язык Сахарова А.Б. 314",
+   "segments": [
+    {
+     "groups": [],
+     "room": "314",
+     "subgroup": "",
+     "teacher": "Сахарова А.Б."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Английский язык",
+   "subjectRaw": "Английский язык",
+   "timeOverride": true
+  },
+  {
    "audience": "stream",
    "cell": "X4",
    "date": "2026-09-23",
@@ -5147,7 +5173,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 152,
+  "cells": 153,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -5179,8 +5205,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "37DA7C4CD3DC115C5A089D232B5812D6096D9EF4",
-  "mtime": 1788947053,
+  "hash": "BA8519D8CDF7B34BE5D95F678C9D8577F843D194",
+  "mtime": 1789035139,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "sheet": "2 курс_СЕНТЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
