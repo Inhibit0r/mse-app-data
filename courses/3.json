@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-09-10T08:21:06+00:00",
+ "generatedAt": "2026-09-10T13:00:07+00:00",
  "groups": [
   1,
   2,
@@ -1917,6 +1917,34 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "P14",
+   "date": "2026-09-15",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "db2cd606cbb4",
+   "kind": "commission",
+   "lessonKey": "ac9c5fdbf3bc",
+   "pair": 5,
+   "raw": "15:45 Комиссия за зиму СМАД 1гр. Хизгияев С.В. 303",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "303",
+     "subgroup": "",
+     "teacher": "Хизгияев С.В."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Статистические методы анализа данных",
+   "subjectRaw": "СМАД",
+   "timeOverride": true
+  },
+  {
    "audience": "stream",
    "cell": "Q4",
    "date": "2026-09-16",
@@ -2168,15 +2196,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "465eb73e0137",
+   "id": "1005e9ce0cfe",
    "kind": "lecture",
    "lessonKey": "1d04490043ed",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА Кукушкин Д.С. 302",
+   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА Кукушкин Д.С. 308",
    "segments": [
     {
      "groups": [],
-     "room": "302",
+     "room": "308",
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     }
@@ -4469,7 +4497,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 133,
+  "cells": 134,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -4501,8 +4529,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "D88F53B607C18C139F883A3CF2189B61F012EA36",
-  "mtime": 1789028395,
+  "hash": "C9224F72E3EAC7ABF3B00D6CAF32E56CEF743381",
+  "mtime": 1789045164,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "sheet": "3 курс_СЕНТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
