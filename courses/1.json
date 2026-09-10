@@ -1,6 +1,6 @@
 {
  "course": 1,
- "generatedAt": "2026-09-10T14:17:50+00:00",
+ "generatedAt": "2026-09-10T17:38:49+00:00",
  "groups": [
   1,
   2,
@@ -1261,6 +1261,32 @@
    "subject": "Экономическая информатика I",
    "subjectRaw": "ЭК.ИНФОРМАТИКА-I",
    "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "L10",
+   "date": "2026-09-11",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "631323b676b8",
+   "kind": "pe",
+   "lessonKey": "fac2b9002cc7",
+   "pair": 4,
+   "raw": "14:50 ФИЗИЧЕСКАЯ КУЛЬТУРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "14:50",
+   "subject": "Физическая культура",
+   "subjectRaw": "",
+   "timeOverride": true
   },
   {
    "audience": "stream",
@@ -4185,7 +4211,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 128,
+  "cells": 129,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -4217,8 +4243,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "11BE0BB0B5E3DCE121A9031FE3BB9691C7817240",
-  "mtime": 1789049786,
+  "hash": "B54078344AA79D72FE41F29D720AE56414727C10",
+  "mtime": 1789061727,
   "name": "1_курс_Бакалавриат_2026.xlsx",
   "sheet": "1 курс_СЕНТЯБРЬ_26",
   "weblink": "zXBY/Ti1JkH8ip"
