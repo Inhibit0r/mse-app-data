@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-09-11T10:58:01+00:00",
+ "generatedAt": "2026-09-11T11:49:37+00:00",
  "groups": [
   1,
   2,
@@ -3475,6 +3475,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "AA14",
+   "date": "2026-09-26",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "42455d3e829a",
+   "kind": "commission",
+   "lessonKey": "9f881b1f0e99",
+   "pair": 2,
+   "raw": "12:10 Комиссия за зиму Дифференциальные уравнения и динамические системы Павлова Н.Г. 405",
+   "segments": [
+    {
+     "groups": [],
+     "room": "405",
+     "subgroup": "",
+     "teacher": "Павлова Н.Г."
+    }
+   ],
+   "start": "12:10",
+   "subject": "Дифференциальные уравнения и динамические системы",
+   "subjectRaw": "Дифференциальные уравнения и динамические системы",
+   "timeOverride": true
+  },
+  {
    "audience": "groups",
    "cell": "AA6",
    "date": "2026-09-26",
@@ -4601,7 +4627,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 138,
+  "cells": 139,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -4633,8 +4659,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "B7996F55D88708ACC26DECA7D2073F06FDB7FEA0",
-  "mtime": 1789124142,
+  "hash": "C9F00E2E00BA9C7621B199A6935B697A3F7A9154",
+  "mtime": 1789127302,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "sheet": "3 курс_СЕНТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
