@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-09-10T13:15:49+00:00",
+ "generatedAt": "2026-09-11T08:01:19+00:00",
  "groups": [
   1,
   2,
@@ -2945,6 +2945,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "W14",
+   "date": "2026-09-22",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "177e8796f482",
+   "kind": "commission",
+   "lessonKey": "54dec62b7280",
+   "pair": 6,
+   "raw": "17:20 Комиссия за зиму у кого были справки Микроэкономика - I Кукушкин Д.С. Малютина О.С. Починкин Д.В.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Кукушкин Д.С., Малютина О.С., Починкин Д."
+    }
+   ],
+   "start": "17:20",
+   "subject": "У кого были справки микроэкономика - I в",
+   "subjectRaw": "у кого были справки Микроэкономика - I В",
+   "timeOverride": true
+  },
+  {
    "audience": "stream",
    "cell": "X4",
    "date": "2026-09-23",
@@ -3393,6 +3419,32 @@
    "subject": "Военная кафедра",
    "subjectRaw": "",
    "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "Z14",
+   "date": "2026-09-25",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "72271ce52f2f",
+   "kind": "commission",
+   "lessonKey": "e92bcefc2aa9",
+   "pair": 5,
+   "raw": "15:45 Комиссия за зиму ТВИМС Курбацкий А.Н. Тарновская П.И.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Курбацкий А.Н., Тарновская П."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Твимс и",
+   "subjectRaw": "ТВИМС И",
+   "timeOverride": true
   },
   {
    "audience": "groups",
@@ -3959,6 +4011,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "AD14",
+   "date": "2026-09-29",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "6eb4bc613ba3",
+   "kind": "commission",
+   "lessonKey": "0e5667dbd42c",
+   "pair": 6,
+   "raw": "17:20 Комиссия за зиму для всех Микроэкономика - I Кукушкин Д.С. Малютина О.С. Починкин Д.В.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Кукушкин Д.С., Малютина О.С., Починкин Д."
+    }
+   ],
+   "start": "17:20",
+   "subject": "Для всех микроэкономика - I в",
+   "subjectRaw": "для всех Микроэкономика - I В",
+   "timeOverride": true
+  },
+  {
    "audience": "stream",
    "cell": "AE4",
    "date": "2026-09-30",
@@ -4523,7 +4601,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 135,
+  "cells": 138,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -4555,8 +4633,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "15C40C5AB9CC9FABAEC628E59540E6E99E8B0639",
-  "mtime": 1789046118,
+  "hash": "E182460C9E98CE5E7C673EEF073240EFAD80F538",
+  "mtime": 1789113672,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "sheet": "3 курс_СЕНТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"

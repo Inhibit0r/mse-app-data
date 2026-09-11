@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-10T13:15:49+00:00",
+ "generatedAt": "2026-09-11T08:01:19+00:00",
  "groups": [
   1,
   2,
@@ -1284,17 +1284,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "cb0b37fe5f04",
+   "id": "b6762a1cc58a",
    "kind": "lecture",
    "lessonKey": "350f2d81baaa",
    "pair": 2,
-   "raw": "ЛЕКЦИЯ СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Потапенко В.В. 113",
+   "raw": "ЛЕКЦИЯ СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Устинов В.С. 113",
    "segments": [
     {
      "groups": [],
      "room": "113",
      "subgroup": "",
-     "teacher": "Потапенко В.В."
+     "teacher": "Устинов В.С."
     }
    ],
    "start": "10:40",
@@ -1310,17 +1310,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "581e5287f038",
-   "kind": "lecture",
-   "lessonKey": "b1d5d276d76e",
+   "id": "9b4425a03a5d",
+   "kind": "seminar",
+   "lessonKey": "23b1950f4ace",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Потапенко В.В. 113",
+   "raw": "СЗ СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Устинов В.С. 113",
    "segments": [
     {
      "groups": [],
      "room": "113",
      "subgroup": "",
-     "teacher": "Потапенко В.В."
+     "teacher": "Устинов В.С."
     }
    ],
    "start": "12:25",
@@ -1757,6 +1757,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "W14",
+   "date": "2026-09-22",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "177e8796f482",
+   "kind": "commission",
+   "lessonKey": "54dec62b7280",
+   "pair": 6,
+   "raw": "17:20 Комиссия за зиму у кого были справки Микроэкономика - I Кукушкин Д.С. Малютина О.С. Починкин Д.В.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Кукушкин Д.С., Малютина О.С., Починкин Д."
+    }
+   ],
+   "start": "17:20",
+   "subject": "У кого были справки микроэкономика - I в",
+   "subjectRaw": "у кого были справки Микроэкономика - I В",
+   "timeOverride": true
+  },
+  {
    "audience": "groups",
    "cell": "X6",
    "date": "2026-09-23",
@@ -1932,17 +1958,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "b2df14a34959",
+   "id": "289d6dfd60b1",
    "kind": "lecture",
    "lessonKey": "ffa87a6cc8f7",
    "pair": 2,
-   "raw": "ЛЕКЦИЯ СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Устинов В.С. 302",
+   "raw": "ЛЕКЦИЯ СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Потапенко В.В. 113",
    "segments": [
     {
      "groups": [],
-     "room": "302",
+     "room": "113",
      "subgroup": "",
-     "teacher": "Устинов В.С."
+     "teacher": "Потапенко В.В."
     }
    ],
    "start": "10:40",
@@ -1958,17 +1984,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "8b232e3d6ede",
-   "kind": "seminar",
-   "lessonKey": "865b62f0c38a",
+   "id": "4236d811f3b9",
+   "kind": "lecture",
+   "lessonKey": "3108e5be141d",
    "pair": 3,
-   "raw": "СЗ СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Устинов В.С. 302",
+   "raw": "ЛЕКЦИЯ СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Потапенко В.В. 113",
    "segments": [
     {
      "groups": [],
-     "room": "302",
+     "room": "113",
      "subgroup": "",
-     "teacher": "Устинов В.С."
+     "teacher": "Потапенко В.В."
     }
    ],
    "start": "12:25",
@@ -2493,6 +2519,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "AD14",
+   "date": "2026-09-29",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "6eb4bc613ba3",
+   "kind": "commission",
+   "lessonKey": "0e5667dbd42c",
+   "pair": 6,
+   "raw": "17:20 Комиссия за зиму для всех Микроэкономика - I Кукушкин Д.С. Малютина О.С. Починкин Д.В.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Кукушкин Д.С., Малютина О.С., Починкин Д."
+    }
+   ],
+   "start": "17:20",
+   "subject": "Для всех микроэкономика - I в",
+   "subjectRaw": "для всех Микроэкономика - I В",
+   "timeOverride": true
+  },
+  {
    "audience": "stream",
    "cell": "AE4",
    "date": "2026-09-30",
@@ -2726,17 +2778,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "8758d3d1c854",
+   "id": "17d21e7a954c",
    "kind": "lecture",
    "lessonKey": "d903ff98df48",
    "pair": 2,
-   "raw": "ЛЕКЦИЯ СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Потапенко В.В. 113",
+   "raw": "ЛЕКЦИЯ СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Устинов В.С. 113",
    "segments": [
     {
      "groups": [],
      "room": "113",
      "subgroup": "",
-     "teacher": "Потапенко В.В."
+     "teacher": "Устинов В.С."
     }
    ],
    "start": "10:40",
@@ -2752,17 +2804,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "21b243e19a6a",
-   "kind": "lecture",
-   "lessonKey": "1bc8bfffe689",
+   "id": "f46711285810",
+   "kind": "seminar",
+   "lessonKey": "867ee30f900d",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Потапенко В.В. 113",
+   "raw": "СЗ СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Устинов В.С. 113",
    "segments": [
     {
      "groups": [],
      "room": "113",
      "subgroup": "",
-     "teacher": "Потапенко В.В."
+     "teacher": "Устинов В.С."
     }
    ],
    "start": "12:25",
@@ -3051,7 +3103,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 95,
+  "cells": 97,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -3083,8 +3135,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "4BCED36250A1185A44EC40EF27AB40B849BDC298",
-  "mtime": 1789046134,
+  "hash": "3BA7FF4D218E94FDF11D597F550C17D1B8CB46FA",
+  "mtime": 1789113551,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
