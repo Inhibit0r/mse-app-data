@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-09-11T12:05:08+00:00",
+ "generatedAt": "2026-09-11T12:20:49+00:00",
  "groups": [
   1,
   2,
@@ -4285,6 +4285,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "AE14",
+   "date": "2026-09-30",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "aeea16c08eaa",
+   "kind": "commission",
+   "lessonKey": "f7998b92dcfd",
+   "pair": 5,
+   "raw": "15:45 Комиссия за зиму Английский язык Ильина Г.А. Шмараева А.А. 315",
+   "segments": [
+    {
+     "groups": [],
+     "room": "315",
+     "subgroup": "",
+     "teacher": "Ильина Г.А., Шмараева А.А."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Английский язык",
+   "subjectRaw": "Английский язык",
+   "timeOverride": true
+  },
+  {
    "audience": "groups",
    "cell": "AF6",
    "date": "2026-10-01",
@@ -4627,7 +4653,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 139,
+  "cells": 140,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -4659,8 +4685,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "AD06B48CCE38D314A4EA4306087B71A64A93FEC5",
-  "mtime": 1789128130,
+  "hash": "590B1DA53A0D8F74DA5FDF6F3D04400D8C5F6C62",
+  "mtime": 1789129236,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "sheet": "3 курс_СЕНТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
