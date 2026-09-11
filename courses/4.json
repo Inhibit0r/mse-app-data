@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-11T08:01:19+00:00",
+ "generatedAt": "2026-09-11T10:58:01+00:00",
  "groups": [
   1,
   2,
@@ -1576,6 +1576,32 @@
   },
   {
    "audience": "personal",
+   "cell": "T14",
+   "date": "2026-09-19",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "d8dbb88bad40",
+   "kind": "commission",
+   "lessonKey": "014f000ef2e3",
+   "pair": 5,
+   "raw": "15:45 Комиссия за зиму Налоги и налогообложение Наумова Т.А. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Наумова Т.А."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Налоги и налогообложение",
+   "subjectRaw": "Налоги и налогообложение",
+   "timeOverride": true
+  },
+  {
+   "audience": "personal",
    "cell": "V4",
    "date": "2026-09-21",
    "end": "10:30",
@@ -3103,7 +3129,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 97,
+  "cells": 98,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -3135,8 +3161,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "3BA7FF4D218E94FDF11D597F550C17D1B8CB46FA",
-  "mtime": 1789113551,
+  "hash": "04CBDD7406949B58D09135BD19BBFEAF2CBCF0BC",
+  "mtime": 1789124080,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
