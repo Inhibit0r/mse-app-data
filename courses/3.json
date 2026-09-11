@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-09-11T08:01:19+00:00",
+ "generatedAt": "2026-09-11T08:06:39+00:00",
  "groups": [
   1,
   2,
@@ -3428,22 +3428,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "72271ce52f2f",
+   "id": "a68dfa1796d3",
    "kind": "commission",
-   "lessonKey": "e92bcefc2aa9",
+   "lessonKey": "d142132a72c5",
    "pair": 5,
-   "raw": "15:45 Комиссия за зиму ТВИМС Курбацкий А.Н. Тарновская П.И.",
+   "raw": "15:45 Комиссия за зиму ТВИМС Курбацкий А.Н. Тарновская П.И. Бадулина Н.А.",
    "segments": [
     {
      "groups": [],
      "room": null,
      "subgroup": "",
-     "teacher": "Курбацкий А.Н., Тарновская П."
+     "teacher": "Курбацкий А.Н., Тарновская П.И., Бадулина Н."
     }
    ],
    "start": "15:45",
-   "subject": "Твимс и",
-   "subjectRaw": "ТВИМС И",
+   "subject": "Твимс а",
+   "subjectRaw": "ТВИМС А",
    "timeOverride": true
   },
   {
@@ -4633,8 +4633,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "E182460C9E98CE5E7C673EEF073240EFAD80F538",
-  "mtime": 1789113672,
+  "hash": "5D0CB5FF2E3F5CA9F9477972BD2A1D6EFCF65796",
+  "mtime": 1789113698,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "sheet": "3 курс_СЕНТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
