@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-09-14T08:43:49+00:00",
+ "generatedAt": "2026-09-14T11:39:20+00:00",
  "groups": [
   1,
   2,
@@ -2407,6 +2407,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "T14",
+   "date": "2026-09-19",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "039a8384361e",
+   "kind": "commission",
+   "lessonKey": "f05da1e78b4f",
+   "pair": 1,
+   "raw": "09.00 Комиссия за зиму Экономика природопользования Никоноров С.М.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Никоноров С."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Экономика природопользования м",
+   "subjectRaw": "Экономика природопользования М",
+   "timeOverride": true
+  },
+  {
    "audience": "groups",
    "cell": "T5",
    "date": "2026-09-19",
@@ -4653,7 +4679,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 140,
+  "cells": 141,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -4685,8 +4711,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "C12D14DC8C14A34DD6ED93B262F54625EAF8CD90",
-  "mtime": 1789375192,
+  "hash": "A9F02B90FE4CB767BCC80BEB9720725774E7C695",
+  "mtime": 1789385914,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "sheet": "3 курс_СЕНТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
