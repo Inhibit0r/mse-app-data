@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-14T09:35:19+00:00",
+ "generatedAt": "2026-09-14T09:50:49+00:00",
  "groups": [
   1,
   2,
@@ -1135,33 +1135,6 @@
    "timeOverride": false
   },
   {
-   "audience": "stream",
-   "cell": "Q14",
-   "date": "2026-09-16",
-   "end": null,
-   "flags": {
-    "conflict": false,
-    "noTime": true
-   },
-   "id": "4cf836339f55",
-   "kind": "other",
-   "lessonKey": "46b18a2ff01d",
-   "pair": 1,
-   "raw": "Эконометрическая практика Мироненков А.А., Тарновская П.И.",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Мироненков А.А."
-    }
-   ],
-   "start": null,
-   "subject": "Эконометрическая практика",
-   "subjectRaw": "Эконометрическая практика",
-   "timeOverride": false
-  },
-  {
    "audience": "groups",
    "cell": "Q6",
    "date": "2026-09-16",
@@ -1249,6 +1222,32 @@
    "start": "15:10",
    "subject": "Межфакультетские курсы",
    "subjectRaw": "",
+   "timeOverride": true
+  },
+  {
+   "audience": "personal",
+   "cell": "Q14",
+   "date": "2026-09-16",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "068820039c30",
+   "kind": "commission",
+   "lessonKey": "a68d099a434b",
+   "pair": 4,
+   "raw": "14:10 Комиссия за зиму Эконометрическая практика Курсовая работа по эконометрике Мироненков А.А., Тарновская П.И.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Мироненков А.А., Тарновская П."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Эконометрическая практика курсовая работа по эконометрике , и",
+   "subjectRaw": "Эконометрическая практика Курсовая работа по эконометрике , И",
    "timeOverride": true
   },
   {
@@ -3188,19 +3187,11 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "743ACEE9B45779A6EBDB20AFAB7B41FCCD179EB8",
-  "mtime": 1789378262,
+  "hash": "FE59785D463C661A00A2E02E42F9831897FE5E76",
+  "mtime": 1789379416,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
  },
- "warnings": [
-  {
-   "cells": [
-    "Q14"
-   ],
-   "code": "no_time",
-   "message": "событие без времени в ячейке Q14 (2026-09-16)"
-  }
- ]
+ "warnings": []
 }
