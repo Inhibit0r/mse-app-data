@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-14T09:50:49+00:00",
+ "generatedAt": "2026-09-14T11:29:19+00:00",
  "groups": [
   1,
   2,
@@ -1731,6 +1731,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "V14",
+   "date": "2026-09-21",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "d7490ad37cda",
+   "kind": "commission",
+   "lessonKey": "f4e432bb5453",
+   "pair": 6,
+   "raw": "17:20 Комиссия за зиму Экономика фирмы Лариошина Л.Ю. Варфаловский А.В. Попова Т.А.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Лариошина Л.Ю., Варфаловский А.В., Попова Т."
+    }
+   ],
+   "start": "17:20",
+   "subject": "Экономика фирмы а",
+   "subjectRaw": "Экономика фирмы А",
+   "timeOverride": true
+  },
+  {
    "audience": "stream",
    "cell": "W8",
    "date": "2026-09-22",
@@ -3155,7 +3181,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 99,
+  "cells": 100,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -3187,8 +3213,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "FE59785D463C661A00A2E02E42F9831897FE5E76",
-  "mtime": 1789379416,
+  "hash": "2C9EEB1312573A4B6A42AA5DA0E324C2E835669C",
+  "mtime": 1789385188,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
