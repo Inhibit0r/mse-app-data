@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-14T08:38:47+00:00",
+ "generatedAt": "2026-09-14T09:19:49+00:00",
  "groups": [
   1,
   2,
@@ -1530,15 +1530,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "7ad00f8ba773",
+   "id": "878c7334375b",
    "kind": "lecture",
    "lessonKey": "6197d0a37116",
    "pair": 2,
-   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА - II Пылин А.Г. 302",
+   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА - II Пылин А.Г. 417",
    "segments": [
     {
      "groups": [],
-     "room": "302",
+     "room": "417",
      "subgroup": "",
      "teacher": "Пылин А.Г."
     }
@@ -1556,15 +1556,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "64396b3c9796",
+   "id": "e728a877c8a9",
    "kind": "lecture",
    "lessonKey": "7bd98cc36b12",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА - II Пылин А.Г. 302",
+   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА - II Пылин А.Г. 417",
    "segments": [
     {
      "groups": [],
-     "room": "302",
+     "room": "417",
      "subgroup": "",
      "teacher": "Пылин А.Г."
     }
@@ -3161,8 +3161,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "D557540C8CDB2EDEA7DCB11E89EF5C8A2BBD2AF1",
-  "mtime": 1789374957,
+  "hash": "36FAE2D9C70E71513E36E4AA6D0DFE20D62595FF",
+  "mtime": 1789377370,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
