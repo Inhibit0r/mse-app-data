@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-09-14T12:36:29+00:00",
+ "generatedAt": "2026-09-15T11:20:55+00:00",
  "groups": [
   1,
   2,
@@ -2738,32 +2738,6 @@
    "timeOverride": false
   },
   {
-   "audience": "personal",
-   "cell": "R14",
-   "date": "2026-09-17",
-   "end": null,
-   "flags": {
-    "conflict": false
-   },
-   "id": "afdc5bd3bd13",
-   "kind": "commission",
-   "lessonKey": "506002da57e6",
-   "pair": 5,
-   "raw": "15:45 Комиссия за зиму Психология и экономическое поведение Белоусова В.В. 404",
-   "segments": [
-    {
-     "groups": [],
-     "room": "404",
-     "subgroup": "",
-     "teacher": "Белоусова В.В."
-    }
-   ],
-   "start": "15:45",
-   "subject": "Психология и экономическое поведение",
-   "subjectRaw": "Психология и экономическое поведение",
-   "timeOverride": true
-  },
-  {
    "audience": "stream",
    "cell": "S4",
    "date": "2026-09-18",
@@ -5158,7 +5132,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 154,
+  "cells": 153,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -5190,8 +5164,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "3F99F676C34591D37EDA80ADF0AF9891F6F62418",
-  "mtime": 1789389255,
+  "hash": "ED797EC389008DEE225E868C9B519AE5046E3F62",
+  "mtime": 1789471062,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "sheet": "2 курс_СЕНТЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
