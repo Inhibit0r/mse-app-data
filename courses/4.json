@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-15T11:26:09+00:00",
+ "generatedAt": "2026-09-15T12:02:22+00:00",
  "groups": [
   1,
   2,
@@ -1356,35 +1356,6 @@
   },
   {
    "audience": "groups",
-   "cell": "R10",
-   "date": "2026-09-17",
-   "end": "15:40",
-   "flags": {
-    "conflict": false
-   },
-   "id": "dea0a36759a2",
-   "kind": "seminar",
-   "lessonKey": "bca9d855d41a",
-   "pair": 4,
-   "raw": "СЗ ЭКОНОМИКА ТРУДА 1,4 гр. Починкин Д.В. 113",
-   "segments": [
-    {
-     "groups": [
-      1,
-      4
-     ],
-     "room": "113",
-     "subgroup": "",
-     "teacher": "Починкин Д.В."
-    }
-   ],
-   "start": "14:10",
-   "subject": "Экономика труда",
-   "subjectRaw": "ЭКОНОМИКА ТРУДА",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
    "cell": "R11",
    "date": "2026-09-17",
    "end": "15:40",
@@ -1410,35 +1381,6 @@
    "start": "14:10",
    "subject": "Анализ II",
    "subjectRaw": "АНАЛИЗ - II",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "R12",
-   "date": "2026-09-17",
-   "end": "17:15",
-   "flags": {
-    "conflict": false
-   },
-   "id": "6910422c0fa0",
-   "kind": "seminar",
-   "lessonKey": "dc97c11a44fa",
-   "pair": 5,
-   "raw": "СЗ ЭКОНОМИКА ТРУДА 2,3 гр. Починкин Д.В. 113",
-   "segments": [
-    {
-     "groups": [
-      2,
-      3
-     ],
-     "room": "113",
-     "subgroup": "",
-     "teacher": "Починкин Д.В."
-    }
-   ],
-   "start": "15:45",
-   "subject": "Экономика труда",
-   "subjectRaw": "ЭКОНОМИКА ТРУДА",
    "timeOverride": false
   },
   {
@@ -3233,7 +3175,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 102,
+  "cells": 100,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -3265,8 +3207,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "6D7E711678ED80557D662A0ACB3BD17C3C83CD6E",
-  "mtime": 1789471305,
+  "hash": "311EB2575AC280A80F3E03B9F9E16127276127FA",
+  "mtime": 1789473567,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
