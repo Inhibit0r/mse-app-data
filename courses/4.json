@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-15T11:20:55+00:00",
+ "generatedAt": "2026-09-15T11:26:09+00:00",
  "groups": [
   1,
   2,
@@ -1608,15 +1608,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "99aace61357e",
+   "id": "4ce5cbebeaf6",
    "kind": "other",
    "lessonKey": "4f314a8b6e6c",
    "pair": 4,
-   "raw": "СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ Шульпин С.Е.",
+   "raw": "СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ Шульпин С.Е. 302",
    "segments": [
     {
      "groups": [],
-     "room": null,
+     "room": "302",
      "subgroup": "",
      "teacher": "Шульпин С.Е."
     }
@@ -1634,15 +1634,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "0cd1b8c6f0cc",
+   "id": "64a06698db64",
    "kind": "other",
    "lessonKey": "daed78af4d55",
    "pair": 5,
-   "raw": "СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ Шульпин С.Е.",
+   "raw": "СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ Шульпин С.Е. 302",
    "segments": [
     {
      "groups": [],
-     "room": null,
+     "room": "302",
      "subgroup": "",
      "teacher": "Шульпин С.Е."
     }
@@ -3265,8 +3265,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "7565E3BFC22560C06781BBBEF8FF122BBDC5612D",
-  "mtime": 1789471253,
+  "hash": "6D7E711678ED80557D662A0ACB3BD17C3C83CD6E",
+  "mtime": 1789471305,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
