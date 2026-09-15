@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-15T12:02:22+00:00",
+ "generatedAt": "2026-09-15T12:07:37+00:00",
  "groups": [
   1,
   2,
@@ -2434,6 +2434,32 @@
   },
   {
    "audience": "personal",
+   "cell": "AC14",
+   "date": "2026-09-28",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "e01c6aabc0aa",
+   "kind": "commission",
+   "lessonKey": "d29ef13f48dc",
+   "pair": 3,
+   "raw": "12:25 Комиссия за зиму История экономических учений Тымчик В.И. Починкин Д.В.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Тымчик В.И., Починкин Д."
+    }
+   ],
+   "start": "12:25",
+   "subject": "История экономических учений в",
+   "subjectRaw": "История экономических учений В",
+   "timeOverride": true
+  },
+  {
+   "audience": "personal",
    "cell": "AC4",
    "date": "2026-09-28",
    "end": "13:55",
@@ -3175,7 +3201,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 100,
+  "cells": 101,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -3207,8 +3233,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "311EB2575AC280A80F3E03B9F9E16127276127FA",
-  "mtime": 1789473567,
+  "hash": "C3F4488A92E3EB67612AE2C2F329C4CF64C12BC7",
+  "mtime": 1789473778,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
