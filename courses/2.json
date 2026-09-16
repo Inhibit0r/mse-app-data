@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-09-16T10:07:29+00:00",
+ "generatedAt": "2026-09-16T10:12:45+00:00",
  "groups": [
   1,
   2,
@@ -3560,22 +3560,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "5b6fa28fb18c",
+   "id": "8d21d205bd92",
    "kind": "commission",
-   "lessonKey": "7e1395f6d1e9",
+   "lessonKey": "57ac71d2b34d",
    "pair": 4,
-   "raw": "14:10 Комиссия за зиму БЖ Дынник В.П.",
+   "raw": "14:10 Комиссия за зиму БЖ Дынник В.П. 403",
    "segments": [
     {
      "groups": [],
-     "room": null,
+     "room": "403",
      "subgroup": "",
-     "teacher": "Дынник В."
+     "teacher": "Дынник В.П."
     }
    ],
    "start": "14:10",
-   "subject": "БЖ п",
-   "subjectRaw": "БЖ П",
+   "subject": "БЖ",
+   "subjectRaw": "БЖ",
    "timeOverride": true
   },
   {
@@ -5164,8 +5164,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "242312C7A27C415F0C685E9D194B5B7FEB94AC3A",
-  "mtime": 1789553240,
+  "hash": "63A288AF85A3CA74A061BF7E911D7514D1CB1B9E",
+  "mtime": 1789553320,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "sheet": "2 курс_СЕНТЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
