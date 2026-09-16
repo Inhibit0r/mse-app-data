@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-09-16T09:51:49+00:00",
+ "generatedAt": "2026-09-16T10:07:29+00:00",
  "groups": [
   1,
   2,
@@ -3470,11 +3470,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "c5e25c2c12fc",
+   "id": "6483a74f74da",
    "kind": "seminar",
    "lessonKey": "6744e14090f8",
    "pair": 2,
-   "raw": "СЗ ФИЛОСОФИЯ 2гр. Полякова С. В. 403 СЗ МЭО 1гр. Никитина С.А. 403",
+   "raw": "СЗ ФИЛОСОФИЯ 2гр. Полякова С. В. 403 СЗ МЭО 1гр. Никитина С.А. 405",
    "segments": [
     {
      "groups": [
@@ -3488,7 +3488,7 @@
      "groups": [
       1
      ],
-     "room": "403",
+     "room": "405",
      "subgroup": "",
      "teacher": "Никитина С.А."
     }
@@ -3713,18 +3713,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "4a859af5ee35",
+   "id": "6fe97ed4cc9c",
    "kind": "seminar",
    "lessonKey": "80a406c30797",
    "pair": 2,
-   "raw": "СЗ ТВиМС 1,4 гр. Бадулина Н.А. 402",
+   "raw": "СЗ ТВиМС 1,4 гр. Бадулина Н.А. 302",
    "segments": [
     {
      "groups": [
       1,
       4
      ],
-     "room": "402",
+     "room": "302",
      "subgroup": "",
      "teacher": "Бадулина Н.А."
     }
@@ -3794,18 +3794,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "65a7d64aca63",
+   "id": "9758c78c504e",
    "kind": "seminar",
    "lessonKey": "d49212874112",
    "pair": 3,
-   "raw": "СЗ ПРАВО 2,3 гр. Болдырев О.Ю. 302",
+   "raw": "СЗ ПРАВО 2,3 гр. Болдырев О.Ю. 308",
    "segments": [
     {
      "groups": [
       2,
       3
      ],
-     "room": "302",
+     "room": "308",
      "subgroup": "",
      "teacher": "Болдырев О.Ю."
     }
@@ -3875,18 +3875,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "5be09b7089dd",
+   "id": "a486192d78f4",
    "kind": "seminar",
    "lessonKey": "fbccd6bb5c45",
    "pair": 4,
-   "raw": "СЗ ПРАВО 1,4 гр. Болдырев О.Ю. 405",
+   "raw": "СЗ ПРАВО 1,4 гр. Болдырев О.Ю. 308",
    "segments": [
     {
      "groups": [
       1,
       4
      ],
-     "room": "405",
+     "room": "308",
      "subgroup": "",
      "teacher": "Болдырев О.Ю."
     }
@@ -5164,8 +5164,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "39823240D042B43752724B5C71415C5E09E4B447",
-  "mtime": 1789552301,
+  "hash": "242312C7A27C415F0C685E9D194B5B7FEB94AC3A",
+  "mtime": 1789553240,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "sheet": "2 курс_СЕНТЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
