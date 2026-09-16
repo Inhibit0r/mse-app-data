@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-09-15T11:20:55+00:00",
+ "generatedAt": "2026-09-16T07:58:49+00:00",
  "groups": [
   1,
   2,
@@ -2635,11 +2635,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "e19f0e37dd1b",
-   "kind": "seminar",
-   "lessonKey": "d9f2e2b6ad40",
+   "id": "7119cb8e566b",
+   "kind": "other",
+   "lessonKey": "89246a1126a6",
    "pair": 3,
-   "raw": "СЗ ПРАВО 2,3 гр. Болдырев О.Ю. 308",
+   "raw": "отмена СЗ ПРАВО 2,3 гр. Болдырев О.Ю. 308",
    "segments": [
     {
      "groups": [
@@ -2652,8 +2652,8 @@
     }
    ],
    "start": "12:25",
-   "subject": "Право",
-   "subjectRaw": "ПРАВО",
+   "subject": "Отмена СЗ право",
+   "subjectRaw": "отмена СЗ ПРАВО",
    "timeOverride": false
   },
   {
@@ -2716,11 +2716,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "e292e03609c5",
-   "kind": "seminar",
-   "lessonKey": "825a4c754431",
+   "id": "c9991b1b0bb6",
+   "kind": "other",
+   "lessonKey": "832d9bfc420f",
    "pair": 4,
-   "raw": "СЗ ПРАВО 1,4 гр. Болдырев О.Ю. 308",
+   "raw": "отмена СЗ ПРАВО 1,4 гр. Болдырев О.Ю. 308",
    "segments": [
     {
      "groups": [
@@ -2733,8 +2733,8 @@
     }
    ],
    "start": "14:10",
-   "subject": "Право",
-   "subjectRaw": "ПРАВО",
+   "subject": "Отмена СЗ право",
+   "subjectRaw": "отмена СЗ ПРАВО",
    "timeOverride": false
   },
   {
@@ -5164,8 +5164,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "ED797EC389008DEE225E868C9B519AE5046E3F62",
-  "mtime": 1789471062,
+  "hash": "81B278EEE7F358ACDC6A29C4BA70877E4596167D",
+  "mtime": 1789545300,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "sheet": "2 курс_СЕНТЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
