@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-16T12:21:09+00:00",
+ "generatedAt": "2026-09-16T12:26:20+00:00",
  "groups": [
   1,
   2,
@@ -2198,22 +2198,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "74df2e90048b",
+   "id": "a18f1b122c41",
    "kind": "commission",
-   "lessonKey": "f9f55ce322c5",
+   "lessonKey": "5866b5fe2c11",
    "pair": 6,
-   "raw": "17:20 Комиссия за зиму Функциональный анализ Пепа Р.Ю.",
+   "raw": "17:20 Комиссия за зиму Функциональный анализ Пепа Р.Ю. 418",
    "segments": [
     {
      "groups": [],
-     "room": null,
+     "room": "418",
      "subgroup": "",
-     "teacher": "Пепа Р."
+     "teacher": "Пепа Р.Ю."
     }
    ],
    "start": "17:20",
-   "subject": "Функциональный анализ ю",
-   "subjectRaw": "Функциональный анализ Ю",
+   "subject": "Функциональный анализ",
+   "subjectRaw": "Функциональный анализ",
    "timeOverride": true
   },
   {
@@ -2310,15 +2310,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "f19b5daa0b5b",
+   "id": "09a20265abe2",
    "kind": "lecture",
    "lessonKey": "6bdfaf20914a",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ ЭКОНОМИЧЕСКАЯ ПОЛИТИКА Головнин М.Ю. 113",
+   "raw": "ЛЕКЦИЯ ЭКОНОМИЧЕСКАЯ ПОЛИТИКА Головнин М.Ю. 302",
    "segments": [
     {
      "groups": [],
-     "room": "113",
+     "room": "302",
      "subgroup": "",
      "teacher": "Головнин М.Ю."
     }
@@ -2362,15 +2362,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "1486d288e817",
+   "id": "133da874818d",
    "kind": "lecture",
    "lessonKey": "5252d82f81b8",
    "pair": 2,
-   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА - II Пылин А.Г. 302",
+   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА - II Пылин А.Г. 417",
    "segments": [
     {
      "groups": [],
-     "room": "302",
+     "room": "417",
      "subgroup": "",
      "teacher": "Пылин А.Г."
     }
@@ -2388,15 +2388,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "3a8570436745",
+   "id": "8e15882a119a",
    "kind": "lecture",
    "lessonKey": "b360eaf8abcc",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА - II Пылин А.Г. 302",
+   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА - II Пылин А.Г. 417",
    "segments": [
     {
      "groups": [],
-     "room": "302",
+     "room": "417",
      "subgroup": "",
      "teacher": "Пылин А.Г."
     }
@@ -3259,8 +3259,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "62EF47B98A0986755D8D1CEB698C5455D619CE51",
-  "mtime": 1789561254,
+  "hash": "431D24C0FC1A07C04DBA0FCB3B8C0166CB4E8F60",
+  "mtime": 1789561466,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
