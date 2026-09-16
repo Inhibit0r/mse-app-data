@@ -2,6 +2,18 @@
  "course": 3,
  "events": [
   {
+   "date": "2026-09-23",
+   "detectedAt": "2026-09-16T11:39:48+00:00",
+   "groups": [],
+   "id": "afc1c10439f5",
+   "kind": "commission",
+   "lessonKey": "3f6db0688d3c",
+   "pair": 4,
+   "subject": "Философия в",
+   "text": "Ср 23.09, 4 пара: добавлена пара Комиссия Философия в, Полякова С.",
+   "type": "added"
+  },
+  {
    "date": "2026-09-01",
    "detectedAt": "2026-09-16T08:14:39+00:00",
    "groups": [],
