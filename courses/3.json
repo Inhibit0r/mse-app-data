@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-09-16T12:10:49+00:00",
+ "generatedAt": "2026-09-16T12:15:52+00:00",
  "groups": [
   1,
   2,
@@ -3178,22 +3178,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "28cc1405dcf0",
+   "id": "937e9dde07bb",
    "kind": "commission",
-   "lessonKey": "3f6db0688d3c",
+   "lessonKey": "a6d46ec1e1b7",
    "pair": 4,
-   "raw": "14:10 Комиссия за зиму Философия Полякова С.В.",
+   "raw": "14:10 Комиссия за зиму Философия Полякова С.В. 308",
    "segments": [
     {
      "groups": [],
-     "room": null,
+     "room": "308",
      "subgroup": "",
-     "teacher": "Полякова С."
+     "teacher": "Полякова С.В."
     }
    ],
    "start": "14:10",
-   "subject": "Философия в",
-   "subjectRaw": "Философия В",
+   "subject": "Философия",
+   "subjectRaw": "Философия",
    "timeOverride": true
   },
   {
@@ -3266,15 +3266,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "88870a3e061c",
+   "id": "efb4befe8608",
    "kind": "lecture",
    "lessonKey": "304ba6e76e0c",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА Кукушкин Д.С. 308",
+   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА Кукушкин Д.С. 302",
    "segments": [
     {
      "groups": [],
-     "room": "308",
+     "room": "302",
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     }
@@ -4745,8 +4745,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "94A1E220B67728CE3E57E46B18E6F25146C24BD7",
-  "mtime": 1789560617,
+  "hash": "D163F1ED6C69FDB43939A6507A361629AC0B4628",
+  "mtime": 1789560748,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "sheet": "3 курс_СЕНТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
