@@ -1,6 +1,6 @@
 {
  "course": 1,
- "generatedAt": "2026-09-16T09:51:49+00:00",
+ "generatedAt": "2026-09-16T12:21:09+00:00",
  "groups": [
   1,
   2,
@@ -2289,6 +2289,34 @@
    "timeOverride": true
   },
   {
+   "audience": "groups",
+   "cell": "T6",
+   "date": "2026-09-19",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "62fd16273cc3",
+   "kind": "seminar",
+   "lessonKey": "2e2b469a32df",
+   "pair": 2,
+   "raw": "СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 1 гр. Мироненкова М.В. 314",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "314",
+     "subgroup": "",
+     "teacher": "Мироненкова М.В."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Введение в общую экономическую теорию",
+   "subjectRaw": "ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю",
+   "timeOverride": false
+  },
+  {
    "audience": "stream",
    "cell": "V4",
    "date": "2026-09-21",
@@ -2566,6 +2594,34 @@
    "start": "09:00",
    "subject": "Математический анализ",
    "subjectRaw": "МАТЕМАТИЧЕСКИЙ АНАЛИЗ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "W7",
+   "date": "2026-09-22",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "1134eaacfd5d",
+   "kind": "seminar",
+   "lessonKey": "c2fa1d9d12c3",
+   "pair": 2,
+   "raw": "СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 1 гр. Мироненкова М.В. 404",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Мироненкова М.В."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Введение в общую экономическую теорию",
+   "subjectRaw": "ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю",
    "timeOverride": false
   },
   {
@@ -4211,7 +4267,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 129,
+  "cells": 131,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -4243,8 +4299,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "020E4C751739C477A38819F65E49A1796A432477",
-  "mtime": 1789552185,
+  "hash": "093C980484E97D46691B56BDF2F72728EB99C333",
+  "mtime": 1789561046,
   "name": "1_курс_Бакалавриат_2026.xlsx",
   "sheet": "1 курс_СЕНТЯБРЬ_26",
   "weblink": "zXBY/Ti1JkH8ip"
