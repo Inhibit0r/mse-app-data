@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-16T12:26:20+00:00",
+ "generatedAt": "2026-09-16T12:46:52+00:00",
  "groups": [
   1,
   2,
@@ -2282,17 +2282,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "b92c48653194",
+   "id": "fa731106fff6",
    "kind": "seminar",
    "lessonKey": "d75818fd2919",
    "pair": 2,
-   "raw": "СЗ ТОР 3 гр. Аванесова И.Б. 402",
+   "raw": "СЗ ТОР 3 гр. Аванесова И.Б. 403",
    "segments": [
     {
      "groups": [
       3
      ],
-     "room": "402",
+     "room": "403",
      "subgroup": "",
      "teacher": "Аванесова И.Б."
     }
@@ -3259,8 +3259,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "431D24C0FC1A07C04DBA0FCB3B8C0166CB4E8F60",
-  "mtime": 1789561466,
+  "hash": "54B0A7DE118762EF236CB3BDEFD60F4154C7C140",
+  "mtime": 1789562694,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
