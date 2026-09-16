@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-15T12:59:08+00:00",
+ "generatedAt": "2026-09-16T07:48:19+00:00",
  "groups": [
   1,
   2,
@@ -1952,11 +1952,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "4eb9a28bab79",
-   "kind": "retake",
-   "lessonKey": "2dead281bca3",
+   "id": "02dc11ed2dc6",
+   "kind": "commission",
+   "lessonKey": "eab9c47df597",
    "pair": 4,
-   "raw": "14:10 Пересдача Эконометрика Пепа Р.Ю. Аршакян Р.А.",
+   "raw": "14:10 Комиссия за зиму Эконометрика Пепа Р.Ю. Аршакян Р.А.",
    "segments": [
     {
      "groups": [],
@@ -3233,8 +3233,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "AC4AE14B28D8B62FC4B3DE7324D604FB7E1A54CD",
-  "mtime": 1789477025,
+  "hash": "654B7548A78FAA6D078303FEEE31651E18A5FAB8",
+  "mtime": 1789544785,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
