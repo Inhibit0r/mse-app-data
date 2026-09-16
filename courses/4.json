@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-16T11:19:22+00:00",
+ "generatedAt": "2026-09-16T11:24:28+00:00",
  "groups": [
   1,
   2,
@@ -2191,6 +2191,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "Y14",
+   "date": "2026-09-24",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "74df2e90048b",
+   "kind": "commission",
+   "lessonKey": "f9f55ce322c5",
+   "pair": 6,
+   "raw": "17:20 Комиссия за зиму Функциональный анализ Пепа Р.Ю.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Пепа Р."
+    }
+   ],
+   "start": "17:20",
+   "subject": "Функциональный анализ ю",
+   "subjectRaw": "Функциональный анализ Ю",
+   "timeOverride": true
+  },
+  {
    "audience": "groups",
    "cell": "Z4",
    "date": "2026-09-25",
@@ -3201,7 +3227,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 101,
+  "cells": 102,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -3233,8 +3259,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "1D601A93F965646C2094E88D63323430EF859732",
-  "mtime": 1789557510,
+  "hash": "D3659C82720F39D750604D540A076834A202F9B5",
+  "mtime": 1789557670,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
