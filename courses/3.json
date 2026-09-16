@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-09-16T08:04:09+00:00",
+ "generatedAt": "2026-09-16T11:29:29+00:00",
  "groups": [
   1,
   2,
@@ -3194,6 +3194,32 @@
   },
   {
    "audience": "personal",
+   "cell": "X14",
+   "date": "2026-09-23",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "28cc1405dcf0",
+   "kind": "commission",
+   "lessonKey": "3f6db0688d3c",
+   "pair": 4,
+   "raw": "14:10 Комиссия за зиму Философия Полякова С.В.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Полякова С."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Философия в",
+   "subjectRaw": "Философия В",
+   "timeOverride": true
+  },
+  {
+   "audience": "personal",
    "cell": "X10",
    "date": "2026-09-23",
    "end": "17:15",
@@ -4709,7 +4735,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 142,
+  "cells": 143,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -4741,8 +4767,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "5540B6E9DF63929FF7F134291BA198B05ECDDCD7",
-  "mtime": 1789545605,
+  "hash": "2A818746313314292C4E149C48E1BFDD8E48036B",
+  "mtime": 1789557978,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "sheet": "3 курс_СЕНТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
