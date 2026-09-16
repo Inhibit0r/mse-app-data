@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-09-16T07:58:49+00:00",
+ "generatedAt": "2026-09-16T09:51:49+00:00",
  "groups": [
   1,
   2,
@@ -2957,15 +2957,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "f2da8e30376c",
+   "id": "b529ab8860a9",
    "kind": "lecture",
    "lessonKey": "5aff8d849788",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА Щербанин Ю.А. 113",
+   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА Щербанин Ю.А. 417",
    "segments": [
     {
      "groups": [],
-     "room": "113",
+     "room": "417",
      "subgroup": "",
      "teacher": "Щербанин Ю.А."
     }
@@ -2983,15 +2983,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "cf155da36b8f",
+   "id": "794db406bc1a",
    "kind": "lecture",
    "lessonKey": "621015ab4cea",
    "pair": 2,
-   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА Щербанин Ю.А. 113",
+   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА Щербанин Ю.А. 417",
    "segments": [
     {
      "groups": [],
-     "room": "113",
+     "room": "417",
      "subgroup": "",
      "teacher": "Щербанин Ю.А."
     }
@@ -3009,15 +3009,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "18b820a00256",
+   "id": "4f5afadf442d",
    "kind": "lecture",
    "lessonKey": "0556ef3cbc21",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА-I Кукушкин Д.С. 113",
+   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА-I Кукушкин Д.С. 302",
    "segments": [
     {
      "groups": [],
-     "room": "113",
+     "room": "302",
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     }
@@ -3444,15 +3444,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "24807d697ad5",
+   "id": "ae32660da347",
    "kind": "lecture",
    "lessonKey": "f4ddfc8edf11",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ ФИЛОСОФИЯ Полякова С.В. 302",
+   "raw": "ЛЕКЦИЯ ФИЛОСОФИЯ Полякова С.В. 113",
    "segments": [
     {
      "groups": [],
-     "room": "302",
+     "room": "113",
      "subgroup": "",
      "teacher": "Полякова С.В."
     }
@@ -3470,17 +3470,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "b28655739b29",
+   "id": "c5e25c2c12fc",
    "kind": "seminar",
    "lessonKey": "6744e14090f8",
    "pair": 2,
-   "raw": "СЗ ФИЛОСОФИЯ 2гр. Полякова С. В. 405 СЗ МЭО 1гр. Никитина С.А. 403",
+   "raw": "СЗ ФИЛОСОФИЯ 2гр. Полякова С. В. 403 СЗ МЭО 1гр. Никитина С.А. 403",
    "segments": [
     {
      "groups": [
       2
      ],
-     "room": "405",
+     "room": "403",
      "subgroup": "",
      "teacher": "Полякова С.В."
     },
@@ -3506,17 +3506,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "52f11dd95253",
+   "id": "c5b7f7ada4e0",
    "kind": "seminar",
    "lessonKey": "4e617e9e31a3",
    "pair": 3,
-   "raw": "СЗ ФИЛОСОФИЯ 4 гр. Полякова С. В. 409",
+   "raw": "СЗ ФИЛОСОФИЯ 4 гр. Полякова С. В. 403",
    "segments": [
     {
      "groups": [
       4
      ],
-     "room": "409",
+     "room": "403",
      "subgroup": "",
      "teacher": "Полякова С.В."
     }
@@ -3742,11 +3742,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "80041ecfe940",
+   "id": "2bf44f937712",
    "kind": "english",
    "lessonKey": "f778d8ab1d8e",
    "pair": 3,
-   "raw": "АНГЛ. ЯЗЫК 1А гр. Ильина Г.А. 315 1Бгр. Шмараева А.А. 402 4А гр. Сахарова А. Б. 314 4Б гр. Бордюгов Д.Г.403",
+   "raw": "АНГЛ. ЯЗЫК 1А гр. Ильина Г.А. 315 1Бгр. Шмараева А.А. 316 4А гр. Сахарова А. Б. 314 4Б гр. Бордюгов Д.Г. 418",
    "segments": [
     {
      "groups": [
@@ -3760,7 +3760,7 @@
      "groups": [
       1
      ],
-     "room": "402",
+     "room": "316",
      "subgroup": "Б",
      "teacher": "Шмараева А.А."
     },
@@ -3776,7 +3776,7 @@
      "groups": [
       4
      ],
-     "room": null,
+     "room": "418",
      "subgroup": "Б",
      "teacher": "Бордюгов Д.Г."
     }
@@ -3904,15 +3904,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "eb4b4438a4d3",
+   "id": "8891243ddaa5",
    "kind": "lecture",
    "lessonKey": "c80b18424359",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ МАКРОЭКОНОМИКА Букина И.С. 302",
+   "raw": "ЛЕКЦИЯ МАКРОЭКОНОМИКА Букина И.С. 308",
    "segments": [
     {
      "groups": [],
-     "room": "302",
+     "room": "308",
      "subgroup": "",
      "teacher": "Букина И.С."
     }
@@ -3930,15 +3930,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "169c22b5f554",
+   "id": "39ee2e357cd7",
    "kind": "lecture",
    "lessonKey": "73388906f675",
    "pair": 2,
-   "raw": "ЛЕКЦИЯ ТВиМС Курбацкий А.Н. 302",
+   "raw": "ЛЕКЦИЯ ТВиМС Курбацкий А.Н. 308",
    "segments": [
     {
      "groups": [],
-     "room": "302",
+     "room": "308",
      "subgroup": "",
      "teacher": "Курбацкий А.Н."
     }
@@ -3956,15 +3956,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "0c5135e6a3cc",
+   "id": "913364d096f0",
    "kind": "lecture",
    "lessonKey": "fd460e9b4ba2",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ ПРАВО Болдырев О.Ю. 302",
+   "raw": "ЛЕКЦИЯ ПРАВО Болдырев О.Ю. 308",
    "segments": [
     {
      "groups": [],
-     "room": "302",
+     "room": "308",
      "subgroup": "",
      "teacher": "Болдырев О.Ю."
     }
@@ -5164,8 +5164,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "81B278EEE7F358ACDC6A29C4BA70877E4596167D",
-  "mtime": 1789545300,
+  "hash": "39823240D042B43752724B5C71415C5E09E4B447",
+  "mtime": 1789552301,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "sheet": "2 курс_СЕНТЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
