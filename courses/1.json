@@ -1,6 +1,6 @@
 {
  "course": 1,
- "generatedAt": "2026-09-16T12:21:09+00:00",
+ "generatedAt": "2026-09-18T11:53:09+00:00",
  "groups": [
   1,
   2,
@@ -3658,16 +3658,16 @@
   },
   {
    "audience": "stream",
-   "cell": "AE4",
+   "cell": "AE6",
    "date": "2026-09-30",
-   "end": "10:30",
+   "end": "12:10",
    "flags": {
     "conflict": false
    },
-   "id": "2f99120b8884",
+   "id": "412fedc193ce",
    "kind": "lecture",
-   "lessonKey": "d1c966668995",
-   "pair": 1,
+   "lessonKey": "5d7959f154f5",
+   "pair": 2,
    "raw": "ЛЕКЦИЯ ИСТОРИЯ РОССИИ Мойса Н.И. 113",
    "segments": [
     {
@@ -3677,35 +3677,9 @@
      "teacher": "Мойса Н.И."
     }
    ],
-   "start": "09:00",
+   "start": "10:40",
    "subject": "История России",
    "subjectRaw": "ИСТОРИЯ РОССИИ",
-   "timeOverride": false
-  },
-  {
-   "audience": "stream",
-   "cell": "AE6",
-   "date": "2026-09-30",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "a2fac1b28060",
-   "kind": "lecture",
-   "lessonKey": "611e0c98cbc2",
-   "pair": 2,
-   "raw": "ЛЕКЦИЯ ПСИХОЛОГИЯ И ЭКОНОМИЧЕСКОЕ ПОВЕДЕНИЕ Белоусова В.В. 113",
-   "segments": [
-    {
-     "groups": [],
-     "room": "113",
-     "subgroup": "",
-     "teacher": "Белоусова В.В."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Психология и экономическое поведение",
-   "subjectRaw": "ПСИХОЛОГИЯ И ЭКОНОМИЧЕСКОЕ ПОВЕДЕНИЕ",
    "timeOverride": false
   },
   {
@@ -3896,71 +3870,6 @@
   },
   {
    "audience": "groups",
-   "cell": "AF4",
-   "date": "2026-10-01",
-   "end": "10:30",
-   "flags": {
-    "conflict": false
-   },
-   "id": "ec47e8a64a63",
-   "kind": "seminar",
-   "lessonKey": "a6023228449f",
-   "pair": 1,
-   "raw": "СЗ Психология и эконом поведение 2,4 гр. Белоусова В.В. 302",
-   "segments": [
-    {
-     "groups": [
-      2,
-      4
-     ],
-     "room": "302",
-     "subgroup": "",
-     "teacher": "Белоусова В.В."
-    }
-   ],
-   "start": "09:00",
-   "subject": "Психология и экономическое поведение",
-   "subjectRaw": "Психология и эконом поведение",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "AF5",
-   "date": "2026-10-01",
-   "end": "10:30",
-   "flags": {
-    "conflict": false
-   },
-   "id": "0b024aa6b8d8",
-   "kind": "seminar",
-   "lessonKey": "a7e070ea820e",
-   "pair": 1,
-   "raw": "СЗ ИСТОРИЯ РОССИИ 1 гр. Щербакова Е. И. 402 3 гр. Мойса Н.И. 403",
-   "segments": [
-    {
-     "groups": [
-      1
-     ],
-     "room": "402",
-     "subgroup": "",
-     "teacher": "Щербакова Е.И."
-    },
-    {
-     "groups": [
-      3
-     ],
-     "room": "403",
-     "subgroup": "",
-     "teacher": "Мойса Н.И."
-    }
-   ],
-   "start": "09:00",
-   "subject": "История России",
-   "subjectRaw": "ИСТОРИЯ РОССИИ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
    "cell": "AF6",
    "date": "2026-10-01",
    "end": "12:10",
@@ -4003,25 +3912,32 @@
    "flags": {
     "conflict": false
    },
-   "id": "cc8408833202",
+   "id": "b9a031a8b2fa",
    "kind": "seminar",
-   "lessonKey": "3694a8ffba0b",
+   "lessonKey": "950995585bb9",
    "pair": 2,
-   "raw": "СЗ Психология и эконом поведение 1,3гр. Белоусова В.В. 302",
+   "raw": "СЗ ИСТОРИЯ РОССИИ 1 гр. Щербакова Е. И. 402 3 гр. Мойса Н.И. 403",
    "segments": [
     {
      "groups": [
-      1,
+      1
+     ],
+     "room": "402",
+     "subgroup": "",
+     "teacher": "Щербакова Е.И."
+    },
+    {
+     "groups": [
       3
      ],
-     "room": "302",
+     "room": "403",
      "subgroup": "",
-     "teacher": "Белоусова В.В."
+     "teacher": "Мойса Н.И."
     }
    ],
    "start": "10:40",
-   "subject": "Психология и экономическое поведение",
-   "subjectRaw": "Психология и эконом поведение",
+   "subject": "История России",
+   "subjectRaw": "ИСТОРИЯ РОССИИ",
    "timeOverride": false
   },
   {
@@ -4267,7 +4183,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 131,
+  "cells": 128,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -4299,8 +4215,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "093C980484E97D46691B56BDF2F72728EB99C333",
-  "mtime": 1789561046,
+  "hash": "84B816D36F5C27A24A79288A876F8C3785534826",
+  "mtime": 1789732132,
   "name": "1_курс_Бакалавриат_2026.xlsx",
   "sheet": "1 курс_СЕНТЯБРЬ_26",
   "weblink": "zXBY/Ti1JkH8ip"
