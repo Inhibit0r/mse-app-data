@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-18T10:41:39+00:00",
+ "generatedAt": "2026-09-18T10:46:49+00:00",
  "groups": [
   1,
   2,
@@ -3174,17 +3174,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "751c834d0b8e",
+   "id": "7b36cdc93f57",
    "kind": "lecture",
    "lessonKey": "5e883742cf6f",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ ЭКОНОМИЧЕСКАЯ ПОЛИТИКА Головнин М.Ю. 302",
+   "raw": "ЛЕКЦИЯ ЭКОНОМИЧЕСКАЯ ПОЛИТИКА Ушкалова Д.И. 302",
    "segments": [
     {
      "groups": [],
      "room": "302",
      "subgroup": "",
-     "teacher": "Головнин М.Ю."
+     "teacher": "Ушкалова Д.И."
     }
    ],
    "start": "12:25",
@@ -3200,50 +3200,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "3b900de3a890",
+   "id": "46a1236a3edc",
    "kind": "lecture",
    "lessonKey": "6f4507ce7626",
    "pair": 4,
-   "raw": "ЛЕКЦИЯ ЭКОНОМИЧЕСКАЯ ПОЛИТИКА Головнин М.Ю. 302",
+   "raw": "ЛЕКЦИЯ ЭКОНОМИЧЕСКАЯ ПОЛИТИКА Ушкалова Д.И. 302",
    "segments": [
     {
      "groups": [],
      "room": "302",
      "subgroup": "",
-     "teacher": "Головнин М.Ю."
+     "teacher": "Ушкалова Д.И."
     }
    ],
    "start": "14:10",
    "subject": "Экономическая политика",
    "subjectRaw": "ЭКОНОМИЧЕСКАЯ ПОЛИТИКА",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "AG12",
-   "date": "2026-10-02",
-   "end": "17:15",
-   "flags": {
-    "conflict": false
-   },
-   "id": "bdbc080aad76",
-   "kind": "seminar",
-   "lessonKey": "230904061fe0",
-   "pair": 5,
-   "raw": "СЗ ТОР 3 гр. Аванесова И.Б. 402",
-   "segments": [
-    {
-     "groups": [
-      3
-     ],
-     "room": "402",
-     "subgroup": "",
-     "teacher": "Аванесова И.Б."
-    }
-   ],
-   "start": "15:45",
-   "subject": "Теория отраслевых рынков",
-   "subjectRaw": "ТОР",
    "timeOverride": false
   },
   {
@@ -3297,6 +3269,58 @@
    "subject": "Мировая экономика II",
    "subjectRaw": "МИРОВАЯ ЭКОНОМИКА - II",
    "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AH10",
+   "date": "2026-10-03",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "185da2c528fa",
+   "kind": "other",
+   "lessonKey": "95b8d00090e9",
+   "pair": 4,
+   "raw": "СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ Шульпин С.Е. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Шульпин С.Е."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Стратегический маркетинг",
+   "subjectRaw": "СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AH12",
+   "date": "2026-10-03",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "5966289660e8",
+   "kind": "other",
+   "lessonKey": "4adf45c8cbf3",
+   "pair": 5,
+   "raw": "СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ Шульпин С.Е. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Шульпин С.Е."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Стратегический маркетинг",
+   "subjectRaw": "СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ",
+   "timeOverride": false
   }
  ],
  "range": {
@@ -3305,7 +3329,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 105,
+  "cells": 106,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -3337,8 +3361,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "609500E97D4622CD20116DC5A3E4A109B3C1AABA",
-  "mtime": 1789728095,
+  "hash": "9DE58D5FE3CC176DA25D8BB689B585F8907183D2",
+  "mtime": 1789728126,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
