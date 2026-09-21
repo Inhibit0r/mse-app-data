@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-09-21T07:40:30+00:00",
+ "generatedAt": "2026-09-21T08:11:32+00:00",
  "groups": [
   1,
   2,
@@ -5045,6 +5045,32 @@
   },
   {
    "audience": "personal",
+   "cell": "AG14",
+   "date": "2026-10-02",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "8146c1ed48dc",
+   "kind": "retake",
+   "lessonKey": "43d1e425101e",
+   "pair": 4,
+   "raw": "14:10 Пересдача за лето Введение в экономику Кочетовская О.С. Мироненкова М.В. Лобанова Е.О.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Кочетовская О.С., Мироненкова М.В., Лобанова Е."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Введение в экономику о",
+   "subjectRaw": "Введение в экономику О",
+   "timeOverride": true
+  },
+  {
+   "audience": "personal",
    "cell": "AG12",
    "date": "2026-10-02",
    "end": "17:15",
@@ -5132,7 +5158,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 153,
+  "cells": 154,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -5164,8 +5190,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "278B8F9CAB1DC6BFFE1D68CAE5E5755BB8977CCC",
-  "mtime": 1789976421,
+  "hash": "E5E1058F0E158A541B354798A7D1422722214AA4",
+  "mtime": 1789978183,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "sheet": "2 курс_СЕНТЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
