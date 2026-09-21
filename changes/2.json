@@ -2,6 +2,42 @@
  "course": 2,
  "events": [
   {
+   "date": "2026-09-28",
+   "detectedAt": "2026-09-21T13:22:29+00:00",
+   "groups": [],
+   "id": "befcf84cfaef",
+   "kind": null,
+   "lessonKey": null,
+   "pair": null,
+   "subject": null,
+   "text": "Новый период расписания: 28.09 – 31.10",
+   "type": "period"
+  },
+  {
+   "date": "2026-10-01",
+   "detectedAt": "2026-09-21T13:22:29+00:00",
+   "groups": [],
+   "id": "f048b19d9051",
+   "kind": "commission",
+   "lessonKey": "29fa8cb8f1a7",
+   "pair": 5,
+   "subject": "Математический анализ",
+   "text": "Чт 01.10, 5 пара: отменена Комиссия Математический анализ",
+   "type": "cancelled"
+  },
+  {
+   "date": "2026-10-03",
+   "detectedAt": "2026-09-21T13:22:29+00:00",
+   "groups": [],
+   "id": "35dcb49f1c18",
+   "kind": "retake",
+   "lessonKey": "a5bfaf5cee51",
+   "pair": 3,
+   "subject": "История россии и",
+   "text": "Сб 03.10, 3 пара: добавлена пара Пересдача История россии и, Щербакова Е.И., Мойса Н.",
+   "type": "added"
+  },
+  {
    "date": "2026-10-02",
    "detectedAt": "2026-09-21T08:21:45+00:00",
    "groups": [],
