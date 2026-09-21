@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-21T11:59:48+00:00",
+ "generatedAt": "2026-09-21T13:17:09+00:00",
  "groups": [
   1,
   2,
@@ -1003,6 +1003,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "J14",
+   "date": "2026-10-06",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "59ae61301d4d",
+   "kind": "retake",
+   "lessonKey": "a3bf69aa1007",
+   "pair": 6,
+   "raw": "17:20 Пересдача за лето Финансовый менеджмент Алимурадов М.К Гаврилина Д.Н. Мидов А.З",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Алимурадов М., Гаврилина Д.Н., Мидов А."
+    }
+   ],
+   "start": "17:20",
+   "subject": "Финансовый менеджмент к з",
+   "subjectRaw": "Финансовый менеджмент К З",
+   "timeOverride": true
+  },
+  {
    "audience": "stream",
    "cell": "K4",
    "date": "2026-10-07",
@@ -1997,7 +2023,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 57,
+  "cells": 58,
   "dates": [
    "2026-09-28",
    "2026-09-29",
@@ -2030,8 +2056,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "0BC75E069882889E761309D15F718BD52327E171",
-  "mtime": 1789991891,
+  "hash": "745735E9AC70DC9C25CFC45B89EB44443B5E7E1D",
+  "mtime": 1789996625,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_ОКТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
