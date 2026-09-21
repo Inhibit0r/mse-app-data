@@ -1,6 +1,6 @@
 {
  "course": 1,
- "generatedAt": "2026-09-21T07:56:00+00:00",
+ "generatedAt": "2026-09-21T16:37:37+00:00",
  "groups": [
   1,
   2,
@@ -2630,13 +2630,13 @@
    "date": "2026-09-22",
    "end": "13:55",
    "flags": {
-    "conflict": true
+    "conflict": false
    },
-   "id": "89131b713b5c",
+   "id": "ad0f3e90d155",
    "kind": "seminar",
    "lessonKey": "a9d144649b9f",
    "pair": 3,
-   "raw": "СЗ ЭК.ИНФОРМАТИКА-I 1 гр. Хизгияев С.В. 304 2 гр. Колпаков Д.В. 303",
+   "raw": "СЗ ЭК.ИНФОРМАТИКА-I 1 гр. Хизгияев С.В. 304 3 гр. Колпаков Д.В. 303",
    "segments": [
     {
      "groups": [
@@ -2648,7 +2648,7 @@
     },
     {
      "groups": [
-      2
+      3
      ],
      "room": "303",
      "subgroup": "",
@@ -2666,7 +2666,7 @@
    "date": "2026-09-22",
    "end": "13:55",
    "flags": {
-    "conflict": true
+    "conflict": false
    },
    "id": "ba4251077c9e",
    "kind": "seminar",
@@ -3214,15 +3214,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "887ca40fc34a",
+   "id": "abec137f5971",
    "kind": "seminar",
    "lessonKey": "c771fbc33070",
    "pair": 3,
-   "raw": "СЗ ЭК.ИНФОРМАТИКА-I 3 гр. Колпаков Д.В. 303",
+   "raw": "СЗ ЭК.ИНФОРМАТИКА-I 2 гр. Колпаков Д.В. 303",
    "segments": [
     {
      "groups": [
-      3
+      2
      ],
      "room": "303",
      "subgroup": "",
@@ -4215,21 +4215,13 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "CF7B807BB41F957B01CC596C3F22F49BA64E5385",
-  "mtime": 1789977144,
+  "hash": "C67FE1EB494D55AF2644E9392802B6FB0826CF7D",
+  "mtime": 1790008503,
   "name": "1_курс_Бакалавриат_2026.xlsx",
   "sheet": "1 курс_СЕНТЯБРЬ_26",
   "weblink": "zXBY/Ti1JkH8ip"
  },
  "warnings": [
-  {
-   "cells": [
-    "W8",
-    "W9"
-   ],
-   "code": "conflict",
-   "message": "конфликт групп 2026-09-22 пара 3: группа 2 в двух парах"
-  },
   {
    "cells": [
     "AD8",
