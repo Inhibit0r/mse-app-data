@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-09-21T11:23:49+00:00",
+ "generatedAt": "2026-09-21T12:35:42+00:00",
  "groups": [
   1,
   2,
@@ -4556,6 +4556,32 @@
   },
   {
    "audience": "personal",
+   "cell": "AG14",
+   "date": "2026-10-02",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "ff199bc8b42c",
+   "kind": "commission",
+   "lessonKey": "d17fbdf89fdc",
+   "pair": 2,
+   "raw": "10:40 Комиссия за зиму Макроэкономика Букина И.С. Кукушкин Д.С. Герелишина А.К.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Букина И.С., Кукушкин Д.С., Герелишина А."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Макроэкономика к",
+   "subjectRaw": "Макроэкономика К",
+   "timeOverride": true
+  },
+  {
+   "audience": "personal",
    "cell": "AG4",
    "date": "2026-10-02",
    "end": "12:10",
@@ -4747,7 +4773,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 144,
+  "cells": 145,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -4779,8 +4805,8 @@
    "2026-10-02",
    "2026-10-03"
   ],
-  "hash": "3D18FED85CD92D9ED29F9E4326B713D6E184A00C",
-  "mtime": 1789989803,
+  "hash": "E252F4DD47EC8F1E875E73A82EBECB9CE75EABDA",
+  "mtime": 1789994072,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "sheet": "3 курс_СЕНТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
