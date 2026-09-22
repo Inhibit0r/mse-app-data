@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-09-22T08:20:23+00:00",
+ "generatedAt": "2026-09-22T08:25:39+00:00",
  "groups": [
   1,
   2,
@@ -1679,6 +1679,32 @@
    "subject": "Межфакультетские курсы",
    "subjectRaw": "",
    "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "K14",
+   "date": "2026-10-07",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "8e371861753c",
+   "kind": "retake",
+   "lessonKey": "35e20a3aa1e2",
+   "pair": 4,
+   "raw": "15:00 Пересдача за лето Демография Мосакова Е.А.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Мосакова Е."
+    }
+   ],
+   "start": "15:00",
+   "subject": "Демография а",
+   "subjectRaw": "Демография А",
+   "timeOverride": true
   },
   {
    "audience": "personal",
@@ -4517,7 +4543,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 136,
+  "cells": 137,
   "dates": [
    "2026-09-28",
    "2026-09-29",
@@ -4550,8 +4576,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "D62099BF5D287F4ED7580E0DEF05FF4B73F543CC",
-  "mtime": 1790065145,
+  "hash": "88988F45406571EBB646244B15F2C355CA4BACBE",
+  "mtime": 1790065408,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "sheet": "2 курс_ОКТЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
