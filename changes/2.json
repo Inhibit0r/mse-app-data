@@ -2,6 +2,30 @@
  "course": 2,
  "events": [
   {
+   "date": "2026-09-01",
+   "detectedAt": "2026-09-22T08:51:19+00:00",
+   "groups": [],
+   "id": "0e4711cfb4ae",
+   "kind": null,
+   "lessonKey": null,
+   "pair": null,
+   "subject": null,
+   "text": "Новый период расписания: 01.09 – 03.10",
+   "type": "period"
+  },
+  {
+   "date": "2026-10-01",
+   "detectedAt": "2026-09-22T08:51:19+00:00",
+   "groups": [],
+   "id": "bdbb8e5a25c2",
+   "kind": "commission",
+   "lessonKey": "29fa8cb8f1a7",
+   "pair": 5,
+   "subject": "Математический анализ",
+   "text": "Чт 01.10, 5 пара: добавлена пара Комиссия Математический анализ, Хизгияев С.В., Афонин К.А., 302",
+   "type": "added"
+  },
+  {
    "date": "2026-09-28",
    "detectedAt": "2026-09-21T13:22:29+00:00",
    "groups": [],
