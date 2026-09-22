@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-09-22T08:35:49+00:00",
+ "generatedAt": "2026-09-22T08:40:50+00:00",
  "groups": [
   1,
   2,
@@ -2718,6 +2718,32 @@
   },
   {
    "audience": "personal",
+   "cell": "R14",
+   "date": "2026-10-14",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "828c37adfb66",
+   "kind": "retake",
+   "lessonKey": "aa242cf41e6e",
+   "pair": 4,
+   "raw": "14:10 Пересдача за лето Экономика общественного сектора Никитина С.А. Лобанова Е.О.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Никитина С.А., Лобанова Е."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Экономика общественного сектора о",
+   "subjectRaw": "Экономика общественного сектора О",
+   "timeOverride": true
+  },
+  {
+   "audience": "personal",
    "cell": "R10",
    "date": "2026-10-14",
    "end": "17:15",
@@ -5143,7 +5169,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 152,
+  "cells": 153,
   "dates": [
    "2026-09-28",
    "2026-09-29",
@@ -5176,8 +5202,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "B7AECD671116B41EE1B95F8A870A00F0BBDD2EAA",
-  "mtime": 1790066066,
+  "hash": "832FDA7151C22EE3886F024828B3A04702F6AE99",
+  "mtime": 1790066178,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "sheet": "3 курс_ОКТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
