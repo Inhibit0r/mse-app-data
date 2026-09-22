@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-09-22T08:30:44+00:00",
+ "generatedAt": "2026-09-22T08:35:49+00:00",
  "groups": [
   1,
   2,
@@ -2944,6 +2944,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "R14",
+   "date": "2026-10-14",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "bc18a0b03028",
+   "kind": "retake",
+   "lessonKey": "3348fcd7590f",
+   "pair": 5,
+   "raw": "16:00 Пересдача за лето Эк. география Гузенко И.С.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Гузенко И."
+    }
+   ],
+   "start": "16:00",
+   "subject": "Эк. география с",
+   "subjectRaw": "Эк. география С",
+   "timeOverride": true
+  },
+  {
    "audience": "groups",
    "cell": "S4",
    "date": "2026-10-15",
@@ -4543,7 +4569,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 137,
+  "cells": 138,
   "dates": [
    "2026-09-28",
    "2026-09-29",
@@ -4576,8 +4602,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "F8BAB9969E642A2F5A3D8260C4DEF8A5D6FBF831",
-  "mtime": 1790065753,
+  "hash": "910F802C507373E8ED37E2DA78665B0C5986AE66",
+  "mtime": 1790065952,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "sheet": "2 курс_ОКТЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
