@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-09-22T13:01:41+00:00",
+ "generatedAt": "2026-09-22T16:07:09+00:00",
  "groups": [
   1,
   2,
@@ -3897,6 +3897,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "B14",
+   "date": "2026-09-28",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "9769cd7db703",
+   "kind": "commission",
+   "lessonKey": "a61cb8b9f19a",
+   "pair": 5,
+   "raw": "15:45 Комиссия за зиму ТВИМС Курбацкий А.Н. Тарновская П.И. Бадулина Н.А.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Курбацкий А.Н., Тарновская П.И., Бадулина Н."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Твимс а",
+   "subjectRaw": "ТВИМС А",
+   "timeOverride": true
+  },
+  {
    "audience": "stream",
    "cell": "C4",
    "date": "2026-09-29",
@@ -4089,6 +4115,32 @@
    "subject": "Макроэкономика II",
    "subjectRaw": "МАКРОЭКОНОМИКА-II",
    "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "C14",
+   "date": "2026-09-29",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "6eb4bc613ba3",
+   "kind": "commission",
+   "lessonKey": "0e5667dbd42c",
+   "pair": 6,
+   "raw": "17:20 Комиссия за зиму для всех Микроэкономика - I Кукушкин Д.С. Малютина О.С. Починкин Д.В.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Кукушкин Д.С., Малютина О.С., Починкин Д."
+    }
+   ],
+   "start": "17:20",
+   "subject": "Для всех микроэкономика - I в",
+   "subjectRaw": "для всех Микроэкономика - I В",
+   "timeOverride": true
   },
   {
    "audience": "stream",
@@ -4313,6 +4365,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "D14",
+   "date": "2026-09-30",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "aeea16c08eaa",
+   "kind": "commission",
+   "lessonKey": "f7998b92dcfd",
+   "pair": 5,
+   "raw": "15:45 Комиссия за зиму Английский язык Ильина Г.А. Шмараева А.А. 315",
+   "segments": [
+    {
+     "groups": [],
+     "room": "315",
+     "subgroup": "",
+     "teacher": "Ильина Г.А., Шмараева А.А."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Английский язык",
+   "subjectRaw": "Английский язык",
+   "timeOverride": true
+  },
+  {
    "audience": "groups",
    "cell": "E6",
    "date": "2026-10-01",
@@ -4461,6 +4539,32 @@
    "subject": "Военная кафедра",
    "subjectRaw": "",
    "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "F14",
+   "date": "2026-10-02",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "ff199bc8b42c",
+   "kind": "commission",
+   "lessonKey": "d17fbdf89fdc",
+   "pair": 2,
+   "raw": "10:40 Комиссия за зиму Макроэкономика Букина И.С. Кукушкин Д.С. Герелишина А.К.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Букина И.С., Кукушкин Д.С., Герелишина А."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Макроэкономика к",
+   "subjectRaw": "Макроэкономика К",
+   "timeOverride": true
   },
   {
    "audience": "personal",
@@ -8821,7 +8925,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 265,
+  "cells": 269,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -8877,8 +8981,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "D8056D72BA6296ADCFD027C5AC2DBF6AFDB0B4E8",
-  "mtime": 1790081905,
+  "hash": "5D581515C163E32174853C104C1C6F86A550728C",
+  "mtime": 1790093145,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
