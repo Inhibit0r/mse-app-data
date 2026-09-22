@@ -3,6 +3,30 @@
  "events": [
   {
    "date": "2026-09-01",
+   "detectedAt": "2026-09-22T13:06:49+00:00",
+   "groups": [],
+   "id": "ffdbbcededc0",
+   "kind": null,
+   "lessonKey": null,
+   "pair": null,
+   "subject": null,
+   "text": "Новый период расписания: 01.09 – 31.10",
+   "type": "period"
+  },
+  {
+   "date": "2026-10-01",
+   "detectedAt": "2026-09-22T13:06:49+00:00",
+   "groups": [],
+   "id": "f048b19d9051",
+   "kind": "commission",
+   "lessonKey": "29fa8cb8f1a7",
+   "pair": 5,
+   "subject": "Математический анализ",
+   "text": "Чт 01.10, 5 пара: отменена Комиссия Математический анализ",
+   "type": "cancelled"
+  },
+  {
+   "date": "2026-09-01",
    "detectedAt": "2026-09-22T08:51:19+00:00",
    "groups": [],
    "id": "0e4711cfb4ae",
