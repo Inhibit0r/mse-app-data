@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-23T09:30:29+00:00",
+ "generatedAt": "2026-09-23T09:35:32+00:00",
  "groups": [
   1,
   2,
@@ -4181,6 +4181,480 @@
    "timeOverride": false
   },
   {
+   "audience": "groups",
+   "cell": "Q7",
+   "date": "2026-10-13",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "b049724ee95e",
+   "kind": "seminar",
+   "lessonKey": "f3991b75cec7",
+   "pair": 2,
+   "raw": "СЗ ТОР 3 гр. Аванесова И.Б. 404",
+   "segments": [
+    {
+     "groups": [
+      3
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Аванесова И.Б."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Теория отраслевых рынков",
+   "subjectRaw": "ТОР",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "Q8",
+   "date": "2026-10-13",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "346d9262b560",
+   "kind": "lecture",
+   "lessonKey": "29da58d462aa",
+   "pair": 3,
+   "raw": "ЛЕКЦИЯ ТЕОРИЯ ОТРАСЛЕВЫХ РЫНКОВ Аванесова И.Б. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Аванесова И.Б."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Теория отраслевых рынков",
+   "subjectRaw": "ТЕОРИЯ ОТРАСЛЕВЫХ РЫНКОВ",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "Q10",
+   "date": "2026-10-13",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "e716a6af5989",
+   "kind": "lecture",
+   "lessonKey": "e26e13c02e2e",
+   "pair": 4,
+   "raw": "ЛЕКЦИЯ ЭКОНОМИКА ТРУДА Починкин Д.В. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Починкин Д.В."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Экономика труда",
+   "subjectRaw": "ЭКОНОМИКА ТРУДА",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "Q12",
+   "date": "2026-10-13",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "9814a8dac2ea",
+   "kind": "seminar",
+   "lessonKey": "c897f44a6f62",
+   "pair": 5,
+   "raw": "СЗ ЭКСПЕРИМЕНТАЛЬНАЯ ЭКОНОМИКА Колпаков Д.В. 304",
+   "segments": [
+    {
+     "groups": [],
+     "room": "304",
+     "subgroup": "",
+     "teacher": "Колпаков Д.В."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Экспериментальная экономика",
+   "subjectRaw": "ЭКСПЕРИМЕНТАЛЬНАЯ ЭКОНОМИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "R4",
+   "date": "2026-10-14",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "fee678e84166",
+   "kind": "lecture",
+   "lessonKey": "4021fe2ca360",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ ФИНАНСЫ И КРЕДИТ Мусаев Р.А. 417",
+   "segments": [
+    {
+     "groups": [],
+     "room": "417",
+     "subgroup": "",
+     "teacher": "Мусаев Р.А."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Финансы и кредит",
+   "subjectRaw": "ФИНАНСЫ И КРЕДИТ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "R6",
+   "date": "2026-10-14",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "f8643fa11adc",
+   "kind": "seminar",
+   "lessonKey": "ae70bb372b8f",
+   "pair": 2,
+   "raw": "СЗ ТОР 1 гр. Селезнев А.И. 315 4гр. Аванесова И.Б. 418",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "315",
+     "subgroup": "",
+     "teacher": "Селезнев А.И."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "418",
+     "subgroup": "",
+     "teacher": "Аванесова И.Б."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Теория отраслевых рынков",
+   "subjectRaw": "ТОР",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "R7",
+   "date": "2026-10-14",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "e6ac8bb593a6",
+   "kind": "seminar",
+   "lessonKey": "13b4362dd458",
+   "pair": 2,
+   "raw": "СЗ ФИНАНСЫ И КРЕДИТ 2,3 гр. Мусаев Р.А. 417",
+   "segments": [
+    {
+     "groups": [
+      2,
+      3
+     ],
+     "room": "417",
+     "subgroup": "",
+     "teacher": "Мусаев Р.А."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Финансы и кредит",
+   "subjectRaw": "ФИНАНСЫ И КРЕДИТ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "R8",
+   "date": "2026-10-14",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "a76afc4074c8",
+   "kind": "seminar",
+   "lessonKey": "64af02f54924",
+   "pair": 3,
+   "raw": "СЗ ФИНАНСЫ И КРЕДИТ 1,4 гр. Мусаев Р.А. 417",
+   "segments": [
+    {
+     "groups": [
+      1,
+      4
+     ],
+     "room": "417",
+     "subgroup": "",
+     "teacher": "Мусаев Р.А."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Финансы и кредит",
+   "subjectRaw": "ФИНАНСЫ И КРЕДИТ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "R9",
+   "date": "2026-10-14",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "172442588cba",
+   "kind": "seminar",
+   "lessonKey": "147d83901768",
+   "pair": 3,
+   "raw": "СЗ ТОР 2 гр. Аванесова И.Б. 418",
+   "segments": [
+    {
+     "groups": [
+      2
+     ],
+     "room": "418",
+     "subgroup": "",
+     "teacher": "Аванесова И.Б."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Теория отраслевых рынков",
+   "subjectRaw": "ТОР",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "R10",
+   "date": "2026-10-14",
+   "end": "16:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "6515621d2404",
+   "kind": "mfk",
+   "lessonKey": "fde4600d4869",
+   "pair": 4,
+   "raw": "15.10-16.40 МЕЖФАКУЛЬТЕТСКИЕ КУРСЫ",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "15:10",
+   "subject": "Межфакультетские курсы",
+   "subjectRaw": "",
+   "timeOverride": true
+  },
+  {
+   "audience": "personal",
+   "cell": "R10",
+   "date": "2026-10-14",
+   "end": "16:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "a753c2ebaccc",
+   "kind": "mfk",
+   "lessonKey": "5aa92d3a846a",
+   "pair": 5,
+   "raw": "15.10-16.40 МЕЖФАКУЛЬТЕТСКИЕ КУРСЫ",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "15:10",
+   "subject": "Межфакультетские курсы",
+   "subjectRaw": "",
+   "timeOverride": true
+  },
+  {
+   "audience": "stream",
+   "cell": "S4",
+   "date": "2026-10-15",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "8a4de74c95f1",
+   "kind": "lecture",
+   "lessonKey": "f5462bc4447b",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ АНАЛИЗ-II Пепа Р.Ю. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Пепа Р.Ю."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Анализ II",
+   "subjectRaw": "АНАЛИЗ-II",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "S10",
+   "date": "2026-10-15",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "2567d2350ef8",
+   "kind": "seminar",
+   "lessonKey": "efdab6bc7e6d",
+   "pair": 4,
+   "raw": "СЗ ЭКОНОМИКА ТРУДА 1,4 гр. Починкин Д.В. 404",
+   "segments": [
+    {
+     "groups": [
+      1,
+      4
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Починкин Д.В."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Экономика труда",
+   "subjectRaw": "ЭКОНОМИКА ТРУДА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "S11",
+   "date": "2026-10-15",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "439f3e61d2fb",
+   "kind": "seminar",
+   "lessonKey": "1791c18cd44c",
+   "pair": 4,
+   "raw": "СЗ АНАЛИЗ - II 2,3 гр. Пепа Р.Ю. 405",
+   "segments": [
+    {
+     "groups": [
+      2,
+      3
+     ],
+     "room": "405",
+     "subgroup": "",
+     "teacher": "Пепа Р.Ю."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Анализ II",
+   "subjectRaw": "АНАЛИЗ - II",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "S12",
+   "date": "2026-10-15",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "27fd20ffba75",
+   "kind": "seminar",
+   "lessonKey": "53849922a88a",
+   "pair": 5,
+   "raw": "СЗ ЭКОНОМИКА ТРУДА 2,3 гр. Починкин Д.В. 404",
+   "segments": [
+    {
+     "groups": [
+      2,
+      3
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Починкин Д.В."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Экономика труда",
+   "subjectRaw": "ЭКОНОМИКА ТРУДА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "S13",
+   "date": "2026-10-15",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "4347fd693ff4",
+   "kind": "seminar",
+   "lessonKey": "e2fc8c1a2229",
+   "pair": 5,
+   "raw": "СЗ АНАЛИЗ - II 1,4 гр. Пепа Р.Ю. 405",
+   "segments": [
+    {
+     "groups": [
+      1,
+      4
+     ],
+     "room": "405",
+     "subgroup": "",
+     "teacher": "Пепа Р.Ю."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Анализ II",
+   "subjectRaw": "АНАЛИЗ - II",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "T6",
+   "date": "2026-10-16",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "75c30d23768e",
+   "kind": "lecture",
+   "lessonKey": "221b591dc18c",
+   "pair": 2,
+   "raw": "ЛЕКЦИЯ СЕТЕВАЯ ЭКОНОМИКА Устюжанина Е.В. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Устюжанина Е.В."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Сетевая экономика",
+   "subjectRaw": "СЕТЕВАЯ ЭКОНОМИКА",
+   "timeOverride": false
+  },
+  {
    "audience": "stream",
    "cell": "U6",
    "date": "2026-10-17",
@@ -4499,7 +4973,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 137,
+  "cells": 153,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -4555,8 +5029,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "0DF85CDDEB801F0B90DD0ADB2DEE52F9730E5EA5",
-  "mtime": 1790155818,
+  "hash": "7D1569B5001FD8AAD7817A5477887834EC0F222E",
+  "mtime": 1790155934,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
