@@ -1,6 +1,6 @@
 {
  "course": 1,
- "generatedAt": "2026-09-24T13:26:50+00:00",
+ "generatedAt": "2026-09-24T13:31:51+00:00",
  "groups": [
   1,
   2,
@@ -3104,11 +3104,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "1e8e5247b932",
+   "id": "000ab55c6ff6",
    "kind": "seminar",
    "lessonKey": "6edb3653ed37",
    "pair": 4,
-   "raw": "СЗ Безопасность жизнедеятельности Дынник В.П. 302",
+   "raw": "14:20 СЗ Безопасность жизнедеятельности Дынник В.П. 302",
    "segments": [
     {
      "groups": [],
@@ -3117,10 +3117,10 @@
      "teacher": "Дынник В.П."
     }
    ],
-   "start": "14:10",
+   "start": "14:20",
    "subject": "Безопасность жизнедеятельности",
    "subjectRaw": "Безопасность жизнедеятельности",
-   "timeOverride": false
+   "timeOverride": true
   },
   {
    "audience": "groups",
@@ -4020,11 +4020,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "bf03267570ed",
+   "id": "faabd249e1c0",
    "kind": "seminar",
    "lessonKey": "91799b806b50",
    "pair": 4,
-   "raw": "СЗ Безопасность жизнедеятельности Дынник В.П. 302",
+   "raw": "14:20 СЗ Безопасность жизнедеятельности Дынник В.П. 302",
    "segments": [
     {
      "groups": [],
@@ -4033,10 +4033,10 @@
      "teacher": "Дынник В.П."
     }
    ],
-   "start": "14:10",
+   "start": "14:20",
    "subject": "Безопасность жизнедеятельности",
    "subjectRaw": "Безопасность жизнедеятельности",
-   "timeOverride": false
+   "timeOverride": true
   },
   {
    "audience": "groups",
@@ -4962,11 +4962,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "3f8a59647836",
+   "id": "949e60f3c431",
    "kind": "seminar",
    "lessonKey": "d950ba754fb6",
    "pair": 4,
-   "raw": "СЗ Безопасность жизнедеятельности Дынник В.П. 302",
+   "raw": "14:20 СЗ Безопасность жизнедеятельности Дынник В.П. 302",
    "segments": [
     {
      "groups": [],
@@ -4975,10 +4975,10 @@
      "teacher": "Дынник В.П."
     }
    ],
-   "start": "14:10",
+   "start": "14:20",
    "subject": "Безопасность жизнедеятельности",
    "subjectRaw": "Безопасность жизнедеятельности",
-   "timeOverride": false
+   "timeOverride": true
   },
   {
    "audience": "groups",
@@ -6904,11 +6904,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "d1a7e7f3a701",
+   "id": "661278ced367",
    "kind": "seminar",
    "lessonKey": "98a3e975fd45",
    "pair": 4,
-   "raw": "СЗ Безопасность жизнедеятельности Дынник В.П. 302",
+   "raw": "14:20 СЗ Безопасность жизнедеятельности Дынник В.П. 302",
    "segments": [
     {
      "groups": [],
@@ -6917,10 +6917,10 @@
      "teacher": "Дынник В.П."
     }
    ],
-   "start": "14:10",
+   "start": "14:20",
    "subject": "Безопасность жизнедеятельности",
    "subjectRaw": "Безопасность жизнедеятельности",
-   "timeOverride": false
+   "timeOverride": true
   },
   {
    "audience": "groups",
@@ -8123,8 +8123,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "4A327032ED41E2BF09B0F50AD1B9C29E0783E3C2",
-  "mtime": 1790256384,
+  "hash": "D568D392AB7878D73691BD02899A26044F85DC61",
+  "mtime": 1790256436,
   "name": "1_курс_Бакалавриат_2026.xlsx",
   "sheet": "1 курс_СЕНТЯБРЬ_26, 1 курс_ОКТЯБРЬ_26",
   "weblink": "zXBY/Ti1JkH8ip"
