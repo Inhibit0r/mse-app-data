@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-09-23T12:15:09+00:00",
+ "generatedAt": "2026-09-24T07:25:14+00:00",
  "groups": [
   1,
   2,
@@ -5432,6 +5432,32 @@
   },
   {
    "audience": "personal",
+   "cell": "K14",
+   "date": "2026-10-07",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "9c001be39e0f",
+   "kind": "retake",
+   "lessonKey": "5843ec5b5b38",
+   "pair": 4,
+   "raw": "14:10 Пересдача за лето Теория игр Карпов А.В.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Карпов А."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Теория игр в",
+   "subjectRaw": "Теория игр В",
+   "timeOverride": true
+  },
+  {
+   "audience": "personal",
    "cell": "K10",
    "date": "2026-10-07",
    "end": "17:15",
@@ -8925,7 +8951,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 269,
+  "cells": 270,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -8981,8 +9007,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "1CC57A10D54FFEA5568574F2C48E351382596E8F",
-  "mtime": 1790165652,
+  "hash": "88CF4E7D48925B7E0DEBA0300309167333E7F5FB",
+  "mtime": 1790234711,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"

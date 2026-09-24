@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-09-23T12:55:14+00:00",
+ "generatedAt": "2026-09-24T07:25:14+00:00",
  "groups": [
   1,
   2,
@@ -5257,6 +5257,32 @@
   },
   {
    "audience": "personal",
+   "cell": "I14",
+   "date": "2026-10-05",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "b7527f39e9b8",
+   "kind": "retake",
+   "lessonKey": "b896609aa0f4",
+   "pair": 4,
+   "raw": "14:10 Пересдача за лето Линейная алгебра Попеленский Ф.Ю. Мироненков А.А. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Попеленский Ф.Ю., Мироненков А.А."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Линейная алгебра",
+   "subjectRaw": "Линейная алгебра",
+   "timeOverride": true
+  },
+  {
+   "audience": "personal",
    "cell": "I12",
    "date": "2026-10-05",
    "end": "17:15",
@@ -8721,7 +8747,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 263,
+  "cells": 264,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -8777,8 +8803,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "478DC27E542E1A4DF4D28BDAE21AC37969CB56C6",
-  "mtime": 1790168077,
+  "hash": "354BD7D3D653D2AA2F0FB81B07D355685E0BEB99",
+  "mtime": 1790234659,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
