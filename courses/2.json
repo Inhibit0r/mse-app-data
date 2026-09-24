@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-09-24T16:08:15+00:00",
+ "generatedAt": "2026-09-24T16:13:19+00:00",
  "groups": [
   1,
   2,
@@ -7376,6 +7376,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "S14",
+   "date": "2026-10-15",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "23a3de8a3a0d",
+   "kind": "retake",
+   "lessonKey": "d5ea167447fa",
+   "pair": 5,
+   "raw": "15:45 Пересдача за лето Психология бизнеса Белоусова В.В.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Белоусова В."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Психология бизнеса в",
+   "subjectRaw": "Психология бизнеса В",
+   "timeOverride": true
+  },
+  {
    "audience": "stream",
    "cell": "T4",
    "date": "2026-10-16",
@@ -8747,7 +8773,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 264,
+  "cells": 265,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -8803,8 +8829,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "3CD826048FF64CAF7B617D30A87B430CFB8205A5",
-  "mtime": 1790265926,
+  "hash": "9D6F386F4F39044FF57C95119FCE166BBB534313",
+  "mtime": 1790266177,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
