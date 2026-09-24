@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-09-24T12:06:38+00:00",
+ "generatedAt": "2026-09-24T13:01:47+00:00",
  "groups": [
   1,
   2,
@@ -3590,22 +3590,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "78df8f1bf072",
+   "id": "dafb404b40c8",
    "kind": "lecture",
-   "lessonKey": "234e0767d222",
+   "lessonKey": "5af8d5528324",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. 308",
+   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. Д",
    "segments": [
     {
      "groups": [],
-     "room": "308",
+     "room": null,
      "subgroup": "",
      "teacher": "Наумова Т.А."
     }
    ],
    "start": "12:25",
-   "subject": "Налоги и налогообложение",
-   "subjectRaw": "Налоги и налогообложение",
+   "subject": "Налоги и налогообложение д",
+   "subjectRaw": "Налоги и налогообложение Д",
    "timeOverride": false
   },
   {
@@ -3616,22 +3616,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "ff5dc18cd889",
+   "id": "700f8a1f1935",
    "kind": "lecture",
-   "lessonKey": "04623abe3409",
+   "lessonKey": "e86ad364fa2b",
    "pair": 4,
-   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. 308",
+   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. Д",
    "segments": [
     {
      "groups": [],
-     "room": "308",
+     "room": null,
      "subgroup": "",
      "teacher": "Наумова Т.А."
     }
    ],
    "start": "14:10",
-   "subject": "Налоги и налогообложение",
-   "subjectRaw": "Налоги и налогообложение",
+   "subject": "Налоги и налогообложение д",
+   "subjectRaw": "Налоги и налогообложение Д",
    "timeOverride": false
   },
   {
@@ -9007,8 +9007,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "03E01B068E5B4431B91295B08E04ACD4844F0D5D",
-  "mtime": 1790251515,
+  "hash": "C81B4BA4809A34634868FA7DB98470AB85EEED4E",
+  "mtime": 1790254882,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
