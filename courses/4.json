@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-23T09:35:32+00:00",
+ "generatedAt": "2026-09-24T07:30:15+00:00",
  "groups": [
   1,
   2,
@@ -4462,6 +4462,32 @@
   },
   {
    "audience": "personal",
+   "cell": "R14",
+   "date": "2026-10-14",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "3437d116bca0",
+   "kind": "retake",
+   "lessonKey": "4c7de8a01201",
+   "pair": 4,
+   "raw": "14:10 Пересдача за лето ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ Мироненков А.А. Тарновская П.И.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Мироненков А.А., Тарновская П."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Эконометрический практикум и",
+   "subjectRaw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ И",
+   "timeOverride": true
+  },
+  {
+   "audience": "personal",
    "cell": "R10",
    "date": "2026-10-14",
    "end": "16:40",
@@ -4973,7 +4999,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 153,
+  "cells": 154,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -5029,8 +5055,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "7D1569B5001FD8AAD7817A5477887834EC0F222E",
-  "mtime": 1790155934,
+  "hash": "24088D1AC9A014B22D80F16A7B78161B772E1EBF",
+  "mtime": 1790234824,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
