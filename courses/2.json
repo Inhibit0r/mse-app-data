@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-09-28T07:50:03+00:00",
+ "generatedAt": "2026-09-28T08:10:05+00:00",
  "groups": [
   1,
   2,
@@ -5315,20 +5315,27 @@
    "flags": {
     "conflict": false
    },
-   "id": "75595c987e6f",
+   "id": "5f9fe2687e56",
    "kind": "seminar",
    "lessonKey": "8e4046b5cccb",
    "pair": 1,
-   "raw": "СЗ МЭО 3,4 гр. Никитина С.А. 402",
+   "raw": "СЗ МЭО 4 гр. Никитина С.А. 402 3 гр. Кочетовская О.С.",
    "segments": [
     {
      "groups": [
-      3,
       4
      ],
      "room": "402",
      "subgroup": "",
      "teacher": "Никитина С.А."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Кочетовская О."
     }
    ],
    "start": "09:00",
@@ -6478,20 +6485,27 @@
    "flags": {
     "conflict": false
    },
-   "id": "04176edebc29",
+   "id": "c9b0398a8101",
    "kind": "seminar",
    "lessonKey": "5eb919cc7b37",
    "pair": 1,
-   "raw": "СЗ МЭО 1,3 гр. Никитина С.А. 402",
+   "raw": "СЗ МЭО 1 гр. Никитина С.А. 402 3 гр. Кочетовская О.С.",
    "segments": [
     {
      "groups": [
-      1,
-      3
+      1
      ],
      "room": "402",
      "subgroup": "",
      "teacher": "Никитина С.А."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Кочетовская О."
     }
    ],
    "start": "09:00",
@@ -8829,8 +8843,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "2076ACDF46033EDCFA2DBF098B4D25DFA11ADD5D",
-  "mtime": 1790581565,
+  "hash": "F41AF0109A3A56C00872988F0533DFDB62F0B224",
+  "mtime": 1790582814,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
