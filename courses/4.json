@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-28T08:45:12+00:00",
+ "generatedAt": "2026-09-28T09:45:19+00:00",
  "groups": [
   1,
   2,
@@ -3220,58 +3220,6 @@
   },
   {
    "audience": "stream",
-   "cell": "G6",
-   "date": "2026-10-03",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "f5ed61135b40",
-   "kind": "lecture",
-   "lessonKey": "c6e428bfd5e0",
-   "pair": 2,
-   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА - II Пылин А.Г. 302",
-   "segments": [
-    {
-     "groups": [],
-     "room": "302",
-     "subgroup": "",
-     "teacher": "Пылин А.Г."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Мировая экономика II",
-   "subjectRaw": "МИРОВАЯ ЭКОНОМИКА - II",
-   "timeOverride": false
-  },
-  {
-   "audience": "stream",
-   "cell": "G8",
-   "date": "2026-10-03",
-   "end": "13:55",
-   "flags": {
-    "conflict": false
-   },
-   "id": "7fda5e110017",
-   "kind": "lecture",
-   "lessonKey": "ec2e4cfb3f85",
-   "pair": 3,
-   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА - II Пылин А.Г. 302",
-   "segments": [
-    {
-     "groups": [],
-     "room": "302",
-     "subgroup": "",
-     "teacher": "Пылин А.Г."
-    }
-   ],
-   "start": "12:25",
-   "subject": "Мировая экономика II",
-   "subjectRaw": "МИРОВАЯ ЭКОНОМИКА - II",
-   "timeOverride": false
-  },
-  {
-   "audience": "stream",
    "cell": "G10",
    "date": "2026-10-03",
    "end": "15:40",
@@ -3922,18 +3870,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "67067b657e31",
+   "id": "b7b61a4f5456",
    "kind": "seminar",
    "lessonKey": "2cd56932d318",
    "pair": 2,
-   "raw": "СЗ МИРОВАЯ ЭКОНОМИКА - II 1,3 гр. Пылин А.Г. 302",
+   "raw": "СЗ МИРОВАЯ ЭКОНОМИКА - II 1,3 гр. Пылин А.Г. 417",
    "segments": [
     {
      "groups": [
       1,
       3
      ],
-     "room": "302",
+     "room": "417",
      "subgroup": "",
      "teacher": "Пылин А.Г."
     }
@@ -3944,22 +3892,25 @@
    "timeOverride": false
   },
   {
-   "audience": "stream",
+   "audience": "groups",
    "cell": "N8",
    "date": "2026-10-10",
    "end": "13:55",
    "flags": {
     "conflict": false
    },
-   "id": "822be12c99f2",
-   "kind": "lecture",
-   "lessonKey": "b90ed6264366",
+   "id": "c2f5016d5656",
+   "kind": "seminar",
+   "lessonKey": "c00662799d2d",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА - II Пылин А.Г. 302",
+   "raw": "СЗ МИРОВАЯ ЭКОНОМИКА - II 2,4 гр. Пылин А.Г. 417",
    "segments": [
     {
-     "groups": [],
-     "room": "302",
+     "groups": [
+      2,
+      4
+     ],
+     "room": "417",
      "subgroup": "",
      "teacher": "Пылин А.Г."
     }
@@ -4658,22 +4609,25 @@
    "timeOverride": false
   },
   {
-   "audience": "stream",
+   "audience": "groups",
    "cell": "U6",
    "date": "2026-10-17",
    "end": "12:10",
    "flags": {
     "conflict": false
    },
-   "id": "fa7fea85feb0",
-   "kind": "lecture",
-   "lessonKey": "8807527af98a",
+   "id": "90495e88b15d",
+   "kind": "seminar",
+   "lessonKey": "788b5881a68d",
    "pair": 2,
-   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА - II Пылин А.Г. 302",
+   "raw": "СЗ МИРОВАЯ ЭКОНОМИКА - II 1,3 гр. Пылин А.Г. 417",
    "segments": [
     {
-     "groups": [],
-     "room": "302",
+     "groups": [
+      1,
+      3
+     ],
+     "room": "417",
      "subgroup": "",
      "teacher": "Пылин А.Г."
     }
@@ -4684,22 +4638,25 @@
    "timeOverride": false
   },
   {
-   "audience": "stream",
+   "audience": "groups",
    "cell": "U8",
    "date": "2026-10-17",
    "end": "13:55",
    "flags": {
     "conflict": false
    },
-   "id": "f9994a75954e",
-   "kind": "lecture",
-   "lessonKey": "c3644d7ff050",
+   "id": "d08d89cd3be5",
+   "kind": "seminar",
+   "lessonKey": "11cf7b7f6166",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА - II Пылин А.Г. 302",
+   "raw": "СЗ МИРОВАЯ ЭКОНОМИКА - II 2,4 гр. Пылин А.Г. 417",
    "segments": [
     {
-     "groups": [],
-     "room": "302",
+     "groups": [
+      2,
+      4
+     ],
+     "room": "417",
      "subgroup": "",
      "teacher": "Пылин А.Г."
     }
@@ -5286,6 +5243,64 @@
    "timeOverride": false
   },
   {
+   "audience": "groups",
+   "cell": "AB6",
+   "date": "2026-10-24",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "eff03262f3f7",
+   "kind": "seminar",
+   "lessonKey": "f489630e7022",
+   "pair": 2,
+   "raw": "СЗ МИРОВАЯ ЭКОНОМИКА - II 1,3 гр. Пылин А.Г. 417",
+   "segments": [
+    {
+     "groups": [
+      1,
+      3
+     ],
+     "room": "417",
+     "subgroup": "",
+     "teacher": "Пылин А.Г."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Мировая экономика II",
+   "subjectRaw": "МИРОВАЯ ЭКОНОМИКА - II",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AB8",
+   "date": "2026-10-24",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "7adca7dd99a5",
+   "kind": "seminar",
+   "lessonKey": "563c32185070",
+   "pair": 3,
+   "raw": "СЗ МИРОВАЯ ЭКОНОМИКА - II 2,4 гр. Пылин А.Г. 417",
+   "segments": [
+    {
+     "groups": [
+      2,
+      4
+     ],
+     "room": "417",
+     "subgroup": "",
+     "teacher": "Пылин А.Г."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Мировая экономика II",
+   "subjectRaw": "МИРОВАЯ ЭКОНОМИКА - II",
+   "timeOverride": false
+  },
+  {
    "audience": "stream",
    "cell": "AB10",
    "date": "2026-10-24",
@@ -5440,6 +5455,58 @@
    "subject": "Военная кафедра",
    "subjectRaw": "",
    "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AI10",
+   "date": "2026-10-31",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "51759850b47e",
+   "kind": "other",
+   "lessonKey": "1b0ec45fd8e0",
+   "pair": 4,
+   "raw": "СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ Шульпин С.Е. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Шульпин С.Е."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Стратегический маркетинг",
+   "subjectRaw": "СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AI12",
+   "date": "2026-10-31",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "492ab4622ea8",
+   "kind": "other",
+   "lessonKey": "e5e9c4a4c02d",
+   "pair": 5,
+   "raw": "СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ Шульпин С.Е. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Шульпин С.Е."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Стратегический маркетинг",
+   "subjectRaw": "СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ",
+   "timeOverride": false
   }
  ],
  "range": {
@@ -5448,7 +5515,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 169,
+  "cells": 171,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -5504,8 +5571,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "FEFE132D36C1514C84A930AC217CA2F95A8C02E6",
-  "mtime": 1790584983,
+  "hash": "77ADCE14C77B581729BF4096EF8A17B191C95965",
+  "mtime": 1790588711,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
