@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-25T16:32:54+00:00",
+ "generatedAt": "2026-09-28T07:55:03+00:00",
  "groups": [
   1,
   2,
@@ -4482,16 +4482,16 @@
   },
   {
    "audience": "groups",
-   "cell": "S10",
+   "cell": "S6",
    "date": "2026-10-15",
-   "end": "15:40",
+   "end": "12:10",
    "flags": {
     "conflict": false
    },
-   "id": "2567d2350ef8",
+   "id": "b15df739a91f",
    "kind": "seminar",
-   "lessonKey": "efdab6bc7e6d",
-   "pair": 4,
+   "lessonKey": "9ff30a0d383d",
+   "pair": 2,
    "raw": "СЗ ЭКОНОМИКА ТРУДА 1,4 гр. Починкин Д.В. 404",
    "segments": [
     {
@@ -4504,23 +4504,23 @@
      "teacher": "Починкин Д.В."
     }
    ],
-   "start": "14:10",
+   "start": "10:40",
    "subject": "Экономика труда",
    "subjectRaw": "ЭКОНОМИКА ТРУДА",
    "timeOverride": false
   },
   {
    "audience": "groups",
-   "cell": "S11",
+   "cell": "S7",
    "date": "2026-10-15",
-   "end": "15:40",
+   "end": "12:10",
    "flags": {
     "conflict": false
    },
-   "id": "439f3e61d2fb",
+   "id": "0fd627b0fe50",
    "kind": "seminar",
-   "lessonKey": "1791c18cd44c",
-   "pair": 4,
+   "lessonKey": "d605e47638c5",
+   "pair": 2,
    "raw": "СЗ АНАЛИЗ - II 2,3 гр. Пепа Р.Ю. 405",
    "segments": [
     {
@@ -4533,23 +4533,23 @@
      "teacher": "Пепа Р.Ю."
     }
    ],
-   "start": "14:10",
+   "start": "10:40",
    "subject": "Анализ II",
    "subjectRaw": "АНАЛИЗ - II",
    "timeOverride": false
   },
   {
    "audience": "groups",
-   "cell": "S12",
+   "cell": "S8",
    "date": "2026-10-15",
-   "end": "17:15",
+   "end": "13:55",
    "flags": {
     "conflict": false
    },
-   "id": "27fd20ffba75",
+   "id": "d158734f8160",
    "kind": "seminar",
-   "lessonKey": "53849922a88a",
-   "pair": 5,
+   "lessonKey": "37f1ec708c71",
+   "pair": 3,
    "raw": "СЗ ЭКОНОМИКА ТРУДА 2,3 гр. Починкин Д.В. 404",
    "segments": [
     {
@@ -4562,23 +4562,23 @@
      "teacher": "Починкин Д.В."
     }
    ],
-   "start": "15:45",
+   "start": "12:25",
    "subject": "Экономика труда",
    "subjectRaw": "ЭКОНОМИКА ТРУДА",
    "timeOverride": false
   },
   {
    "audience": "groups",
-   "cell": "S13",
+   "cell": "S9",
    "date": "2026-10-15",
-   "end": "17:15",
+   "end": "13:55",
    "flags": {
     "conflict": false
    },
-   "id": "4347fd693ff4",
+   "id": "67661722f08b",
    "kind": "seminar",
-   "lessonKey": "e2fc8c1a2229",
-   "pair": 5,
+   "lessonKey": "70a9da2efaab",
+   "pair": 3,
    "raw": "СЗ АНАЛИЗ - II 1,4 гр. Пепа Р.Ю. 405",
    "segments": [
     {
@@ -4591,7 +4591,7 @@
      "teacher": "Пепа Р.Ю."
     }
    ],
-   "start": "15:45",
+   "start": "12:25",
    "subject": "Анализ II",
    "subjectRaw": "АНАЛИЗ - II",
    "timeOverride": false
@@ -5501,8 +5501,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "4171DFDB966D8061D922BCA72E9CD3164819690B",
-  "mtime": 1790353755,
+  "hash": "0B6228EDD4AB68FAB0EC73CF7CF6BEC09AB583F3",
+  "mtime": 1790581878,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
