@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-09-28T08:45:12+00:00",
+ "generatedAt": "2026-09-28T08:50:13+00:00",
  "groups": [
   1,
   2,
@@ -7711,21 +7711,29 @@
    "date": "2026-10-20",
    "end": "10:30",
    "flags": {
-    "conflict": false
+    "conflict": true
    },
-   "id": "0a25ccf8c3ff",
+   "id": "8baa20e8873f",
    "kind": "seminar",
    "lessonKey": "dd84b2e332fd",
    "pair": 1,
-   "raw": "СЗ МЭО 4 гр. Никитина С.А. 402",
+   "raw": "СЗ МЭО 2 гр. Никитина С.А. 402 3 гр. Кочетовская О.С.",
    "segments": [
     {
      "groups": [
-      4
+      2
      ],
      "room": "402",
      "subgroup": "",
      "teacher": "Никитина С.А."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Кочетовская О."
     }
    ],
    "start": "09:00",
@@ -7739,7 +7747,7 @@
    "date": "2026-10-20",
    "end": "10:30",
    "flags": {
-    "conflict": false
+    "conflict": true
    },
    "id": "c9ae17ffd447",
    "kind": "seminar",
@@ -8850,8 +8858,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "A5FE3C796DC12BA531A62A7A225D542C38D7096F",
-  "mtime": 1790585107,
+  "hash": "C9C41A53E67A22176AD16BF458608203517FED6C",
+  "mtime": 1790585284,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
@@ -8863,6 +8871,22 @@
    ],
    "code": "no_time",
    "message": "событие без времени в ячейке P14 (2026-09-15)"
+  },
+  {
+   "cells": [
+    "X4",
+    "X5"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-10-20 пара 1: группа 3 в двух парах"
+  },
+  {
+   "cells": [
+    "X4",
+    "X5"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-10-20 пара 1: группа 2 в двух парах"
   }
  ]
 }
