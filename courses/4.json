@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-28T07:55:03+00:00",
+ "generatedAt": "2026-09-28T08:45:12+00:00",
  "groups": [
   1,
   2,
@@ -3915,21 +3915,24 @@
    "timeOverride": false
   },
   {
-   "audience": "stream",
+   "audience": "groups",
    "cell": "N6",
    "date": "2026-10-10",
    "end": "12:10",
    "flags": {
     "conflict": false
    },
-   "id": "e9375cbf0d4f",
-   "kind": "lecture",
-   "lessonKey": "651dacded859",
+   "id": "67067b657e31",
+   "kind": "seminar",
+   "lessonKey": "2cd56932d318",
    "pair": 2,
-   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА - II Пылин А.Г. 302",
+   "raw": "СЗ МИРОВАЯ ЭКОНОМИКА - II 1,3 гр. Пылин А.Г. 302",
    "segments": [
     {
-     "groups": [],
+     "groups": [
+      1,
+      3
+     ],
      "room": "302",
      "subgroup": "",
      "teacher": "Пылин А.Г."
@@ -5501,8 +5504,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "0B6228EDD4AB68FAB0EC73CF7CF6BEC09AB583F3",
-  "mtime": 1790581878,
+  "hash": "FEFE132D36C1514C84A930AC217CA2F95A8C02E6",
+  "mtime": 1790584983,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"

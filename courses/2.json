@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-09-28T08:35:11+00:00",
+ "generatedAt": "2026-09-28T08:45:12+00:00",
  "groups": [
   1,
   2,
@@ -7741,15 +7741,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "c7b10c856130",
+   "id": "c9ae17ffd447",
    "kind": "seminar",
    "lessonKey": "08bf9c4a6d44",
    "pair": 1,
-   "raw": "СЗ СМАД 2 гр. Колпаков Д.В. 303 СЗ МЭО 2гр. Никитина С.А. 402",
+   "raw": "СЗ СМАД 3 гр. Колпаков Д.В. 303 СЗ МЭО 2гр. Никитина С.А. 402",
    "segments": [
     {
      "groups": [
-      2
+      3
      ],
      "room": "303",
      "subgroup": "",
@@ -7989,15 +7989,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "bc0e5a2ad307",
+   "id": "cbee20e64058",
    "kind": "seminar",
    "lessonKey": "bbbf776bb08b",
    "pair": 4,
-   "raw": "СЗ СМАД 3 гр. Колпаков Д.В. 304",
+   "raw": "СЗ СМАД 2 гр. Колпаков Д.В. 304",
    "segments": [
     {
      "groups": [
-      3
+      2
      ],
      "room": "304",
      "subgroup": "",
@@ -8850,8 +8850,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "EDBF6E06984C283687BEA27A28EB70B8989DD9DD",
-  "mtime": 1790584424,
+  "hash": "A5FE3C796DC12BA531A62A7A225D542C38D7096F",
+  "mtime": 1790585107,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
