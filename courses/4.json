@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-28T09:50:20+00:00",
+ "generatedAt": "2026-09-28T11:11:15+00:00",
  "groups": [
   1,
   2,
@@ -2973,58 +2973,6 @@
    "timeOverride": false
   },
   {
-   "audience": "stream",
-   "cell": "E6",
-   "date": "2026-10-01",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "8758d3d1c854",
-   "kind": "lecture",
-   "lessonKey": "d903ff98df48",
-   "pair": 2,
-   "raw": "ЛЕКЦИЯ СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Потапенко В.В. 113",
-   "segments": [
-    {
-     "groups": [],
-     "room": "113",
-     "subgroup": "",
-     "teacher": "Потапенко В.В."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Состояние и перспективы российской экономики",
-   "subjectRaw": "СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ",
-   "timeOverride": false
-  },
-  {
-   "audience": "stream",
-   "cell": "E8",
-   "date": "2026-10-01",
-   "end": "13:55",
-   "flags": {
-    "conflict": false
-   },
-   "id": "21b243e19a6a",
-   "kind": "lecture",
-   "lessonKey": "1bc8bfffe689",
-   "pair": 3,
-   "raw": "ЛЕКЦИЯ СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Потапенко В.В. 113",
-   "segments": [
-    {
-     "groups": [],
-     "room": "113",
-     "subgroup": "",
-     "teacher": "Потапенко В.В."
-    }
-   ],
-   "start": "12:25",
-   "subject": "Состояние и перспективы российской экономики",
-   "subjectRaw": "СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ",
-   "timeOverride": false
-  },
-  {
    "audience": "groups",
    "cell": "E10",
    "date": "2026-10-01",
@@ -4435,17 +4383,69 @@
    "timeOverride": false
   },
   {
-   "audience": "groups",
+   "audience": "stream",
    "cell": "S6",
    "date": "2026-10-15",
    "end": "12:10",
    "flags": {
     "conflict": false
    },
-   "id": "b15df739a91f",
-   "kind": "seminar",
-   "lessonKey": "9ff30a0d383d",
+   "id": "0c366e6bfee8",
+   "kind": "lecture",
+   "lessonKey": "d6410d28c06f",
    "pair": 2,
+   "raw": "ЛЕКЦИЯ СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Устинов В.С. 113",
+   "segments": [
+    {
+     "groups": [],
+     "room": "113",
+     "subgroup": "",
+     "teacher": "Устинов В.С."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Состояние и перспективы российской экономики",
+   "subjectRaw": "СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "S8",
+   "date": "2026-10-15",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "c5b7ec51dd46",
+   "kind": "lecture",
+   "lessonKey": "8771a1daf854",
+   "pair": 3,
+   "raw": "ЛЕКЦИЯ СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Потапенко В.В. 113",
+   "segments": [
+    {
+     "groups": [],
+     "room": "113",
+     "subgroup": "",
+     "teacher": "Потапенко В.В."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Состояние и перспективы российской экономики",
+   "subjectRaw": "СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "S10",
+   "date": "2026-10-15",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "2567d2350ef8",
+   "kind": "seminar",
+   "lessonKey": "efdab6bc7e6d",
+   "pair": 4,
    "raw": "СЗ ЭКОНОМИКА ТРУДА 1,4 гр. Починкин Д.В. 404",
    "segments": [
     {
@@ -4458,23 +4458,23 @@
      "teacher": "Починкин Д.В."
     }
    ],
-   "start": "10:40",
+   "start": "14:10",
    "subject": "Экономика труда",
    "subjectRaw": "ЭКОНОМИКА ТРУДА",
    "timeOverride": false
   },
   {
    "audience": "groups",
-   "cell": "S7",
+   "cell": "S11",
    "date": "2026-10-15",
-   "end": "12:10",
+   "end": "15:40",
    "flags": {
     "conflict": false
    },
-   "id": "0fd627b0fe50",
+   "id": "439f3e61d2fb",
    "kind": "seminar",
-   "lessonKey": "d605e47638c5",
-   "pair": 2,
+   "lessonKey": "1791c18cd44c",
+   "pair": 4,
    "raw": "СЗ АНАЛИЗ - II 2,3 гр. Пепа Р.Ю. 405",
    "segments": [
     {
@@ -4487,23 +4487,23 @@
      "teacher": "Пепа Р.Ю."
     }
    ],
-   "start": "10:40",
+   "start": "14:10",
    "subject": "Анализ II",
    "subjectRaw": "АНАЛИЗ - II",
    "timeOverride": false
   },
   {
    "audience": "groups",
-   "cell": "S8",
+   "cell": "S12",
    "date": "2026-10-15",
-   "end": "13:55",
+   "end": "17:15",
    "flags": {
     "conflict": false
    },
-   "id": "d158734f8160",
+   "id": "27fd20ffba75",
    "kind": "seminar",
-   "lessonKey": "37f1ec708c71",
-   "pair": 3,
+   "lessonKey": "53849922a88a",
+   "pair": 5,
    "raw": "СЗ ЭКОНОМИКА ТРУДА 2,3 гр. Починкин Д.В. 404",
    "segments": [
     {
@@ -4516,23 +4516,23 @@
      "teacher": "Починкин Д.В."
     }
    ],
-   "start": "12:25",
+   "start": "15:45",
    "subject": "Экономика труда",
    "subjectRaw": "ЭКОНОМИКА ТРУДА",
    "timeOverride": false
   },
   {
    "audience": "groups",
-   "cell": "S9",
+   "cell": "S13",
    "date": "2026-10-15",
-   "end": "13:55",
+   "end": "17:15",
    "flags": {
     "conflict": false
    },
-   "id": "67661722f08b",
+   "id": "4347fd693ff4",
    "kind": "seminar",
-   "lessonKey": "70a9da2efaab",
-   "pair": 3,
+   "lessonKey": "e2fc8c1a2229",
+   "pair": 5,
    "raw": "СЗ АНАЛИЗ - II 1,4 гр. Пепа Р.Ю. 405",
    "segments": [
     {
@@ -4545,7 +4545,7 @@
      "teacher": "Пепа Р.Ю."
     }
    ],
-   "start": "12:25",
+   "start": "15:45",
    "subject": "Анализ II",
    "subjectRaw": "АНАЛИЗ - II",
    "timeOverride": false
@@ -6103,8 +6103,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "DF65640F37E73CC26571DC18153CD79D71AF4906",
-  "mtime": 1790588921,
+  "hash": "A1243C758F186EE8525BD81627A8C4A2973B2CF2",
+  "mtime": 1790593875,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
