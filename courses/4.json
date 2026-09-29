@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-28T11:47:13+00:00",
+ "generatedAt": "2026-09-29T09:05:56+00:00",
  "groups": [
   1,
   2,
@@ -3089,6 +3089,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "F14",
+   "date": "2026-10-02",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "d5c48e547ec4",
+   "kind": "commission",
+   "lessonKey": "46c8751df0b8",
+   "pair": 1,
+   "raw": "09:00 Комиссия за зиму СЭС Шаклеина М.В. Селезнев А.И. 403",
+   "segments": [
+    {
+     "groups": [],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Шаклеина М.В., Селезнев А.И."
+    }
+   ],
+   "start": "09:00",
+   "subject": "СЭС",
+   "subjectRaw": "СЭС",
+   "timeOverride": true
+  },
+  {
    "audience": "stream",
    "cell": "F6",
    "date": "2026-10-02",
@@ -6099,7 +6125,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 191,
+  "cells": 192,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -6155,8 +6181,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "ED019EE539C41CA8E25D84FABE9A709A969D8803",
-  "mtime": 1790595873,
+  "hash": "EFB046A6A242FAFD81CECB6755FC5F7FF62D1994",
+  "mtime": 1790672626,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
