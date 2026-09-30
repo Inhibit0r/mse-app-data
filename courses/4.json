@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-30T07:44:47+00:00",
+ "generatedAt": "2026-09-30T08:20:15+00:00",
  "groups": [
   1,
   2,
@@ -3375,6 +3375,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "I14",
+   "date": "2026-10-05",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "241a46210529",
+   "kind": "retake",
+   "lessonKey": "ae4691fc5566",
+   "pair": 5,
+   "raw": "16:00 Пересдача за лето Финансовый менеджмент Алимурадов М.К Гаврилина Д.Н. Мидов А.З",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Алимурадов М., Гаврилина Д.Н., Мидов А."
+    }
+   ],
+   "start": "16:00",
+   "subject": "Финансовый менеджмент к з",
+   "subjectRaw": "Финансовый менеджмент К З",
+   "timeOverride": true
+  },
+  {
    "audience": "stream",
    "cell": "J10",
    "date": "2026-10-06",
@@ -3434,22 +3460,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "59ae61301d4d",
+   "id": "d802ae0b65e4",
    "kind": "retake",
-   "lessonKey": "a3bf69aa1007",
+   "lessonKey": "68a41673af5a",
    "pair": 6,
-   "raw": "17:20 Пересдача за лето Финансовый менеджмент Алимурадов М.К Гаврилина Д.Н. Мидов А.З",
+   "raw": "17:20 Пересдача за лето Макроэкономика Кукушкин Д.С. Герелишина А.К.",
    "segments": [
     {
      "groups": [],
      "room": null,
      "subgroup": "",
-     "teacher": "Алимурадов М., Гаврилина Д.Н., Мидов А."
+     "teacher": "Кукушкин Д.С., Герелишина А."
     }
    ],
    "start": "17:20",
-   "subject": "Финансовый менеджмент к з",
-   "subjectRaw": "Финансовый менеджмент К З",
+   "subject": "Макроэкономика к",
+   "subjectRaw": "Макроэкономика К",
    "timeOverride": true
   },
   {
@@ -6125,7 +6151,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 192,
+  "cells": 193,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -6181,8 +6207,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "6B3F0975EF57F984B6B5B8D6BFD247B3B30F4DC2",
-  "mtime": 1790753989,
+  "hash": "CCDE1588EE7593CEEA62A53ABE4008BE93D5C423",
+  "mtime": 1790756282,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
