@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-30T09:30:46+00:00",
+ "generatedAt": "2026-09-30T13:11:04+00:00",
  "groups": [
   1,
   2,
@@ -2845,11 +2845,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "ece6afa82fd6",
-   "kind": "seminar",
-   "lessonKey": "ea5a4bb952d6",
+   "id": "a8fcc2b9f2e8",
+   "kind": "other",
+   "lessonKey": "69f91921e0f0",
    "pair": 3,
-   "raw": "СЗ ФИНАНСЫ И КРЕДИТ 1,4 гр. Мусаев Р.А. 417",
+   "raw": "ОТМ СЗ ФИНАНСЫ И КРЕДИТ 1,4 гр. Мусаев Р.А. 417",
    "segments": [
     {
      "groups": [
@@ -2862,8 +2862,8 @@
     }
    ],
    "start": "12:25",
-   "subject": "Финансы и кредит",
-   "subjectRaw": "ФИНАНСЫ И КРЕДИТ",
+   "subject": "ОТМ СЗ финансы и кредит",
+   "subjectRaw": "ОТМ СЗ ФИНАНСЫ И КРЕДИТ",
    "timeOverride": false
   },
   {
@@ -6207,8 +6207,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "09004481465BCAF49B52C1680EEB4A6EC932E1FD",
-  "mtime": 1790760506,
+  "hash": "7AE888B65F1B490294A872015F1FA2824799F33A",
+  "mtime": 1790773854,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
