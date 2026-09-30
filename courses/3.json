@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-09-30T07:39:47+00:00",
+ "generatedAt": "2026-09-30T07:54:48+00:00",
  "groups": [
   1,
   2,
@@ -6654,6 +6654,32 @@
   },
   {
    "audience": "personal",
+   "cell": "S14",
+   "date": "2026-10-15",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "119a774fde5a",
+   "kind": "retake",
+   "lessonKey": "3bd594181054",
+   "pair": 5,
+   "raw": "15:45 Пересдача за лето ТВИМС Курбацкий А.Н. Тарновская П.И. Бадулина Н.А. 402",
+   "segments": [
+    {
+     "groups": [],
+     "room": "402",
+     "subgroup": "",
+     "teacher": "Курбацкий А.Н., Тарновская П.И., Бадулина Н.А."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Теория вероятностей и математическая статистика",
+   "subjectRaw": "ТВИМС",
+   "timeOverride": true
+  },
+  {
+   "audience": "personal",
    "cell": "T4",
    "date": "2026-10-16",
    "end": "10:30",
@@ -8929,7 +8955,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 270,
+  "cells": 271,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -8985,8 +9011,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "970D8DDF9EB272FB364EDD5EE6867332EE17A6FD",
-  "mtime": 1790753781,
+  "hash": "B110F7A1802B8EDD0A0E0975D69347C9CBF94DBE",
+  "mtime": 1790754876,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
