@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-09-29T12:01:11+00:00",
+ "generatedAt": "2026-09-30T07:34:47+00:00",
  "groups": [
   1,
   2,
@@ -4377,42 +4377,6 @@
    "timeOverride": true
   },
   {
-   "audience": "groups",
-   "cell": "E6",
-   "date": "2026-10-01",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "22054e015ff2",
-   "kind": "seminar",
-   "lessonKey": "c492a37973cd",
-   "pair": 2,
-   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 1 гр. Шаклеина М.В. 303 2 гр. Попова Т.А. 304",
-   "segments": [
-    {
-     "groups": [
-      1
-     ],
-     "room": "303",
-     "subgroup": "",
-     "teacher": "Шаклеина М.В."
-    },
-    {
-     "groups": [
-      2
-     ],
-     "room": "304",
-     "subgroup": "",
-     "teacher": "Попова Т.А."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Социально-экономическая статистика",
-   "subjectRaw": "СОЦ.- ЭКОНОМ. СТАТИСТИКА",
-   "timeOverride": false
-  },
-  {
    "audience": "stream",
    "cell": "E8",
    "date": "2026-10-01",
@@ -5466,6 +5430,42 @@
    "start": "15:45",
    "subject": "Межфакультетские курсы",
    "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "L5",
+   "date": "2026-10-08",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "3f73db760ae9",
+   "kind": "seminar",
+   "lessonKey": "16de4b93ff3c",
+   "pair": 1,
+   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 1 гр. Шаклеина М.В. 303 2 гр. Попова Т.А. 304",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "303",
+     "subgroup": "",
+     "teacher": "Шаклеина М.В."
+    },
+    {
+     "groups": [
+      2
+     ],
+     "room": "304",
+     "subgroup": "",
+     "teacher": "Попова Т.А."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Социально-экономическая статистика",
+   "subjectRaw": "СОЦ.- ЭКОНОМ. СТАТИСТИКА",
    "timeOverride": false
   },
   {
@@ -8993,8 +8993,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "BE3A64B87A0066B8EDEF978CEA9C5D221A77C621",
-  "mtime": 1790683092,
+  "hash": "B1C9F7DB62345AA11B9BECA72740AEF829B8229F",
+  "mtime": 1790753664,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
