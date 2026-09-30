@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-30T08:20:15+00:00",
+ "generatedAt": "2026-09-30T09:30:46+00:00",
  "groups": [
   1,
   2,
@@ -2948,16 +2948,16 @@
   },
   {
    "audience": "stream",
-   "cell": "E4",
+   "cell": "E6",
    "date": "2026-10-01",
-   "end": "10:30",
+   "end": "12:10",
    "flags": {
     "conflict": false
    },
-   "id": "266e50057d02",
+   "id": "6d9bc086e32e",
    "kind": "lecture",
-   "lessonKey": "0a15a7802e45",
-   "pair": 1,
+   "lessonKey": "fac3373fc7bf",
+   "pair": 2,
    "raw": "ЛЕКЦИЯ АНАЛИЗ-II Пепа Р.Ю. 308",
    "segments": [
     {
@@ -2967,9 +2967,38 @@
      "teacher": "Пепа Р.Ю."
     }
    ],
-   "start": "09:00",
+   "start": "10:40",
    "subject": "Анализ II",
    "subjectRaw": "АНАЛИЗ-II",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "E8",
+   "date": "2026-10-01",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "e43457c2073b",
+   "kind": "seminar",
+   "lessonKey": "e2917a3992b8",
+   "pair": 3,
+   "raw": "СЗ ЭКОНОМИКА ТРУДА 2,3 гр. Починкин Д.В. 404",
+   "segments": [
+    {
+     "groups": [
+      2,
+      3
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Починкин Д.В."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Экономика труда",
+   "subjectRaw": "ЭКОНОМИКА ТРУДА",
    "timeOverride": false
   },
   {
@@ -3028,35 +3057,6 @@
    "start": "14:10",
    "subject": "Анализ II",
    "subjectRaw": "АНАЛИЗ - II",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "E12",
-   "date": "2026-10-01",
-   "end": "17:15",
-   "flags": {
-    "conflict": false
-   },
-   "id": "f5a09ab82b3e",
-   "kind": "seminar",
-   "lessonKey": "bba73f0e34b1",
-   "pair": 5,
-   "raw": "СЗ ЭКОНОМИКА ТРУДА 2,3 гр. Починкин Д.В. 404",
-   "segments": [
-    {
-     "groups": [
-      2,
-      3
-     ],
-     "room": "404",
-     "subgroup": "",
-     "teacher": "Починкин Д.В."
-    }
-   ],
-   "start": "15:45",
-   "subject": "Экономика труда",
-   "subjectRaw": "ЭКОНОМИКА ТРУДА",
    "timeOverride": false
   },
   {
@@ -6207,8 +6207,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "CCDE1588EE7593CEEA62A53ABE4008BE93D5C423",
-  "mtime": 1790756282,
+  "hash": "09004481465BCAF49B52C1680EEB4A6EC932E1FD",
+  "mtime": 1790760506,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
