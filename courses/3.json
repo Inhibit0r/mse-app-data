@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-09-30T07:59:49+00:00",
+ "generatedAt": "2026-09-30T09:35:46+00:00",
  "groups": [
   1,
   2,
@@ -6059,6 +6059,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "P14",
+   "date": "2026-10-12",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "fb39f63f9cee",
+   "kind": "retake",
+   "lessonKey": "fd7823a302fb",
+   "pair": 6,
+   "raw": "17:20 Пересдача за лето История экономических учений Починкин Д.В.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Починкин Д."
+    }
+   ],
+   "start": "17:20",
+   "subject": "История экономических учений в",
+   "subjectRaw": "История экономических учений В",
+   "timeOverride": true
+  },
+  {
    "audience": "stream",
    "cell": "Q4",
    "date": "2026-10-13",
@@ -8955,7 +8981,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 271,
+  "cells": 272,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -9011,8 +9037,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "A2FFA1B548BA447E2D953A144A7EDA3CEC2844C5",
-  "mtime": 1790754960,
+  "hash": "03A0CE18293AF8367F750A31BA977BA515F85E40",
+  "mtime": 1790760718,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
