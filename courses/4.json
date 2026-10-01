@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-09-30T13:11:04+00:00",
+ "generatedAt": "2026-10-01T07:08:55+00:00",
  "groups": [
   1,
   2,
@@ -3460,11 +3460,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "d802ae0b65e4",
-   "kind": "retake",
-   "lessonKey": "68a41673af5a",
+   "id": "2f5c6d34ec38",
+   "kind": "commission",
+   "lessonKey": "103af6e865c1",
    "pair": 6,
-   "raw": "17:20 Пересдача за лето Макроэкономика Кукушкин Д.С. Герелишина А.К.",
+   "raw": "17:20 Комиссия за зиму Макроэкономика Кукушкин Д.С. Герелишина А.К.",
    "segments": [
     {
      "groups": [],
@@ -5005,6 +5005,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "X14",
+   "date": "2026-10-20",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "f115e27dce28",
+   "kind": "retake",
+   "lessonKey": "76c3415c4bed",
+   "pair": 6,
+   "raw": "17:20 Пересдача за лето Микроэкономика Кукушкин Д.С.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Кукушкин Д."
+    }
+   ],
+   "start": "17:20",
+   "subject": "Микроэкономика с",
+   "subjectRaw": "Микроэкономика С",
+   "timeOverride": true
+  },
+  {
    "audience": "stream",
    "cell": "Y4",
    "date": "2026-10-21",
@@ -6151,7 +6177,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 193,
+  "cells": 194,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -6207,8 +6233,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "7AE888B65F1B490294A872015F1FA2824799F33A",
-  "mtime": 1790773854,
+  "hash": "2875C91820CC8A0188BDDBEBB1281E8FC4CB1DAB",
+  "mtime": 1790838353,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"

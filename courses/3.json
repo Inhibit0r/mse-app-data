@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-09-30T13:06:03+00:00",
+ "generatedAt": "2026-10-01T07:08:55+00:00",
  "groups": [
   1,
   2,
@@ -7377,6 +7377,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "X14",
+   "date": "2026-10-20",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "723ecde6889f",
+   "kind": "retake",
+   "lessonKey": "2ed065992915",
+   "pair": 6,
+   "raw": "17:20 Пересдача за лето для всех Микроэкономика - I Кукушкин Д.С. Малютина О.С. Починкин Д.В. 403",
+   "segments": [
+    {
+     "groups": [],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Кукушкин Д.С., Малютина О.С., Починкин Д.В."
+    }
+   ],
+   "start": "17:20",
+   "subject": "Для всех микроэкономика - I",
+   "subjectRaw": "для всех Микроэкономика - I",
+   "timeOverride": true
+  },
+  {
    "audience": "stream",
    "cell": "Y4",
    "date": "2026-10-21",
@@ -8981,7 +9007,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 272,
+  "cells": 273,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -9037,8 +9063,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "B54B04987F76435FAA40F3B23303801D67ECC2E9",
-  "mtime": 1790773385,
+  "hash": "4AE7B43565C1ADC1E342EDA4E28302AA00EAEAD5",
+  "mtime": 1790838428,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
