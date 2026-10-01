@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-10-01T09:39:08+00:00",
+ "generatedAt": "2026-10-01T11:04:15+00:00",
  "groups": [
   1,
   2,
@@ -5783,6 +5783,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "N14",
+   "date": "2026-10-10",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "14bfe845209a",
+   "kind": "commission",
+   "lessonKey": "6e6c75b22cde",
+   "pair": 4,
+   "raw": "15:00 Комиссия за зиму Право Болдырев О.Ю. 316",
+   "segments": [
+    {
+     "groups": [],
+     "room": "316",
+     "subgroup": "",
+     "teacher": "Болдырев О.Ю."
+    }
+   ],
+   "start": "15:00",
+   "subject": "Право",
+   "subjectRaw": "Право",
+   "timeOverride": true
+  },
+  {
    "audience": "groups",
    "cell": "P4",
    "date": "2026-10-12",
@@ -8951,7 +8977,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 273,
+  "cells": 274,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -9007,8 +9033,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "4F78CB565CA7BEFA6739E7318789C0833ED46E2F",
-  "mtime": 1790847471,
+  "hash": "C3D0B9A97EFF549D81E9A945C9DC56EEA4075E91",
+  "mtime": 1790852480,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
