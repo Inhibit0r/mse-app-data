@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-10-01T07:08:55+00:00",
+ "generatedAt": "2026-10-01T07:13:56+00:00",
  "groups": [
   1,
   2,
@@ -3402,6 +3402,32 @@
   },
   {
    "audience": "stream",
+   "cell": "J8",
+   "date": "2026-10-06",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "18eeef33aa89",
+   "kind": "other",
+   "lessonKey": "9a5b4b08e47e",
+   "pair": 3,
+   "raw": "12;10 Комиссия за зиму ТПЭП Яковлев А.А.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Яковлев А.А."
+    }
+   ],
+   "start": "12:25",
+   "subject": "12;10 комиссия за зиму тпэп",
+   "subjectRaw": "12;10 Комиссия за зиму ТПЭП",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
    "cell": "J10",
    "date": "2026-10-06",
    "end": "15:40",
@@ -6177,7 +6203,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 194,
+  "cells": 195,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -6233,8 +6259,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "2875C91820CC8A0188BDDBEBB1281E8FC4CB1DAB",
-  "mtime": 1790838353,
+  "hash": "2B9807E4F9FC9FD01E6FCF04D94ED57DE192FFDB",
+  "mtime": 1790838826,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
