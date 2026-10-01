@@ -1,15 +1,15 @@
 {
- "checkedAt": "2026-10-01T08:59:04+00:00",
+ "checkedAt": "2026-10-01T09:14:06+00:00",
  "courses": {
   "1": {
-   "hash": "766766ED224A79ED5FEFF64CDF5A14E846283087",
-   "mtime": 1790842604,
+   "hash": "4ADA6EC3F066EEF0ADF5E9C89C30577B198997AC",
+   "mtime": 1790845771,
    "path": "courses/1.json",
    "range": {
     "from": "2026-09-01",
     "to": "2026-10-31"
    },
-   "version": "2026-10-01T08:19:01+00:00"
+   "version": "2026-10-01T09:14:06+00:00"
   },
   "2": {
    "hash": "5FC915B18A6220DBF3DAA5E7C2AB95C5F0B34E6F",
@@ -42,6 +42,6 @@
    "version": "2026-10-01T08:49:03+00:00"
   }
  },
- "generatedAt": "2026-10-01T08:59:04+00:00",
+ "generatedAt": "2026-10-01T09:14:06+00:00",
  "schemaVersion": 1
 }
