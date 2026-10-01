@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-10-01T08:44:03+00:00",
+ "generatedAt": "2026-10-01T08:49:03+00:00",
  "groups": [
   1,
   2,
@@ -3486,22 +3486,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "2f5c6d34ec38",
+   "id": "dcee3bf754c8",
    "kind": "commission",
-   "lessonKey": "103af6e865c1",
+   "lessonKey": "13667ad5aaea",
    "pair": 6,
-   "raw": "17:20 Комиссия за зиму Макроэкономика Кукушкин Д.С. Герелишина А.К.",
+   "raw": "17:20 Комиссия за зиму Макроэкономика Кукушкин Д.С. Герелишина А.К. 302",
    "segments": [
     {
      "groups": [],
-     "room": null,
+     "room": "302",
      "subgroup": "",
-     "teacher": "Кукушкин Д.С., Герелишина А."
+     "teacher": "Кукушкин Д.С., Герелишина А.К."
     }
    ],
    "start": "17:20",
-   "subject": "Макроэкономика к",
-   "subjectRaw": "Макроэкономика К",
+   "subject": "Макроэкономика",
+   "subjectRaw": "Макроэкономика",
    "timeOverride": true
   },
   {
@@ -3676,15 +3676,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "a1f3d5b7e6cb",
+   "id": "c8da1a8d5499",
    "kind": "lecture",
    "lessonKey": "bac4c01aa1de",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ АНАЛИЗ-II Пепа Р.Ю. 417",
+   "raw": "ЛЕКЦИЯ АНАЛИЗ-II Пепа Р.Ю. 302",
    "segments": [
     {
      "groups": [],
-     "room": "417",
+     "room": "302",
      "subgroup": "",
      "teacher": "Пепа Р.Ю."
     }
@@ -3692,32 +3692,6 @@
    "start": "09:00",
    "subject": "Анализ II",
    "subjectRaw": "АНАЛИЗ-II",
-   "timeOverride": false
-  },
-  {
-   "audience": "stream",
-   "cell": "L6",
-   "date": "2026-10-08",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "2098855d02a9",
-   "kind": "lecture",
-   "lessonKey": "5ac0515f3211",
-   "pair": 2,
-   "raw": "ЛЕКЦИЯ СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Потапенко В.В. 113",
-   "segments": [
-    {
-     "groups": [],
-     "room": "113",
-     "subgroup": "",
-     "teacher": "Потапенко В.В."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Состояние и перспективы российской экономики",
-   "subjectRaw": "СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ",
    "timeOverride": false
   },
   {
@@ -3783,18 +3757,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "c5d004ea1e51",
+   "id": "e87c61bea944",
    "kind": "seminar",
    "lessonKey": "d96b04da51c6",
    "pair": 4,
-   "raw": "СЗ АНАЛИЗ - II 2,3 гр. Пепа Р.Ю. 405",
+   "raw": "СЗ АНАЛИЗ - II 2,3 гр. Пепа Р.Ю. 418",
    "segments": [
     {
      "groups": [
       2,
       3
      ],
-     "room": "405",
+     "room": "418",
      "subgroup": "",
      "teacher": "Пепа Р.Ю."
     }
@@ -3841,18 +3815,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "468f81be532b",
+   "id": "4479e2728e24",
    "kind": "seminar",
    "lessonKey": "1f26b2faed19",
    "pair": 5,
-   "raw": "СЗ АНАЛИЗ - II 1,4 гр. Пепа Р.Ю. 405",
+   "raw": "СЗ АНАЛИЗ - II 1,4 гр. Пепа Р.Ю. 418",
    "segments": [
     {
      "groups": [
       1,
       4
      ],
-     "room": "405",
+     "room": "418",
      "subgroup": "",
      "teacher": "Пепа Р.Ю."
     }
@@ -6203,7 +6177,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 195,
+  "cells": 194,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -6259,8 +6233,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "6EAE609A59E080A990BB4D132C4E1D5D4C96A6E4",
-  "mtime": 1790844204,
+  "hash": "4468823B0F689B32FFFA0ED190270BE556FDB469",
+  "mtime": 1790844340,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
