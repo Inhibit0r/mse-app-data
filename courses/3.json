@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-10-01T08:39:02+00:00",
+ "generatedAt": "2026-10-01T08:44:03+00:00",
  "groups": [
   1,
   2,
@@ -4650,22 +4650,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "ac1855be458e",
+   "id": "25b2530532dd",
    "kind": "lecture",
-   "lessonKey": "8b60902494d4",
+   "lessonKey": "f320bace4c5f",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. 402",
+   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. Д",
    "segments": [
     {
      "groups": [],
-     "room": "402",
+     "room": null,
      "subgroup": "",
      "teacher": "Наумова Т.А."
     }
    ],
    "start": "12:25",
-   "subject": "Налоги и налогообложение",
-   "subjectRaw": "Налоги и налогообложение",
+   "subject": "Налоги и налогообложение д",
+   "subjectRaw": "Налоги и налогообложение Д",
    "timeOverride": false
   },
   {
@@ -4676,22 +4676,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "95585c5d950b",
+   "id": "8a1973d87fa0",
    "kind": "lecture",
-   "lessonKey": "63196ff1b55d",
+   "lessonKey": "01a22659b62a",
    "pair": 4,
-   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. 402",
+   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. Д",
    "segments": [
     {
      "groups": [],
-     "room": "402",
+     "room": null,
      "subgroup": "",
      "teacher": "Наумова Т.А."
     }
    ],
    "start": "14:10",
-   "subject": "Налоги и налогообложение",
-   "subjectRaw": "Налоги и налогообложение",
+   "subject": "Налоги и налогообложение д",
+   "subjectRaw": "Налоги и налогообложение Д",
    "timeOverride": false
   },
   {
@@ -4924,22 +4924,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "29e9072343b0",
+   "id": "e8fe0754a85d",
    "kind": "retake",
-   "lessonKey": "d3b95ed74286",
+   "lessonKey": "5aee7946567b",
    "pair": 6,
-   "raw": "17:20 Пересдача за лето МЭО Головнин М.Ю. Кочетовская О.С. Никитина С.А. Пылин А.Г.",
+   "raw": "17:20 Пересдача за лето МЭО Головнин М.Ю. Кочетовская О.С. Никитина С.А. Пылин А.Г. 402",
    "segments": [
     {
      "groups": [],
-     "room": null,
+     "room": "402",
      "subgroup": "",
-     "teacher": "Головнин М.Ю., Кочетовская О.С., Никитина С.А., Пылин А."
+     "teacher": "Головнин М.Ю., Кочетовская О.С., Никитина С.А., Пылин А.Г."
     }
    ],
    "start": "17:20",
-   "subject": "МЭО г",
-   "subjectRaw": "МЭО Г",
+   "subject": "Международные экономические отношения",
+   "subjectRaw": "МЭО",
    "timeOverride": true
   },
   {
@@ -5210,11 +5210,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "65b25d31520f",
+   "id": "0da058f21308",
    "kind": "other",
    "lessonKey": "e799698b70b4",
    "pair": 2,
-   "raw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 1 гр. Мироненков А.А. 303 2 гр. Тарновская П.И.",
+   "raw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 1 гр. Мироненков А.А. 303 2 гр. Тарновская П.И. 304",
    "segments": [
     {
      "groups": [
@@ -5228,7 +5228,7 @@
      "groups": [
       2
      ],
-     "room": null,
+     "room": "304",
      "subgroup": "",
      "teacher": "Тарновская П.И."
     }
@@ -5246,27 +5246,20 @@
    "flags": {
     "conflict": false
    },
-   "id": "985e9ea24746",
+   "id": "c8c07ac835bf",
    "kind": "seminar",
    "lessonKey": "5bd3cf2fa1dd",
    "pair": 2,
-   "raw": "СЗ ЭКОНОМЕТРИКА 3 гр. Аршакян Р.А. 418 4 гр. Пепа Р.Ю. 308",
+   "raw": "СЗ ЭКОНОМЕТРИКА 3,4 гр. Аршакян Р.А. 308",
    "segments": [
     {
      "groups": [
-      3
-     ],
-     "room": "418",
-     "subgroup": "",
-     "teacher": "Аршакян Р.А."
-    },
-    {
-     "groups": [
+      3,
       4
      ],
      "room": "308",
      "subgroup": "",
-     "teacher": "Пепа Р.Ю."
+     "teacher": "Аршакян Р.А."
     }
    ],
    "start": "10:40",
@@ -5282,11 +5275,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "6964facdacb8",
+   "id": "59468628eebf",
    "kind": "other",
    "lessonKey": "7d74141a2f28",
    "pair": 3,
-   "raw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 3 гр. Мироненков А.А. 303 4 гр. Тарновская П.И.",
+   "raw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 3 гр. Мироненков А.А. 303 4 гр. Тарновская П.И. 304",
    "segments": [
     {
      "groups": [
@@ -5300,7 +5293,7 @@
      "groups": [
       4
      ],
-     "room": null,
+     "room": "304",
      "subgroup": "",
      "teacher": "Тарновская П.И."
     }
@@ -5318,25 +5311,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "edc08cdbfe57",
+   "id": "0374c37dc0b4",
    "kind": "seminar",
    "lessonKey": "ec16addd62b5",
    "pair": 3,
-   "raw": "СЗ ЭКОНОМЕТРИКА 2 гр. Пепа Р.Ю. 317 1 гр. Аршакян Р.А. 309",
+   "raw": "СЗ ЭКОНОМЕТРИКА 1,2 гр. Аршакян Р.А. 308",
    "segments": [
     {
      "groups": [
+      1,
       2
      ],
-     "room": "317",
-     "subgroup": "",
-     "teacher": "Пепа Р.Ю."
-    },
-    {
-     "groups": [
-      1
-     ],
-     "room": "309",
+     "room": "308",
      "subgroup": "",
      "teacher": "Аршакян Р.А."
     }
@@ -5380,22 +5366,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "9c001be39e0f",
+   "id": "76512e46682a",
    "kind": "retake",
-   "lessonKey": "5843ec5b5b38",
+   "lessonKey": "f84727af085a",
    "pair": 4,
-   "raw": "14:10 Пересдача за лето Теория игр Карпов А.В.",
+   "raw": "14:10 Пересдача за лето Теория игр Карпов А.В. 308",
    "segments": [
     {
      "groups": [],
-     "room": null,
+     "room": "308",
      "subgroup": "",
-     "teacher": "Карпов А."
+     "teacher": "Карпов А.В."
     }
    ],
    "start": "14:10",
-   "subject": "Теория игр в",
-   "subjectRaw": "Теория игр В",
+   "subject": "Теория игр",
+   "subjectRaw": "Теория игр",
    "timeOverride": true
   },
   {
@@ -5504,15 +5490,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "9171bd5b0506",
+   "id": "f6b4446356ce",
    "kind": "lecture",
    "lessonKey": "07afbfd639f7",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА Кукушкин Д.С. 308",
+   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА Кукушкин Д.С. 302",
    "segments": [
     {
      "groups": [],
-     "room": "308",
+     "room": "302",
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     }
@@ -5752,22 +5738,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "326e1d833e8d",
+   "id": "0479c2250e1a",
    "kind": "lecture",
-   "lessonKey": "9bf51a388e26",
+   "lessonKey": "f75eae1f4bc3",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. 402",
+   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. Д",
    "segments": [
     {
      "groups": [],
-     "room": "402",
+     "room": null,
      "subgroup": "",
      "teacher": "Наумова Т.А."
     }
    ],
    "start": "12:25",
-   "subject": "Налоги и налогообложение",
-   "subjectRaw": "Налоги и налогообложение",
+   "subject": "Налоги и налогообложение д",
+   "subjectRaw": "Налоги и налогообложение Д",
    "timeOverride": false
   },
   {
@@ -5778,22 +5764,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "e297f445d557",
+   "id": "bdb68946429e",
    "kind": "lecture",
-   "lessonKey": "0e9378a55799",
+   "lessonKey": "1d67e38d8095",
    "pair": 4,
-   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. 402",
+   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. Д",
    "segments": [
     {
      "groups": [],
-     "room": "402",
+     "room": null,
      "subgroup": "",
      "teacher": "Наумова Т.А."
     }
    ],
    "start": "14:10",
-   "subject": "Налоги и налогообложение",
-   "subjectRaw": "Налоги и налогообложение",
+   "subject": "Налоги и налогообложение д",
+   "subjectRaw": "Налоги и налогообложение Д",
    "timeOverride": false
   },
   {
@@ -6376,27 +6362,20 @@
    "flags": {
     "conflict": false
    },
-   "id": "dec9b32fe72a",
+   "id": "dd324714f4fe",
    "kind": "seminar",
    "lessonKey": "5353d3cf860b",
    "pair": 2,
-   "raw": "СЗ ЭКОНОМЕТРИКА 3 гр. Аршакян Р.А. 418 4 гр. Пепа Р.Ю. 308",
+   "raw": "СЗ ЭКОНОМЕТРИКА 3,4 гр. Аршакян Р.А. 308",
    "segments": [
     {
      "groups": [
-      3
-     ],
-     "room": "418",
-     "subgroup": "",
-     "teacher": "Аршакян Р.А."
-    },
-    {
-     "groups": [
+      3,
       4
      ],
      "room": "308",
      "subgroup": "",
-     "teacher": "Пепа Р.Ю."
+     "teacher": "Аршакян Р.А."
     }
    ],
    "start": "10:40",
@@ -6448,25 +6427,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "b4dddc682fb4",
+   "id": "0de5d87cf591",
    "kind": "seminar",
    "lessonKey": "50feafd7c470",
    "pair": 3,
-   "raw": "СЗ ЭКОНОМЕТРИКА 2 гр. Пепа Р.Ю. 317 1 гр. Аршакян Р.А. 309",
+   "raw": "СЗ ЭКОНОМЕТРИКА 1,2 гр. Аршакян Р.А. 308",
    "segments": [
     {
      "groups": [
+      1,
       2
      ],
-     "room": "317",
-     "subgroup": "",
-     "teacher": "Пепа Р.Ю."
-    },
-    {
-     "groups": [
-      1
-     ],
-     "room": "309",
+     "room": "308",
      "subgroup": "",
      "teacher": "Аршакян Р.А."
     }
@@ -7436,11 +7408,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "73241f582ffd",
+   "id": "f71d6b0199d4",
    "kind": "other",
    "lessonKey": "82861312429b",
    "pair": 2,
-   "raw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 1 гр. Мироненков А.А. 303 2 гр. Тарновская П.И.",
+   "raw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 1 гр. Мироненков А.А. 303 2 гр. Тарновская П.И. 304",
    "segments": [
     {
      "groups": [
@@ -7454,7 +7426,7 @@
      "groups": [
       2
      ],
-     "room": null,
+     "room": "304",
      "subgroup": "",
      "teacher": "Тарновская П.И."
     }
@@ -7472,27 +7444,20 @@
    "flags": {
     "conflict": false
    },
-   "id": "bb150d147369",
+   "id": "56c87859f350",
    "kind": "seminar",
    "lessonKey": "83aaba249366",
    "pair": 2,
-   "raw": "СЗ ЭКОНОМЕТРИКА 3 гр. Аршакян Р.А. 418 4 гр. Пепа Р.Ю. 308",
+   "raw": "СЗ ЭКОНОМЕТРИКА 3,4 гр. Аршакян Р.А. 308",
    "segments": [
     {
      "groups": [
-      3
-     ],
-     "room": "418",
-     "subgroup": "",
-     "teacher": "Аршакян Р.А."
-    },
-    {
-     "groups": [
+      3,
       4
      ],
      "room": "308",
      "subgroup": "",
-     "teacher": "Пепа Р.Ю."
+     "teacher": "Аршакян Р.А."
     }
    ],
    "start": "10:40",
@@ -7508,11 +7473,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "4546e3d29e21",
+   "id": "5cce08aa2b0d",
    "kind": "other",
    "lessonKey": "b07032ea7f15",
    "pair": 3,
-   "raw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 3 гр. Мироненков А.А. 303 4 гр. Тарновская П.И.",
+   "raw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 3 гр. Мироненков А.А. 303 4 гр. Тарновская П.И. 304",
    "segments": [
     {
      "groups": [
@@ -7526,7 +7491,7 @@
      "groups": [
       4
      ],
-     "room": null,
+     "room": "304",
      "subgroup": "",
      "teacher": "Тарновская П.И."
     }
@@ -7544,25 +7509,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "d774d1259cdd",
+   "id": "d5651557a717",
    "kind": "seminar",
    "lessonKey": "3eb67ed6bc77",
    "pair": 3,
-   "raw": "СЗ ЭКОНОМЕТРИКА 2 гр. Пепа Р.Ю. 317 1 гр. Аршакян Р.А. 309",
+   "raw": "СЗ ЭКОНОМЕТРИКА 1,2 гр. Аршакян Р.А. 308",
    "segments": [
     {
      "groups": [
+      1,
       2
      ],
-     "room": "317",
-     "subgroup": "",
-     "teacher": "Пепа Р.Ю."
-    },
-    {
-     "groups": [
-      1
-     ],
-     "room": "309",
+     "room": "308",
      "subgroup": "",
      "teacher": "Аршакян Р.А."
     }
@@ -8512,27 +8470,20 @@
    "flags": {
     "conflict": false
    },
-   "id": "f3291c16a142",
+   "id": "5f4705430a77",
    "kind": "seminar",
    "lessonKey": "576fd98cdf01",
    "pair": 2,
-   "raw": "СЗ ЭКОНОМЕТРИКА 3 гр. Аршакян Р.А. 418 4 гр. Пепа Р.Ю. 308",
+   "raw": "СЗ ЭКОНОМЕТРИКА 3,4 гр. Аршакян Р.А. 308",
    "segments": [
     {
      "groups": [
-      3
-     ],
-     "room": "418",
-     "subgroup": "",
-     "teacher": "Аршакян Р.А."
-    },
-    {
-     "groups": [
+      3,
       4
      ],
      "room": "308",
      "subgroup": "",
-     "teacher": "Пепа Р.Ю."
+     "teacher": "Аршакян Р.А."
     }
    ],
    "start": "10:40",
@@ -8584,25 +8535,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "26c46b523372",
+   "id": "dcc1830b447d",
    "kind": "seminar",
    "lessonKey": "3fa6a5d6ece1",
    "pair": 3,
-   "raw": "СЗ ЭКОНОМЕТРИКА 2 гр. Пепа Р.Ю. 317 1 гр. Аршакян Р.А. 309",
+   "raw": "СЗ ЭКОНОМЕТРИКА 1,2 гр. Аршакян Р.А. 308",
    "segments": [
     {
      "groups": [
+      1,
       2
      ],
-     "room": "317",
-     "subgroup": "",
-     "teacher": "Пепа Р.Ю."
-    },
-    {
-     "groups": [
-      1
-     ],
-     "room": "309",
+     "room": "308",
      "subgroup": "",
      "teacher": "Аршакян Р.А."
     }
@@ -9063,8 +9007,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "9F2B2E2013E9508C411FAFC4CD44DD92595E21B6",
-  "mtime": 1790843927,
+  "hash": "0CC0BB4EF63A9D0D4A7F12DB2222E19C2E6F0809",
+  "mtime": 1790844141,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
