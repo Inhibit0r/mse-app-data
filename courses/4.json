@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-10-02T09:27:49+00:00",
+ "generatedAt": "2026-10-02T09:32:52+00:00",
  "groups": [
   1,
   2,
@@ -5666,6 +5666,64 @@
   },
   {
    "audience": "groups",
+   "cell": "AE5",
+   "date": "2026-10-27",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "20482173940e",
+   "kind": "seminar",
+   "lessonKey": "236a3b26a645",
+   "pair": 1,
+   "raw": "СЗ ЭКОНОМИЧЕСКАЯ ПОЛИТИА 2,3 гр. Букина И.С.",
+   "segments": [
+    {
+     "groups": [
+      2,
+      3
+     ],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Букина И."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Экономическая политиа",
+   "subjectRaw": "ЭКОНОМИЧЕСКАЯ ПОЛИТИА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AE6",
+   "date": "2026-10-27",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "848a8f283904",
+   "kind": "seminar",
+   "lessonKey": "f0499353a4ad",
+   "pair": 2,
+   "raw": "СЗ ЭКОНОМИЧЕСКАЯ ПОЛИТИА 1,4 гр. Букина И.С.",
+   "segments": [
+    {
+     "groups": [
+      1,
+      4
+     ],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Букина И."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Экономическая политиа",
+   "subjectRaw": "ЭКОНОМИЧЕСКАЯ ПОЛИТИА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
    "cell": "AE7",
    "date": "2026-10-27",
    "end": "12:10",
@@ -6229,7 +6287,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 196,
+  "cells": 198,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -6285,8 +6343,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "67F04DD8903FE0F984A57EF8E55D2C31BE444181",
-  "mtime": 1790933173,
+  "hash": "B3A2C34E6A903377DA84A1EBE23F4CEA30E911C5",
+  "mtime": 1790933318,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
