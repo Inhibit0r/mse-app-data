@@ -1,6 +1,6 @@
 {
  "course": 1,
- "generatedAt": "2026-10-02T11:23:29+00:00",
+ "generatedAt": "2026-10-02T11:43:30+00:00",
  "groups": [
   1,
   2,
@@ -4812,34 +4812,6 @@
   },
   {
    "audience": "groups",
-   "cell": "L4",
-   "date": "2026-10-08",
-   "end": "10:30",
-   "flags": {
-    "conflict": false
-   },
-   "id": "8298742186d1",
-   "kind": "seminar",
-   "lessonKey": "9e207ef40090",
-   "pair": 1,
-   "raw": "СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 4 гр. Лобанова Е.О. 404",
-   "segments": [
-    {
-     "groups": [
-      4
-     ],
-     "room": "404",
-     "subgroup": "",
-     "teacher": "Лобанова Е.О."
-    }
-   ],
-   "start": "09:00",
-   "subject": "Введение в общую экономическую теорию",
-   "subjectRaw": "ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
    "cell": "L5",
    "date": "2026-10-08",
    "end": "10:30",
@@ -5133,7 +5105,7 @@
    "date": "2026-10-09",
    "end": "13:55",
    "flags": {
-    "conflict": false
+    "conflict": true
    },
    "id": "3bd77fa629ea",
    "kind": "seminar",
@@ -5162,13 +5134,13 @@
    "date": "2026-10-09",
    "end": "13:55",
    "flags": {
-    "conflict": false
+    "conflict": true
    },
-   "id": "532d96221437",
+   "id": "5c0acaa1e648",
    "kind": "seminar",
    "lessonKey": "4f38b1ae624a",
    "pair": 3,
-   "raw": "СЗ ЭК.ИНФОРМАТИКА-I 2 гр. Колпаков Д.В. 303",
+   "raw": "СЗ ЭК.ИНФОРМАТИКА-I 2 гр. Колпаков Д.В. 303 СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 4 гр. Лобанова Е.О. 404",
    "segments": [
     {
      "groups": [
@@ -5177,6 +5149,14 @@
      "room": "303",
      "subgroup": "",
      "teacher": "Колпаков Д.В."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Лобанова Е.О."
     }
    ],
    "start": "12:25",
@@ -8075,7 +8055,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 248,
+  "cells": 247,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -8131,11 +8111,20 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "47AA17D0D270C06456089E80DE695247874092C7",
-  "mtime": 1790940014,
+  "hash": "8DD8FEC0A91A57A5C09DDDCA5FAE04E141E6A705",
+  "mtime": 1790941301,
   "name": "1_курс_Бакалавриат_2026.xlsx",
   "sheet": "1 курс_СЕНТЯБРЬ_26, 1 курс_ОКТЯБРЬ_26",
   "weblink": "zXBY/Ti1JkH8ip"
  },
- "warnings": []
+ "warnings": [
+  {
+   "cells": [
+    "M8",
+    "M9"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-10-09 пара 3: группа 4 в двух парах"
+  }
+ ]
 }
