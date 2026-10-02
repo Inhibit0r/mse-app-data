@@ -1,6 +1,6 @@
 {
  "course": 1,
- "generatedAt": "2026-10-02T11:43:30+00:00",
+ "generatedAt": "2026-10-02T11:48:31+00:00",
  "groups": [
   1,
   2,
@@ -4812,6 +4812,35 @@
   },
   {
    "audience": "groups",
+   "cell": "L4",
+   "date": "2026-10-08",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "450041152ca3",
+   "kind": "seminar",
+   "lessonKey": "56f7d9eb29d0",
+   "pair": 1,
+   "raw": "СЗ Психология и эконом поведение 3,4 гр. Белоусова В.В. 308",
+   "segments": [
+    {
+     "groups": [
+      3,
+      4
+     ],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Белоусова В.В."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Психология и экономическое поведение",
+   "subjectRaw": "Психология и эконом поведение",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
    "cell": "L5",
    "date": "2026-10-08",
    "end": "10:30",
@@ -5105,27 +5134,26 @@
    "date": "2026-10-09",
    "end": "13:55",
    "flags": {
-    "conflict": true
+    "conflict": false
    },
-   "id": "3bd77fa629ea",
+   "id": "6f83c0fc3ab5",
    "kind": "seminar",
-   "lessonKey": "5a45e0ec9f2e",
+   "lessonKey": "9a8fce321673",
    "pair": 3,
-   "raw": "СЗ Психология и эконом поведение 3,4 гр. Белоусова В.В. 402",
+   "raw": "СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 4 гр. Лобанова Е.О. 404",
    "segments": [
     {
      "groups": [
-      3,
       4
      ],
-     "room": "402",
+     "room": "404",
      "subgroup": "",
-     "teacher": "Белоусова В.В."
+     "teacher": "Лобанова Е.О."
     }
    ],
    "start": "12:25",
-   "subject": "Психология и экономическое поведение",
-   "subjectRaw": "Психология и эконом поведение",
+   "subject": "Введение в общую экономическую теорию",
+   "subjectRaw": "ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю",
    "timeOverride": false
   },
   {
@@ -5134,13 +5162,13 @@
    "date": "2026-10-09",
    "end": "13:55",
    "flags": {
-    "conflict": true
+    "conflict": false
    },
-   "id": "5c0acaa1e648",
+   "id": "532d96221437",
    "kind": "seminar",
    "lessonKey": "4f38b1ae624a",
    "pair": 3,
-   "raw": "СЗ ЭК.ИНФОРМАТИКА-I 2 гр. Колпаков Д.В. 303 СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 4 гр. Лобанова Е.О. 404",
+   "raw": "СЗ ЭК.ИНФОРМАТИКА-I 2 гр. Колпаков Д.В. 303",
    "segments": [
     {
      "groups": [
@@ -5149,14 +5177,6 @@
      "room": "303",
      "subgroup": "",
      "teacher": "Колпаков Д.В."
-    },
-    {
-     "groups": [
-      4
-     ],
-     "room": "404",
-     "subgroup": "",
-     "teacher": "Лобанова Е.О."
     }
    ],
    "start": "12:25",
@@ -8055,7 +8075,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 247,
+  "cells": 248,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -8111,20 +8131,11 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "8DD8FEC0A91A57A5C09DDDCA5FAE04E141E6A705",
-  "mtime": 1790941301,
+  "hash": "C720BEB2C44CA1E6DBD6BB653E218A03BF965597",
+  "mtime": 1790941661,
   "name": "1_курс_Бакалавриат_2026.xlsx",
   "sheet": "1 курс_СЕНТЯБРЬ_26, 1 курс_ОКТЯБРЬ_26",
   "weblink": "zXBY/Ti1JkH8ip"
  },
- "warnings": [
-  {
-   "cells": [
-    "M8",
-    "M9"
-   ],
-   "code": "conflict",
-   "message": "конфликт групп 2026-10-09 пара 3: группа 4 в двух парах"
-  }
- ]
+ "warnings": []
 }
