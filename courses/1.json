@@ -1,6 +1,6 @@
 {
  "course": 1,
- "generatedAt": "2026-10-01T09:14:06+00:00",
+ "generatedAt": "2026-10-02T10:53:26+00:00",
  "groups": [
   1,
   2,
@@ -5009,6 +5009,32 @@
    "timeOverride": true
   },
   {
+   "audience": "stream",
+   "cell": "M4",
+   "date": "2026-10-09",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "273b6e79f7ca",
+   "kind": "lecture",
+   "lessonKey": "6dad75f9ba49",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ ПСИХОЛОГИЯ И ЭКОНОМИЧЕСКОЕ ПОВЕДЕНИЕ Белоусова В.В. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Белоусова В.В."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Психология и экономическое поведение",
+   "subjectRaw": "ПСИХОЛОГИЯ И ЭКОНОМИЧЕСКОЕ ПОВЕДЕНИЕ",
+   "timeOverride": false
+  },
+  {
    "audience": "groups",
    "cell": "M6",
    "date": "2026-10-09",
@@ -5016,24 +5042,25 @@
    "flags": {
     "conflict": false
    },
-   "id": "5bda1095db30",
+   "id": "348457a0f1fa",
    "kind": "seminar",
-   "lessonKey": "e637779056eb",
+   "lessonKey": "c27765b4170f",
    "pair": 2,
-   "raw": "СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 3 гр. Лобанова Е.О. 404",
+   "raw": "СЗ Психология и эконом поведение 1,2 гр. Белоусова В.В. 302",
    "segments": [
     {
      "groups": [
-      3
+      1,
+      2
      ],
-     "room": "404",
+     "room": "302",
      "subgroup": "",
-     "teacher": "Лобанова Е.О."
+     "teacher": "Белоусова В.В."
     }
    ],
    "start": "10:40",
-   "subject": "Введение в общую экономическую теорию",
-   "subjectRaw": "ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю",
+   "subject": "Психология и экономическое поведение",
+   "subjectRaw": "Психология и эконом поведение",
    "timeOverride": false
   },
   {
@@ -5044,11 +5071,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "ff6988acab1b",
+   "id": "784936a23e40",
    "kind": "seminar",
    "lessonKey": "09b5ebd52763",
    "pair": 2,
-   "raw": "СЗ ЭК.ИНФОРМАТИКА-I 4 гр. Колпаков Д.В. 303",
+   "raw": "СЗ ЭК.ИНФОРМАТИКА-I 4 гр. Колпаков Д.В. 303 СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 3 гр. Лобанова Е.О. 404",
    "segments": [
     {
      "groups": [
@@ -5057,6 +5084,14 @@
      "room": "303",
      "subgroup": "",
      "teacher": "Колпаков Д.В."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Лобанова Е.О."
     }
    ],
    "start": "10:40",
@@ -5072,11 +5107,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "6f83c0fc3ab5",
+   "id": "2e61818c4f57",
    "kind": "seminar",
    "lessonKey": "9a8fce321673",
    "pair": 3,
-   "raw": "СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 4 гр. Лобанова Е.О. 404",
+   "raw": "СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 4 гр. Лобанова Е.О. 404 СЗ Психология и эконом поведение 1,3гр. Белоусова В.В. 302",
    "segments": [
     {
      "groups": [
@@ -5085,6 +5120,15 @@
      "room": "404",
      "subgroup": "",
      "teacher": "Лобанова Е.О."
+    },
+    {
+     "groups": [
+      1,
+      3
+     ],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Белоусова В.В."
     }
    ],
    "start": "12:25",
@@ -5569,32 +5613,6 @@
    "timeOverride": false
   },
   {
-   "audience": "stream",
-   "cell": "R6",
-   "date": "2026-10-14",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "7377065d85c6",
-   "kind": "lecture",
-   "lessonKey": "f5314c323900",
-   "pair": 2,
-   "raw": "ЛЕКЦИЯ ПСИХОЛОГИЯ И ЭКОНОМИЧЕСКОЕ ПОВЕДЕНИЕ Белоусова В.В. 302",
-   "segments": [
-    {
-     "groups": [],
-     "room": "302",
-     "subgroup": "",
-     "teacher": "Белоусова В.В."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Психология и экономическое поведение",
-   "subjectRaw": "ПСИХОЛОГИЯ И ЭКОНОМИЧЕСКОЕ ПОВЕДЕНИЕ",
-   "timeOverride": false
-  },
-  {
    "audience": "groups",
    "cell": "R8",
    "date": "2026-10-14",
@@ -5782,35 +5800,6 @@
   },
   {
    "audience": "groups",
-   "cell": "S4",
-   "date": "2026-10-15",
-   "end": "10:30",
-   "flags": {
-    "conflict": false
-   },
-   "id": "01fcf6fc518c",
-   "kind": "seminar",
-   "lessonKey": "ce6e843cdfe2",
-   "pair": 1,
-   "raw": "СЗ Психология и эконом поведение 2,4 гр. Белоусова В.В. 302",
-   "segments": [
-    {
-     "groups": [
-      2,
-      4
-     ],
-     "room": "302",
-     "subgroup": "",
-     "teacher": "Белоусова В.В."
-    }
-   ],
-   "start": "09:00",
-   "subject": "Психология и экономическое поведение",
-   "subjectRaw": "Психология и эконом поведение",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
    "cell": "S5",
    "date": "2026-10-15",
    "end": "10:30",
@@ -5879,35 +5868,6 @@
    "start": "10:40",
    "subject": "Математический анализ",
    "subjectRaw": "МАТ.АНАЛИЗ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "S7",
-   "date": "2026-10-15",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "f8371f92e616",
-   "kind": "seminar",
-   "lessonKey": "34e7e1849292",
-   "pair": 2,
-   "raw": "СЗ Психология и эконом поведение 1,3гр. Белоусова В.В. 302",
-   "segments": [
-    {
-     "groups": [
-      1,
-      3
-     ],
-     "room": "302",
-     "subgroup": "",
-     "teacher": "Белоусова В.В."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Психология и экономическое поведение",
-   "subjectRaw": "Психология и эконом поведение",
    "timeOverride": false
   },
   {
@@ -8095,7 +8055,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 249,
+  "cells": 247,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -8151,8 +8111,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "4ADA6EC3F066EEF0ADF5E9C89C30577B198997AC",
-  "mtime": 1790845771,
+  "hash": "4A580B341B38B3D7AEF151591DAD767D977059BA",
+  "mtime": 1790938483,
   "name": "1_курс_Бакалавриат_2026.xlsx",
   "sheet": "1 курс_СЕНТЯБРЬ_26, 1 курс_ОКТЯБРЬ_26",
   "weblink": "zXBY/Ti1JkH8ip"
