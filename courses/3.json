@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-10-01T11:04:15+00:00",
+ "generatedAt": "2026-10-02T08:52:27+00:00",
  "groups": [
   1,
   2,
@@ -7838,6 +7838,32 @@
   },
   {
    "audience": "personal",
+   "cell": "AA14",
+   "date": "2026-10-23",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "3156f2425e70",
+   "kind": "retake",
+   "lessonKey": "ee2036a5d819",
+   "pair": 4,
+   "raw": "14:10 Пересдача за лето Макроэкономика Букина И.С. Кукушкин Д.С. Герелишина А.К.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Букина И.С., Кукушкин Д.С., Герелишина А."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Макроэкономика к",
+   "subjectRaw": "Макроэкономика К",
+   "timeOverride": true
+  },
+  {
+   "audience": "personal",
    "cell": "AA4",
    "date": "2026-10-23",
    "end": "15:40",
@@ -8977,7 +9003,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 274,
+  "cells": 275,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -9033,8 +9059,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "C3D0B9A97EFF549D81E9A945C9DC56EEA4075E91",
-  "mtime": 1790852480,
+  "hash": "059971B6F4947F6E03DE4C7A57C7C60F29919D77",
+  "mtime": 1790930895,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
