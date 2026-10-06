@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-10-06T12:53:47+00:00",
+ "generatedAt": "2026-10-06T13:09:25+00:00",
  "groups": [
   1,
   2,
@@ -7734,6 +7734,32 @@
   },
   {
    "audience": "personal",
+   "cell": "Z14",
+   "date": "2026-10-22",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "b101659560cf",
+   "kind": "retake",
+   "lessonKey": "4d8ec058374e",
+   "pair": 5,
+   "raw": "15:45 Пересдача за лето Бухучет Леонова М.Е.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Леонова М."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Бухучет е",
+   "subjectRaw": "Бухучет Е",
+   "timeOverride": true
+  },
+  {
+   "audience": "personal",
    "cell": "AA4",
    "date": "2026-10-23",
    "end": "10:30",
@@ -8977,7 +9003,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 274,
+  "cells": 275,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -9033,8 +9059,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "20472EC10F9CFC07697B31DFD7B7C7DBAE759270",
-  "mtime": 1791291185,
+  "hash": "8281E91B181DDCE537F1988C1A079CA2FCABC96F",
+  "mtime": 1791291930,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
