@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-10-05T11:16:05+00:00",
+ "generatedAt": "2026-10-06T09:05:58+00:00",
  "groups": [
   1,
   2,
@@ -6205,11 +6205,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "abe894d918ed",
-   "kind": "lecture",
-   "lessonKey": "f3a275d7a583",
+   "id": "482830054d0f",
+   "kind": "other",
+   "lessonKey": "a90ae74b8e11",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ ПРАВО Болдырев О.Ю. 308",
+   "raw": "ОТМЕНА ЛЕКЦИЯ ПРАВО Болдырев О.Ю. 308",
    "segments": [
     {
      "groups": [],
@@ -6219,8 +6219,8 @@
     }
    ],
    "start": "12:25",
-   "subject": "Право",
-   "subjectRaw": "ПРАВО",
+   "subject": "Отмена лекция право",
+   "subjectRaw": "ОТМЕНА ЛЕКЦИЯ ПРАВО",
    "timeOverride": false
   },
   {
@@ -10095,8 +10095,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "E57157BACBC243D431393CB620123A41E577AFE0",
-  "mtime": 1791198893,
+  "hash": "911BB1C90D5DB410201A9C83083268CD7403038E",
+  "mtime": 1791277363,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
