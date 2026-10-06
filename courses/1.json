@@ -1,6 +1,6 @@
 {
  "course": 1,
- "generatedAt": "2026-10-02T11:53:31+00:00",
+ "generatedAt": "2026-10-06T07:44:59+00:00",
  "groups": [
   1,
   2,
@@ -5820,6 +5820,34 @@
   },
   {
    "audience": "groups",
+   "cell": "S5",
+   "date": "2026-10-15",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "dd978520d307",
+   "kind": "seminar",
+   "lessonKey": "c54e642b47a9",
+   "pair": 1,
+   "raw": "СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 1 гр. Кочетовская О.С. 403",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Кочетовская О.С."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Введение в общую экономическую теорию",
+   "subjectRaw": "ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
    "cell": "S6",
    "date": "2026-10-15",
    "end": "12:10",
@@ -6758,6 +6786,34 @@
    "start": "15:45",
    "subject": "Искусственный интеллект: наука и образование",
    "subjectRaw": "Искуственный интелект наука и образование",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "Z5",
+   "date": "2026-10-22",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "f52842d5d0e8",
+   "kind": "seminar",
+   "lessonKey": "4abc9ef5c893",
+   "pair": 1,
+   "raw": "СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 1 гр. Кочетовская О.С. 403",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Кочетовская О.С."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Введение в общую экономическую теорию",
+   "subjectRaw": "ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю",
    "timeOverride": false
   },
   {
@@ -7932,6 +7988,34 @@
   },
   {
    "audience": "groups",
+   "cell": "AH5",
+   "date": "2026-10-30",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "d8c787f8a2a3",
+   "kind": "seminar",
+   "lessonKey": "fd711a0654e3",
+   "pair": 1,
+   "raw": "СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 1 гр. Кочетовская О.С. 403",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Кочетовская О.С."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Введение в общую экономическую теорию",
+   "subjectRaw": "ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
    "cell": "AH6",
    "date": "2026-10-30",
    "end": "12:10",
@@ -8075,7 +8159,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 248,
+  "cells": 251,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -8131,8 +8215,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "284571090BCB8298C2C3BC21164350A02182E7A0",
-  "mtime": 1790941877,
+  "hash": "D583538959AD7D989D5FD5A7EC51E138E0F62C87",
+  "mtime": 1791272543,
   "name": "1_курс_Бакалавриат_2026.xlsx",
   "sheet": "1 курс_СЕНТЯБРЬ_26, 1 курс_ОКТЯБРЬ_26",
   "weblink": "zXBY/Ti1JkH8ip"
