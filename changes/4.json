@@ -2,6 +2,30 @@
  "course": 4,
  "events": [
   {
+   "date": "2026-10-06",
+   "detectedAt": "2026-10-06T09:21:09+00:00",
+   "groups": [],
+   "id": "351916cb19e3",
+   "kind": "commission",
+   "lessonKey": "75a138c7c9a0",
+   "pair": 3,
+   "subject": "Тпэп а",
+   "text": "Вт 06.10, 3 пара: отменена Комиссия Тпэп а",
+   "type": "cancelled"
+  },
+  {
+   "date": "2026-10-06",
+   "detectedAt": "2026-10-06T09:21:09+00:00",
+   "groups": [],
+   "id": "89049dcda570",
+   "kind": "commission",
+   "lessonKey": "fe4d667da904",
+   "pair": 3,
+   "subject": "ТПЭП",
+   "text": "Вт 06.10, 3 пара: добавлена пара Комиссия ТПЭП, Яковлев А.А., 316",
+   "type": "added"
+  },
+  {
    "date": "2026-10-02",
    "detectedAt": "2026-10-02T13:08:37+00:00",
    "groups": [],
