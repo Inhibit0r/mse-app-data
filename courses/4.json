@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-10-06T09:41:49+00:00",
+ "generatedAt": "2026-10-06T09:56:52+00:00",
  "groups": [
   1,
   2,
@@ -4442,15 +4442,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "8a4de74c95f1",
+   "id": "967ea89b56ee",
    "kind": "lecture",
    "lessonKey": "f5462bc4447b",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ АНАЛИЗ-II Пепа Р.Ю. 308",
+   "raw": "ЛЕКЦИЯ АНАЛИЗ-II Пепа Р.Ю. 113",
    "segments": [
     {
      "groups": [],
-     "room": "308",
+     "room": "113",
      "subgroup": "",
      "teacher": "Пепа Р.Ю."
     }
@@ -4636,15 +4636,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "aa5d972672ca",
+   "id": "223cb71941f3",
    "kind": "retake",
    "lessonKey": "c129ab25526f",
    "pair": 6,
-   "raw": "17:30 Пересдача курсовых работ по кафедре ЭФС",
+   "raw": "17:30 Пересдача курсовых работ по кафедре ЭФС 317",
    "segments": [
     {
      "groups": [],
-     "room": null,
+     "room": "317",
      "subgroup": "",
      "teacher": null
     }
@@ -6343,8 +6343,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "2BCED5C573751C727BC2A3B425F669C1556ACD07",
-  "mtime": 1791279679,
+  "hash": "68BBA506D4041562E96FD7D72D8184DCBCA0CA07",
+  "mtime": 1791280602,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
