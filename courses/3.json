@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-10-06T11:58:42+00:00",
+ "generatedAt": "2026-10-06T12:03:43+00:00",
  "groups": [
   1,
   2,
@@ -5869,6 +5869,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "P14",
+   "date": "2026-10-12",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "530ae38ca0ad",
+   "kind": "commission",
+   "lessonKey": "d392528120c7",
+   "pair": 3,
+   "raw": "14:00 Комиссия за зиму Право Болдырев О.Ю. 17:20 Пересдача за лето История экономических учений Починкин Д.В. 402",
+   "segments": [
+    {
+     "groups": [],
+     "room": "402",
+     "subgroup": "",
+     "teacher": "Болдырев О.Ю., Починкин Д.В."
+    }
+   ],
+   "start": "14:00",
+   "subject": "Право 17:20 пересдача за лето история экономических учений",
+   "subjectRaw": "Право 17:20 Пересдача за лето История экономических учений",
+   "timeOverride": true
+  },
+  {
    "audience": "stream",
    "cell": "P8",
    "date": "2026-10-12",
@@ -6029,32 +6055,6 @@
    "subject": "Микроэкономика II",
    "subjectRaw": "МИКРОЭКОНОМИКА-II",
    "timeOverride": false
-  },
-  {
-   "audience": "personal",
-   "cell": "P14",
-   "date": "2026-10-12",
-   "end": null,
-   "flags": {
-    "conflict": false
-   },
-   "id": "27a56cc8745e",
-   "kind": "retake",
-   "lessonKey": "e7f071b236fb",
-   "pair": 6,
-   "raw": "17:20 Пересдача за лето История экономических учений Починкин Д.В. 402",
-   "segments": [
-    {
-     "groups": [],
-     "room": "402",
-     "subgroup": "",
-     "teacher": "Починкин Д.В."
-    }
-   ],
-   "start": "17:20",
-   "subject": "История экономических учений",
-   "subjectRaw": "История экономических учений",
-   "timeOverride": true
   },
   {
    "audience": "stream",
@@ -6917,32 +6917,6 @@
    "subject": "Налоги и налогообложение д",
    "subjectRaw": "Налоги и налогообложение Д",
    "timeOverride": false
-  },
-  {
-   "audience": "personal",
-   "cell": "U14",
-   "date": "2026-10-17",
-   "end": null,
-   "flags": {
-    "conflict": false
-   },
-   "id": "c0ed5615717c",
-   "kind": "commission",
-   "lessonKey": "79d765c146e6",
-   "pair": 4,
-   "raw": "15:00 Комиссия за зиму Право Болдырев О.Ю. 316",
-   "segments": [
-    {
-     "groups": [],
-     "room": "316",
-     "subgroup": "",
-     "teacher": "Болдырев О.Ю."
-    }
-   ],
-   "start": "15:00",
-   "subject": "Право",
-   "subjectRaw": "Право",
-   "timeOverride": true
   },
   {
    "audience": "stream",
@@ -9003,7 +8977,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 275,
+  "cells": 274,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -9059,8 +9033,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "B2D06C1BCD6526F77758C76101EED031AD0966A5",
-  "mtime": 1791287893,
+  "hash": "87A41106EC68F3D50DA28167C9BA4322EC443C63",
+  "mtime": 1791288220,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
