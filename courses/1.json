@@ -1,6 +1,6 @@
 {
  "course": 1,
- "generatedAt": "2026-10-06T07:44:59+00:00",
+ "generatedAt": "2026-10-06T10:58:08+00:00",
  "groups": [
   1,
   2,
@@ -6789,31 +6789,29 @@
    "timeOverride": false
   },
   {
-   "audience": "groups",
-   "cell": "Z5",
+   "audience": "stream",
+   "cell": "Z4",
    "date": "2026-10-22",
    "end": "10:30",
    "flags": {
     "conflict": false
    },
-   "id": "f52842d5d0e8",
-   "kind": "seminar",
-   "lessonKey": "4abc9ef5c893",
+   "id": "e4b9cd7fe37e",
+   "kind": "other",
+   "lessonKey": "7690c6a9da8f",
    "pair": 1,
-   "raw": "СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 1 гр. Кочетовская О.С. 403",
+   "raw": "КОНТРОЛЬНАЯ РАБОТА ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю Кочетовская О.С. Мироненкова М.В. Лобанова Е.О.",
    "segments": [
     {
-     "groups": [
-      1
-     ],
-     "room": "403",
+     "groups": [],
+     "room": null,
      "subgroup": "",
      "teacher": "Кочетовская О.С."
     }
    ],
    "start": "09:00",
-   "subject": "Введение в общую экономическую теорию",
-   "subjectRaw": "ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю",
+   "subject": "Контрольная работа введ-е в ОБЩ экон ТЕО-ю",
+   "subjectRaw": "КОНТРОЛЬНАЯ РАБОТА ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю",
    "timeOverride": false
   },
   {
@@ -8215,8 +8213,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "D583538959AD7D989D5FD5A7EC51E138E0F62C87",
-  "mtime": 1791272543,
+  "hash": "3928CBD86FDF789A93C783C5D2DBD8CF2FE55C37",
+  "mtime": 1791284224,
   "name": "1_курс_Бакалавриат_2026.xlsx",
   "sheet": "1 курс_СЕНТЯБРЬ_26, 1 курс_ОКТЯБРЬ_26",
   "weblink": "zXBY/Ti1JkH8ip"
