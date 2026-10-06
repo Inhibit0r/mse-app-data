@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-10-06T09:51:52+00:00",
+ "generatedAt": "2026-10-06T12:23:44+00:00",
  "groups": [
   1,
   2,
@@ -6865,15 +6865,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "e207cd9ec4c9",
+   "id": "2ade0a26ff27",
    "kind": "lecture",
    "lessonKey": "e5d1b43c2d5d",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ ФИЛОСОФИЯ Полякова С.В. 113",
+   "raw": "ЛЕКЦИЯ ФИЛОСОФИЯ Полякова С.В. 302",
    "segments": [
     {
      "groups": [],
-     "room": "113",
+     "room": "302",
      "subgroup": "",
      "teacher": "Полякова С.В."
     }
@@ -10095,8 +10095,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "DD7A2842171F09C2AA406A224189BDFBAF5EFE99",
-  "mtime": 1791280310,
+  "hash": "CB0A841470EFA4965C4B1AABAA74127459BB6B1D",
+  "mtime": 1791289345,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
