@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-10-06T12:28:45+00:00",
+ "generatedAt": "2026-10-06T13:55:32+00:00",
  "groups": [
   1,
   2,
@@ -8647,33 +8647,6 @@
   },
   {
    "audience": "stream",
-   "cell": "AA14",
-   "date": "2026-10-23",
-   "end": null,
-   "flags": {
-    "conflict": false,
-    "noTime": true
-   },
-   "id": "5614cdff8f8d",
-   "kind": "other",
-   "lessonKey": "8fb021d0dc56",
-   "pair": 1,
-   "raw": "14:10Комиссия за лето для справочников Введение в экономику Кочетовская О.С. Мироненкова М.В. Лобанова Е.О.",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Кочетовская О.С."
-    }
-   ],
-   "start": null,
-   "subject": "14:10Комиссия за лето для справочников введение в экономику",
-   "subjectRaw": "14:10Комиссия за лето для справочников Введение в экономику",
-   "timeOverride": false
-  },
-  {
-   "audience": "stream",
    "cell": "AA4",
    "date": "2026-10-23",
    "end": "10:30",
@@ -8831,32 +8804,6 @@
    "subject": "Дифференциальные уравнения и динамические системы",
    "subjectRaw": "ДИФФЕРЕНЦИАЛЬНЫЕ УРАВНЕНИЯ И ДИНАМИЧЕСКИЕ СИСТЕМЫ",
    "timeOverride": false
-  },
-  {
-   "audience": "personal",
-   "cell": "AB14",
-   "date": "2026-10-24",
-   "end": null,
-   "flags": {
-    "conflict": false
-   },
-   "id": "b2afee928110",
-   "kind": "retake",
-   "lessonKey": "a9f12f31ae27",
-   "pair": 3,
-   "raw": "12:30 Пересдача за лето История России Щербакова Е.И. Мойса Н.И.",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Щербакова Е.И., Мойса Н."
-    }
-   ],
-   "start": "12:30",
-   "subject": "История россии и",
-   "subjectRaw": "История России И",
-   "timeOverride": true
   },
   {
    "audience": "stream",
@@ -10005,32 +9952,6 @@
    "subject": "Дифференциальные уравнения и динамические системы",
    "subjectRaw": "ДИФФЕРЕНЦИАЛЬНЫЕ УРАВНЕНИЯ И ДИНАМИЧЕСКИЕ СИСТЕМЫ",
    "timeOverride": false
-  },
-  {
-   "audience": "personal",
-   "cell": "AI14",
-   "date": "2026-10-31",
-   "end": null,
-   "flags": {
-    "conflict": false
-   },
-   "id": "c24bb93c5f22",
-   "kind": "commission",
-   "lessonKey": "f3cee7859f43",
-   "pair": 3,
-   "raw": "12:30 Комиссия за лето История России Щербакова Е.И. Мойса Н.И.",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Щербакова Е.И., Мойса Н."
-    }
-   ],
-   "start": "12:30",
-   "subject": "История россии и",
-   "subjectRaw": "История России И",
-   "timeOverride": true
   }
  ],
  "range": {
@@ -10039,7 +9960,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 301,
+  "cells": 298,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -10095,8 +10016,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "471A11B199A368F02ADAE6455BF1736B76F9D15C",
-  "mtime": 1791289438,
+  "hash": "AD449362B318077D5C48CE913F6F01626CFAC48A",
+  "mtime": 1791294889,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
@@ -10108,13 +10029,6 @@
    ],
    "code": "no_time",
    "message": "событие без времени в ячейке P14 (2026-09-15)"
-  },
-  {
-   "cells": [
-    "AA14"
-   ],
-   "code": "no_time",
-   "message": "событие без времени в ячейке AA14 (2026-10-23)"
   }
  ]
 }
