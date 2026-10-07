@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-10-06T12:43:46+00:00",
+ "generatedAt": "2026-10-07T16:30:05+00:00",
  "groups": [
   1,
   2,
@@ -3696,6 +3696,32 @@
   },
   {
    "audience": "stream",
+   "cell": "L6",
+   "date": "2026-10-08",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "2098855d02a9",
+   "kind": "lecture",
+   "lessonKey": "5ac0515f3211",
+   "pair": 2,
+   "raw": "ЛЕКЦИЯ СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Потапенко В.В. 113",
+   "segments": [
+    {
+     "groups": [],
+     "room": "113",
+     "subgroup": "",
+     "teacher": "Потапенко В.В."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Состояние и перспективы российской экономики",
+   "subjectRaw": "СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
    "cell": "L8",
    "date": "2026-10-08",
    "end": "13:55",
@@ -6287,7 +6313,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 198,
+  "cells": 199,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -6343,8 +6369,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "FD13EE3BD6AA7EDB6AC7EC805FBFC827E9C51599",
-  "mtime": 1791290488,
+  "hash": "BE85DC4B09E31C598E51940F3FB507DF970E88ED",
+  "mtime": 1791390577,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
