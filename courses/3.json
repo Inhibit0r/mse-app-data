@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-10-07T07:49:17+00:00",
+ "generatedAt": "2026-10-07T07:54:18+00:00",
  "groups": [
   1,
   2,
@@ -5404,22 +5404,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "3f73db760ae9",
+   "id": "41122869533c",
    "kind": "seminar",
    "lessonKey": "16de4b93ff3c",
    "pair": 1,
-   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 1 гр. Шаклеина М.В. 303 2 гр. Попова Т.А. 304",
+   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 1,2 гр. Попова Т.А. 304",
    "segments": [
     {
      "groups": [
-      1
-     ],
-     "room": "303",
-     "subgroup": "",
-     "teacher": "Шаклеина М.В."
-    },
-    {
-     "groups": [
+      1,
       2
      ],
      "room": "304",
@@ -5440,22 +5433,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "5a1fa7f99896",
+   "id": "f06d921f1bce",
    "kind": "seminar",
    "lessonKey": "6a5fe368a675",
    "pair": 2,
-   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 1 гр. Шаклеина М.В. 303 2 гр. Попова Т.А. 304",
+   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 1,2 гр. Попова Т.А. 304",
    "segments": [
     {
      "groups": [
-      1
-     ],
-     "room": "303",
-     "subgroup": "",
-     "teacher": "Шаклеина М.В."
-    },
-    {
-     "groups": [
+      1,
       2
      ],
      "room": "304",
@@ -6524,6 +6510,34 @@
    "start": "15:45",
    "subject": "Межфакультетские курсы",
    "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "S5",
+   "date": "2026-10-15",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "61a7f361b94f",
+   "kind": "seminar",
+   "lessonKey": "b581b4c8a3b5",
+   "pair": 1,
+   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 1 гр. Шаклеина М.В. 303",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "303",
+     "subgroup": "",
+     "teacher": "Шаклеина М.В."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Социально-экономическая статистика",
+   "subjectRaw": "СОЦ.- ЭКОНОМ. СТАТИСТИКА",
    "timeOverride": false
   },
   {
@@ -9003,7 +9017,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 275,
+  "cells": 276,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -9059,8 +9073,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "EBF95FEFCE027F381134128DD27BBAAF3288E40F",
-  "mtime": 1791359201,
+  "hash": "0E2CFA3EF55CE7B0B72E4D35B73CE75CABCF2D2B",
+  "mtime": 1791359581,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
