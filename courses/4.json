@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-10-08T08:28:17+00:00",
+ "generatedAt": "2026-10-08T12:38:38+00:00",
  "groups": [
   1,
   2,
@@ -5477,6 +5477,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "Z14",
+   "date": "2026-10-22",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "c8e9c1e231e5",
+   "kind": "retake",
+   "lessonKey": "556dc9062384",
+   "pair": 5,
+   "raw": "16:00 Пересдача за лето Введение в анализ временных рядов Артамонов Н.В. Мироненкова М.В. 303",
+   "segments": [
+    {
+     "groups": [],
+     "room": "303",
+     "subgroup": "",
+     "teacher": "Артамонов Н.В., Мироненкова М.В."
+    }
+   ],
+   "start": "16:00",
+   "subject": "Введение в анализ временных рядов",
+   "subjectRaw": "Введение в анализ временных рядов",
+   "timeOverride": true
+  },
+  {
    "audience": "stream",
    "cell": "AA6",
    "date": "2026-10-23",
@@ -6339,7 +6365,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 200,
+  "cells": 201,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -6395,8 +6421,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "043F8821C5B3002637ECD2AD68D5B8108B104F37",
-  "mtime": 1791447871,
+  "hash": "884C20D409D76A4BD3CCA9A955EDF6EAB3DA27B3",
+  "mtime": 1791463066,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
