@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-10-09T09:07:46+00:00",
+ "generatedAt": "2026-10-09T09:12:46+00:00",
  "groups": [
   1,
   2,
@@ -5530,6 +5530,122 @@
   },
   {
    "audience": "groups",
+   "cell": "AA8",
+   "date": "2026-10-23",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "73a83c35b5ae",
+   "kind": "seminar",
+   "lessonKey": "338453999fea",
+   "pair": 3,
+   "raw": "СЗ ЭКОНОМИЧЕСКАЯ ПОЛИТИКА 2,3гр. Ушкалова Д.И.",
+   "segments": [
+    {
+     "groups": [
+      2,
+      3
+     ],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Ушкалова Д."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Экономическая политика",
+   "subjectRaw": "ЭКОНОМИЧЕСКАЯ ПОЛИТИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AA9",
+   "date": "2026-10-23",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "e22dcc4af248",
+   "kind": "seminar",
+   "lessonKey": "338453999fea",
+   "pair": 3,
+   "raw": "СЗ ЭКОНОМИЧЕСКАЯ ПОЛИТИКА 1,4 гр. Головнин М.Ю.",
+   "segments": [
+    {
+     "groups": [
+      1,
+      4
+     ],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Головнин М."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Экономическая политика",
+   "subjectRaw": "ЭКОНОМИЧЕСКАЯ ПОЛИТИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AA10",
+   "date": "2026-10-23",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "0b454fc66a5f",
+   "kind": "seminar",
+   "lessonKey": "d42e574ab951",
+   "pair": 4,
+   "raw": "СЗ ЭКОНОМИЧЕСКАЯ ПОЛИТИКА 1,4 гр. Ушкалова Д.И.",
+   "segments": [
+    {
+     "groups": [
+      1,
+      4
+     ],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Ушкалова Д."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Экономическая политика",
+   "subjectRaw": "ЭКОНОМИЧЕСКАЯ ПОЛИТИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AA11",
+   "date": "2026-10-23",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "5126387394bf",
+   "kind": "seminar",
+   "lessonKey": "d42e574ab951",
+   "pair": 4,
+   "raw": "СЗ ЭКОНОМИЧЕСКАЯ ПОЛИТИКА 2,3 гр. Головнин М.Ю.",
+   "segments": [
+    {
+     "groups": [
+      2,
+      3
+     ],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Головнин М."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Экономическая политика",
+   "subjectRaw": "ЭКОНОМИЧЕСКАЯ ПОЛИТИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
    "cell": "AB6",
    "date": "2026-10-24",
    "end": "12:10",
@@ -6307,6 +6423,122 @@
    "timeOverride": false
   },
   {
+   "audience": "groups",
+   "cell": "AH8",
+   "date": "2026-10-30",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "ab9462ae4f74",
+   "kind": "seminar",
+   "lessonKey": "30a082f8a031",
+   "pair": 3,
+   "raw": "СЗ ЭКОНОМИЧЕСКАЯ ПОЛИТИКА 2,3гр. Ушкалова Д.И.",
+   "segments": [
+    {
+     "groups": [
+      2,
+      3
+     ],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Ушкалова Д."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Экономическая политика",
+   "subjectRaw": "ЭКОНОМИЧЕСКАЯ ПОЛИТИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AH9",
+   "date": "2026-10-30",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "60d482390af7",
+   "kind": "seminar",
+   "lessonKey": "30a082f8a031",
+   "pair": 3,
+   "raw": "СЗ ЭКОНОМИЧЕСКАЯ ПОЛИТИКА 1,4 гр. Головнин М.Ю.",
+   "segments": [
+    {
+     "groups": [
+      1,
+      4
+     ],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Головнин М."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Экономическая политика",
+   "subjectRaw": "ЭКОНОМИЧЕСКАЯ ПОЛИТИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AH10",
+   "date": "2026-10-30",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "6bc0838fc65f",
+   "kind": "seminar",
+   "lessonKey": "7c43c40f5f4a",
+   "pair": 4,
+   "raw": "СЗ ЭКОНОМИЧЕСКАЯ ПОЛИТИКА 1,4 гр. Ушкалова Д.И.",
+   "segments": [
+    {
+     "groups": [
+      1,
+      4
+     ],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Ушкалова Д."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Экономическая политика",
+   "subjectRaw": "ЭКОНОМИЧЕСКАЯ ПОЛИТИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AH11",
+   "date": "2026-10-30",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "9c84b994382d",
+   "kind": "seminar",
+   "lessonKey": "7c43c40f5f4a",
+   "pair": 4,
+   "raw": "СЗ ЭКОНОМИЧЕСКАЯ ПОЛИТИКА 2,3 гр. Головнин М.Ю.",
+   "segments": [
+    {
+     "groups": [
+      2,
+      3
+     ],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Головнин М."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Экономическая политика",
+   "subjectRaw": "ЭКОНОМИЧЕСКАЯ ПОЛИТИКА",
+   "timeOverride": false
+  },
+  {
    "audience": "stream",
    "cell": "AI10",
    "date": "2026-10-31",
@@ -6365,7 +6597,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 201,
+  "cells": 209,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -6421,8 +6653,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "A247E13385CB9F11668C3E7FB87D062B11015334",
-  "mtime": 1791536754,
+  "hash": "565930F546DA973BF9AA08284A8585D7F997F498",
+  "mtime": 1791537102,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
