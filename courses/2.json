@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-10-07T13:34:49+00:00",
+ "generatedAt": "2026-10-11T21:19:20+00:00",
  "groups": [
   1,
   2,
@@ -132,7 +132,7 @@
    "flags": {
     "conflict": false
    },
-   "id": "168a74fb2ca5",
+   "id": "3dcaee016e6e",
    "kind": "english",
    "lessonKey": "5e9f9c0ae60e",
    "pair": 4,
@@ -166,7 +166,7 @@
      "groups": [
       4
      ],
-     "room": null,
+     "room": "403",
      "subgroup": "Б",
      "teacher": "Бордюгов Д.Г."
     }
@@ -346,7 +346,7 @@
    "flags": {
     "conflict": false
    },
-   "id": "dc0ece7da1a7",
+   "id": "1903c70a288f",
    "kind": "english",
    "lessonKey": "e96461679d6d",
    "pair": 3,
@@ -380,7 +380,7 @@
      "groups": [
       4
      ],
-     "room": null,
+     "room": "403",
      "subgroup": "Б",
      "teacher": "Бордюгов Д.Г."
     }
@@ -729,11 +729,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "ce05483d59d2",
+   "id": "0819ebab5659",
    "kind": "seminar",
    "lessonKey": "f3c2791d4a93",
    "pair": 2,
-   "raw": "СЗ МИКРОЭКОНОМИКА -I 3гр. Кукушкин Д.С. 403 СЗ МЭО 2гр. Никитина С.А. 402",
+   "raw": "СЗ МИКРОЭКОНОМИКА -I 3гр. Кукушкин Д.С. 403",
    "segments": [
     {
      "groups": [
@@ -742,7 +742,27 @@
      "room": "403",
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
-    },
+    }
+   ],
+   "start": "10:40",
+   "subject": "Микроэкономика I",
+   "subjectRaw": "МИКРОЭКОНОМИКА -I",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "I7",
+   "date": "2026-09-08",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "b9e30af6ddd0",
+   "kind": "seminar",
+   "lessonKey": "506fb0d19cce",
+   "pair": 2,
+   "raw": "СЗ МЭО 2гр. Никитина С.А. 402",
+   "segments": [
     {
      "groups": [
       2
@@ -753,8 +773,8 @@
     }
    ],
    "start": "10:40",
-   "subject": "Микроэкономика I",
-   "subjectRaw": "МИКРОЭКОНОМИКА -I",
+   "subject": "Международные экономические отношения",
+   "subjectRaw": "МЭО",
    "timeOverride": false
   },
   {
@@ -905,11 +925,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "782af795cb73",
+   "id": "023b8fb0967e",
    "kind": "seminar",
    "lessonKey": "c9979d7a2d36",
    "pair": 4,
-   "raw": "СЗ СМАД 3 гр. Колпаков Д.В. 304 СЗ МИКРОЭКОНОМИКА -I 2 гр. Малютина О.М. 403",
+   "raw": "СЗ СМАД 3 гр. Колпаков Д.В. 304",
    "segments": [
     {
      "groups": [
@@ -918,7 +938,27 @@
      "room": "304",
      "subgroup": "",
      "teacher": "Колпаков Д.В."
-    },
+    }
+   ],
+   "start": "14:10",
+   "subject": "Статистические методы анализа данных",
+   "subjectRaw": "СМАД",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "I11",
+   "date": "2026-09-08",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "238b9e4dd891",
+   "kind": "seminar",
+   "lessonKey": "4f8762ef8647",
+   "pair": 4,
+   "raw": "СЗ МИКРОЭКОНОМИКА -I 2 гр. Малютина О.М. 403",
+   "segments": [
     {
      "groups": [
       2
@@ -929,8 +969,8 @@
     }
    ],
    "start": "14:10",
-   "subject": "Статистические методы анализа данных",
-   "subjectRaw": "СМАД",
+   "subject": "Микроэкономика I",
+   "subjectRaw": "МИКРОЭКОНОМИКА -I",
    "timeOverride": false
   },
   {
@@ -993,11 +1033,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "ef051c7392be",
+   "id": "dc85b3e0799b",
    "kind": "seminar",
    "lessonKey": "b219978d3a8b",
    "pair": 2,
-   "raw": "СЗ ФИЛОСОФИЯ 2гр. Полякова С. В. 403 СЗ МЭО 1гр. Никитина С.А. 405",
+   "raw": "СЗ ФИЛОСОФИЯ 2гр. Полякова С. В. 403",
    "segments": [
     {
      "groups": [
@@ -1006,7 +1046,27 @@
      "room": "403",
      "subgroup": "",
      "teacher": "Полякова С.В."
-    },
+    }
+   ],
+   "start": "10:40",
+   "subject": "Философия",
+   "subjectRaw": "ФИЛОСОФИЯ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "J6",
+   "date": "2026-09-09",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "292ba5600798",
+   "kind": "seminar",
+   "lessonKey": "6503866de463",
+   "pair": 2,
+   "raw": "СЗ МЭО 1гр. Никитина С.А. 405",
+   "segments": [
     {
      "groups": [
       1
@@ -1017,8 +1077,8 @@
     }
    ],
    "start": "10:40",
-   "subject": "Философия",
-   "subjectRaw": "ФИЛОСОФИЯ",
+   "subject": "Международные экономические отношения",
+   "subjectRaw": "МЭО",
    "timeOverride": false
   },
   {
@@ -1830,7 +1890,7 @@
     "conflict": false,
     "noTime": true
    },
-   "id": "d786862fbbe5",
+   "id": "9bee3a404cdc",
    "kind": "commission",
    "lessonKey": "9b97031a36d1",
    "pair": 1,
@@ -1850,7 +1910,7 @@
       3,
       4
      ],
-     "room": null,
+     "room": "303",
      "subgroup": "",
      "teacher": "Колпаков Д.В."
     }
@@ -2217,11 +2277,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "fd2830b09d6e",
+   "id": "cf5e1c2fdb4b",
    "kind": "seminar",
    "lessonKey": "01edd55d4e07",
    "pair": 2,
-   "raw": "СЗ ФИЛОСОФИЯ 1 гр. Полякова С. В. 403 СЗ МЭО 2 гр. Никитина С.А. 405",
+   "raw": "СЗ ФИЛОСОФИЯ 1 гр. Полякова С. В. 403",
    "segments": [
     {
      "groups": [
@@ -2230,7 +2290,27 @@
      "room": "403",
      "subgroup": "",
      "teacher": "Полякова С.В."
-    },
+    }
+   ],
+   "start": "10:40",
+   "subject": "Философия",
+   "subjectRaw": "ФИЛОСОФИЯ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "Q6",
+   "date": "2026-09-16",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "800eaa5a8f8c",
+   "kind": "seminar",
+   "lessonKey": "4458d5bb6c76",
+   "pair": 2,
+   "raw": "СЗ МЭО 2 гр. Никитина С.А. 405",
+   "segments": [
     {
      "groups": [
       2
@@ -2241,8 +2321,8 @@
     }
    ],
    "start": "10:40",
-   "subject": "Философия",
-   "subjectRaw": "ФИЛОСОФИЯ",
+   "subject": "Международные экономические отношения",
+   "subjectRaw": "МЭО",
    "timeOverride": false
   },
   {
@@ -2289,11 +2369,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "a7eb18927cf6",
+   "id": "8b5f13baf4a8",
    "kind": "seminar",
    "lessonKey": "9ebf592a6220",
    "pair": 3,
-   "raw": "СЗ ФИЛОСОФИЯ 3гр. Полякова С. В. 403 СЗ МЭО 4 гр. Никитина С.А. 418",
+   "raw": "СЗ ФИЛОСОФИЯ 3гр. Полякова С. В. 403",
    "segments": [
     {
      "groups": [
@@ -2302,7 +2382,27 @@
      "room": "403",
      "subgroup": "",
      "teacher": "Полякова С.В."
-    },
+    }
+   ],
+   "start": "12:25",
+   "subject": "Философия",
+   "subjectRaw": "ФИЛОСОФИЯ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "Q8",
+   "date": "2026-09-16",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "7378b4593e24",
+   "kind": "seminar",
+   "lessonKey": "65e570c063e3",
+   "pair": 3,
+   "raw": "СЗ МЭО 4 гр. Никитина С.А. 418",
+   "segments": [
     {
      "groups": [
       4
@@ -2313,8 +2413,8 @@
     }
    ],
    "start": "12:25",
-   "subject": "Философия",
-   "subjectRaw": "ФИЛОСОФИЯ",
+   "subject": "Международные экономические отношения",
+   "subjectRaw": "МЭО",
    "timeOverride": false
   },
   {
@@ -2439,7 +2539,7 @@
    "flags": {
     "conflict": false
    },
-   "id": "52e50e691b7e",
+   "id": "7ab8435a7825",
    "kind": "seminar",
    "lessonKey": "c7835e0f2266",
    "pair": 1,
@@ -2457,7 +2557,7 @@
      "groups": [
       3
      ],
-     "room": null,
+     "room": "315",
      "subgroup": "",
      "teacher": "Тарновская П.И."
     }
@@ -2629,35 +2729,6 @@
   },
   {
    "audience": "groups",
-   "cell": "R9",
-   "date": "2026-09-17",
-   "end": "13:55",
-   "flags": {
-    "conflict": false
-   },
-   "id": "7119cb8e566b",
-   "kind": "other",
-   "lessonKey": "89246a1126a6",
-   "pair": 3,
-   "raw": "отмена СЗ ПРАВО 2,3 гр. Болдырев О.Ю. 308",
-   "segments": [
-    {
-     "groups": [
-      2,
-      3
-     ],
-     "room": "308",
-     "subgroup": "",
-     "teacher": "Болдырев О.Ю."
-    }
-   ],
-   "start": "12:25",
-   "subject": "Отмена СЗ право",
-   "subjectRaw": "отмена СЗ ПРАВО",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
    "cell": "R10",
    "date": "2026-09-17",
    "end": "15:40",
@@ -2706,35 +2777,6 @@
    "start": "14:10",
    "subject": "Английский язык",
    "subjectRaw": "",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "R11",
-   "date": "2026-09-17",
-   "end": "15:40",
-   "flags": {
-    "conflict": false
-   },
-   "id": "c9991b1b0bb6",
-   "kind": "other",
-   "lessonKey": "832d9bfc420f",
-   "pair": 4,
-   "raw": "отмена СЗ ПРАВО 1,4 гр. Болдырев О.Ю. 308",
-   "segments": [
-    {
-     "groups": [
-      1,
-      4
-     ],
-     "room": "308",
-     "subgroup": "",
-     "teacher": "Болдырев О.Ю."
-    }
-   ],
-   "start": "14:10",
-   "subject": "Отмена СЗ право",
-   "subjectRaw": "отмена СЗ ПРАВО",
    "timeOverride": false
   },
   {
@@ -3180,11 +3222,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "5c550bc7a9c9",
+   "id": "72f3a3e8933e",
    "kind": "seminar",
    "lessonKey": "02e18f383807",
    "pair": 2,
-   "raw": "СЗ МИКРОЭКОНОМИКА -I 3гр. Кукушкин Д.С. 403 СЗ МЭО 2гр. Никитина С.А. 402",
+   "raw": "СЗ МИКРОЭКОНОМИКА -I 3гр. Кукушкин Д.С. 403",
    "segments": [
     {
      "groups": [
@@ -3193,7 +3235,27 @@
      "room": "403",
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
-    },
+    }
+   ],
+   "start": "10:40",
+   "subject": "Микроэкономика I",
+   "subjectRaw": "МИКРОЭКОНОМИКА -I",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "W7",
+   "date": "2026-09-22",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "8ccb6edd2c63",
+   "kind": "seminar",
+   "lessonKey": "b0b5a2cb1b35",
+   "pair": 2,
+   "raw": "СЗ МЭО 2гр. Никитина С.А. 402",
+   "segments": [
     {
      "groups": [
       2
@@ -3204,8 +3266,8 @@
     }
    ],
    "start": "10:40",
-   "subject": "Микроэкономика I",
-   "subjectRaw": "МИКРОЭКОНОМИКА -I",
+   "subject": "Международные экономические отношения",
+   "subjectRaw": "МЭО",
    "timeOverride": false
   },
   {
@@ -3356,11 +3418,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "fbbba9f20cd6",
+   "id": "609f46a07f1c",
    "kind": "seminar",
    "lessonKey": "5f88c82b7bf8",
    "pair": 4,
-   "raw": "СЗ СМАД 3 гр. Колпаков Д.В. 304 СЗ МИКРОЭКОНОМИКА -I 2 гр. Малютина О.М. 403",
+   "raw": "СЗ СМАД 3 гр. Колпаков Д.В. 304",
    "segments": [
     {
      "groups": [
@@ -3369,7 +3431,27 @@
      "room": "304",
      "subgroup": "",
      "teacher": "Колпаков Д.В."
-    },
+    }
+   ],
+   "start": "14:10",
+   "subject": "Статистические методы анализа данных",
+   "subjectRaw": "СМАД",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "W11",
+   "date": "2026-09-22",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "01d1b636a843",
+   "kind": "seminar",
+   "lessonKey": "3817a62e638a",
+   "pair": 4,
+   "raw": "СЗ МИКРОЭКОНОМИКА -I 2 гр. Малютина О.М. 403",
+   "segments": [
     {
      "groups": [
       2
@@ -3380,8 +3462,8 @@
     }
    ],
    "start": "14:10",
-   "subject": "Статистические методы анализа данных",
-   "subjectRaw": "СМАД",
+   "subject": "Микроэкономика I",
+   "subjectRaw": "МИКРОЭКОНОМИКА -I",
    "timeOverride": false
   },
   {
@@ -3470,11 +3552,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "6483a74f74da",
+   "id": "ee4c76503351",
    "kind": "seminar",
    "lessonKey": "6744e14090f8",
    "pair": 2,
-   "raw": "СЗ ФИЛОСОФИЯ 2гр. Полякова С. В. 403 СЗ МЭО 1гр. Никитина С.А. 405",
+   "raw": "СЗ ФИЛОСОФИЯ 2гр. Полякова С. В. 403",
    "segments": [
     {
      "groups": [
@@ -3483,7 +3565,27 @@
      "room": "403",
      "subgroup": "",
      "teacher": "Полякова С.В."
-    },
+    }
+   ],
+   "start": "10:40",
+   "subject": "Философия",
+   "subjectRaw": "ФИЛОСОФИЯ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "X6",
+   "date": "2026-09-23",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "afa98aca9c5a",
+   "kind": "seminar",
+   "lessonKey": "700b4c98e0cb",
+   "pair": 2,
+   "raw": "СЗ МЭО 1гр. Никитина С.А. 405",
+   "segments": [
     {
      "groups": [
       1
@@ -3494,8 +3596,8 @@
     }
    ],
    "start": "10:40",
-   "subject": "Философия",
-   "subjectRaw": "ФИЛОСОФИЯ",
+   "subject": "Международные экономические отношения",
+   "subjectRaw": "МЭО",
    "timeOverride": false
   },
   {
@@ -4297,7 +4399,7 @@
    "flags": {
     "conflict": false
    },
-   "id": "3b1bfefb8c30",
+   "id": "331350704261",
    "kind": "english",
    "lessonKey": "7a0bc93ab882",
    "pair": 3,
@@ -4318,14 +4420,6 @@
      "room": "404",
      "subgroup": "Б",
      "teacher": "Бордюгов Д.Г."
-    },
-    {
-     "groups": [
-      2
-     ],
-     "room": null,
-     "subgroup": "А",
-     "teacher": "Ильина Г.А."
     },
     {
      "groups": [
@@ -4385,20 +4479,12 @@
    "flags": {
     "conflict": false
    },
-   "id": "499fe89d5bca",
+   "id": "e91572a760af",
    "kind": "english",
    "lessonKey": "cb21ac8fdb36",
    "pair": 4,
    "raw": "АНГЛ. ЯЗЫК отм.1А гр. Ильина Г.А. 1Бгр. Шмараева А.А. 317 4А гр. Сахарова А. Б. 314 4Б гр. Бордюгов Д.Г. 404",
    "segments": [
-    {
-     "groups": [
-      1
-     ],
-     "room": null,
-     "subgroup": "А",
-     "teacher": "Ильина Г.А."
-    },
     {
      "groups": [
       1
@@ -4426,7 +4512,7 @@
    ],
    "start": "14:10",
    "subject": "Английский язык",
-   "subjectRaw": "отм",
+   "subjectRaw": "",
    "timeOverride": false
   },
   {
@@ -4517,11 +4603,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "ee022e9d7532",
+   "id": "3e10c3b07300",
    "kind": "seminar",
    "lessonKey": "7c874596e2f6",
    "pair": 2,
-   "raw": "СЗ ФИЛОСОФИЯ 1 гр. Полякова С. В. 403 СЗ МЭО 2 гр. Никитина С.А. 405",
+   "raw": "СЗ ФИЛОСОФИЯ 1 гр. Полякова С. В. 403",
    "segments": [
     {
      "groups": [
@@ -4530,7 +4616,27 @@
      "room": "403",
      "subgroup": "",
      "teacher": "Полякова С.В."
-    },
+    }
+   ],
+   "start": "10:40",
+   "subject": "Философия",
+   "subjectRaw": "ФИЛОСОФИЯ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "D6",
+   "date": "2026-09-30",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "2a955c76c2e6",
+   "kind": "seminar",
+   "lessonKey": "784acf8a7954",
+   "pair": 2,
+   "raw": "СЗ МЭО 2 гр. Никитина С.А. 405",
+   "segments": [
     {
      "groups": [
       2
@@ -4541,6 +4647,34 @@
     }
    ],
    "start": "10:40",
+   "subject": "Международные экономические отношения",
+   "subjectRaw": "МЭО",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "D8",
+   "date": "2026-09-30",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "eb9353047a2b",
+   "kind": "seminar",
+   "lessonKey": "aa3f79c74b1e",
+   "pair": 3,
+   "raw": "СЗ ФИЛОСОФИЯ 3гр. Полякова С. В. 403",
+   "segments": [
+    {
+     "groups": [
+      3
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Полякова С.В."
+    }
+   ],
+   "start": "12:25",
    "subject": "Философия",
    "subjectRaw": "ФИЛОСОФИЯ",
    "timeOverride": false
@@ -4553,20 +4687,12 @@
    "flags": {
     "conflict": false
    },
-   "id": "0beb1432259e",
+   "id": "d5188646a10e",
    "kind": "seminar",
-   "lessonKey": "aa3f79c74b1e",
+   "lessonKey": "42c08f3fa325",
    "pair": 3,
-   "raw": "СЗ ФИЛОСОФИЯ 3гр. Полякова С. В. 403 СЗ МЭО 4 гр. Никитина С.А. 302",
+   "raw": "СЗ МЭО 4 гр. Никитина С.А. 302",
    "segments": [
-    {
-     "groups": [
-      3
-     ],
-     "room": "403",
-     "subgroup": "",
-     "teacher": "Полякова С.В."
-    },
     {
      "groups": [
       4
@@ -4577,8 +4703,8 @@
     }
    ],
    "start": "12:25",
-   "subject": "Философия",
-   "subjectRaw": "ФИЛОСОФИЯ",
+   "subject": "Международные экономические отношения",
+   "subjectRaw": "МЭО",
    "timeOverride": false
   },
   {
@@ -5664,104 +5790,6 @@
    "timeOverride": true
   },
   {
-   "audience": "stream",
-   "cell": "K4",
-   "date": "2026-10-07",
-   "end": "10:30",
-   "flags": {
-    "conflict": false
-   },
-   "id": "969e289f9f2a",
-   "kind": "other",
-   "lessonKey": "1555a4469901",
-   "pair": 1,
-   "raw": "ОТМЕНА ЛЕКЦИЯ ФИЛОСОФИЯ Полякова С.В. 405",
-   "segments": [
-    {
-     "groups": [],
-     "room": "405",
-     "subgroup": "",
-     "teacher": "Полякова С.В."
-    }
-   ],
-   "start": "09:00",
-   "subject": "Отмена лекция философия",
-   "subjectRaw": "ОТМЕНА ЛЕКЦИЯ ФИЛОСОФИЯ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "K6",
-   "date": "2026-10-07",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "8c9cc7bfbe8d",
-   "kind": "other",
-   "lessonKey": "aabe5373fa03",
-   "pair": 2,
-   "raw": "ОТМЕНА СЗ ФИЛОСОФИЯ 2гр. Полякова С. В. 403 СЗ МЭО 1гр. Никитина С.А. 405",
-   "segments": [
-    {
-     "groups": [
-      2
-     ],
-     "room": "403",
-     "subgroup": "",
-     "teacher": "Полякова С.В."
-    },
-    {
-     "groups": [
-      1
-     ],
-     "room": "405",
-     "subgroup": "",
-     "teacher": "Никитина С.А."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Отмена СЗ философия",
-   "subjectRaw": "ОТМЕНА СЗ ФИЛОСОФИЯ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "K8",
-   "date": "2026-10-07",
-   "end": "13:55",
-   "flags": {
-    "conflict": false
-   },
-   "id": "39838e6ee962",
-   "kind": "other",
-   "lessonKey": "665d3f4781db",
-   "pair": 3,
-   "raw": "ОТМЕНА СЗ ФИЛОСОФИЯ 4 гр. Полякова С. В. 403 СЗ МЭО 2гр. Никитина С.А. 302",
-   "segments": [
-    {
-     "groups": [
-      4
-     ],
-     "room": "403",
-     "subgroup": "",
-     "teacher": "Полякова С.В."
-    },
-    {
-     "groups": [
-      2
-     ],
-     "room": "302",
-     "subgroup": "",
-     "teacher": "Никитина С.А."
-    }
-   ],
-   "start": "12:25",
-   "subject": "Отмена СЗ философия",
-   "subjectRaw": "ОТМЕНА СЗ ФИЛОСОФИЯ",
-   "timeOverride": false
-  },
-  {
    "audience": "personal",
    "cell": "K10",
    "date": "2026-10-07",
@@ -6198,32 +6226,6 @@
    "timeOverride": false
   },
   {
-   "audience": "stream",
-   "cell": "M8",
-   "date": "2026-10-09",
-   "end": "13:55",
-   "flags": {
-    "conflict": false
-   },
-   "id": "482830054d0f",
-   "kind": "other",
-   "lessonKey": "a90ae74b8e11",
-   "pair": 3,
-   "raw": "ОТМЕНА ЛЕКЦИЯ ПРАВО Болдырев О.Ю. 308",
-   "segments": [
-    {
-     "groups": [],
-     "room": "308",
-     "subgroup": "",
-     "teacher": "Болдырев О.Ю."
-    }
-   ],
-   "start": "12:25",
-   "subject": "Отмена лекция право",
-   "subjectRaw": "ОТМЕНА ЛЕКЦИЯ ПРАВО",
-   "timeOverride": false
-  },
-  {
    "audience": "personal",
    "cell": "M12",
    "date": "2026-10-09",
@@ -6315,20 +6317,12 @@
    "flags": {
     "conflict": false
    },
-   "id": "ebceffc1c096",
+   "id": "31eca5efa0f5",
    "kind": "seminar",
    "lessonKey": "be767dcfd9d2",
    "pair": 2,
    "raw": "СЕМИНАР 1 ГР. ДИФФЕРЕНЦИАЛЬНЫЕ УРАВНЕНИЯ И ДИНАМИЧЕСКИЕ СИСТЕМЫ 1 гр. Павлова Н.Г. 405",
    "segments": [
-    {
-     "groups": [
-      1
-     ],
-     "room": null,
-     "subgroup": "",
-     "teacher": null
-    },
     {
      "groups": [
       1
@@ -6891,11 +6885,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "391712a0673e",
+   "id": "39b6611286cc",
    "kind": "seminar",
    "lessonKey": "4d757fb33575",
    "pair": 2,
-   "raw": "СЗ ФИЛОСОФИЯ 1 гр. Полякова С. В. 403 СЗ МЭО 2 гр. Никитина С.А. 405",
+   "raw": "СЗ ФИЛОСОФИЯ 1 гр. Полякова С. В. 403",
    "segments": [
     {
      "groups": [
@@ -6904,7 +6898,27 @@
      "room": "403",
      "subgroup": "",
      "teacher": "Полякова С.В."
-    },
+    }
+   ],
+   "start": "10:40",
+   "subject": "Философия",
+   "subjectRaw": "ФИЛОСОФИЯ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "R6",
+   "date": "2026-10-14",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "e7fd92203d00",
+   "kind": "seminar",
+   "lessonKey": "95e1db349e92",
+   "pair": 2,
+   "raw": "СЗ МЭО 2 гр. Никитина С.А. 405",
+   "segments": [
     {
      "groups": [
       2
@@ -6915,8 +6929,8 @@
     }
    ],
    "start": "10:40",
-   "subject": "Философия",
-   "subjectRaw": "ФИЛОСОФИЯ",
+   "subject": "Международные экономические отношения",
+   "subjectRaw": "МЭО",
    "timeOverride": false
   },
   {
@@ -6963,11 +6977,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "a4f7a583c345",
+   "id": "2a3a0dd6afa0",
    "kind": "seminar",
    "lessonKey": "7fc4d8e22c73",
    "pair": 3,
-   "raw": "СЗ ФИЛОСОФИЯ 3гр. Полякова С. В. 403 СЗ МЭО 4 гр. Никитина С.А. 309",
+   "raw": "СЗ ФИЛОСОФИЯ 3гр. Полякова С. В. 403",
    "segments": [
     {
      "groups": [
@@ -6976,7 +6990,27 @@
      "room": "403",
      "subgroup": "",
      "teacher": "Полякова С.В."
-    },
+    }
+   ],
+   "start": "12:25",
+   "subject": "Философия",
+   "subjectRaw": "ФИЛОСОФИЯ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "R8",
+   "date": "2026-10-14",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "50180c586217",
+   "kind": "seminar",
+   "lessonKey": "00ec9ea0192a",
+   "pair": 3,
+   "raw": "СЗ МЭО 4 гр. Никитина С.А. 309",
+   "segments": [
     {
      "groups": [
       4
@@ -6987,8 +7021,8 @@
     }
    ],
    "start": "12:25",
-   "subject": "Философия",
-   "subjectRaw": "ФИЛОСОФИЯ",
+   "subject": "Международные экономические отношения",
+   "subjectRaw": "МЭО",
    "timeOverride": false
   },
   {
@@ -7113,7 +7147,7 @@
    "flags": {
     "conflict": false
    },
-   "id": "64140f59fdd0",
+   "id": "c11db8b78273",
    "kind": "seminar",
    "lessonKey": "5c26850d33d0",
    "pair": 1,
@@ -7131,7 +7165,7 @@
      "groups": [
       3
      ],
-     "room": null,
+     "room": "315",
      "subgroup": "",
      "teacher": "Тарновская П.И."
     }
@@ -7603,20 +7637,12 @@
    "flags": {
     "conflict": false
    },
-   "id": "943c1e829098",
+   "id": "ec9962efd083",
    "kind": "seminar",
    "lessonKey": "7303ebef234f",
    "pair": 2,
    "raw": "СЕМИНАР 1 ГР. ДИФФЕРЕНЦИАЛЬНЫЕ УРАВНЕНИЯ И ДИНАМИЧЕСКИЕ СИСТЕМЫ 1 гр. Павлова Н.Г. 405",
    "segments": [
-    {
-     "groups": [
-      1
-     ],
-     "room": null,
-     "subgroup": "",
-     "teacher": null
-    },
     {
      "groups": [
       1
@@ -7769,7 +7795,7 @@
    "flags": {
     "conflict": false
    },
-   "id": "e0bd47aa8702",
+   "id": "09947cc396ce",
    "kind": "seminar",
    "lessonKey": "dd84b2e332fd",
    "pair": 1,
@@ -7789,7 +7815,7 @@
      ],
      "room": null,
      "subgroup": "",
-     "teacher": "Кочетовская О."
+     "teacher": "Кочетовская О.С."
     }
    ],
    "start": "09:00",
@@ -8045,11 +8071,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "013d76392688",
+   "id": "bc0e5a2ad307",
    "kind": "seminar",
    "lessonKey": "bbbf776bb08b",
    "pair": 4,
-   "raw": "СЗ СМАД 3 гр. Колпаков Д.В. 304 СЗ ЭК.ПРИРОДОПОЛЬ-ИЯ 2гр. Лобанова Е.О. 302",
+   "raw": "СЗ СМАД 3 гр. Колпаков Д.В. 304",
    "segments": [
     {
      "groups": [
@@ -8058,7 +8084,27 @@
      "room": "304",
      "subgroup": "",
      "teacher": "Колпаков Д.В."
-    },
+    }
+   ],
+   "start": "14:10",
+   "subject": "Статистические методы анализа данных",
+   "subjectRaw": "СМАД",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "X11",
+   "date": "2026-10-20",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "3b00b9ed41c4",
+   "kind": "seminar",
+   "lessonKey": "4ff25c0a8958",
+   "pair": 4,
+   "raw": "СЗ ЭК.ПРИРОДОПОЛЬ-ИЯ 2гр. Лобанова Е.О. 302",
+   "segments": [
     {
      "groups": [
       2
@@ -8069,8 +8115,8 @@
     }
    ],
    "start": "14:10",
-   "subject": "Статистические методы анализа данных",
-   "subjectRaw": "СМАД",
+   "subject": "Экономика природопользования",
+   "subjectRaw": "ЭК.ПРИРОДОПОЛЬ-ИЯ",
    "timeOverride": false
   },
   {
@@ -8159,11 +8205,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "3af8aabc828f",
+   "id": "4c18146a8b89",
    "kind": "seminar",
    "lessonKey": "d58ff08d43d6",
    "pair": 2,
-   "raw": "СЗ ФИЛОСОФИЯ 2гр. Полякова С. В. 403 СЗ МЭО 1гр. Никитина С.А. 405",
+   "raw": "СЗ ФИЛОСОФИЯ 2гр. Полякова С. В. 403",
    "segments": [
     {
      "groups": [
@@ -8172,7 +8218,27 @@
      "room": "403",
      "subgroup": "",
      "teacher": "Полякова С.В."
-    },
+    }
+   ],
+   "start": "10:40",
+   "subject": "Философия",
+   "subjectRaw": "ФИЛОСОФИЯ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "Y6",
+   "date": "2026-10-21",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "2bca40e9dbe6",
+   "kind": "seminar",
+   "lessonKey": "a3b4696646e4",
+   "pair": 2,
+   "raw": "СЗ МЭО 1гр. Никитина С.А. 405",
+   "segments": [
     {
      "groups": [
       1
@@ -8183,8 +8249,8 @@
     }
    ],
    "start": "10:40",
-   "subject": "Философия",
-   "subjectRaw": "ФИЛОСОФИЯ",
+   "subject": "Международные экономические отношения",
+   "subjectRaw": "МЭО",
    "timeOverride": false
   },
   {
@@ -8231,11 +8297,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "98247e4f205f",
+   "id": "c9447efe298f",
    "kind": "seminar",
    "lessonKey": "3fe259a27e5d",
    "pair": 3,
-   "raw": "СЗ ФИЛОСОФИЯ 4 гр. Полякова С. В. 403 СЗ МЭО 2гр. Никитина С.А. 405",
+   "raw": "СЗ ФИЛОСОФИЯ 4 гр. Полякова С. В. 403",
    "segments": [
     {
      "groups": [
@@ -8244,7 +8310,27 @@
      "room": "403",
      "subgroup": "",
      "teacher": "Полякова С.В."
-    },
+    }
+   ],
+   "start": "12:25",
+   "subject": "Философия",
+   "subjectRaw": "ФИЛОСОФИЯ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "Y8",
+   "date": "2026-10-21",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "8e4bdfa5117e",
+   "kind": "seminar",
+   "lessonKey": "d87eceec5f8e",
+   "pair": 3,
+   "raw": "СЗ МЭО 2гр. Никитина С.А. 405",
+   "segments": [
     {
      "groups": [
       2
@@ -8255,8 +8341,8 @@
     }
    ],
    "start": "12:25",
-   "subject": "Философия",
-   "subjectRaw": "ФИЛОСОФИЯ",
+   "subject": "Международные экономические отношения",
+   "subjectRaw": "МЭО",
    "timeOverride": false
   },
   {
@@ -8347,7 +8433,7 @@
    "flags": {
     "conflict": false
    },
-   "id": "4f3c25831b14",
+   "id": "c5bb69334e35",
    "kind": "seminar",
    "lessonKey": "e5426ca45784",
    "pair": 1,
@@ -8365,7 +8451,7 @@
      "groups": [
       3
      ],
-     "room": null,
+     "room": "315",
      "subgroup": "",
      "teacher": "Тарновская П.И."
     }
@@ -8943,7 +9029,7 @@
    "flags": {
     "conflict": false
    },
-   "id": "0e70430aaab6",
+   "id": "eb705118027e",
    "kind": "seminar",
    "lessonKey": "ca7bbe016217",
    "pair": 1,
@@ -8963,7 +9049,7 @@
      ],
      "room": null,
      "subgroup": "",
-     "teacher": "Кочетовская О."
+     "teacher": "Кочетовская О.С."
     }
    ],
    "start": "09:00",
@@ -9299,11 +9385,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "f5f7ad82aade",
+   "id": "aacb40e8e014",
    "kind": "seminar",
    "lessonKey": "bec205c49ddf",
    "pair": 2,
-   "raw": "СЗ ФИЛОСОФИЯ 1 гр. Полякова С. В. 403 СЗ МЭО 2 гр. Никитина С.А. 405",
+   "raw": "СЗ ФИЛОСОФИЯ 1 гр. Полякова С. В. 403",
    "segments": [
     {
      "groups": [
@@ -9312,7 +9398,27 @@
      "room": "403",
      "subgroup": "",
      "teacher": "Полякова С.В."
-    },
+    }
+   ],
+   "start": "10:40",
+   "subject": "Философия",
+   "subjectRaw": "ФИЛОСОФИЯ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AF6",
+   "date": "2026-10-28",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "ab8247300045",
+   "kind": "seminar",
+   "lessonKey": "af7d1cb961b7",
+   "pair": 2,
+   "raw": "СЗ МЭО 2 гр. Никитина С.А. 405",
+   "segments": [
     {
      "groups": [
       2
@@ -9323,8 +9429,8 @@
     }
    ],
    "start": "10:40",
-   "subject": "Философия",
-   "subjectRaw": "ФИЛОСОФИЯ",
+   "subject": "Международные экономические отношения",
+   "subjectRaw": "МЭО",
    "timeOverride": false
   },
   {
@@ -9371,11 +9477,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "55a62066feeb",
+   "id": "f514ff97b74f",
    "kind": "seminar",
    "lessonKey": "e5dda6e0ec52",
    "pair": 3,
-   "raw": "СЗ ФИЛОСОФИЯ 3гр. Полякова С. В. 403 СЗ МЭО 4 гр. Никитина С.А. 418",
+   "raw": "СЗ ФИЛОСОФИЯ 3гр. Полякова С. В. 403",
    "segments": [
     {
      "groups": [
@@ -9384,7 +9490,27 @@
      "room": "403",
      "subgroup": "",
      "teacher": "Полякова С.В."
-    },
+    }
+   ],
+   "start": "12:25",
+   "subject": "Философия",
+   "subjectRaw": "ФИЛОСОФИЯ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AF8",
+   "date": "2026-10-28",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "201c376bbd60",
+   "kind": "seminar",
+   "lessonKey": "051c430d7d2e",
+   "pair": 3,
+   "raw": "СЗ МЭО 4 гр. Никитина С.А. 418",
+   "segments": [
     {
      "groups": [
       4
@@ -9395,8 +9521,8 @@
     }
    ],
    "start": "12:25",
-   "subject": "Философия",
-   "subjectRaw": "ФИЛОСОФИЯ",
+   "subject": "Международные экономические отношения",
+   "subjectRaw": "МЭО",
    "timeOverride": false
   },
   {
@@ -9495,7 +9621,7 @@
    "flags": {
     "conflict": false
    },
-   "id": "0093c49314f2",
+   "id": "c18ff03e0a57",
    "kind": "seminar",
    "lessonKey": "58657d21ce43",
    "pair": 1,
@@ -9513,7 +9639,7 @@
      "groups": [
       3
      ],
-     "room": null,
+     "room": "315",
      "subgroup": "",
      "teacher": "Тарновская П.И."
     }
@@ -10019,6 +10145,7 @@
   "hash": "056328207A241D23A3812E126A44469F6520DC48",
   "mtime": 1791380055,
   "name": "2_курс_Бакалавриат_2026.xlsx",
+  "parser": 2,
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
  },

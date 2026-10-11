@@ -1,6 +1,6 @@
 {
  "course": 1,
- "generatedAt": "2026-10-11T17:50:58+00:00",
+ "generatedAt": "2026-10-11T21:19:20+00:00",
  "groups": [
   1,
   2,
@@ -1711,32 +1711,6 @@
    "timeOverride": false
   },
   {
-   "audience": "stream",
-   "cell": "Q6",
-   "date": "2026-09-16",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "a5db74651832",
-   "kind": "other",
-   "lessonKey": "9caa542535b1",
-   "pair": 2,
-   "raw": "Отмена ЛЕКЦИЯ ПСИХОЛОГИЯ И ЭКОНОМИЧЕСКОЕ ПОВЕДЕНИЕ Белоусова В.В. 302",
-   "segments": [
-    {
-     "groups": [],
-     "room": "302",
-     "subgroup": "",
-     "teacher": "Белоусова В.В."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Отмена лекция психология и экономическое поведение",
-   "subjectRaw": "Отмена ЛЕКЦИЯ ПСИХОЛОГИЯ И ЭКОНОМИЧЕСКОЕ ПОВЕДЕНИЕ",
-   "timeOverride": false
-  },
-  {
    "audience": "groups",
    "cell": "Q8",
    "date": "2026-09-16",
@@ -3320,20 +3294,12 @@
    "flags": {
     "conflict": false
    },
-   "id": "c14a778a9144",
+   "id": "2bf2f6567b29",
    "kind": "english",
    "lessonKey": "a64832e8e30a",
    "pair": 3,
    "raw": "АНГЛ. ЯЗЫК отм.2А гр. Ильина Г.А. 2Б гр. Шмараева А.А. 402 4А гр. Сахарова А. Б. 314 4Б гр. Бордюгов Д.Г. 404",
    "segments": [
-    {
-     "groups": [
-      2
-     ],
-     "room": null,
-     "subgroup": "А",
-     "teacher": "Ильина Г.А."
-    },
     {
      "groups": [
       2
@@ -3361,7 +3327,7 @@
    ],
    "start": "12:25",
    "subject": "Английский язык",
-   "subjectRaw": "отм",
+   "subjectRaw": "",
    "timeOverride": false
   },
   {
@@ -3408,20 +3374,12 @@
    "flags": {
     "conflict": false
    },
-   "id": "466ce44a04a6",
+   "id": "7d8a3d7d8f6c",
    "kind": "english",
    "lessonKey": "9f711a0a13b9",
    "pair": 4,
    "raw": "АНГЛ. ЯЗЫК отм. 1А гр. Ильина Г.А. 1Б гр. Шмараева А.А. 402 3А гр. Сахарова А. Б. 314 3Б гр. Бордюгов Д.Г. 404",
    "segments": [
-    {
-     "groups": [
-      1
-     ],
-     "room": null,
-     "subgroup": "А",
-     "teacher": "Ильина Г.А."
-    },
     {
      "groups": [
       1
@@ -3449,7 +3407,7 @@
    ],
    "start": "14:10",
    "subject": "Английский язык",
-   "subjectRaw": "отм",
+   "subjectRaw": "",
    "timeOverride": false
   },
   {
@@ -5100,11 +5058,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "784936a23e40",
+   "id": "ff6988acab1b",
    "kind": "seminar",
    "lessonKey": "09b5ebd52763",
    "pair": 2,
-   "raw": "СЗ ЭК.ИНФОРМАТИКА-I 4 гр. Колпаков Д.В. 303 СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 3 гр. Лобанова Е.О. 404",
+   "raw": "СЗ ЭК.ИНФОРМАТИКА-I 4 гр. Колпаков Д.В. 303",
    "segments": [
     {
      "groups": [
@@ -5113,7 +5071,27 @@
      "room": "303",
      "subgroup": "",
      "teacher": "Колпаков Д.В."
-    },
+    }
+   ],
+   "start": "10:40",
+   "subject": "Экономическая информатика I",
+   "subjectRaw": "ЭК.ИНФОРМАТИКА-I",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "M7",
+   "date": "2026-10-09",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "5bda1095db30",
+   "kind": "seminar",
+   "lessonKey": "e637779056eb",
+   "pair": 2,
+   "raw": "СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 3 гр. Лобанова Е.О. 404",
+   "segments": [
     {
      "groups": [
       3
@@ -5124,8 +5102,8 @@
     }
    ],
    "start": "10:40",
-   "subject": "Экономическая информатика I",
-   "subjectRaw": "ЭК.ИНФОРМАТИКА-I",
+   "subject": "Введение в общую экономическую теорию",
+   "subjectRaw": "ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю",
    "timeOverride": false
   },
   {
@@ -8216,6 +8194,7 @@
   "hash": "F11436C25DB69825E358B4C233A39B86AA6E395F",
   "mtime": 1791740830,
   "name": "1_курс_Бакалавриат_2026.xlsx",
+  "parser": 2,
   "sheet": "1 курс_СЕНТЯБРЬ_26, 1 курс_ОКТЯБРЬ_26",
   "weblink": "zXBY/Ti1JkH8ip"
  },

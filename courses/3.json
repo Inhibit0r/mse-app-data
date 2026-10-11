@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-10-09T09:27:48+00:00",
+ "generatedAt": "2026-10-11T21:19:20+00:00",
  "groups": [
   1,
   2,
@@ -3042,7 +3042,7 @@
    "flags": {
     "conflict": false
    },
-   "id": "2717e9b94f1c",
+   "id": "d0ec2dfa9dce",
    "kind": "other",
    "lessonKey": "4dd64922b4ce",
    "pair": 2,
@@ -3055,14 +3055,6 @@
      "room": "303",
      "subgroup": "",
      "teacher": "Мироненков А.А."
-    },
-    {
-     "groups": [
-      2
-     ],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Тарновская П.И."
     }
    ],
    "start": "10:40",
@@ -3107,7 +3099,7 @@
    "flags": {
     "conflict": false
    },
-   "id": "4877062b23ea",
+   "id": "1b5a0d2c5e2a",
    "kind": "other",
    "lessonKey": "1ebd98ca059e",
    "pair": 3,
@@ -3120,14 +3112,6 @@
      "room": "303",
      "subgroup": "",
      "teacher": "Мироненков А.А."
-    },
-    {
-     "groups": [
-      4
-     ],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Тарновская П.И."
     }
    ],
    "start": "12:25",
@@ -4780,20 +4764,12 @@
    "flags": {
     "conflict": false
    },
-   "id": "b50b67d28213",
+   "id": "4d9b9a8f0453",
    "kind": "seminar",
-   "lessonKey": "3004cdaca1a9",
+   "lessonKey": "2848320cb618",
    "pair": 4,
    "raw": "СЗ ЭКОНОМИКА ФИРМЫ ОТМ 4 гр. Варфаловский А.В. 3 гр. Попова Т.А. 418",
    "segments": [
-    {
-     "groups": [
-      4
-     ],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Варфаловский А.В."
-    },
     {
      "groups": [
       3
@@ -4804,8 +4780,8 @@
     }
    ],
    "start": "14:10",
-   "subject": "Экономика фирмы ОТМ",
-   "subjectRaw": "ЭКОНОМИКА ФИРМЫ ОТМ",
+   "subject": "Экономика фирмы",
+   "subjectRaw": "ЭКОНОМИКА ФИРМЫ",
    "timeOverride": false
   },
   {
@@ -4852,20 +4828,12 @@
    "flags": {
     "conflict": false
    },
-   "id": "951436c6c24f",
+   "id": "aeaba4f20c7e",
    "kind": "seminar",
-   "lessonKey": "b4241e36f67a",
+   "lessonKey": "b98bb7501be3",
    "pair": 5,
    "raw": "СЗ ЭКОНОМИКА ФИРМЫ ОТМ 2 гр. Варфаловский А.В. 1 гр. Лариошина Л.Ю. 308",
    "segments": [
-    {
-     "groups": [
-      2
-     ],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Варфаловский А.В."
-    },
     {
      "groups": [
       1
@@ -4876,8 +4844,8 @@
     }
    ],
    "start": "15:45",
-   "subject": "Экономика фирмы ОТМ",
-   "subjectRaw": "ЭКОНОМИКА ФИРМЫ ОТМ",
+   "subject": "Экономика фирмы",
+   "subjectRaw": "ЭКОНОМИКА ФИРМЫ",
    "timeOverride": false
   },
   {
@@ -5862,22 +5830,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "86db3f9b8365",
+   "id": "a8636b6fe978",
    "kind": "commission",
-   "lessonKey": "d392528120c7",
+   "lessonKey": "64fe14636afc",
    "pair": 3,
-   "raw": "14:00 Комиссия за зиму Право Болдырев О.Ю. 304 17:20 Пересдача за лето История экономических учений Починкин Д.В. 402",
+   "raw": "14:00 Комиссия за зиму Право Болдырев О.Ю. 304",
    "segments": [
     {
      "groups": [],
-     "room": "304, 402",
+     "room": "304",
      "subgroup": "",
-     "teacher": "Болдырев О.Ю., Починкин Д.В."
+     "teacher": "Болдырев О.Ю."
     }
    ],
    "start": "14:00",
-   "subject": "Право 17:20 пересдача за лето история экономических учений",
-   "subjectRaw": "Право 17:20 Пересдача за лето История экономических учений",
+   "subject": "Право",
+   "subjectRaw": "Право",
    "timeOverride": true
   },
   {
@@ -6041,6 +6009,32 @@
    "subject": "Микроэкономика II",
    "subjectRaw": "МИКРОЭКОНОМИКА-II",
    "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "P14",
+   "date": "2026-10-12",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "27a56cc8745e",
+   "kind": "retake",
+   "lessonKey": "e7f071b236fb",
+   "pair": 6,
+   "raw": "17:20 Пересдача за лето История экономических учений Починкин Д.В. 402",
+   "segments": [
+    {
+     "groups": [],
+     "room": "402",
+     "subgroup": "",
+     "teacher": "Починкин Д.В."
+    }
+   ],
+   "start": "17:20",
+   "subject": "История экономических учений",
+   "subjectRaw": "История экономических учений",
+   "timeOverride": true
   },
   {
    "audience": "stream",
@@ -8110,60 +8104,6 @@
   },
   {
    "audience": "groups",
-   "cell": "AD7",
-   "date": "2026-10-26",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "becccf4bd8b4",
-   "kind": "other",
-   "lessonKey": "06d7b37c4233",
-   "pair": 2,
-   "raw": "ОТМЕНА СЗ ЭКОНОМИКА ФИРМЫ 1 гр. Лариошина Л.Ю. 403",
-   "segments": [
-    {
-     "groups": [
-      1
-     ],
-     "room": "403",
-     "subgroup": "",
-     "teacher": "Лариошина Л.Ю."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Отмена СЗ экономика фирмы",
-   "subjectRaw": "ОТМЕНА СЗ ЭКОНОМИКА ФИРМЫ",
-   "timeOverride": false
-  },
-  {
-   "audience": "stream",
-   "cell": "AD8",
-   "date": "2026-10-26",
-   "end": "13:55",
-   "flags": {
-    "conflict": false
-   },
-   "id": "7ea1e22948ee",
-   "kind": "other",
-   "lessonKey": "2f0b466c9ae6",
-   "pair": 3,
-   "raw": "ОТМЕНА ЛЕКЦИЯ ЭКОНОМИКА ФИРМЫ Лариошина Л.Ю. 308",
-   "segments": [
-    {
-     "groups": [],
-     "room": "308",
-     "subgroup": "",
-     "teacher": "Лариошина Л.Ю."
-    }
-   ],
-   "start": "12:25",
-   "subject": "Отмена лекция экономика фирмы",
-   "subjectRaw": "ОТМЕНА ЛЕКЦИЯ ЭКОНОМИКА ФИРМЫ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
    "cell": "AD10",
    "date": "2026-10-26",
    "end": "15:40",
@@ -9102,6 +9042,7 @@
   "hash": "D6AA8CCD59947609052F700F0DD942F9AD78326E",
   "mtime": 1791538000,
   "name": "3_курс_Бакалавриат_2026.xlsx",
+  "parser": 2,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
  },

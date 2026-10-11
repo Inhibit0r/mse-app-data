@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-10-09T09:17:47+00:00",
+ "generatedAt": "2026-10-11T21:19:20+00:00",
  "groups": [
   1,
   2,
@@ -2839,35 +2839,6 @@
   },
   {
    "audience": "groups",
-   "cell": "D8",
-   "date": "2026-09-30",
-   "end": "13:55",
-   "flags": {
-    "conflict": false
-   },
-   "id": "a8fcc2b9f2e8",
-   "kind": "other",
-   "lessonKey": "69f91921e0f0",
-   "pair": 3,
-   "raw": "ОТМ СЗ ФИНАНСЫ И КРЕДИТ 1,4 гр. Мусаев Р.А. 417",
-   "segments": [
-    {
-     "groups": [
-      1,
-      4
-     ],
-     "room": "417",
-     "subgroup": "",
-     "teacher": "Мусаев Р.А."
-    }
-   ],
-   "start": "12:25",
-   "subject": "ОТМ СЗ финансы и кредит",
-   "subjectRaw": "ОТМ СЗ ФИНАНСЫ И КРЕДИТ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
    "cell": "D9",
    "date": "2026-09-30",
    "end": "13:55",
@@ -5536,7 +5507,7 @@
    "flags": {
     "conflict": false
    },
-   "id": "73a83c35b5ae",
+   "id": "5d97e57c5a0f",
    "kind": "seminar",
    "lessonKey": "338453999fea",
    "pair": 3,
@@ -5549,7 +5520,7 @@
      ],
      "room": null,
      "subgroup": "",
-     "teacher": "Ушкалова Д."
+     "teacher": "Ушкалова Д.И."
     }
    ],
    "start": "12:25",
@@ -5594,7 +5565,7 @@
    "flags": {
     "conflict": false
    },
-   "id": "0b454fc66a5f",
+   "id": "17efff061b48",
    "kind": "seminar",
    "lessonKey": "d42e574ab951",
    "pair": 4,
@@ -5607,7 +5578,7 @@
      ],
      "room": null,
      "subgroup": "",
-     "teacher": "Ушкалова Д."
+     "teacher": "Ушкалова Д.И."
     }
    ],
    "start": "14:10",
@@ -5866,7 +5837,7 @@
    "flags": {
     "conflict": false
    },
-   "id": "20482173940e",
+   "id": "fd0cf2c8c8e9",
    "kind": "seminar",
    "lessonKey": "236a3b26a645",
    "pair": 1,
@@ -5879,7 +5850,7 @@
      ],
      "room": null,
      "subgroup": "",
-     "teacher": "Букина И."
+     "teacher": "Букина И.С."
     }
    ],
    "start": "09:00",
@@ -5895,7 +5866,7 @@
    "flags": {
     "conflict": false
    },
-   "id": "848a8f283904",
+   "id": "2bbc41ff2e77",
    "kind": "seminar",
    "lessonKey": "f0499353a4ad",
    "pair": 2,
@@ -5908,7 +5879,7 @@
      ],
      "room": null,
      "subgroup": "",
-     "teacher": "Букина И."
+     "teacher": "Букина И.С."
     }
    ],
    "start": "10:40",
@@ -6430,7 +6401,7 @@
    "flags": {
     "conflict": false
    },
-   "id": "ab9462ae4f74",
+   "id": "aa9ee227b9ea",
    "kind": "seminar",
    "lessonKey": "30a082f8a031",
    "pair": 3,
@@ -6443,7 +6414,7 @@
      ],
      "room": null,
      "subgroup": "",
-     "teacher": "Ушкалова Д."
+     "teacher": "Ушкалова Д.И."
     }
    ],
    "start": "12:25",
@@ -6488,7 +6459,7 @@
    "flags": {
     "conflict": false
    },
-   "id": "6bc0838fc65f",
+   "id": "0d7f6a81f8cb",
    "kind": "seminar",
    "lessonKey": "7c43c40f5f4a",
    "pair": 4,
@@ -6501,7 +6472,7 @@
      ],
      "room": null,
      "subgroup": "",
-     "teacher": "Ушкалова Д."
+     "teacher": "Ушкалова Д.И."
     }
    ],
    "start": "14:10",
@@ -6656,6 +6627,7 @@
   "hash": "DF65513460790ED3D58AFEBB23F64F6782F2D54C",
   "mtime": 1791537373,
   "name": "4_курс_Бакалавриат_2026.xlsx",
+  "parser": 2,
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
  },
