@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-10-12T11:25:54+00:00",
+ "generatedAt": "2026-10-12T11:30:54+00:00",
  "groups": [
   1,
   2,
@@ -10158,32 +10158,6 @@
    "timeOverride": false
   },
   {
-   "audience": "stream",
-   "cell": "AK10",
-   "date": "2026-11-02",
-   "end": "15:40",
-   "flags": {
-    "conflict": false
-   },
-   "id": "8ebc0e290900",
-   "kind": "lecture",
-   "lessonKey": "bdd03db2b61b",
-   "pair": 4,
-   "raw": "ЛЕКЦИЯ ЭКОНОМИКА ПРИРОДОПОЛЬЗОВАНИЯ Никоноров С.М. 302",
-   "segments": [
-    {
-     "groups": [],
-     "room": "302",
-     "subgroup": "",
-     "teacher": "Никоноров С.М."
-    }
-   ],
-   "start": "14:10",
-   "subject": "Экономика природопользования",
-   "subjectRaw": "ЭКОНОМИКА ПРИРОДОПОЛЬЗОВАНИЯ",
-   "timeOverride": false
-  },
-  {
    "audience": "personal",
    "cell": "AK12",
    "date": "2026-11-02",
@@ -11336,8 +11310,8 @@
    "2026-11-06",
    "2026-11-07"
   ],
-  "hash": "DECAA87CC10F5C7912AD86514133299EE2714069",
-  "mtime": 1791804339,
+  "hash": "AD1837C6141C8C898162510D0EC9974E93E232BC",
+  "mtime": 1791804411,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26",
