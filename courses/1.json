@@ -1,6 +1,6 @@
 {
  "course": 1,
- "generatedAt": "2026-10-11T21:19:20+00:00",
+ "generatedAt": "2026-10-12T07:50:34+00:00",
  "groups": [
   1,
   2,
@@ -5196,17 +5196,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "35aa019fab90",
+   "id": "4dcfcff501d7",
    "kind": "lecture",
    "lessonKey": "892e8e95cf5d",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ ИСТОРИЯ РОССИИ Щербакова Е.И. 302",
+   "raw": "ЛЕКЦИЯ ИСТОРИЯ РОССИИ Мойса Н.И. 302",
    "segments": [
     {
      "groups": [],
      "room": "302",
      "subgroup": "",
-     "teacher": "Щербакова Е.И."
+     "teacher": "Мойса Н.И."
     }
    ],
    "start": "09:00",
@@ -5592,17 +5592,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "3725d69a63fa",
+   "id": "49eddbd5827b",
    "kind": "lecture",
    "lessonKey": "415b1a42d117",
    "pair": 2,
-   "raw": "ЛЕКЦИЯ ИСТОРИЯ РОССИИ Щербакова Е.И. 302",
+   "raw": "ЛЕКЦИЯ ИСТОРИЯ РОССИИ Мойса Н.И. 302",
    "segments": [
     {
      "groups": [],
      "room": "302",
      "subgroup": "",
-     "teacher": "Щербакова Е.И."
+     "teacher": "Мойса Н.И."
     }
    ],
    "start": "10:40",
@@ -6140,17 +6140,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "6d984d3025b4",
+   "id": "180630ab29db",
    "kind": "lecture",
    "lessonKey": "528189a27926",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ ИСТОРИЯ РОССИИ Щербакова Е.И. 302",
+   "raw": "ЛЕКЦИЯ ИСТОРИЯ РОССИИ Мойса Н.И. 302",
    "segments": [
     {
      "groups": [],
      "room": "302",
      "subgroup": "",
-     "teacher": "Щербакова Е.И."
+     "teacher": "Мойса Н.И."
     }
    ],
    "start": "09:00",
@@ -6536,17 +6536,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "1b6d8780d7c4",
+   "id": "c1b36b920604",
    "kind": "lecture",
    "lessonKey": "c9b0f46adf3a",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ ИСТОРИЯ РОССИИ Щербакова Е.И. 302",
+   "raw": "ЛЕКЦИЯ ИСТОРИЯ РОССИИ Мойса Н.И. 302",
    "segments": [
     {
      "groups": [],
      "room": "302",
      "subgroup": "",
-     "teacher": "Щербакова Е.И."
+     "teacher": "Мойса Н.И."
     }
    ],
    "start": "09:00",
@@ -8191,8 +8191,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "F11436C25DB69825E358B4C233A39B86AA6E395F",
-  "mtime": 1791740830,
+  "hash": "2A42EDBCA452591C095A7D038DB9836998A78D68",
+  "mtime": 1791791410,
   "name": "1_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "1 курс_СЕНТЯБРЬ_26, 1 курс_ОКТЯБРЬ_26",
