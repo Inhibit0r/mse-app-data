@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-10-12T09:40:45+00:00",
+ "generatedAt": "2026-10-12T12:05:57+00:00",
  "groups": [
   1,
   2,
@@ -7768,32 +7768,6 @@
   },
   {
    "audience": "personal",
-   "cell": "Z14",
-   "date": "2026-10-22",
-   "end": null,
-   "flags": {
-    "conflict": false
-   },
-   "id": "949125679818",
-   "kind": "retake",
-   "lessonKey": "0ceb894c7d45",
-   "pair": 5,
-   "raw": "15:45 Пересдача за лето Бухучет Леонова М.Е. 402",
-   "segments": [
-    {
-     "groups": [],
-     "room": "402",
-     "subgroup": "",
-     "teacher": "Леонова М.Е."
-    }
-   ],
-   "start": "15:45",
-   "subject": "Бухучет",
-   "subjectRaw": "Бухучет",
-   "timeOverride": true
-  },
-  {
-   "audience": "personal",
    "cell": "AA4",
    "date": "2026-10-23",
    "end": "10:30",
@@ -8237,6 +8211,32 @@
    "subject": "Микроэкономика II",
    "subjectRaw": "МИКРОЭКОНОМИКА-II",
    "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "AD14",
+   "date": "2026-10-26",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "628c648ef8dd",
+   "kind": "retake",
+   "lessonKey": "862eba1ffa92",
+   "pair": 6,
+   "raw": "17:20 Пересдача за лето Бухучет Леонова М.Е. 402",
+   "segments": [
+    {
+     "groups": [],
+     "room": "402",
+     "subgroup": "",
+     "teacher": "Леонова М.Е."
+    }
+   ],
+   "start": "17:20",
+   "subject": "Бухучет",
+   "subjectRaw": "Бухучет",
+   "timeOverride": true
   },
   {
    "audience": "stream",
@@ -9039,8 +9039,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "C5D18CB3B62573AD076673E2D60D3E32A1DDB8E2",
-  "mtime": 1791797974,
+  "hash": "CF671A8CFBFCAD5E9016FFD8C5BB91E586052EA1",
+  "mtime": 1791806671,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
