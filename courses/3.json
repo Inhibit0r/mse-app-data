@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-10-12T09:35:45+00:00",
+ "generatedAt": "2026-10-12T09:40:45+00:00",
  "groups": [
   1,
   2,
@@ -7686,15 +7686,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "677cf92cc674",
+   "id": "d3bb4b34f329",
    "kind": "lecture",
    "lessonKey": "c5d00313517f",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА Кукушкин Д.С. 308",
+   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА Кукушкин Д.С. 302",
    "segments": [
     {
      "groups": [],
-     "room": "308",
+     "room": "302",
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     }
@@ -7774,22 +7774,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "b101659560cf",
+   "id": "949125679818",
    "kind": "retake",
-   "lessonKey": "4d8ec058374e",
+   "lessonKey": "0ceb894c7d45",
    "pair": 5,
-   "raw": "15:45 Пересдача за лето Бухучет Леонова М.Е.",
+   "raw": "15:45 Пересдача за лето Бухучет Леонова М.Е. 402",
    "segments": [
     {
      "groups": [],
-     "room": null,
+     "room": "402",
      "subgroup": "",
-     "teacher": "Леонова М."
+     "teacher": "Леонова М.Е."
     }
    ],
    "start": "15:45",
-   "subject": "Бухучет е",
-   "subjectRaw": "Бухучет Е",
+   "subject": "Бухучет",
+   "subjectRaw": "Бухучет",
    "timeOverride": true
   },
   {
@@ -7878,22 +7878,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "3156f2425e70",
+   "id": "899fa81f02a1",
    "kind": "retake",
-   "lessonKey": "ee2036a5d819",
+   "lessonKey": "5c6fbb9dee2a",
    "pair": 4,
-   "raw": "14:10 Пересдача за лето Макроэкономика Букина И.С. Кукушкин Д.С. Герелишина А.К.",
+   "raw": "14:10 Пересдача за лето Макроэкономика Букина И.С. Кукушкин Д.С. Герелишина А.К. 402",
    "segments": [
     {
      "groups": [],
-     "room": null,
+     "room": "402",
      "subgroup": "",
-     "teacher": "Букина И.С., Кукушкин Д.С., Герелишина А."
+     "teacher": "Букина И.С., Кукушкин Д.С., Герелишина А.К."
     }
    ],
    "start": "14:10",
-   "subject": "Макроэкономика к",
-   "subjectRaw": "Макроэкономика К",
+   "subject": "Макроэкономика",
+   "subjectRaw": "Макроэкономика",
    "timeOverride": true
   },
   {
@@ -7986,22 +7986,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "9415b5ea1e73",
+   "id": "40d336889919",
    "kind": "lecture",
-   "lessonKey": "6b186cf8c2c0",
+   "lessonKey": "edf01796ecc9",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. 402",
+   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. Д",
    "segments": [
     {
      "groups": [],
-     "room": "402",
+     "room": null,
      "subgroup": "",
      "teacher": "Наумова Т.А."
     }
    ],
    "start": "12:25",
-   "subject": "Налоги и налогообложение",
-   "subjectRaw": "Налоги и налогообложение",
+   "subject": "Налоги и налогообложение д",
+   "subjectRaw": "Налоги и налогообложение Д",
    "timeOverride": false
   },
   {
@@ -8012,22 +8012,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "0c004fadfef8",
+   "id": "69b9baed21cb",
    "kind": "lecture",
-   "lessonKey": "35969f29253f",
+   "lessonKey": "47a23239a941",
    "pair": 4,
-   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. 402",
+   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. Д",
    "segments": [
     {
      "groups": [],
-     "room": "402",
+     "room": null,
      "subgroup": "",
      "teacher": "Наумова Т.А."
     }
    ],
    "start": "14:10",
-   "subject": "Налоги и налогообложение",
-   "subjectRaw": "Налоги и налогообложение",
+   "subject": "Налоги и налогообложение д",
+   "subjectRaw": "Налоги и налогообложение Д",
    "timeOverride": false
   },
   {
@@ -9039,8 +9039,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "F47F3F46D6D14F7DD71AB0AB6914D632966A3BB1",
-  "mtime": 1791797712,
+  "hash": "C5D18CB3B62573AD076673E2D60D3E32A1DDB8E2",
+  "mtime": 1791797974,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
