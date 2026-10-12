@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-10-12T12:25:59+00:00",
+ "generatedAt": "2026-10-12T12:30:59+00:00",
  "groups": [
   1,
   2,
@@ -5339,18 +5339,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "f43de36254df",
+   "id": "25d2627da7ba",
    "kind": "seminar",
    "lessonKey": "afc696fb07cb",
    "pair": 2,
-   "raw": "СЗ ЭКОНОМИКА ТРУДА 1,4 гр. Починкин Д.В. 404",
+   "raw": "СЗ ЭКОНОМИКА ТРУДА 1,4 гр. Починкин Д.В. 309",
    "segments": [
     {
      "groups": [
       1,
       4
      ],
-     "room": "404",
+     "room": "309",
      "subgroup": "",
      "teacher": "Починкин Д.В."
     }
@@ -5368,18 +5368,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "e71cf55f508d",
+   "id": "63b9377f13b9",
    "kind": "seminar",
    "lessonKey": "cf939f2db897",
    "pair": 2,
-   "raw": "СЗ АНАЛИЗ - II 2,3 гр. Пепа Р.Ю. 405",
+   "raw": "СЗ АНАЛИЗ - II 2,3 гр. Пепа Р.Ю. 113",
    "segments": [
     {
      "groups": [
       2,
       3
      ],
-     "room": "405",
+     "room": "113",
      "subgroup": "",
      "teacher": "Пепа Р.Ю."
     }
@@ -5397,18 +5397,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "e7f94494df84",
+   "id": "d7cf2dc232a8",
    "kind": "seminar",
    "lessonKey": "82cec01c4900",
    "pair": 3,
-   "raw": "СЗ ЭКОНОМИКА ТРУДА 2,3 гр. Починкин Д.В. 404",
+   "raw": "СЗ ЭКОНОМИКА ТРУДА 2,3 гр. Починкин Д.В. 309",
    "segments": [
     {
      "groups": [
       2,
       3
      ],
-     "room": "404",
+     "room": "309",
      "subgroup": "",
      "teacher": "Починкин Д.В."
     }
@@ -5426,18 +5426,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "c85ddfe15859",
+   "id": "099905217ec4",
    "kind": "seminar",
    "lessonKey": "66a9d565bc06",
    "pair": 3,
-   "raw": "СЗ АНАЛИЗ - II 1,4 гр. Пепа Р.Ю. 405",
+   "raw": "СЗ АНАЛИЗ - II 1,4 гр. Пепа Р.Ю. 113",
    "segments": [
     {
      "groups": [
       1,
       4
      ],
-     "room": "405",
+     "room": "113",
      "subgroup": "",
      "teacher": "Пепа Р.Ю."
     }
@@ -5455,15 +5455,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "73527dbd72d8",
+   "id": "0b2859b98921",
    "kind": "lecture",
    "lessonKey": "8c15f62b4588",
    "pair": 4,
-   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА II Головнин М.Ю. 302",
+   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА II Головнин М.Ю. 113",
    "segments": [
     {
      "groups": [],
-     "room": "302",
+     "room": "113",
      "subgroup": "",
      "teacher": "Головнин М.Ю."
     }
@@ -5481,15 +5481,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "d04485b745a3",
+   "id": "c68012ed78c9",
    "kind": "lecture",
    "lessonKey": "4cccdd7a0bbb",
    "pair": 5,
-   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА II Головнин М.Ю. 302",
+   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА II Головнин М.Ю. 113",
    "segments": [
     {
      "groups": [],
-     "room": "302",
+     "room": "113",
      "subgroup": "",
      "teacher": "Головнин М.Ю."
     }
@@ -6676,8 +6676,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "1EF05DFB37E296922F717852447B09791B34D1D0",
-  "mtime": 1791807870,
+  "hash": "D5BE35FFCFF4C15FA44BB7972EA3BD0F2E748805",
+  "mtime": 1791808178,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26",
