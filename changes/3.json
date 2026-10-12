@@ -2,6 +2,30 @@
  "course": 3,
  "events": [
   {
+   "date": "2026-10-22",
+   "detectedAt": "2026-10-12T12:15:58+00:00",
+   "groups": [],
+   "id": "137d6872f417",
+   "kind": "retake",
+   "lessonKey": "0ceb894c7d45",
+   "pair": 5,
+   "subject": "Бухучет",
+   "text": "Чт 22.10, 5 пара: отменена Пересдача Бухучет",
+   "type": "cancelled"
+  },
+  {
+   "date": "2026-10-26",
+   "detectedAt": "2026-10-12T12:15:58+00:00",
+   "groups": [],
+   "id": "90f54a66e4ca",
+   "kind": "retake",
+   "lessonKey": "862eba1ffa92",
+   "pair": 6,
+   "subject": "Бухучет",
+   "text": "Пн 26.10, 6 пара: добавлена пара Пересдача Бухучет, Леонова М.Е., 402",
+   "type": "added"
+  },
+  {
    "date": "2026-10-19",
    "detectedAt": "2026-10-12T09:50:46+00:00",
    "groups": [
