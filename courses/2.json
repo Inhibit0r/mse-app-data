@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-10-12T11:45:55+00:00",
+ "generatedAt": "2026-10-13T04:19:09+00:00",
  "groups": [
   1,
   2,
@@ -6531,34 +6531,6 @@
   },
   {
    "audience": "groups",
-   "cell": "Q5",
-   "date": "2026-10-13",
-   "end": "10:30",
-   "flags": {
-    "conflict": false
-   },
-   "id": "ccfa5513cf73",
-   "kind": "seminar",
-   "lessonKey": "c3e3097813cd",
-   "pair": 1,
-   "raw": "СЗ СМАД 2 гр. Колпаков Д.В. 303",
-   "segments": [
-    {
-     "groups": [
-      2
-     ],
-     "room": "303",
-     "subgroup": "",
-     "teacher": "Колпаков Д.В."
-    }
-   ],
-   "start": "09:00",
-   "subject": "Статистические методы анализа данных",
-   "subjectRaw": "СМАД",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
    "cell": "Q6",
    "date": "2026-10-13",
    "end": "12:10",
@@ -6777,14 +6749,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "5730b53d1f59",
+   "id": "4b4c92c4452f",
    "kind": "seminar",
    "lessonKey": "204b3f1f8b58",
    "pair": 4,
-   "raw": "СЗ СМАД 3 гр. Колпаков Д.В. 304",
+   "raw": "СЗ СМАД 2,3 гр. Колпаков Д.В. 304",
    "segments": [
     {
      "groups": [
+      2,
       3
      ],
      "room": "304",
@@ -11310,8 +11283,8 @@
    "2026-11-06",
    "2026-11-07"
   ],
-  "hash": "1E6D197E9CC8BF984BC668559A532AC95B562D71",
-  "mtime": 1791805582,
+  "hash": "A4C5F02F208F6F1D16CB527B0FAC5CC305F8E131",
+  "mtime": 1791865201,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26",
