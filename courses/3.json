@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-10-13T08:59:55+00:00",
+ "generatedAt": "2026-10-13T09:04:56+00:00",
  "groups": [
   1,
   2,
@@ -6151,25 +6151,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "0ae74405b5d7",
+   "id": "ab40c70a3bf3",
    "kind": "seminar",
    "lessonKey": "ec3ef8b61471",
    "pair": 4,
-   "raw": "СЗ МАКРОЭКОНОМИКА-II 2гр. Герелишина А.к. 402 1 гр Кукушкин Д. С. 403",
+   "raw": "СЗ МАКРОЭКОНОМИКА-II 1,2 гр Кукушкин Д. С. 402",
    "segments": [
     {
      "groups": [
+      1,
       2
      ],
      "room": "402",
-     "subgroup": "",
-     "teacher": "Герелишина А."
-    },
-    {
-     "groups": [
-      1
-     ],
-     "room": "403",
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     }
@@ -6187,18 +6180,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "be7cc47bd906",
+   "id": "ba247c5beecc",
    "kind": "seminar",
    "lessonKey": "e22175bb42c5",
    "pair": 5,
-   "raw": "СЗ СОЦИОЛОГИЯ 1,2 гр. Зверев А.Л. 308",
+   "raw": "СЗ СОЦИОЛОГИЯ 1,2 гр. Зверев А.Л. 402",
    "segments": [
     {
      "groups": [
       1,
       2
      ],
-     "room": "308",
+     "room": "402",
      "subgroup": "",
      "teacher": "Зверев А.Л."
     }
@@ -6216,25 +6209,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "46f8cc29b5cf",
+   "id": "faadc0aa9cb7",
    "kind": "seminar",
    "lessonKey": "fef24e91174d",
    "pair": 5,
-   "raw": "СЗ МАКРОЭКОНОМИКА-II 4гр. Герелишина А.к. 402 3 гр Кукушкин Д. С. 403",
+   "raw": "СЗ МАКРОЭКОНОМИКА-II 3,4 гр Кукушкин Д. С. 308",
    "segments": [
     {
      "groups": [
+      3,
       4
      ],
-     "room": "402",
-     "subgroup": "",
-     "teacher": "Герелишина А."
-    },
-    {
-     "groups": [
-      3
-     ],
-     "room": "403",
+     "room": "308",
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     }
@@ -7289,25 +7275,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "818e6aab3974",
+   "id": "2c7c0e2aa994",
    "kind": "seminar",
    "lessonKey": "c9c3b6978005",
    "pair": 4,
-   "raw": "СЗ МАКРОЭКОНОМИКА-II 2гр. Герелишина А.к. 405 1 гр Кукушкин Д. С. 403",
+   "raw": "СЗ МАКРОЭКОНОМИКА-II 1,2 гр Кукушкин Д. С. 402",
    "segments": [
     {
      "groups": [
+      1,
       2
      ],
-     "room": "405",
-     "subgroup": "",
-     "teacher": "Герелишина А."
-    },
-    {
-     "groups": [
-      1
-     ],
-     "room": "403",
+     "room": "402",
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     }
@@ -7325,18 +7304,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "752dd3514b21",
+   "id": "056a54d895ee",
    "kind": "seminar",
    "lessonKey": "317c3672ece8",
    "pair": 5,
-   "raw": "СЗ СОЦИОЛОГИЯ 1,2 гр. Зверев А.Л. 308",
+   "raw": "СЗ СОЦИОЛОГИЯ 1,2 гр. Зверев А.Л. 402",
    "segments": [
     {
      "groups": [
       1,
       2
      ],
-     "room": "308",
+     "room": "402",
      "subgroup": "",
      "teacher": "Зверев А.Л."
     }
@@ -7354,25 +7333,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "e00ebd918236",
+   "id": "3e0f583d4f78",
    "kind": "seminar",
    "lessonKey": "b3d7d3aae94b",
    "pair": 5,
-   "raw": "СЗ МАКРОЭКОНОМИКА-II 4гр. Герелишина А.к. 402 3 гр Кукушкин Д. С. 403",
+   "raw": "СЗ МАКРОЭКОНОМИКА-II 3,4 гр Кукушкин Д. С. 308",
    "segments": [
     {
      "groups": [
+      3,
       4
      ],
-     "room": "402",
-     "subgroup": "",
-     "teacher": "Герелишина А."
-    },
-    {
-     "groups": [
-      3
-     ],
-     "room": "403",
+     "room": "308",
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     }
@@ -8353,18 +8325,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "ba36c358df9a",
+   "id": "bf3fe2d49e54",
    "kind": "seminar",
    "lessonKey": "645d563d42c9",
    "pair": 4,
-   "raw": "СЗ МАКРОЭКОНОМИКА-II 1,2 гр Кукушкин Д. С. 113",
+   "raw": "СЗ МАКРОЭКОНОМИКА-II 1,2 гр Кукушкин Д. С. 402",
    "segments": [
     {
      "groups": [
       1,
       2
      ],
-     "room": "113",
+     "room": "402",
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     }
@@ -8382,18 +8354,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "5e7fd6ec4378",
+   "id": "cce41bbf2847",
    "kind": "seminar",
    "lessonKey": "81bec83396f4",
    "pair": 5,
-   "raw": "СЗ СОЦИОЛОГИЯ 1,2 гр. Зверев А.Л. 308",
+   "raw": "СЗ СОЦИОЛОГИЯ 1,2 гр. Зверев А.Л. 402",
    "segments": [
     {
      "groups": [
       1,
       2
      ],
-     "room": "308",
+     "room": "402",
      "subgroup": "",
      "teacher": "Зверев А.Л."
     }
@@ -8411,18 +8383,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "4ee7629409c8",
+   "id": "a40bafeaf407",
    "kind": "seminar",
    "lessonKey": "1894181c3a82",
    "pair": 5,
-   "raw": "СЗ МАКРОЭКОНОМИКА-II 3,4 гр Кукушкин Д. С. 405",
+   "raw": "СЗ МАКРОЭКОНОМИКА-II 3,4 гр Кукушкин Д. С. 308",
    "segments": [
     {
      "groups": [
       3,
       4
      ],
-     "room": "405",
+     "room": "308",
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     }
@@ -9039,8 +9011,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "7AADB93864C7A3CC71A155948CD976A7FE26F9FD",
-  "mtime": 1791881941,
+  "hash": "126D177EA34FA702315C626F94EAD404EAF208CB",
+  "mtime": 1791882058,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
