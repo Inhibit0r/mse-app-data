@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-10-13T04:19:09+00:00",
+ "generatedAt": "2026-10-13T07:59:49+00:00",
  "groups": [
   1,
   2,
@@ -7761,6 +7761,34 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "W14",
+   "date": "2026-10-19",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "1ad94925448b",
+   "kind": "retake",
+   "lessonKey": "b809d23f9b83",
+   "pair": 6,
+   "raw": "17:20 Пересдача за лето Английский язык 3Б, 4Б гр. Бордюгов Д. Г.",
+   "segments": [
+    {
+     "groups": [
+      4
+     ],
+     "room": null,
+     "subgroup": "Б",
+     "teacher": "Бордюгов Д."
+    }
+   ],
+   "start": "17:20",
+   "subject": "Английский язык 3Б",
+   "subjectRaw": "Английский язык 3Б",
+   "timeOverride": true
+  },
+  {
    "audience": "groups",
    "cell": "X4",
    "date": "2026-10-20",
@@ -11221,7 +11249,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 332,
+  "cells": 333,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -11283,8 +11311,8 @@
    "2026-11-06",
    "2026-11-07"
   ],
-  "hash": "A4C5F02F208F6F1D16CB527B0FAC5CC305F8E131",
-  "mtime": 1791865201,
+  "hash": "D8FB0B05B63F04AB0A49416F7EF20462E7569639",
+  "mtime": 1791878382,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26",
