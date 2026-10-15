@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-10-15T07:59:16+00:00",
+ "generatedAt": "2026-10-15T08:39:20+00:00",
  "groups": [
   1,
   2,
@@ -7605,6 +7605,34 @@
    "timeOverride": false
   },
   {
+   "audience": "groups",
+   "cell": "U10",
+   "date": "2026-10-17",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "d8d63e815d77",
+   "kind": "seminar",
+   "lessonKey": "239b47594669",
+   "pair": 4,
+   "raw": "СЗ ЭК.ПРИРОДОПОЛЬ-ИЯ 2гр. Лобанова Е.О. 403",
+   "segments": [
+    {
+     "groups": [
+      2
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Лобанова Е.О."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Экономика природопользования",
+   "subjectRaw": "ЭК.ПРИРОДОПОЛЬ-ИЯ",
+   "timeOverride": false
+  },
+  {
    "audience": "stream",
    "cell": "W4",
    "date": "2026-10-19",
@@ -11275,7 +11303,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 334,
+  "cells": 335,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -11337,8 +11365,8 @@
    "2026-11-06",
    "2026-11-07"
   ],
-  "hash": "DD5DBA2459BA6595892005AB6947C72A60FC9413",
-  "mtime": 1792050892,
+  "hash": "3DBCD9DD5068FB568B784F4BEFFDA3B21528E07A",
+  "mtime": 1792053500,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26",
