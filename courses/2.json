@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-10-15T07:39:13+00:00",
+ "generatedAt": "2026-10-15T07:54:16+00:00",
  "groups": [
   1,
   2,
@@ -10025,6 +10025,32 @@
    "timeOverride": true
   },
   {
+   "audience": "personal",
+   "cell": "AI14",
+   "date": "2026-10-31",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "fa90d5e28147",
+   "kind": "retake",
+   "lessonKey": "33a9fb51221b",
+   "pair": 1,
+   "raw": "10:00 Пересдача за лето История России Щербакова Е.И. Мойса Н.И. 405",
+   "segments": [
+    {
+     "groups": [],
+     "room": "405",
+     "subgroup": "",
+     "teacher": "Щербакова Е.И., Мойса Н.И."
+    }
+   ],
+   "start": "10:00",
+   "subject": "История России",
+   "subjectRaw": "История России",
+   "timeOverride": true
+  },
+  {
    "audience": "groups",
    "cell": "AI4",
    "date": "2026-10-31",
@@ -10079,32 +10105,6 @@
    "subject": "Дифференциальные уравнения и динамические системы",
    "subjectRaw": "ДИФФЕРЕНЦИАЛЬНЫЕ УРАВНЕНИЯ И ДИНАМИЧЕСКИЕ СИСТЕМЫ",
    "timeOverride": false
-  },
-  {
-   "audience": "personal",
-   "cell": "AI14",
-   "date": "2026-10-31",
-   "end": null,
-   "flags": {
-    "conflict": false
-   },
-   "id": "ce31f514f681",
-   "kind": "retake",
-   "lessonKey": "d872bed93732",
-   "pair": 3,
-   "raw": "12:30 Пересдача за лето История России Щербакова Е.И. Мойса Н.И. 405",
-   "segments": [
-    {
-     "groups": [],
-     "room": "405",
-     "subgroup": "",
-     "teacher": "Щербакова Е.И., Мойса Н.И."
-    }
-   ],
-   "start": "12:30",
-   "subject": "История России",
-   "subjectRaw": "История России",
-   "timeOverride": true
   },
   {
    "audience": "stream",
@@ -11337,8 +11337,8 @@
    "2026-11-06",
    "2026-11-07"
   ],
-  "hash": "C2E13BDE4FE1FACDA2B5EA4CBCA0D0E4E47CE741",
-  "mtime": 1792049815,
+  "hash": "E271BB73CC3A7E2E89CE50FD721135B8156CA13C",
+  "mtime": 1792050829,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26",
