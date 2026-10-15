@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-10-15T08:39:20+00:00",
+ "generatedAt": "2026-10-15T08:49:20+00:00",
  "groups": [
   1,
   2,
@@ -7523,6 +7523,34 @@
    "timeOverride": false
   },
   {
+   "audience": "groups",
+   "cell": "T10",
+   "date": "2026-10-16",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "cd8dd1bb76bf",
+   "kind": "seminar",
+   "lessonKey": "79393c27b0fa",
+   "pair": 4,
+   "raw": "СЗ ЭК.ПРИРОДОПОЛЬ-ИЯ 2гр. Лобанова Е.О. 403",
+   "segments": [
+    {
+     "groups": [
+      2
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Лобанова Е.О."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Экономика природопользования",
+   "subjectRaw": "ЭК.ПРИРОДОПОЛЬ-ИЯ",
+   "timeOverride": false
+  },
+  {
    "audience": "personal",
    "cell": "T12",
    "date": "2026-10-16",
@@ -7602,34 +7630,6 @@
    "start": "10:40",
    "subject": "Дифференциальные уравнения и динамические системы",
    "subjectRaw": "ДИФФЕРЕНЦИАЛЬНЫЕ УРАВНЕНИЯ И ДИНАМИЧЕСКИЕ СИСТЕМЫ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "U10",
-   "date": "2026-10-17",
-   "end": "15:40",
-   "flags": {
-    "conflict": false
-   },
-   "id": "d8d63e815d77",
-   "kind": "seminar",
-   "lessonKey": "239b47594669",
-   "pair": 4,
-   "raw": "СЗ ЭК.ПРИРОДОПОЛЬ-ИЯ 2гр. Лобанова Е.О. 403",
-   "segments": [
-    {
-     "groups": [
-      2
-     ],
-     "room": "403",
-     "subgroup": "",
-     "teacher": "Лобанова Е.О."
-    }
-   ],
-   "start": "14:10",
-   "subject": "Экономика природопользования",
-   "subjectRaw": "ЭК.ПРИРОДОПОЛЬ-ИЯ",
    "timeOverride": false
   },
   {
@@ -11365,8 +11365,8 @@
    "2026-11-06",
    "2026-11-07"
   ],
-  "hash": "3DBCD9DD5068FB568B784F4BEFFDA3B21528E07A",
-  "mtime": 1792053500,
+  "hash": "FDA534E5564B4857997FFFA948F0ADBFAE69B0A0",
+  "mtime": 1792054142,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26",
