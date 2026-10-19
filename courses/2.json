@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-10-19T12:26:52+00:00",
+ "generatedAt": "2026-10-19T13:46:59+00:00",
  "groups": [
   1,
   2,
@@ -10543,6 +10543,34 @@
    "timeOverride": false
   },
   {
+   "audience": "groups",
+   "cell": "AL11",
+   "date": "2026-11-03",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "f98569f30b0d",
+   "kind": "seminar",
+   "lessonKey": "a192dd77f4e0",
+   "pair": 4,
+   "raw": "СЗ ЭК.ПРИРОДОПОЛЬ-ИЯ 2гр. Лобанова Е.О. 402",
+   "segments": [
+    {
+     "groups": [
+      2
+     ],
+     "room": "402",
+     "subgroup": "",
+     "teacher": "Лобанова Е.О."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Экономика природопользования",
+   "subjectRaw": "ЭК.ПРИРОДОПОЛЬ-ИЯ",
+   "timeOverride": false
+  },
+  {
    "audience": "personal",
    "cell": "AL12",
    "date": "2026-11-03",
@@ -10602,15 +10630,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "5ae8e1a0e89f",
+   "id": "e3d852ffa5d1",
    "kind": "seminar",
    "lessonKey": "6b144f81b595",
    "pair": 2,
-   "raw": "СЗ ФИЛОСОФИЯ 1 гр. Полякова С. В. 403",
+   "raw": "СЗ ФИЛОСОФИЯ 2гр. Полякова С. В. 403",
    "segments": [
     {
      "groups": [
-      1
+      2
      ],
      "room": "403",
      "subgroup": "",
@@ -10630,15 +10658,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "5fbe0fcc9c63",
+   "id": "df441e767145",
    "kind": "seminar",
    "lessonKey": "47ddffbc49b4",
    "pair": 2,
-   "raw": "СЗ МЭО 2 гр. Никитина С.А. 405",
+   "raw": "СЗ МЭО 1гр. Никитина С.А. 405",
    "segments": [
     {
      "groups": [
-      2
+      1
      ],
      "room": "405",
      "subgroup": "",
@@ -10694,15 +10722,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "88dc76dd76bd",
+   "id": "1f7fe120d8e4",
    "kind": "seminar",
    "lessonKey": "c4127aeb6d78",
    "pair": 3,
-   "raw": "СЗ ФИЛОСОФИЯ 3гр. Полякова С. В. 403",
+   "raw": "СЗ ФИЛОСОФИЯ 4 гр. Полякова С. В. 403",
    "segments": [
     {
      "groups": [
-      3
+      4
      ],
      "room": "403",
      "subgroup": "",
@@ -10722,17 +10750,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "316d96ffbd10",
+   "id": "98e080204458",
    "kind": "seminar",
    "lessonKey": "03627b14f2ad",
    "pair": 3,
-   "raw": "СЗ МЭО 4 гр. Никитина С.А. 418",
+   "raw": "СЗ МЭО 2гр. Никитина С.А. 309",
    "segments": [
     {
      "groups": [
-      4
+      2
      ],
-     "room": "418",
+     "room": "309",
      "subgroup": "",
      "teacher": "Никитина С.А."
     }
@@ -10750,27 +10778,19 @@
    "flags": {
     "conflict": false
    },
-   "id": "5fc032bca36e",
+   "id": "ccae9f514662",
    "kind": "seminar",
    "lessonKey": "9b64c6639d05",
    "pair": 3,
-   "raw": "СЗ ЭК.ПРИРОДОПОЛЬ-ИЯ 1 гр. Никоноров С.М. 113 2гр. Лобанова Е.О. 302",
+   "raw": "СЗ ЭК.ПРИРОДОПОЛЬ-ИЯ 1 гр. Никоноров С.М. 302",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "113",
-     "subgroup": "",
-     "teacher": "Никоноров С.М."
-    },
-    {
-     "groups": [
-      2
-     ],
      "room": "302",
      "subgroup": "",
-     "teacher": "Лобанова Е.О."
+     "teacher": "Никоноров С.М."
     }
    ],
    "start": "12:25",
@@ -11365,8 +11385,8 @@
    "2026-11-06",
    "2026-11-07"
   ],
-  "hash": "15FDDF9D31A4CE704E3F38AC3144FCC5C34673DB",
-  "mtime": 1792412790,
+  "hash": "6EDDA877CC1CBC08E885D0C81607363B6CF63F02",
+  "mtime": 1792417588,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26",
