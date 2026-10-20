@@ -1,6 +1,6 @@
 {
  "course": 1,
- "generatedAt": "2026-10-20T13:01:25+00:00",
+ "generatedAt": "2026-10-20T14:46:34+00:00",
  "groups": [
   1,
   2,
@@ -6593,22 +6593,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "c1b36b920604",
+   "id": "12d5fb7d0c36",
    "kind": "lecture",
-   "lessonKey": "c9b0f46adf3a",
+   "lessonKey": "497c359607a5",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ ИСТОРИЯ РОССИИ Мойса Н.И. 302",
+   "raw": "ЛЕКЦИЯ ИСТОРИЯ РОССИИ Мойса Н.И. Д",
    "segments": [
     {
      "groups": [],
-     "room": "302",
+     "room": null,
      "subgroup": "",
      "teacher": "Мойса Н.И."
     }
    ],
    "start": "09:00",
-   "subject": "История России",
-   "subjectRaw": "ИСТОРИЯ РОССИИ",
+   "subject": "История россии д",
+   "subjectRaw": "ИСТОРИЯ РОССИИ Д",
    "timeOverride": false
   },
   {
@@ -6619,22 +6619,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "abb84639b127",
+   "id": "10b2b07610ea",
    "kind": "lecture",
-   "lessonKey": "fb6afe726c1b",
+   "lessonKey": "2d0939aa2e6f",
    "pair": 2,
-   "raw": "ЛЕКЦИЯ ЭК. ГЕОГРАФИЯ Гузенко И.С. 302",
+   "raw": "ЛЕКЦИЯ ЭК. ГЕОГРАФИЯ Гузенко И.С. Д",
    "segments": [
     {
      "groups": [],
-     "room": "302",
+     "room": null,
      "subgroup": "",
      "teacher": "Гузенко И.С."
     }
    ],
    "start": "10:40",
-   "subject": "Экономическая география",
-   "subjectRaw": "ЭК. ГЕОГРАФИЯ",
+   "subject": "ЭК. география д",
+   "subjectRaw": "ЭК. ГЕОГРАФИЯ Д",
    "timeOverride": false
   },
   {
@@ -6645,17 +6645,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "bbf6d6b10657",
+   "id": "20cab1540b15",
    "kind": "english",
    "lessonKey": "3bc556a39d29",
    "pair": 3,
-   "raw": "АНГЛ. ЯЗЫК 2А гр. Ильина Г.А. 315 2Б гр. Шмараева А.А. 402 4А гр. Сахарова А. Б. 314 4Б гр. Бордюгов Д.Г. 404",
+   "raw": "АНГЛ. ЯЗЫК 2А гр. Ильина Г.А. Д 2Б гр. Шмараева А.А. Д 4А гр. Сахарова А. Б. Д 4Б гр. Бордюгов Д.Г. Д",
    "segments": [
     {
      "groups": [
       2
      ],
-     "room": "315",
+     "room": null,
      "subgroup": "А",
      "teacher": "Ильина Г.А."
     },
@@ -6663,7 +6663,7 @@
      "groups": [
       2
      ],
-     "room": "402",
+     "room": null,
      "subgroup": "Б",
      "teacher": "Шмараева А.А."
     },
@@ -6671,7 +6671,7 @@
      "groups": [
       4
      ],
-     "room": "314",
+     "room": null,
      "subgroup": "А",
      "teacher": "Сахарова А.Б."
     },
@@ -6679,7 +6679,7 @@
      "groups": [
       4
      ],
-     "room": "404",
+     "room": null,
      "subgroup": "Б",
      "teacher": "Бордюгов Д.Г."
     }
@@ -6697,17 +6697,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "e1c89201bb6d",
+   "id": "6bd2d978fa99",
    "kind": "seminar",
    "lessonKey": "1a87e36d463a",
    "pair": 3,
-   "raw": "СЗ ЭК. география 3 гр. Гузенко И.С. 405",
+   "raw": "СЗ ЭК. география 3 гр. Гузенко И.С. Д",
    "segments": [
     {
      "groups": [
       3
      ],
-     "room": "405",
+     "room": null,
      "subgroup": "",
      "teacher": "Гузенко И.С."
     }
@@ -6725,17 +6725,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "05bc2645483f",
+   "id": "b51df90e2116",
    "kind": "english",
    "lessonKey": "5713a96c3aef",
    "pair": 4,
-   "raw": "АНГЛ. ЯЗЫК 1А гр. Ильина Г.А. 315 1Б гр. Шмараева А.А. 402 3А гр. Сахарова А. Б. 314 3Б гр. Бордюгов Д.Г. 404",
+   "raw": "АНГЛ. ЯЗЫК 1А гр. Ильина Г.А. Д 1Б гр. Шмараева А.А. Д 3А гр. Сахарова А. Б. Д 3Б гр. Бордюгов Д.Г. Д",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "315",
+     "room": null,
      "subgroup": "А",
      "teacher": "Ильина Г.А."
     },
@@ -6743,7 +6743,7 @@
      "groups": [
       1
      ],
-     "room": "402",
+     "room": null,
      "subgroup": "Б",
      "teacher": "Шмараева А.А."
     },
@@ -6751,7 +6751,7 @@
      "groups": [
       3
      ],
-     "room": "314",
+     "room": null,
      "subgroup": "А",
      "teacher": "Сахарова А.Б."
     },
@@ -6759,7 +6759,7 @@
      "groups": [
       3
      ],
-     "room": "404",
+     "room": null,
      "subgroup": "Б",
      "teacher": "Бордюгов Д.Г."
     }
@@ -6777,19 +6777,19 @@
    "flags": {
     "conflict": false
    },
-   "id": "8c0c83a409cc",
+   "id": "446c13d4d1e0",
    "kind": "seminar",
    "lessonKey": "4bc2a5feeec1",
    "pair": 4,
-   "raw": "СЗ ЭК. география 4 гр. Гузенко И.С 405",
+   "raw": "СЗ ЭК. география 4 гр. Гузенко И.С. Д",
    "segments": [
     {
      "groups": [
       4
      ],
-     "room": "405",
+     "room": null,
      "subgroup": "",
-     "teacher": "Гузенко И."
+     "teacher": "Гузенко И.С."
     }
    ],
    "start": "14:10",
@@ -6805,22 +6805,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "c6a6a77341fa",
+   "id": "c00e67b1bf20",
    "kind": "other",
-   "lessonKey": "f173228f32c1",
+   "lessonKey": "17018c0643af",
    "pair": 5,
-   "raw": "Искуственный интелект наука и образование Шумилов И.А. 308",
+   "raw": "Искуственный интелект наука и образование Шумилов И.А. Д",
    "segments": [
     {
      "groups": [],
-     "room": "308",
+     "room": null,
      "subgroup": "",
      "teacher": "Шумилов И.А."
     }
    ],
    "start": "15:45",
-   "subject": "Искусственный интеллект: наука и образование",
-   "subjectRaw": "Искуственный интелект наука и образование",
+   "subject": "Искуственный интелект наука и образование д",
+   "subjectRaw": "Искуственный интелект наука и образование Д",
    "timeOverride": false
   },
   {
@@ -13136,8 +13136,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "DD1F094062CA7B5A88ADA5E447B85CA26E858BFE",
-  "mtime": 1792501233,
+  "hash": "F90EA88B34038A9FCB6F0D955713BCAB29876A80",
+  "mtime": 1792507569,
   "name": "1_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "1 курс_СЕНТЯБРЬ_26, 1 курс_ОКТЯБРЬ_26, 1 курс_НОЯБРЬ_26",
