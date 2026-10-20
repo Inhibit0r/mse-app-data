@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-10-20T17:58:30+00:00",
+ "generatedAt": "2026-10-20T18:08:31+00:00",
  "groups": [
   1,
   2,
@@ -9030,20 +9030,12 @@
    "flags": {
     "conflict": false
    },
-   "id": "eb705118027e",
+   "id": "1a2ef97380fa",
    "kind": "seminar",
    "lessonKey": "ca7bbe016217",
    "pair": 1,
-   "raw": "СЗ МЭО 1 гр. Никитина С.А. 402 3 гр. Кочетовская О.С.",
+   "raw": "СЗ МЭО ОТМЕНА1 гр. Никитина С.А. 3 гр. Кочетовская О.С.",
    "segments": [
-    {
-     "groups": [
-      1
-     ],
-     "room": "402",
-     "subgroup": "",
-     "teacher": "Никитина С.А."
-    },
     {
      "groups": [
       3
@@ -9408,34 +9400,6 @@
   },
   {
    "audience": "groups",
-   "cell": "AF6",
-   "date": "2026-10-28",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "ab8247300045",
-   "kind": "seminar",
-   "lessonKey": "af7d1cb961b7",
-   "pair": 2,
-   "raw": "СЗ МЭО 2 гр. Никитина С.А. 405",
-   "segments": [
-    {
-     "groups": [
-      2
-     ],
-     "room": "405",
-     "subgroup": "",
-     "teacher": "Никитина С.А."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Международные экономические отношения",
-   "subjectRaw": "МЭО",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
    "cell": "AF7",
    "date": "2026-10-28",
    "end": "12:10",
@@ -9496,34 +9460,6 @@
    "start": "12:25",
    "subject": "Философия",
    "subjectRaw": "ФИЛОСОФИЯ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "AF8",
-   "date": "2026-10-28",
-   "end": "13:55",
-   "flags": {
-    "conflict": false
-   },
-   "id": "201c376bbd60",
-   "kind": "seminar",
-   "lessonKey": "051c430d7d2e",
-   "pair": 3,
-   "raw": "СЗ МЭО 4 гр. Никитина С.А. 418",
-   "segments": [
-    {
-     "groups": [
-      4
-     ],
-     "room": "418",
-     "subgroup": "",
-     "teacher": "Никитина С.А."
-    }
-   ],
-   "start": "12:25",
-   "subject": "Международные экономические отношения",
-   "subjectRaw": "МЭО",
    "timeOverride": false
   },
   {
@@ -10218,20 +10154,12 @@
    "flags": {
     "conflict": false
    },
-   "id": "52d0fcc69341",
+   "id": "666b9244af58",
    "kind": "seminar",
    "lessonKey": "c8140e5d3a08",
    "pair": 1,
-   "raw": "СЗ МЭО 1 гр. Никитина С.А. 402 3 гр. Кочетовская О.С.",
+   "raw": "СЗ МЭО ОТМЕНА1 гр. Никитина С.А. 3 гр. Кочетовская О.С.",
    "segments": [
-    {
-     "groups": [
-      1
-     ],
-     "room": "402",
-     "subgroup": "",
-     "teacher": "Никитина С.А."
-    },
     {
      "groups": [
       3
@@ -10624,34 +10552,6 @@
   },
   {
    "audience": "groups",
-   "cell": "AM6",
-   "date": "2026-11-04",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "df441e767145",
-   "kind": "seminar",
-   "lessonKey": "47ddffbc49b4",
-   "pair": 2,
-   "raw": "СЗ МЭО 1гр. Никитина С.А. 405",
-   "segments": [
-    {
-     "groups": [
-      1
-     ],
-     "room": "405",
-     "subgroup": "",
-     "teacher": "Никитина С.А."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Международные экономические отношения",
-   "subjectRaw": "МЭО",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
    "cell": "AM7",
    "date": "2026-11-04",
    "end": "12:10",
@@ -10712,34 +10612,6 @@
    "start": "12:25",
    "subject": "Философия",
    "subjectRaw": "ФИЛОСОФИЯ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "AM8",
-   "date": "2026-11-04",
-   "end": "13:55",
-   "flags": {
-    "conflict": false
-   },
-   "id": "98e080204458",
-   "kind": "seminar",
-   "lessonKey": "03627b14f2ad",
-   "pair": 3,
-   "raw": "СЗ МЭО 2гр. Никитина С.А. 309",
-   "segments": [
-    {
-     "groups": [
-      2
-     ],
-     "room": "309",
-     "subgroup": "",
-     "teacher": "Никитина С.А."
-    }
-   ],
-   "start": "12:25",
-   "subject": "Международные экономические отношения",
-   "subjectRaw": "МЭО",
    "timeOverride": false
   },
   {
@@ -11357,8 +11229,8 @@
    "2026-11-06",
    "2026-11-07"
   ],
-  "hash": "1980DA4F7A1364FA7D0391AB7A9010C3A6524724",
-  "mtime": 1792519006,
+  "hash": "2E8D8D1136CE9BDFD3BF7750F499FC2C6C8664A2",
+  "mtime": 1792519648,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26",
