@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-10-19T12:31:52+00:00",
+ "generatedAt": "2026-10-20T07:40:57+00:00",
  "groups": [
   1,
   2,
@@ -6562,6 +6562,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "AI14",
+   "date": "2026-10-31",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "c4fc02734562",
+   "kind": "retake",
+   "lessonKey": "278b7b9481f0",
+   "pair": 2,
+   "raw": "11:00 Пересдача за лето Политология Лукашина Е.В.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Лукашина Е."
+    }
+   ],
+   "start": "11:00",
+   "subject": "Политология в",
+   "subjectRaw": "Политология В",
+   "timeOverride": true
+  },
+  {
    "audience": "stream",
    "cell": "AI10",
    "date": "2026-10-31",
@@ -6620,7 +6646,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 211,
+  "cells": 212,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -6676,8 +6702,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "10BCCFFB9CD85D51DD277C51D0A1243D06C26912",
-  "mtime": 1792412828,
+  "hash": "CAE43688329DD1C83958F29A34983A028A4722A4",
+  "mtime": 1792481824,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26",
