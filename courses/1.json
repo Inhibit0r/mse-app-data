@@ -1,6 +1,6 @@
 {
  "course": 1,
- "generatedAt": "2026-10-20T17:58:30+00:00",
+ "generatedAt": "2026-10-20T19:03:37+00:00",
  "groups": [
   1,
   2,
@@ -6857,11 +6857,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "ff500ac714e4",
+   "id": "3a87842fdd7e",
    "kind": "seminar",
    "lessonKey": "a1e3f8b68cf5",
    "pair": 2,
-   "raw": "СЗ МАТ.АНАЛИЗ 2 гр Хизгияев С. В. Д 4 гр Афонин К.А. Д",
+   "raw": "СЗ МАТ.АНАЛИЗ 2 гр Хизгияев С. В. Д",
    "segments": [
     {
      "groups": [
@@ -6870,14 +6870,6 @@
      "room": null,
      "subgroup": "",
      "teacher": "Хизгияев С.В."
-    },
-    {
-     "groups": [
-      4
-     ],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Афонин К.А."
     }
    ],
    "start": "10:40",
@@ -6965,11 +6957,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "5067a5678628",
+   "id": "e0ab5eb401bf",
    "kind": "seminar",
    "lessonKey": "ec8f4f5c48ff",
    "pair": 3,
-   "raw": "СЗ МАТ.АНАЛИЗ 1 гр Хизгияев С. В. Д 3 гр Афонин К.А. Д",
+   "raw": "СЗ МАТ.АНАЛИЗ 1 гр Хизгияев С. В. Д",
    "segments": [
     {
      "groups": [
@@ -6978,14 +6970,6 @@
      "room": null,
      "subgroup": "",
      "teacher": "Хизгияев С.В."
-    },
-    {
-     "groups": [
-      3
-     ],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Афонин К.А."
     }
    ],
    "start": "12:25",
@@ -7155,6 +7139,35 @@
    "start": "14:50",
    "subject": "Физическая культура",
    "subjectRaw": "",
+   "timeOverride": true
+  },
+  {
+   "audience": "groups",
+   "cell": "AB7",
+   "date": "2026-10-24",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "fb7758814159",
+   "kind": "seminar",
+   "lessonKey": "e03f32fca8b6",
+   "pair": 2,
+   "raw": "12:00 СЗ МАТ.АНАЛИЗ 3,4 гр. Афонин К.А. Д",
+   "segments": [
+    {
+     "groups": [
+      3,
+      4
+     ],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Афонин К.А."
+    }
+   ],
+   "start": "12:00",
+   "subject": "Математический анализ",
+   "subjectRaw": "МАТ.АНАЛИЗ",
    "timeOverride": true
   },
   {
@@ -13050,7 +13063,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 401,
+  "cells": 402,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -13136,8 +13149,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "4DCAA05F4B5B62E7FD24C59AA5B2DB3B150D10C6",
-  "mtime": 1792518861,
+  "hash": "926FAAC8C70157DB4327B78AD52052ADE778DC04",
+  "mtime": 1792522936,
   "name": "1_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "1 курс_СЕНТЯБРЬ_26, 1 курс_ОКТЯБРЬ_26, 1 курс_НОЯБРЬ_26",
