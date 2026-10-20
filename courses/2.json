@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-10-20T10:11:09+00:00",
+ "generatedAt": "2026-10-20T14:36:34+00:00",
  "groups": [
   1,
   2,
@@ -8154,22 +8154,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "d2e9609f2d60",
+   "id": "a9ccd9bfd92a",
    "kind": "lecture",
-   "lessonKey": "21776449a700",
+   "lessonKey": "251ba9f6e41d",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ ФИЛОСОФИЯ Полякова С.В. 113",
+   "raw": "ЛЕКЦИЯ ФИЛОСОФИЯ Полякова С.В. Д",
    "segments": [
     {
      "groups": [],
-     "room": "113",
+     "room": null,
      "subgroup": "",
      "teacher": "Полякова С.В."
     }
    ],
    "start": "09:00",
-   "subject": "Философия",
-   "subjectRaw": "ФИЛОСОФИЯ",
+   "subject": "Философия д",
+   "subjectRaw": "ФИЛОСОФИЯ Д",
    "timeOverride": false
   },
   {
@@ -8180,17 +8180,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "4c18146a8b89",
+   "id": "44260864df85",
    "kind": "seminar",
    "lessonKey": "d58ff08d43d6",
    "pair": 2,
-   "raw": "СЗ ФИЛОСОФИЯ 2гр. Полякова С. В. 403",
+   "raw": "СЗ ФИЛОСОФИЯ 2гр. Полякова С. В. Д",
    "segments": [
     {
      "groups": [
       2
      ],
-     "room": "403",
+     "room": null,
      "subgroup": "",
      "teacher": "Полякова С.В."
     }
@@ -8208,17 +8208,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "2bca40e9dbe6",
+   "id": "455406250dae",
    "kind": "seminar",
    "lessonKey": "a3b4696646e4",
    "pair": 2,
-   "raw": "СЗ МЭО 1гр. Никитина С.А. 405",
+   "raw": "СЗ МЭО 1гр. Никитина С.А. Д",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "405",
+     "room": null,
      "subgroup": "",
      "teacher": "Никитина С.А."
     }
@@ -8236,17 +8236,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "d08827205090",
+   "id": "bf621c870ac9",
    "kind": "seminar",
    "lessonKey": "c4df2be48197",
    "pair": 2,
-   "raw": "СЗ ЭК.ПРИРОДОПОЛЬ-ИЯ 3 гр. Никоноров С.М. 402 4гр. Лобанова Е.О. 404",
+   "raw": "СЗ ЭК.ПРИРОДОПОЛЬ-ИЯ 3 гр. Никоноров С.М. Д 4гр. Лобанова Е.О. Д",
    "segments": [
     {
      "groups": [
       3
      ],
-     "room": "402",
+     "room": null,
      "subgroup": "",
      "teacher": "Никоноров С.М."
     },
@@ -8254,7 +8254,7 @@
      "groups": [
       4
      ],
-     "room": "404",
+     "room": null,
      "subgroup": "",
      "teacher": "Лобанова Е.О."
     }
@@ -8272,17 +8272,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "c9447efe298f",
+   "id": "86a723bbd861",
    "kind": "seminar",
    "lessonKey": "3fe259a27e5d",
    "pair": 3,
-   "raw": "СЗ ФИЛОСОФИЯ 4 гр. Полякова С. В. 403",
+   "raw": "СЗ ФИЛОСОФИЯ 4 гр. Полякова С. В. Д",
    "segments": [
     {
      "groups": [
       4
      ],
-     "room": "403",
+     "room": null,
      "subgroup": "",
      "teacher": "Полякова С.В."
     }
@@ -8300,17 +8300,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "14ca7d8cbbaa",
+   "id": "b72ff85deb05",
    "kind": "seminar",
    "lessonKey": "d87eceec5f8e",
    "pair": 3,
-   "raw": "СЗ МЭО 2гр. Никитина С.А. 309",
+   "raw": "СЗ МЭО 2гр. Никитина С.А. Д",
    "segments": [
     {
      "groups": [
       2
      ],
-     "room": "309",
+     "room": null,
      "subgroup": "",
      "teacher": "Никитина С.А."
     }
@@ -8328,17 +8328,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "2500ded85717",
+   "id": "8a61ce555024",
    "kind": "seminar",
    "lessonKey": "622d07abfe8f",
    "pair": 3,
-   "raw": "СЗ ЭК.ПРИРОДОПОЛЬ-ИЯ 1 гр. Никоноров С.М. 302",
+   "raw": "СЗ ЭК.ПРИРОДОПОЛЬ-ИЯ 1 гр. Никоноров С.М. Д",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "302",
+     "room": null,
      "subgroup": "",
      "teacher": "Никоноров С.М."
     }
@@ -11357,8 +11357,8 @@
    "2026-11-06",
    "2026-11-07"
   ],
-  "hash": "37A148F04041589BC143E330CEBB1A288861EBE8",
-  "mtime": 1792490356,
+  "hash": "50DAA6AABF9BB954EC4D6D0978B88EB5CDD27836",
+  "mtime": 1792506598,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26",

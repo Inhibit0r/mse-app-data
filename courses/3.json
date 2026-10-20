@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-10-20T07:35:56+00:00",
+ "generatedAt": "2026-10-20T14:36:34+00:00",
  "groups": [
   1,
   2,
@@ -7388,22 +7388,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "ac457f280238",
+   "id": "37f9c92c4cce",
    "kind": "lecture",
-   "lessonKey": "39be656d3223",
+   "lessonKey": "416aa1993e91",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ ЭКОНОМЕТРИКА Пепа Р.Ю. 402",
+   "raw": "ЛЕКЦИЯ ЭКОНОМЕТРИКА Пепа Р.Ю. Д",
    "segments": [
     {
      "groups": [],
-     "room": "402",
+     "room": null,
      "subgroup": "",
      "teacher": "Пепа Р.Ю."
     }
    ],
    "start": "09:00",
-   "subject": "Эконометрика",
-   "subjectRaw": "ЭКОНОМЕТРИКА",
+   "subject": "Эконометрика д",
+   "subjectRaw": "ЭКОНОМЕТРИКА Д",
    "timeOverride": false
   },
   {
@@ -7414,17 +7414,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "f71d6b0199d4",
+   "id": "0259f316778a",
    "kind": "other",
    "lessonKey": "82861312429b",
    "pair": 2,
-   "raw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 1 гр. Мироненков А.А. 303 2 гр. Тарновская П.И. 304",
+   "raw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 1 гр. Мироненков А.А. Д 2 гр. Тарновская П.И. Д",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "303",
+     "room": null,
      "subgroup": "",
      "teacher": "Мироненков А.А."
     },
@@ -7432,7 +7432,7 @@
      "groups": [
       2
      ],
-     "room": "304",
+     "room": null,
      "subgroup": "",
      "teacher": "Тарновская П.И."
     }
@@ -7450,18 +7450,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "56c87859f350",
+   "id": "3b90cdac3bdb",
    "kind": "seminar",
    "lessonKey": "83aaba249366",
    "pair": 2,
-   "raw": "СЗ ЭКОНОМЕТРИКА 3,4 гр. Аршакян Р.А. 308",
+   "raw": "СЗ ЭКОНОМЕТРИКА 3,4 гр. Аршакян Р.А. Д",
    "segments": [
     {
      "groups": [
       3,
       4
      ],
-     "room": "308",
+     "room": null,
      "subgroup": "",
      "teacher": "Аршакян Р.А."
     }
@@ -7479,17 +7479,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "5cce08aa2b0d",
+   "id": "aeb20486bde3",
    "kind": "other",
    "lessonKey": "b07032ea7f15",
    "pair": 3,
-   "raw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 3 гр. Мироненков А.А. 303 4 гр. Тарновская П.И. 304",
+   "raw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 3 гр. Мироненков А.А. Д 4 гр. Тарновская П.И. Д",
    "segments": [
     {
      "groups": [
       3
      ],
-     "room": "303",
+     "room": null,
      "subgroup": "",
      "teacher": "Мироненков А.А."
     },
@@ -7497,7 +7497,7 @@
      "groups": [
       4
      ],
-     "room": "304",
+     "room": null,
      "subgroup": "",
      "teacher": "Тарновская П.И."
     }
@@ -7515,18 +7515,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "d5651557a717",
+   "id": "b6014f287f5d",
    "kind": "seminar",
    "lessonKey": "3eb67ed6bc77",
    "pair": 3,
-   "raw": "СЗ ЭКОНОМЕТРИКА 1,2 гр. Аршакян Р.А. 308",
+   "raw": "СЗ ЭКОНОМЕТРИКА 1,2 гр. Аршакян Р.А. Д",
    "segments": [
     {
      "groups": [
       1,
       2
      ],
-     "room": "308",
+     "room": null,
      "subgroup": "",
      "teacher": "Аршакян Р.А."
     }
@@ -9037,8 +9037,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "2A04D7C95A6083B23FE03DFEEA630A34A42CFBF1",
-  "mtime": 1792481579,
+  "hash": "CB52AC01FD2B73FFE77BD44A08ED44BC410FF340",
+  "mtime": 1792506644,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
