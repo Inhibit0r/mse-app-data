@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-10-20T15:16:49+00:00",
+ "generatedAt": "2026-10-20T15:27:19+00:00",
  "groups": [
   1,
   2,
@@ -7382,6 +7382,33 @@
   },
   {
    "audience": "stream",
+   "cell": "Y14",
+   "date": "2026-10-21",
+   "end": null,
+   "flags": {
+    "conflict": false,
+    "noTime": true
+   },
+   "id": "3550f6a3d175",
+   "kind": "other",
+   "lessonKey": "c6ddbc569e28",
+   "pair": 1,
+   "raw": "ПЕРНОСИТСЯ НА НОЯБРЬ 15:45 Пересдача за лето Английский язык Ильина Г.А. Шмараева А.А.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Ильина Г.А."
+    }
+   ],
+   "start": null,
+   "subject": "Перносится НА ноябрь 15:45 пересдача за лето английский язык",
+   "subjectRaw": "ПЕРНОСИТСЯ НА НОЯБРЬ 15:45 Пересдача за лето Английский язык",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
    "cell": "Y4",
    "date": "2026-10-21",
    "end": "10:30",
@@ -7587,32 +7614,6 @@
    "subject": "Межфакультетские курсы",
    "subjectRaw": "",
    "timeOverride": false
-  },
-  {
-   "audience": "personal",
-   "cell": "Y14",
-   "date": "2026-10-21",
-   "end": null,
-   "flags": {
-    "conflict": false
-   },
-   "id": "b4727ea5970f",
-   "kind": "retake",
-   "lessonKey": "c80b1e08a8c5",
-   "pair": 5,
-   "raw": "15:45 Пересдача за лето Английский язык Ильина Г.А. Шмараева А.А.",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Ильина Г.А., Шмараева А."
-    }
-   ],
-   "start": "15:45",
-   "subject": "Английский язык а",
-   "subjectRaw": "Английский язык А",
-   "timeOverride": true
   },
   {
    "audience": "groups",
@@ -9037,12 +9038,20 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "0226C9646B067E5C9E67601A25C30D5532438FBB",
-  "mtime": 1792509177,
+  "hash": "2225B865C935E59AEC7643BC5209BB1C10063C52",
+  "mtime": 1792509800,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
  },
- "warnings": []
+ "warnings": [
+  {
+   "cells": [
+    "Y14"
+   ],
+   "code": "no_time",
+   "message": "событие без времени в ячейке Y14 (2026-10-21)"
+  }
+ ]
 }
