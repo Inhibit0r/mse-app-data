@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-10-20T15:27:19+00:00",
+ "generatedAt": "2026-10-20T17:58:30+00:00",
  "groups": [
   1,
   2,
@@ -7623,17 +7623,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "f9572f4aef45",
+   "id": "30152ce53b33",
    "kind": "seminar",
    "lessonKey": "bf12b1971262",
    "pair": 2,
-   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 1 гр. Шаклеина М.В. 303 2 гр. Попова Т.А. 304",
+   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 1 гр. Шаклеина М.В. Д 2 гр. Попова Т.А. Д",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "303",
+     "room": null,
      "subgroup": "",
      "teacher": "Шаклеина М.В."
     },
@@ -7641,7 +7641,7 @@
      "groups": [
       2
      ],
-     "room": "304",
+     "room": null,
      "subgroup": "",
      "teacher": "Попова Т.А."
     }
@@ -7659,22 +7659,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "d3bb4b34f329",
+   "id": "751df6a79d5a",
    "kind": "lecture",
-   "lessonKey": "c5d00313517f",
+   "lessonKey": "868726c79dcf",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА Кукушкин Д.С. 302",
+   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА Кукушкин Д.С. Д",
    "segments": [
     {
      "groups": [],
-     "room": "302",
+     "room": null,
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     }
    ],
    "start": "12:25",
-   "subject": "Микроэкономика",
-   "subjectRaw": "МИКРОЭКОНОМИКА",
+   "subject": "Микроэкономика д",
+   "subjectRaw": "МИКРОЭКОНОМИКА Д",
    "timeOverride": false
   },
   {
@@ -7685,17 +7685,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "14076e655c28",
+   "id": "1314176228a4",
    "kind": "seminar",
    "lessonKey": "d25c4e5072cc",
    "pair": 4,
-   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 3 гр. Селезнев А.И. 303 4 гр. Лариошина Л.Ю. 304",
+   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 3 гр. Селезнев А.И. Д 4 гр. Лариошина Л.Ю. Д",
    "segments": [
     {
      "groups": [
       3
      ],
-     "room": "303",
+     "room": null,
      "subgroup": "",
      "teacher": "Селезнев А.И."
     },
@@ -7703,7 +7703,7 @@
      "groups": [
       4
      ],
-     "room": "304",
+     "room": null,
      "subgroup": "",
      "teacher": "Лариошина Л.Ю."
     }
@@ -7721,22 +7721,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "b790feaf9cd1",
+   "id": "29a4c53990f8",
    "kind": "russian_foreign",
    "lessonKey": "ea700f41026f",
    "pair": 5,
-   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. 403",
+   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. Д",
    "segments": [
     {
      "groups": [],
-     "room": "403",
+     "room": null,
      "subgroup": "",
      "teacher": "Бордюгов Д.Г."
     }
    ],
    "start": "15:45",
    "subject": "Русский язык для иностранцев",
-   "subjectRaw": "",
+   "subjectRaw": "Д",
    "timeOverride": false
   },
   {
@@ -7825,22 +7825,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "899fa81f02a1",
+   "id": "2291fc132a95",
    "kind": "retake",
-   "lessonKey": "5c6fbb9dee2a",
+   "lessonKey": "d3efb7b78e51",
    "pair": 4,
-   "raw": "14:10 Пересдача за лето Макроэкономика Букина И.С. Кукушкин Д.С. Герелишина А.К. 402",
+   "raw": "14:10 Пересдача за лето Макроэкономика Букина И.С. Кукушкин Д.С. Герелишина А.К. Д",
    "segments": [
     {
      "groups": [],
-     "room": "402",
+     "room": null,
      "subgroup": "",
      "teacher": "Букина И.С., Кукушкин Д.С., Герелишина А.К."
     }
    ],
    "start": "14:10",
-   "subject": "Макроэкономика",
-   "subjectRaw": "Макроэкономика",
+   "subject": "Макроэкономика д",
+   "subjectRaw": "Макроэкономика Д",
    "timeOverride": true
   },
   {
@@ -7877,17 +7877,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "e68eacfcb805",
+   "id": "1343c1659204",
    "kind": "lecture",
    "lessonKey": "dc9f333c43f9",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ ФУНКЦИОНАЛЬНЫЙ АНАЛИЗ 1 гр. Пепа Р.Ю. 403",
+   "raw": "ЛЕКЦИЯ ФУНКЦИОНАЛЬНЫЙ АНАЛИЗ 1 гр. Пепа Р.Ю. Д",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "403",
+     "room": null,
      "subgroup": "",
      "teacher": "Пепа Р.Ю."
     }
@@ -7905,17 +7905,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "a5e8dc5aa172",
+   "id": "263cc4d03002",
    "kind": "seminar",
    "lessonKey": "b4a56eef49a4",
    "pair": 2,
-   "raw": "СЗ ФУНКЦИОНАЛЬНЫЙ АНАЛИЗ 1гр. Пепа Р.Ю. 403",
+   "raw": "СЗ ФУНКЦИОНАЛЬНЫЙ АНАЛИЗ 1гр. Пепа Р.Ю. Д",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "403",
+     "room": null,
      "subgroup": "",
      "teacher": "Пепа Р.Ю."
     }
@@ -9038,8 +9038,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "2225B865C935E59AEC7643BC5209BB1C10063C52",
-  "mtime": 1792509800,
+  "hash": "E622472491D52DDFF00E5B88398B364442B0C2F8",
+  "mtime": 1792519020,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",

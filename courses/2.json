@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-10-20T15:27:19+00:00",
+ "generatedAt": "2026-10-20T17:58:30+00:00",
  "groups": [
   1,
   2,
@@ -8408,17 +8408,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "c5bb69334e35",
+   "id": "55211875bd0d",
    "kind": "seminar",
    "lessonKey": "e5426ca45784",
    "pair": 1,
-   "raw": "СЗ ТВиМС 2гр. Бадулина Н.А. 314 3гр. Тарновская П.И.315",
+   "raw": "СЗ ТВиМС 2гр. Бадулина Н.А. Д 3гр. Тарновская П.И. Д",
    "segments": [
     {
      "groups": [
       2
      ],
-     "room": "314",
+     "room": null,
      "subgroup": "",
      "teacher": "Бадулина Н.А."
     },
@@ -8426,7 +8426,7 @@
      "groups": [
       3
      ],
-     "room": "315",
+     "room": null,
      "subgroup": "",
      "teacher": "Тарновская П.И."
     }
@@ -8444,17 +8444,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "3bbf6511f2cb",
+   "id": "f366eecdc30a",
    "kind": "seminar",
    "lessonKey": "7dbbe3745560",
    "pair": 1,
-   "raw": "СЗ МАКРОЭКОНОМИКА-I 1 гр. Букина И.С. 404 4 гр Герелишина А.К. 405",
+   "raw": "СЗ МАКРОЭКОНОМИКА-I 1 гр. Букина И.С. Д 4 гр Герелишина А.К. Д",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "404",
+     "room": null,
      "subgroup": "",
      "teacher": "Букина И.С."
     },
@@ -8462,7 +8462,7 @@
      "groups": [
       4
      ],
-     "room": "405",
+     "room": null,
      "subgroup": "",
      "teacher": "Герелишина А.К."
     }
@@ -8480,17 +8480,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "2bb67913b80e",
+   "id": "32146579530b",
    "kind": "seminar",
    "lessonKey": "cde601074d55",
    "pair": 2,
-   "raw": "СЗ МАКРОЭКОНОМИКА-I 3 гр.Кукушкин Д.С. 308 2 гр Герелишина А.К. 302",
+   "raw": "СЗ МАКРОЭКОНОМИКА-I 3 гр.Кукушкин Д.С. Д 2 гр Герелишина А.К. Д",
    "segments": [
     {
      "groups": [
       3
      ],
-     "room": "308",
+     "room": null,
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     },
@@ -8498,7 +8498,7 @@
      "groups": [
       2
      ],
-     "room": "302",
+     "room": null,
      "subgroup": "",
      "teacher": "Герелишина А.К."
     }
@@ -8516,17 +8516,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "712ffd5e1715",
+   "id": "3c797155e582",
    "kind": "seminar",
    "lessonKey": "403122918f47",
    "pair": 2,
-   "raw": "СЗ ТВиМС 1гр. Бадулина Н.А. 314 4гр. Тарновская П.И. 315",
+   "raw": "СЗ ТВиМС 1гр. Бадулина Н.А. Д 4гр. Тарновская П.И. Д",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "314",
+     "room": null,
      "subgroup": "",
      "teacher": "Бадулина Н.А."
     },
@@ -8534,7 +8534,7 @@
      "groups": [
       4
      ],
-     "room": "315",
+     "room": null,
      "subgroup": "",
      "teacher": "Тарновская П.И."
     }
@@ -8552,17 +8552,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "a6dd1667f501",
+   "id": "f04fb9302a81",
    "kind": "english",
    "lessonKey": "21360941ad20",
    "pair": 3,
-   "raw": "АНГЛ. ЯЗЫК 1А гр. Ильина Г.А. 315 1Бгр. Шмараева А.А. 316 4А гр. Сахарова А. Б. 314 4Б гр. Бордюгов Д.Г. 418",
+   "raw": "АНГЛ. ЯЗЫК 1А гр. Ильина Г.А. Д 1Бгр. Шмараева А.А. Д 4А гр. Сахарова А. Б. Д 4Б гр. Бордюгов Д.Г. Д",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "315",
+     "room": null,
      "subgroup": "А",
      "teacher": "Ильина Г.А."
     },
@@ -8570,7 +8570,7 @@
      "groups": [
       1
      ],
-     "room": "316",
+     "room": null,
      "subgroup": "Б",
      "teacher": "Шмараева А.А."
     },
@@ -8578,7 +8578,7 @@
      "groups": [
       4
      ],
-     "room": "314",
+     "room": null,
      "subgroup": "А",
      "teacher": "Сахарова А.Б."
     },
@@ -8586,7 +8586,7 @@
      "groups": [
       4
      ],
-     "room": "418",
+     "room": null,
      "subgroup": "Б",
      "teacher": "Бордюгов Д.Г."
     }
@@ -8604,18 +8604,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "725c2d8b65cf",
+   "id": "729dd76e00bc",
    "kind": "seminar",
    "lessonKey": "6a7ee6d718da",
    "pair": 3,
-   "raw": "СЗ ПРАВО 2,3 гр. Болдырев О.Ю. 308",
+   "raw": "СЗ ПРАВО 2,3 гр. Болдырев О.Ю. Д",
    "segments": [
     {
      "groups": [
       2,
       3
      ],
-     "room": "308",
+     "room": null,
      "subgroup": "",
      "teacher": "Болдырев О.Ю."
     }
@@ -8633,17 +8633,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "66eab60cefed",
+   "id": "a6ccb03add1b",
    "kind": "english",
    "lessonKey": "64af58a5993b",
    "pair": 4,
-   "raw": "АНГЛ. ЯЗЫК 3А гр. Сахарова А. Б. 314 3Б гр. Бордюгов Д.Г. 403 2А гр. Ильина Г.А. 315 2Бгр. Шмараева А.А. 402",
+   "raw": "АНГЛ. ЯЗЫК 3А гр. Сахарова А. Б. Д 3Б гр. Бордюгов Д.Г. Д 2А гр. Ильина Г.А. Д 2Бгр. Шмараева А.А. Д",
    "segments": [
     {
      "groups": [
       3
      ],
-     "room": "314",
+     "room": null,
      "subgroup": "А",
      "teacher": "Сахарова А.Б."
     },
@@ -8651,7 +8651,7 @@
      "groups": [
       3
      ],
-     "room": "403",
+     "room": null,
      "subgroup": "Б",
      "teacher": "Бордюгов Д.Г."
     },
@@ -8659,7 +8659,7 @@
      "groups": [
       2
      ],
-     "room": "315",
+     "room": null,
      "subgroup": "А",
      "teacher": "Ильина Г.А."
     },
@@ -8667,7 +8667,7 @@
      "groups": [
       2
      ],
-     "room": "402",
+     "room": null,
      "subgroup": "Б",
      "teacher": "Шмараева А.А."
     }
@@ -8685,18 +8685,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "e2e96b9401e2",
+   "id": "3bce2657e083",
    "kind": "seminar",
    "lessonKey": "16f516d65ff8",
    "pair": 4,
-   "raw": "СЗ ПРАВО 1,4 гр. Болдырев О.Ю. 308",
+   "raw": "СЗ ПРАВО 1,4 гр. Болдырев О.Ю. Д",
    "segments": [
     {
      "groups": [
       1,
       4
      ],
-     "room": "308",
+     "room": null,
      "subgroup": "",
      "teacher": "Болдырев О.Ю."
     }
@@ -8714,22 +8714,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "b054a74a9e49",
+   "id": "edd2c942e010",
    "kind": "lecture",
-   "lessonKey": "5cdce4d85eec",
+   "lessonKey": "0b61614276c2",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ МАКРОЭКОНОМИКА Букина И.С. 308",
+   "raw": "ЛЕКЦИЯ МАКРОЭКОНОМИКА Букина И.С. Д",
    "segments": [
     {
      "groups": [],
-     "room": "308",
+     "room": null,
      "subgroup": "",
      "teacher": "Букина И.С."
     }
    ],
    "start": "09:00",
-   "subject": "Макроэкономика",
-   "subjectRaw": "МАКРОЭКОНОМИКА",
+   "subject": "Макроэкономика д",
+   "subjectRaw": "МАКРОЭКОНОМИКА Д",
    "timeOverride": false
   },
   {
@@ -8740,22 +8740,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "f9091cfc72f1",
+   "id": "c7df4787b941",
    "kind": "lecture",
-   "lessonKey": "a48e0ee21dd1",
+   "lessonKey": "0190ff92193b",
    "pair": 2,
-   "raw": "ЛЕКЦИЯ ТВиМС Курбацкий А.Н. 308",
+   "raw": "ЛЕКЦИЯ ТВиМС Курбацкий А.Н. Д",
    "segments": [
     {
      "groups": [],
-     "room": "308",
+     "room": null,
      "subgroup": "",
      "teacher": "Курбацкий А.Н."
     }
    ],
    "start": "10:40",
-   "subject": "Теория вероятностей и математическая статистика",
-   "subjectRaw": "ТВиМС",
+   "subject": "ТВиМС д",
+   "subjectRaw": "ТВиМС Д",
    "timeOverride": false
   },
   {
@@ -8766,22 +8766,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "e47a24b878b9",
+   "id": "6831907b2d52",
    "kind": "lecture",
-   "lessonKey": "865de2803335",
+   "lessonKey": "75a1204f5cac",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ ПРАВО Болдырев О.Ю. 308",
+   "raw": "ЛЕКЦИЯ ПРАВО Болдырев О.Ю. Д",
    "segments": [
     {
      "groups": [],
-     "room": "308",
+     "room": null,
      "subgroup": "",
      "teacher": "Болдырев О.Ю."
     }
    ],
    "start": "12:25",
-   "subject": "Право",
-   "subjectRaw": "ПРАВО",
+   "subject": "Право д",
+   "subjectRaw": "ПРАВО Д",
    "timeOverride": false
   },
   {
@@ -8792,22 +8792,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "589731bf66e6",
+   "id": "fdd65dd0fcf6",
    "kind": "retake",
-   "lessonKey": "c3194a855638",
+   "lessonKey": "57c925f681e0",
    "pair": 4,
-   "raw": "14:10 Пересдача за лето для справочников Введение в экономику Кочетовская О.С. Мироненкова М.В. Лобанова Е.О. 404",
+   "raw": "14:10 Пересдача за лето для справочников Введение в экономику Кочетовская О.С. Мироненкова М.В. Лобанова Е.О. Д",
    "segments": [
     {
      "groups": [],
-     "room": "404",
+     "room": null,
      "subgroup": "",
      "teacher": "Кочетовская О.С., Мироненкова М.В., Лобанова Е.О."
     }
    ],
    "start": "14:10",
-   "subject": "Для справочников введение в экономику",
-   "subjectRaw": "для справочников Введение в экономику",
+   "subject": "Для справочников введение в экономику д",
+   "subjectRaw": "для справочников Введение в экономику Д",
    "timeOverride": true
   },
   {
@@ -8844,17 +8844,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "15be6cdaf68e",
+   "id": "e8fa9748899f",
    "kind": "lecture",
    "lessonKey": "db7173591cf3",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ ДИФФЕРЕНЦИАЛЬНЫЕ УРАВНЕНИЯ И ДИНАМИЧЕСКИЕ СИСТЕМЫ 1 ГР. Павлова Н.Г. 405",
+   "raw": "ЛЕКЦИЯ ДИФФЕРЕНЦИАЛЬНЫЕ УРАВНЕНИЯ И ДИНАМИЧЕСКИЕ СИСТЕМЫ 1 ГР. Павлова Н.Г. Д",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "405",
+     "room": null,
      "subgroup": "",
      "teacher": "Павлова Н.Г."
     }
@@ -8872,17 +8872,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "c3530c529e22",
+   "id": "c2fa9a189817",
    "kind": "seminar",
    "lessonKey": "c0dda8032a86",
    "pair": 2,
-   "raw": "СЕМИНАР 1 ГР. ДИФФЕРЕНЦИАЛЬНЫЕ УРАВНЕНИЯ И ДИНАМИЧЕСКИЕ СИСТЕМЫ 1 гр. Павлова Н.Г. 405",
+   "raw": "СЕМИНАР 1 ГР. ДИФФЕРЕНЦИАЛЬНЫЕ УРАВНЕНИЯ И ДИНАМИЧЕСКИЕ СИСТЕМЫ 1 гр. Павлова Н.Г. Д",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "405",
+     "room": null,
      "subgroup": "",
      "teacher": "Павлова Н.Г."
     }
@@ -11357,8 +11357,8 @@
    "2026-11-06",
    "2026-11-07"
   ],
-  "hash": "BF021AF824553E1988DDA6C3A951B3E9AA17DAEA",
-  "mtime": 1792509880,
+  "hash": "1980DA4F7A1364FA7D0391AB7A9010C3A6524724",
+  "mtime": 1792519006,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26",
