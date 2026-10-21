@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-10-21T07:45:05+00:00",
+ "generatedAt": "2026-10-21T13:07:46+00:00",
  "groups": [
   1,
   2,
@@ -7985,25 +7985,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "ec7ffb9f6165",
+   "id": "fe4fbfc55c9c",
    "kind": "seminar",
    "lessonKey": "2fe38fab84f4",
    "pair": 1,
-   "raw": "СЗ ИСТОРИЯ ЭКОНОМИЧЕСКИХ УЧЕНИЙ 1 гр. Тымчик В.И. 308 4 гр. Починкин Д.В. 402",
+   "raw": "СЗ ИСТОРИЯ ЭКОНОМИЧЕСКИХ УЧЕНИЙ 1,4 гр. Починкин Д.В. Д",
    "segments": [
     {
      "groups": [
-      1
-     ],
-     "room": "308",
-     "subgroup": "",
-     "teacher": "Тымчик В.И."
-    },
-    {
-     "groups": [
+      1,
       4
      ],
-     "room": "402",
+     "room": null,
      "subgroup": "",
      "teacher": "Починкин Д.В."
     }
@@ -8021,25 +8014,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "4b5711bfcd32",
+   "id": "dae5adc2d8f3",
    "kind": "seminar",
    "lessonKey": "dfc91ee4ebed",
    "pair": 2,
-   "raw": "СЗ ИСТОРИЯ ЭКОНОМИЧЕСКИХ УЧЕНИЙ 2гр. Тымчик В.Л. 308 3 гр. Починкин Д.В. 402",
+   "raw": "СЗ ИСТОРИЯ ЭКОНОМИЧЕСКИХ УЧЕНИЙ 2,3 гр. Починкин Д.В. Д",
    "segments": [
     {
      "groups": [
-      2
-     ],
-     "room": "308",
-     "subgroup": "",
-     "teacher": "Тымчик В.Л."
-    },
-    {
-     "groups": [
+      2,
       3
      ],
-     "room": "402",
+     "room": null,
      "subgroup": "",
      "teacher": "Починкин Д.В."
     }
@@ -8057,22 +8043,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "1bec29d3bcfb",
-   "kind": "other",
-   "lessonKey": "4455f853d5e3",
+   "id": "04da0fdc64b1",
+   "kind": "lecture",
+   "lessonKey": "c8c669336aca",
    "pair": 3,
-   "raw": "КОНТРОЛЬНАЯ РАБОТА СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СТАТИСТИКА Шаклеина М.В. 308",
+   "raw": "ЛЕКЦИЯ СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СТАТИСТИКА Шаклеина М.В. Д",
    "segments": [
     {
      "groups": [],
-     "room": "308",
+     "room": null,
      "subgroup": "",
      "teacher": "Шаклеина М.В."
     }
    ],
    "start": "12:25",
-   "subject": "Контрольная работа социально-экономическая статистика",
-   "subjectRaw": "КОНТРОЛЬНАЯ РАБОТА СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СТАТИСТИКА",
+   "subject": "Социально-экономическая статистика д",
+   "subjectRaw": "СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СТАТИСТИКА Д",
    "timeOverride": false
   },
   {
@@ -8083,17 +8069,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "fb0971265a26",
+   "id": "669dab3e36fd",
    "kind": "seminar",
    "lessonKey": "b9857d5baf5c",
    "pair": 4,
-   "raw": "СЗ ЭКОНОМИКА ФИРМЫ 4 гр. Варфаловский А.В. 417 3 гр. Попова Т.А. 418",
+   "raw": "СЗ ЭКОНОМИКА ФИРМЫ 4 гр. Варфаловский А.В. Д 3 гр. Попова Т.А. Д",
    "segments": [
     {
      "groups": [
       4
      ],
-     "room": "417",
+     "room": null,
      "subgroup": "",
      "teacher": "Варфаловский А.В."
     },
@@ -8101,7 +8087,7 @@
      "groups": [
       3
      ],
-     "room": "418",
+     "room": null,
      "subgroup": "",
      "teacher": "Попова Т.А."
     }
@@ -8119,17 +8105,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "9eabc5638afe",
+   "id": "0dccc1200e6f",
    "kind": "seminar",
    "lessonKey": "98cba7913fb1",
    "pair": 4,
-   "raw": "СЗ МИКРОЭКОНОМИКА-II 1 гр. Кукушкин Д.С. 317 2гр. Починкин Д.В. 303",
+   "raw": "СЗ МИКРОЭКОНОМИКА-II 1 гр. Кукушкин Д.С. Д 2гр. Починкин Д.В. Д",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "317",
+     "room": null,
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     },
@@ -8137,7 +8123,7 @@
      "groups": [
       2
      ],
-     "room": "303",
+     "room": null,
      "subgroup": "",
      "teacher": "Починкин Д.В."
     }
@@ -8155,17 +8141,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "bb76ec43786b",
+   "id": "a3a2ad5add20",
    "kind": "seminar",
    "lessonKey": "f30ee14fb77b",
    "pair": 5,
-   "raw": "СЗ ЭКОНОМИКА ФИРМЫ 2 гр. Варфаловский А.В. 308",
+   "raw": "СЗ ЭКОНОМИКА ФИРМЫ 2 гр. Варфаловский А.В. Д",
    "segments": [
     {
      "groups": [
       2
      ],
-     "room": "308",
+     "room": null,
      "subgroup": "",
      "teacher": "Варфаловский А.В."
     }
@@ -8183,17 +8169,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "29d334ac89b8",
+   "id": "adc569642e6d",
    "kind": "seminar",
    "lessonKey": "a6c6794a0607",
    "pair": 5,
-   "raw": "СЗ МИКРОЭКОНОМИКА-II 3 гр. Кукушкин Д.С. 402 СЗ МИКРОЭКОНОМИКА-II 4 гр. Починкин Д.В. 404",
+   "raw": "СЗ МИКРОЭКОНОМИКА-II 3 гр. Кукушкин Д.С. Д СЗ МИКРОЭКОНОМИКА-II 4 гр. Починкин Д.В. Д",
    "segments": [
     {
      "groups": [
       3
      ],
-     "room": "402",
+     "room": null,
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     },
@@ -8201,7 +8187,7 @@
      "groups": [
       4
      ],
-     "room": "404",
+     "room": null,
      "subgroup": "",
      "teacher": "Починкин Д.В."
     }
@@ -8261,32 +8247,6 @@
    "start": "09:00",
    "subject": "Макроэкономика II",
    "subjectRaw": "МАКРОЭКОНОМИКА-II",
-   "timeOverride": false
-  },
-  {
-   "audience": "stream",
-   "cell": "AE6",
-   "date": "2026-10-27",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "99c2f7d77edc",
-   "kind": "lecture",
-   "lessonKey": "b05f609e0d56",
-   "pair": 2,
-   "raw": "ЛЕКЦИЯ СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СТАТИСТИКА Шаклеина М.В. 308",
-   "segments": [
-    {
-     "groups": [],
-     "room": "308",
-     "subgroup": "",
-     "teacher": "Шаклеина М.В."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Социально-экономическая статистика",
-   "subjectRaw": "СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СТАТИСТИКА",
    "timeOverride": false
   },
   {
@@ -8982,7 +8942,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 277,
+  "cells": 276,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -9038,8 +8998,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "0E47AFB05A7AC85656A0D388D1B6F56EDA899328",
-  "mtime": 1792568424,
+  "hash": "8A3C82523300822F403B495CD5CABA3CF02E6BE9",
+  "mtime": 1792588018,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
