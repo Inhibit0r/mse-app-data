@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-10-21T12:47:39+00:00",
+ "generatedAt": "2026-10-21T12:52:39+00:00",
  "groups": [
   1,
   2,
@@ -8895,80 +8895,28 @@
   },
   {
    "audience": "stream",
-   "cell": "AD4",
-   "date": "2026-10-26",
-   "end": "10:30",
-   "flags": {
-    "conflict": false
-   },
-   "id": "357cef1061a0",
-   "kind": "lecture",
-   "lessonKey": "35bae21b3c3a",
-   "pair": 1,
-   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА Щербанин Ю.А.",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Щербанин Ю.А."
-    }
-   ],
-   "start": "09:00",
-   "subject": "Мировая экономика",
-   "subjectRaw": "МИРОВАЯ ЭКОНОМИКА",
-   "timeOverride": false
-  },
-  {
-   "audience": "stream",
-   "cell": "AD6",
-   "date": "2026-10-26",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "8f65c1797f56",
-   "kind": "lecture",
-   "lessonKey": "247b900b6bad",
-   "pair": 2,
-   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА Щербанин Ю.А.",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Щербанин Ю.А."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Мировая экономика",
-   "subjectRaw": "МИРОВАЯ ЭКОНОМИКА",
-   "timeOverride": false
-  },
-  {
-   "audience": "stream",
    "cell": "AD8",
    "date": "2026-10-26",
    "end": "13:55",
    "flags": {
     "conflict": false
    },
-   "id": "b1d802e87b32",
+   "id": "ca728059f588",
    "kind": "lecture",
-   "lessonKey": "85caec6c1c8d",
+   "lessonKey": "51ac60feb650",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА-I Кукушкин Д.С. 302",
+   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА-I Кукушкин Д.С. Д",
    "segments": [
     {
      "groups": [],
-     "room": "302",
+     "room": null,
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     }
    ],
    "start": "12:25",
-   "subject": "Микроэкономика I",
-   "subjectRaw": "МИКРОЭКОНОМИКА-I",
+   "subject": "Микроэкономика-I д",
+   "subjectRaw": "МИКРОЭКОНОМИКА-I Д",
    "timeOverride": false
   },
   {
@@ -8979,22 +8927,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "acaac998a76b",
+   "id": "f78bb240c507",
    "kind": "lecture",
-   "lessonKey": "62a09a1bb243",
+   "lessonKey": "d3cbfca9596c",
    "pair": 4,
-   "raw": "ЛЕКЦИЯ ЭКОНОМИКА ПРИРОДОПОЛЬЗОВАНИЯ Никоноров С.М. 302",
+   "raw": "ЛЕКЦИЯ ЭКОНОМИКА ПРИРОДОПОЛЬЗОВАНИЯ Никоноров С.М. Д",
    "segments": [
     {
      "groups": [],
-     "room": "302",
+     "room": null,
      "subgroup": "",
      "teacher": "Никоноров С.М."
     }
    ],
    "start": "14:10",
-   "subject": "Экономика природопользования",
-   "subjectRaw": "ЭКОНОМИКА ПРИРОДОПОЛЬЗОВАНИЯ",
+   "subject": "Экономика природопользования д",
+   "subjectRaw": "ЭКОНОМИКА ПРИРОДОПОЛЬЗОВАНИЯ Д",
    "timeOverride": false
   },
   {
@@ -9005,22 +8953,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "42a0f2502bf0",
+   "id": "59250d919497",
    "kind": "russian_foreign",
    "lessonKey": "8091a0c63c08",
    "pair": 5,
-   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. 403",
+   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. Д",
    "segments": [
     {
      "groups": [],
-     "room": "403",
+     "room": null,
      "subgroup": "",
      "teacher": "Бордюгов Д.Г."
     }
    ],
    "start": "15:45",
    "subject": "Русский язык для иностранцев",
-   "subjectRaw": "",
+   "subjectRaw": "Д",
    "timeOverride": false
   },
   {
@@ -9035,7 +8983,7 @@
    "kind": "seminar",
    "lessonKey": "ca7bbe016217",
    "pair": 1,
-   "raw": "СЗ МЭО ОТМЕНА1 гр. Никитина С.А. 3 гр. Кочетовская О.С.",
+   "raw": "СЗ МЭО ОТМЕНА1 гр. Никитина С.А. 3 гр. Кочетовская О.С. Д",
    "segments": [
     {
      "groups": [
@@ -9059,17 +9007,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "928df3a5a17a",
+   "id": "b96be903d363",
    "kind": "seminar",
    "lessonKey": "fc5bb3807aa2",
    "pair": 1,
-   "raw": "СЗ СМАД 2 гр. Колпаков Д.В. 303",
+   "raw": "СЗ СМАД 2 гр. Колпаков Д.В. Д",
    "segments": [
     {
      "groups": [
       2
      ],
-     "room": "303",
+     "room": null,
      "subgroup": "",
      "teacher": "Колпаков Д.В."
     }
@@ -9087,17 +9035,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "d0b448358b0e",
+   "id": "81a15e61aa39",
    "kind": "seminar",
    "lessonKey": "c83d920144c3",
    "pair": 2,
-   "raw": "СЗ СМАД 1 гр. Хизгияев С.В. 304 4гр. Колпаков Д.В. 303",
+   "raw": "СЗ СМАД 1 гр. Хизгияев С.В. Д 4гр. Колпаков Д.В. Д",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "304",
+     "room": null,
      "subgroup": "",
      "teacher": "Хизгияев С.В."
     },
@@ -9105,7 +9053,7 @@
      "groups": [
       4
      ],
-     "room": "303",
+     "room": null,
      "subgroup": "",
      "teacher": "Колпаков Д.В."
     }
@@ -9123,17 +9071,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "ac119c3992f7",
+   "id": "6a9acfa2359c",
    "kind": "seminar",
    "lessonKey": "11b7dc94deb3",
    "pair": 2,
-   "raw": "СЗ МИКРОЭКОНОМИКА -I 2 гр. Малютина О.М. 402 3гр. Кукушкин Д.С. 403",
+   "raw": "СЗ МИКРОЭКОНОМИКА -I 2 гр. Малютина О.М. Д 3гр. Кукушкин Д.С. Д",
    "segments": [
     {
      "groups": [
       2
      ],
-     "room": "402",
+     "room": null,
      "subgroup": "",
      "teacher": "Малютина О.М."
     },
@@ -9141,7 +9089,7 @@
      "groups": [
       3
      ],
-     "room": "403",
+     "room": null,
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     }
@@ -9159,17 +9107,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "6dfc35bb20d2",
+   "id": "b9281920fab4",
    "kind": "english",
    "lessonKey": "91f58eb4640a",
    "pair": 3,
-   "raw": "АНГЛ. ЯЗЫК 3А гр. Сахарова А. Б. 314 3Б гр. Бордюгов Д.Г. 404 2А гр. Ильина Г.А. 315 2Бгр. Шмараева А.А. 317",
+   "raw": "АНГЛ. ЯЗЫК 3А гр. Сахарова А. Б. Д 3Б гр. Бордюгов Д.Г. Д 2А гр. Ильина Г.А. Д 2Бгр. Шмараева А.А. Д",
    "segments": [
     {
      "groups": [
       3
      ],
-     "room": "314",
+     "room": null,
      "subgroup": "А",
      "teacher": "Сахарова А.Б."
     },
@@ -9177,7 +9125,7 @@
      "groups": [
       3
      ],
-     "room": "404",
+     "room": null,
      "subgroup": "Б",
      "teacher": "Бордюгов Д.Г."
     },
@@ -9185,7 +9133,7 @@
      "groups": [
       2
      ],
-     "room": "315",
+     "room": null,
      "subgroup": "А",
      "teacher": "Ильина Г.А."
     },
@@ -9193,7 +9141,7 @@
      "groups": [
       2
      ],
-     "room": "317",
+     "room": null,
      "subgroup": "Б",
      "teacher": "Шмараева А.А."
     }
@@ -9211,17 +9159,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "b55cc7fc05d9",
+   "id": "3a4154fa02c7",
    "kind": "seminar",
    "lessonKey": "11a9e7cd586e",
    "pair": 3,
-   "raw": "СЗ МИКРОЭКОНОМИКА -I 4 гр. Малютина О.М. 402 1 гр. Кукушкин Д.С. 405",
+   "raw": "СЗ МИКРОЭКОНОМИКА -I 4 гр. Малютина О.М. Д 1 гр. Кукушкин Д.С. Д",
    "segments": [
     {
      "groups": [
       4
      ],
-     "room": "402",
+     "room": null,
      "subgroup": "",
      "teacher": "Малютина О.М."
     },
@@ -9229,7 +9177,7 @@
      "groups": [
       1
      ],
-     "room": "405",
+     "room": null,
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     }
@@ -9247,17 +9195,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "aa749437d2bc",
+   "id": "fab6ff70f87f",
    "kind": "english",
    "lessonKey": "380ea48c22b3",
    "pair": 4,
-   "raw": "АНГЛ. ЯЗЫК 1А гр. Ильина Г.А. 315 1Бгр. Шмараева А.А. 317 4А гр. Сахарова А. Б. 314 4Б гр. Бордюгов Д.Г. 404",
+   "raw": "АНГЛ. ЯЗЫК 1А гр. Ильина Г.А. Д 1Бгр. Шмараева А.А. Д 4А гр. Сахарова А.Б. Д 4Б гр. Бордюгов Д.Г. Д",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "315",
+     "room": null,
      "subgroup": "А",
      "teacher": "Ильина Г.А."
     },
@@ -9265,7 +9213,7 @@
      "groups": [
       1
      ],
-     "room": "317",
+     "room": null,
      "subgroup": "Б",
      "teacher": "Шмараева А.А."
     },
@@ -9273,7 +9221,7 @@
      "groups": [
       4
      ],
-     "room": "314",
+     "room": null,
      "subgroup": "А",
      "teacher": "Сахарова А.Б."
     },
@@ -9281,7 +9229,7 @@
      "groups": [
       4
      ],
-     "room": "404",
+     "room": null,
      "subgroup": "Б",
      "teacher": "Бордюгов Д.Г."
     }
@@ -9299,17 +9247,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "8e82d589e466",
+   "id": "3cc1d731ae67",
    "kind": "seminar",
    "lessonKey": "3d96cb869086",
    "pair": 4,
-   "raw": "СЗ СМАД 3 гр. Колпаков Д.В. 304",
+   "raw": "СЗ СМАД 3 гр. Колпаков Д.В. Д",
    "segments": [
     {
      "groups": [
       3
      ],
-     "room": "304",
+     "room": null,
      "subgroup": "",
      "teacher": "Колпаков Д.В."
     }
@@ -9353,22 +9301,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "35824b36b409",
+   "id": "384e7aa7afae",
    "kind": "lecture",
-   "lessonKey": "137cf253d78f",
+   "lessonKey": "ff1ed7627e58",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ ФИЛОСОФИЯ Полякова С.В. 113",
+   "raw": "ЛЕКЦИЯ ФИЛОСОФИЯ Полякова С.В. Д",
    "segments": [
     {
      "groups": [],
-     "room": "113",
+     "room": null,
      "subgroup": "",
      "teacher": "Полякова С.В."
     }
    ],
    "start": "09:00",
-   "subject": "Философия",
-   "subjectRaw": "ФИЛОСОФИЯ",
+   "subject": "Философия д",
+   "subjectRaw": "ФИЛОСОФИЯ Д",
    "timeOverride": false
   },
   {
@@ -9379,17 +9327,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "aacb40e8e014",
+   "id": "1513e91e4d21",
    "kind": "seminar",
    "lessonKey": "bec205c49ddf",
    "pair": 2,
-   "raw": "СЗ ФИЛОСОФИЯ 1 гр. Полякова С. В. 403",
+   "raw": "СЗ ФИЛОСОФИЯ 1 гр. Полякова С. В. Д",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "403",
+     "room": null,
      "subgroup": "",
      "teacher": "Полякова С.В."
     }
@@ -9443,17 +9391,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "f514ff97b74f",
+   "id": "98dc7b6d0342",
    "kind": "seminar",
    "lessonKey": "e5dda6e0ec52",
    "pair": 3,
-   "raw": "СЗ ФИЛОСОФИЯ 3гр. Полякова С. В. 403",
+   "raw": "СЗ ФИЛОСОФИЯ 3гр. Полякова С. В. Д",
    "segments": [
     {
      "groups": [
       3
      ],
-     "room": "403",
+     "room": null,
      "subgroup": "",
      "teacher": "Полякова С.В."
     }
@@ -9471,17 +9419,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "f4e66b353edf",
+   "id": "0b8a71e0675f",
    "kind": "seminar",
    "lessonKey": "2001d703d877",
    "pair": 3,
-   "raw": "СЗ ЭК.ПРИРОДОПОЛЬ-ИЯ 1 гр. Никоноров С.М. 113 2гр. Лобанова Е.О. 302",
+   "raw": "СЗ ЭК.ПРИРОДОПОЛЬ-ИЯ 1 гр. Никоноров С.М. Д 2гр. Лобанова Е.О. Д",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "113",
+     "room": null,
      "subgroup": "",
      "teacher": "Никоноров С.М."
     },
@@ -9489,7 +9437,7 @@
      "groups": [
       2
      ],
-     "room": "302",
+     "room": null,
      "subgroup": "",
      "teacher": "Лобанова Е.О."
     }
@@ -9559,17 +9507,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "c18ff03e0a57",
+   "id": "25ea8d16f13c",
    "kind": "seminar",
    "lessonKey": "58657d21ce43",
    "pair": 1,
-   "raw": "СЗ ТВиМС 2гр. Бадулина Н.А. 314 3гр. Тарновская П.И.315",
+   "raw": "СЗ ТВиМС 2гр. Бадулина Н.А. Д 3гр. Тарновская П.И. Д",
    "segments": [
     {
      "groups": [
       2
      ],
-     "room": "314",
+     "room": null,
      "subgroup": "",
      "teacher": "Бадулина Н.А."
     },
@@ -9577,7 +9525,7 @@
      "groups": [
       3
      ],
-     "room": "315",
+     "room": null,
      "subgroup": "",
      "teacher": "Тарновская П.И."
     }
@@ -9595,17 +9543,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "5325930c2670",
+   "id": "3627fc94ff72",
    "kind": "seminar",
    "lessonKey": "21f1de1dfdd2",
    "pair": 1,
-   "raw": "СЗ МАКРОЭКОНОМИКА-I 1 гр. Букина И.С. 405 4 гр Герелишина А.К. 404",
+   "raw": "СЗ МАКРОЭКОНОМИКА-I 1 гр. Букина И.С. Д 4 гр Герелишина А.К. Д",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "405",
+     "room": null,
      "subgroup": "",
      "teacher": "Букина И.С."
     },
@@ -9613,7 +9561,7 @@
      "groups": [
       4
      ],
-     "room": "404",
+     "room": null,
      "subgroup": "",
      "teacher": "Герелишина А.К."
     }
@@ -9631,17 +9579,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "4ba2c09ff5a4",
+   "id": "627fe2b27cb3",
    "kind": "seminar",
    "lessonKey": "026e46af9384",
    "pair": 2,
-   "raw": "СЗ МАКРОЭКОНОМИКА-I 3 гр.Кукушкин Д.С. 315 2 гр Герелишина А.К. 404",
+   "raw": "СЗ МАКРОЭКОНОМИКА-I 3 гр.Кукушкин Д.С. Д 2 гр Герелишина А.К. Д",
    "segments": [
     {
      "groups": [
       3
      ],
-     "room": "315",
+     "room": null,
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     },
@@ -9649,7 +9597,7 @@
      "groups": [
       2
      ],
-     "room": "404",
+     "room": null,
      "subgroup": "",
      "teacher": "Герелишина А.К."
     }
@@ -9667,17 +9615,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "5d7cb3fbd276",
+   "id": "b7ddcaa7cb54",
    "kind": "seminar",
    "lessonKey": "b53597c724cf",
    "pair": 2,
-   "raw": "СЗ ТВиМС 1гр. Бадулина Н.А. 405 4гр. Тарновская П.И. 314",
+   "raw": "СЗ ТВиМС 1гр. Бадулина Н.А. Д 4гр. Тарновская П.И. Д",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "405",
+     "room": null,
      "subgroup": "",
      "teacher": "Бадулина Н.А."
     },
@@ -9685,7 +9633,7 @@
      "groups": [
       4
      ],
-     "room": "314",
+     "room": null,
      "subgroup": "",
      "teacher": "Тарновская П.И."
     }
@@ -10041,58 +9989,6 @@
    "start": "10:40",
    "subject": "Дифференциальные уравнения и динамические системы",
    "subjectRaw": "ДИФФЕРЕНЦИАЛЬНЫЕ УРАВНЕНИЯ И ДИНАМИЧЕСКИЕ СИСТЕМЫ",
-   "timeOverride": false
-  },
-  {
-   "audience": "stream",
-   "cell": "AK4",
-   "date": "2026-11-02",
-   "end": "10:30",
-   "flags": {
-    "conflict": false
-   },
-   "id": "05ac8c912938",
-   "kind": "lecture",
-   "lessonKey": "1de106995879",
-   "pair": 1,
-   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА Щербанин Ю.А.",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Щербанин Ю.А."
-    }
-   ],
-   "start": "09:00",
-   "subject": "Мировая экономика",
-   "subjectRaw": "МИРОВАЯ ЭКОНОМИКА",
-   "timeOverride": false
-  },
-  {
-   "audience": "stream",
-   "cell": "AK6",
-   "date": "2026-11-02",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "d9ffe2cac868",
-   "kind": "lecture",
-   "lessonKey": "e71377ce5494",
-   "pair": 2,
-   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА Щербанин Ю.А.",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Щербанин Ю.А."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Мировая экономика",
-   "subjectRaw": "МИРОВАЯ ЭКОНОМИКА",
    "timeOverride": false
   },
   {
@@ -11160,15 +11056,1203 @@
    "subject": "Дифференциальные уравнения и динамические системы",
    "subjectRaw": "ДИФФЕРЕНЦИАЛЬНЫЕ УРАВНЕНИЯ И ДИНАМИЧЕСКИЕ СИСТЕМЫ",
    "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AR4",
+   "date": "2026-11-09",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "fbe7ef3330b0",
+   "kind": "lecture",
+   "lessonKey": "db957235372d",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА Щербанин Ю.А. 402",
+   "segments": [
+    {
+     "groups": [],
+     "room": "402",
+     "subgroup": "",
+     "teacher": "Щербанин Ю.А."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Мировая экономика",
+   "subjectRaw": "МИРОВАЯ ЭКОНОМИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AR6",
+   "date": "2026-11-09",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "211dcf4847a5",
+   "kind": "lecture",
+   "lessonKey": "8d4854458a1f",
+   "pair": 2,
+   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА Щербанин Ю.А. 402",
+   "segments": [
+    {
+     "groups": [],
+     "room": "402",
+     "subgroup": "",
+     "teacher": "Щербанин Ю.А."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Мировая экономика",
+   "subjectRaw": "МИРОВАЯ ЭКОНОМИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AR8",
+   "date": "2026-11-09",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "33a1c9b9c62b",
+   "kind": "lecture",
+   "lessonKey": "0330f529d073",
+   "pair": 3,
+   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА-I Кукушкин Д.С. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Кукушкин Д.С."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Микроэкономика I",
+   "subjectRaw": "МИКРОЭКОНОМИКА-I",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AR10",
+   "date": "2026-11-09",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "b60d1b048075",
+   "kind": "lecture",
+   "lessonKey": "a1e23d6af3a2",
+   "pair": 4,
+   "raw": "ЛЕКЦИЯ ЭКОНОМИКА ПРИРОДОПОЛЬЗОВАНИЯ Никоноров С.М. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Никоноров С.М."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Экономика природопользования",
+   "subjectRaw": "ЭКОНОМИКА ПРИРОДОПОЛЬЗОВАНИЯ",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "AR12",
+   "date": "2026-11-09",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "19d3021894b4",
+   "kind": "russian_foreign",
+   "lessonKey": "1aeb9afbbe29",
+   "pair": 5,
+   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. 403",
+   "segments": [
+    {
+     "groups": [],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Бордюгов Д.Г."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Русский язык для иностранцев",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AS4",
+   "date": "2026-11-10",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "631ece2fdc3c",
+   "kind": "seminar",
+   "lessonKey": "4754fa82c78d",
+   "pair": 1,
+   "raw": "СЗ МЭО 1 гр. Никитина С.А. 3 гр. Кочетовская О.С.",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Никитина С.А."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Кочетовская О.С."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Международные экономические отношения",
+   "subjectRaw": "МЭО",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AS5",
+   "date": "2026-11-10",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "e1f4fcc050d1",
+   "kind": "seminar",
+   "lessonKey": "af6b7a372bd1",
+   "pair": 1,
+   "raw": "СЗ СМАД 2 гр. Колпаков Д.В. 303",
+   "segments": [
+    {
+     "groups": [
+      2
+     ],
+     "room": "303",
+     "subgroup": "",
+     "teacher": "Колпаков Д.В."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Статистические методы анализа данных",
+   "subjectRaw": "СМАД",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AS6",
+   "date": "2026-11-10",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "1890bb82cac2",
+   "kind": "seminar",
+   "lessonKey": "4e16cd1d42c6",
+   "pair": 2,
+   "raw": "СЗ СМАД 1 гр. Хизгияев С.В. 304 4гр. Колпаков Д.В. 303",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "304",
+     "subgroup": "",
+     "teacher": "Хизгияев С.В."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "303",
+     "subgroup": "",
+     "teacher": "Колпаков Д.В."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Статистические методы анализа данных",
+   "subjectRaw": "СМАД",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AS7",
+   "date": "2026-11-10",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "ff527ac3d996",
+   "kind": "seminar",
+   "lessonKey": "f67880662175",
+   "pair": 2,
+   "raw": "СЗ МИКРОЭКОНОМИКА -I 2 гр. Малютина О.М. 402 3гр. Кукушкин Д.С. 403",
+   "segments": [
+    {
+     "groups": [
+      2
+     ],
+     "room": "402",
+     "subgroup": "",
+     "teacher": "Малютина О.М."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Кукушкин Д.С."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Микроэкономика I",
+   "subjectRaw": "МИКРОЭКОНОМИКА -I",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AS8",
+   "date": "2026-11-10",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "86b3942ae931",
+   "kind": "english",
+   "lessonKey": "630b00a806df",
+   "pair": 3,
+   "raw": "АНГЛ. ЯЗЫК 3А гр. Сахарова А. Б. 314 3Б гр. Бордюгов Д.Г. 404 2А гр. Ильина Г.А. 315 2Бгр. Шмараева А.А. 317",
+   "segments": [
+    {
+     "groups": [
+      3
+     ],
+     "room": "314",
+     "subgroup": "А",
+     "teacher": "Сахарова А.Б."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": "404",
+     "subgroup": "Б",
+     "teacher": "Бордюгов Д.Г."
+    },
+    {
+     "groups": [
+      2
+     ],
+     "room": "315",
+     "subgroup": "А",
+     "teacher": "Ильина Г.А."
+    },
+    {
+     "groups": [
+      2
+     ],
+     "room": "317",
+     "subgroup": "Б",
+     "teacher": "Шмараева А.А."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Английский язык",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AS9",
+   "date": "2026-11-10",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "a4b623b7dddf",
+   "kind": "seminar",
+   "lessonKey": "b374540a6595",
+   "pair": 3,
+   "raw": "СЗ МИКРОЭКОНОМИКА -I 4 гр. Малютина О.М. 402 1 гр. Кукушкин Д.С. 405",
+   "segments": [
+    {
+     "groups": [
+      4
+     ],
+     "room": "402",
+     "subgroup": "",
+     "teacher": "Малютина О.М."
+    },
+    {
+     "groups": [
+      1
+     ],
+     "room": "405",
+     "subgroup": "",
+     "teacher": "Кукушкин Д.С."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Микроэкономика I",
+   "subjectRaw": "МИКРОЭКОНОМИКА -I",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AS10",
+   "date": "2026-11-10",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "e85851099162",
+   "kind": "english",
+   "lessonKey": "84a878403a77",
+   "pair": 4,
+   "raw": "АНГЛ. ЯЗЫК 1А гр. Ильина Г.А. 315 1Бгр. Шмараева А.А. 317 4А гр. Сахарова А. Б. 314 4Б гр. Бордюгов Д.Г. 404",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "315",
+     "subgroup": "А",
+     "teacher": "Ильина Г.А."
+    },
+    {
+     "groups": [
+      1
+     ],
+     "room": "317",
+     "subgroup": "Б",
+     "teacher": "Шмараева А.А."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "314",
+     "subgroup": "А",
+     "teacher": "Сахарова А.Б."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "404",
+     "subgroup": "Б",
+     "teacher": "Бордюгов Д.Г."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Английский язык",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AS11",
+   "date": "2026-11-10",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "0bb74e495fad",
+   "kind": "seminar",
+   "lessonKey": "877b64402ca9",
+   "pair": 4,
+   "raw": "СЗ СМАД 3 гр. Колпаков Д.В. 304",
+   "segments": [
+    {
+     "groups": [
+      3
+     ],
+     "room": "304",
+     "subgroup": "",
+     "teacher": "Колпаков Д.В."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Статистические методы анализа данных",
+   "subjectRaw": "СМАД",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "AS12",
+   "date": "2026-11-10",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "52dfa8a9df43",
+   "kind": "pe",
+   "lessonKey": "4f27c186f07f",
+   "pair": 5,
+   "raw": "16:35 ФИЗИЧЕСКАЯ КУЛЬТУРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "16:35",
+   "subject": "Физическая культура",
+   "subjectRaw": "",
+   "timeOverride": true
+  },
+  {
+   "audience": "stream",
+   "cell": "AT4",
+   "date": "2026-11-11",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "ec8fdd7ed652",
+   "kind": "lecture",
+   "lessonKey": "e254a30b675d",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ ФИЛОСОФИЯ Полякова С.В. 113",
+   "segments": [
+    {
+     "groups": [],
+     "room": "113",
+     "subgroup": "",
+     "teacher": "Полякова С.В."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Философия",
+   "subjectRaw": "ФИЛОСОФИЯ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AT6",
+   "date": "2026-11-11",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "760e3ca8e979",
+   "kind": "seminar",
+   "lessonKey": "4db22d056476",
+   "pair": 2,
+   "raw": "СЗ ФИЛОСОФИЯ 1 гр. Полякова С. В. 403",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Полякова С.В."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Философия",
+   "subjectRaw": "ФИЛОСОФИЯ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AT6",
+   "date": "2026-11-11",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "39bf1f675976",
+   "kind": "seminar",
+   "lessonKey": "d562a3b859c0",
+   "pair": 2,
+   "raw": "СЗ МЭО 2 гр. Никитина С.А.",
+   "segments": [
+    {
+     "groups": [
+      2
+     ],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Никитина С.А."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Международные экономические отношения",
+   "subjectRaw": "МЭО",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AT7",
+   "date": "2026-11-11",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "850df3b68808",
+   "kind": "seminar",
+   "lessonKey": "40afcf18524d",
+   "pair": 2,
+   "raw": "СЗ ЭК.ПРИРОДОПОЛЬ-ИЯ 3 гр. Никоноров С.М. 402 4гр. Лобанова Е.О. 404",
+   "segments": [
+    {
+     "groups": [
+      3
+     ],
+     "room": "402",
+     "subgroup": "",
+     "teacher": "Никоноров С.М."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Лобанова Е.О."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Экономика природопользования",
+   "subjectRaw": "ЭК.ПРИРОДОПОЛЬ-ИЯ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AT8",
+   "date": "2026-11-11",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "42fefa3583d4",
+   "kind": "seminar",
+   "lessonKey": "e1199284ab20",
+   "pair": 3,
+   "raw": "СЗ ФИЛОСОФИЯ 3гр. Полякова С. В. 403",
+   "segments": [
+    {
+     "groups": [
+      3
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Полякова С.В."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Философия",
+   "subjectRaw": "ФИЛОСОФИЯ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AT8",
+   "date": "2026-11-11",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "2bc027ab45e7",
+   "kind": "seminar",
+   "lessonKey": "e090735ef78c",
+   "pair": 3,
+   "raw": "СЗ МЭО 4 гр. Никитина С.А.",
+   "segments": [
+    {
+     "groups": [
+      4
+     ],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Никитина С.А."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Международные экономические отношения",
+   "subjectRaw": "МЭО",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AT9",
+   "date": "2026-11-11",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "5f7ac08bd057",
+   "kind": "seminar",
+   "lessonKey": "8ac88833411a",
+   "pair": 3,
+   "raw": "СЗ ЭК.ПРИРОДОПОЛЬ-ИЯ 1 гр. Никоноров С.М. 113 2гр. Лобанова Е.О. 302",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "113",
+     "subgroup": "",
+     "teacher": "Никоноров С.М."
+    },
+    {
+     "groups": [
+      2
+     ],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Лобанова Е.О."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Экономика природопользования",
+   "subjectRaw": "ЭК.ПРИРОДОПОЛЬ-ИЯ",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "AT10",
+   "date": "2026-11-11",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "0bd015be227a",
+   "kind": "mfk",
+   "lessonKey": "ee2fd4a36868",
+   "pair": 4,
+   "raw": "МФК",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "14:10",
+   "subject": "Межфакультетские курсы",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "AT10",
+   "date": "2026-11-11",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "5ea37cb42881",
+   "kind": "mfk",
+   "lessonKey": "de2da964e1f2",
+   "pair": 5,
+   "raw": "МФК",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "15:45",
+   "subject": "Межфакультетские курсы",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AU4",
+   "date": "2026-11-12",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "9828f9b76a90",
+   "kind": "seminar",
+   "lessonKey": "a082c10c51f5",
+   "pair": 1,
+   "raw": "СЗ ТВиМС 2гр. Бадулина Н.А. 314 3гр. Тарновская П.И.315",
+   "segments": [
+    {
+     "groups": [
+      2
+     ],
+     "room": "314",
+     "subgroup": "",
+     "teacher": "Бадулина Н.А."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": "315",
+     "subgroup": "",
+     "teacher": "Тарновская П.И."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Теория вероятностей и математическая статистика",
+   "subjectRaw": "ТВиМС",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AU5",
+   "date": "2026-11-12",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "1f6495bd59bd",
+   "kind": "seminar",
+   "lessonKey": "c82cd40c6aa5",
+   "pair": 1,
+   "raw": "СЗ МАКРОЭКОНОМИКА-I 1 гр. Букина И.С. 405 4 гр Герелишина А.К. 404",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "405",
+     "subgroup": "",
+     "teacher": "Букина И.С."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Герелишина А.К."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Макроэкономика I",
+   "subjectRaw": "МАКРОЭКОНОМИКА-I",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AU6",
+   "date": "2026-11-12",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "ae6ec632e742",
+   "kind": "seminar",
+   "lessonKey": "669ed66f372b",
+   "pair": 2,
+   "raw": "СЗ МАКРОЭКОНОМИКА-I 3 гр.Кукушкин Д.С. 315 2 гр Герелишина А.К. 404",
+   "segments": [
+    {
+     "groups": [
+      3
+     ],
+     "room": "315",
+     "subgroup": "",
+     "teacher": "Кукушкин Д.С."
+    },
+    {
+     "groups": [
+      2
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Герелишина А.К."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Макроэкономика I",
+   "subjectRaw": "МАКРОЭКОНОМИКА-I",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AU7",
+   "date": "2026-11-12",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "269b7dea2711",
+   "kind": "seminar",
+   "lessonKey": "bee52d09d266",
+   "pair": 2,
+   "raw": "СЗ ТВиМС 1гр. Бадулина Н.А. 405 4гр. Тарновская П.И. 314",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "405",
+     "subgroup": "",
+     "teacher": "Бадулина Н.А."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "314",
+     "subgroup": "",
+     "teacher": "Тарновская П.И."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Теория вероятностей и математическая статистика",
+   "subjectRaw": "ТВиМС",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AU8",
+   "date": "2026-11-12",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "8b7a8f82c0f4",
+   "kind": "english",
+   "lessonKey": "d822bee4838d",
+   "pair": 3,
+   "raw": "АНГЛ. ЯЗЫК 1А гр. Ильина Г.А. 315 1Бгр. Шмараева А.А. 316 4А гр. Сахарова А. Б. 314 4Б гр. Бордюгов Д.Г. 418",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "315",
+     "subgroup": "А",
+     "teacher": "Ильина Г.А."
+    },
+    {
+     "groups": [
+      1
+     ],
+     "room": "316",
+     "subgroup": "Б",
+     "teacher": "Шмараева А.А."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "314",
+     "subgroup": "А",
+     "teacher": "Сахарова А.Б."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "418",
+     "subgroup": "Б",
+     "teacher": "Бордюгов Д.Г."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Английский язык",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AU9",
+   "date": "2026-11-12",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "6b0be0afe1b3",
+   "kind": "seminar",
+   "lessonKey": "319030df1e0f",
+   "pair": 3,
+   "raw": "СЗ ПРАВО 2,3 гр. Болдырев О.Ю. 308",
+   "segments": [
+    {
+     "groups": [
+      2,
+      3
+     ],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Болдырев О.Ю."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Право",
+   "subjectRaw": "ПРАВО",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AU10",
+   "date": "2026-11-12",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "d155ba387485",
+   "kind": "english",
+   "lessonKey": "c5e78e8109fc",
+   "pair": 4,
+   "raw": "АНГЛ. ЯЗЫК 3А гр. Сахарова А. Б. 314 3Б гр. Бордюгов Д.Г. 403 2А гр. Ильина Г.А. 315 2Бгр. Шмараева А.А. 402",
+   "segments": [
+    {
+     "groups": [
+      3
+     ],
+     "room": "314",
+     "subgroup": "А",
+     "teacher": "Сахарова А.Б."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": "403",
+     "subgroup": "Б",
+     "teacher": "Бордюгов Д.Г."
+    },
+    {
+     "groups": [
+      2
+     ],
+     "room": "315",
+     "subgroup": "А",
+     "teacher": "Ильина Г.А."
+    },
+    {
+     "groups": [
+      2
+     ],
+     "room": "402",
+     "subgroup": "Б",
+     "teacher": "Шмараева А.А."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Английский язык",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AU11",
+   "date": "2026-11-12",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "7f1964174e88",
+   "kind": "seminar",
+   "lessonKey": "12071e0bccc2",
+   "pair": 4,
+   "raw": "СЗ ПРАВО 1,4 гр. Болдырев О.Ю. 308",
+   "segments": [
+    {
+     "groups": [
+      1,
+      4
+     ],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Болдырев О.Ю."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Право",
+   "subjectRaw": "ПРАВО",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AV4",
+   "date": "2026-11-13",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "a6aa0710e2a9",
+   "kind": "lecture",
+   "lessonKey": "6aa31fd9af68",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ МАКРОЭКОНОМИКА Букина И.С. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Букина И.С."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Макроэкономика",
+   "subjectRaw": "МАКРОЭКОНОМИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AV6",
+   "date": "2026-11-13",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "b5bbbfdc564e",
+   "kind": "lecture",
+   "lessonKey": "d49b4aba59bd",
+   "pair": 2,
+   "raw": "ЛЕКЦИЯ ТВиМС Курбацкий А.Н. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Курбацкий А.Н."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Теория вероятностей и математическая статистика",
+   "subjectRaw": "ТВиМС",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AV8",
+   "date": "2026-11-13",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "6a73379961ec",
+   "kind": "lecture",
+   "lessonKey": "d337b53a36ca",
+   "pair": 3,
+   "raw": "ЛЕКЦИЯ ПРАВО Болдырев О.Ю. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Болдырев О.Ю."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Право",
+   "subjectRaw": "ПРАВО",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "AV12",
+   "date": "2026-11-13",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "768d7b2255da",
+   "kind": "pe",
+   "lessonKey": "6069ade03401",
+   "pair": 5,
+   "raw": "16:35 ФИЗИЧЕСКАЯ КУЛЬТУРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "16:35",
+   "subject": "Физическая культура",
+   "subjectRaw": "",
+   "timeOverride": true
+  },
+  {
+   "audience": "groups",
+   "cell": "AW4",
+   "date": "2026-11-14",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "cd11bb607e1c",
+   "kind": "lecture",
+   "lessonKey": "bc03056ce7f6",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ 1 ГР. ДИФФЕРЕНЦИАЛЬНЫЕ УРАВНЕНИЯ И ДИНАМИЧЕСКИЕ СИСТЕМЫ Павлова Н.Г. 405",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "405",
+     "subgroup": "",
+     "teacher": "Павлова Н.Г."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Дифференциальные уравнения и динамические системы",
+   "subjectRaw": "ДИФФЕРЕНЦИАЛЬНЫЕ УРАВНЕНИЯ И ДИНАМИЧЕСКИЕ СИСТЕМЫ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "AW6",
+   "date": "2026-11-14",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "605203480e2a",
+   "kind": "seminar",
+   "lessonKey": "fdc972c171b6",
+   "pair": 2,
+   "raw": "СЕМИНАР 1 ГР. ДИФФЕРЕНЦИАЛЬНЫЕ УРАВНЕНИЯ И ДИНАМИЧЕСКИЕ СИСТЕМЫ Павлова Н.Г. 405",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "405",
+     "subgroup": "",
+     "teacher": "Павлова Н.Г."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Дифференциальные уравнения и динамические системы",
+   "subjectRaw": "ДИФФЕРЕНЦИАЛЬНЫЕ УРАВНЕНИЯ И ДИНАМИЧЕСКИЕ СИСТЕМЫ",
+   "timeOverride": false
   }
  ],
  "range": {
   "from": "2026-09-01",
-  "to": "2026-11-07"
+  "to": "2026-11-14"
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 335,
+  "cells": 369,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -11228,10 +12312,16 @@
    "2026-11-04",
    "2026-11-05",
    "2026-11-06",
-   "2026-11-07"
+   "2026-11-07",
+   "2026-11-09",
+   "2026-11-10",
+   "2026-11-11",
+   "2026-11-12",
+   "2026-11-13",
+   "2026-11-14"
   ],
-  "hash": "C4872679AF364526DDFEA9DB796C0CF22C7B234B",
-  "mtime": 1792586606,
+  "hash": "1FAA873D6D7E2557C53DD1AE61B5A08EDA884A84",
+  "mtime": 1792587144,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26",
