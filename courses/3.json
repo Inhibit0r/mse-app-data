@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-10-21T20:29:13+00:00",
+ "generatedAt": "2026-10-21T20:34:14+00:00",
  "groups": [
   1,
   2,
@@ -7389,11 +7389,11 @@
     "conflict": false,
     "noTime": true
    },
-   "id": "3550f6a3d175",
+   "id": "c2700fd844f0",
    "kind": "other",
-   "lessonKey": "c6ddbc569e28",
+   "lessonKey": "2f5198d3131d",
    "pair": 1,
-   "raw": "ПЕРНОСИТСЯ НА НОЯБРЬ 15:45 Пересдача за лето Английский язык Ильина Г.А. Шмараева А.А.",
+   "raw": "ПЕРНОСИТСЯ НА НОЯБРЬ Пересдача за лето Английский язык Ильина Г.А. Шмараева А.А.",
    "segments": [
     {
      "groups": [],
@@ -7403,8 +7403,8 @@
     }
    ],
    "start": null,
-   "subject": "Перносится НА ноябрь 15:45 пересдача за лето английский язык",
-   "subjectRaw": "ПЕРНОСИТСЯ НА НОЯБРЬ 15:45 Пересдача за лето Английский язык",
+   "subject": "Перносится НА ноябрь пересдача за лето английский язык",
+   "subjectRaw": "ПЕРНОСИТСЯ НА НОЯБРЬ Пересдача за лето Английский язык",
    "timeOverride": false
   },
   {
@@ -7979,6 +7979,33 @@
    "timeOverride": false
   },
   {
+   "audience": "stream",
+   "cell": "AD14",
+   "date": "2026-10-26",
+   "end": null,
+   "flags": {
+    "conflict": false,
+    "noTime": true
+   },
+   "id": "d3156a2c440e",
+   "kind": "other",
+   "lessonKey": "913f7529db83",
+   "pair": 1,
+   "raw": "ПЕРЕНОСИТСЯ НА НОЯБРЬ Пересдача за лето Бухучет Леонова М.Е.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Леонова М.Е."
+    }
+   ],
+   "start": null,
+   "subject": "Переносится НА ноябрь пересдача за лето бухучет",
+   "subjectRaw": "ПЕРЕНОСИТСЯ НА НОЯБРЬ Пересдача за лето Бухучет",
+   "timeOverride": false
+  },
+  {
    "audience": "groups",
    "cell": "AD4",
    "date": "2026-10-26",
@@ -8197,32 +8224,6 @@
    "subject": "Микроэкономика II",
    "subjectRaw": "МИКРОЭКОНОМИКА-II",
    "timeOverride": false
-  },
-  {
-   "audience": "personal",
-   "cell": "AD14",
-   "date": "2026-10-26",
-   "end": null,
-   "flags": {
-    "conflict": false
-   },
-   "id": "ecf66f687900",
-   "kind": "retake",
-   "lessonKey": "875afd6b09d1",
-   "pair": 6,
-   "raw": "17:20 Пересдача за лето Бухучет Леонова М.Е. Д",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Леонова М.Е."
-    }
-   ],
-   "start": "17:20",
-   "subject": "Бухучет д",
-   "subjectRaw": "Бухучет Д",
-   "timeOverride": true
   },
   {
    "audience": "stream",
@@ -8999,8 +9000,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "6F89332C721F4A47007BB979235F05EC820643EC",
-  "mtime": 1792614461,
+  "hash": "BB0E369A9E79081A457DE760270DC2802FC954C8",
+  "mtime": 1792614767,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
@@ -9020,6 +9021,13 @@
    ],
    "code": "no_time",
    "message": "событие без времени в ячейке AA14 (2026-10-23)"
+  },
+  {
+   "cells": [
+    "AD14"
+   ],
+   "code": "no_time",
+   "message": "событие без времени в ячейке AD14 (2026-10-26)"
   }
  ]
 }
