@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-10-21T12:57:40+00:00",
+ "generatedAt": "2026-10-21T20:24:13+00:00",
  "groups": [
   1,
   2,
@@ -9910,30 +9910,31 @@
    "timeOverride": true
   },
   {
-   "audience": "personal",
+   "audience": "stream",
    "cell": "AI14",
    "date": "2026-10-31",
    "end": null,
    "flags": {
-    "conflict": false
+    "conflict": false,
+    "noTime": true
    },
-   "id": "e18948fe537d",
-   "kind": "retake",
-   "lessonKey": "271238eda550",
+   "id": "7a8d4341fb4f",
+   "kind": "other",
+   "lessonKey": "1406f76608ca",
    "pair": 1,
-   "raw": "10:00 Пересдача за лето История России Щербакова Е.И. Мойса Н.И. Д",
+   "raw": "Переносится на 14 ноября Пересдача за лето История России Щербакова Е.И. Мойса Н.И.",
    "segments": [
     {
      "groups": [],
      "room": null,
      "subgroup": "",
-     "teacher": "Щербакова Е.И., Мойса Н.И."
+     "teacher": "Щербакова Е.И."
     }
    ],
-   "start": "10:00",
-   "subject": "История россии д",
-   "subjectRaw": "История России Д",
-   "timeOverride": true
+   "start": null,
+   "subject": "Переносится на 14 ноября пересдача за лето история россии",
+   "subjectRaw": "Переносится на 14 ноября Пересдача за лето История России",
+   "timeOverride": false
   },
   {
    "audience": "groups",
@@ -12320,8 +12321,8 @@
    "2026-11-13",
    "2026-11-14"
   ],
-  "hash": "4211138AB2EAE21D3B5B85C784BC14B371A19B13",
-  "mtime": 1792587407,
+  "hash": "626F7EBBD329D22D71710FCCA7702BC8B210E133",
+  "mtime": 1792614252,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26",
@@ -12341,6 +12342,13 @@
    ],
    "code": "no_time",
    "message": "событие без времени в ячейке AA14 (2026-10-23)"
+  },
+  {
+   "cells": [
+    "AI14"
+   ],
+   "code": "no_time",
+   "message": "событие без времени в ячейке AI14 (2026-10-31)"
   }
  ]
 }
