@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-10-21T13:12:47+00:00",
+ "generatedAt": "2026-10-21T13:17:48+00:00",
  "groups": [
   1,
   2,
@@ -8173,7 +8173,7 @@
    "kind": "seminar",
    "lessonKey": "a6c6794a0607",
    "pair": 5,
-   "raw": "СЗ МИКРОЭКОНОМИКА-II 3 гр. Кукушкин Д.С. Д СЗ МИКРОЭКОНОМИКА-II 4 гр. Починкин Д.В. Д",
+   "raw": "СЗ МИКРОЭКОНОМИКА-II 3 гр. Кукушкин Д.С. Д 4 гр. Починкин Д.В. Д",
    "segments": [
     {
      "groups": [
@@ -8399,22 +8399,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "389bda62419e",
+   "id": "cebee0fdf5a5",
    "kind": "lecture",
-   "lessonKey": "78ee56c474ee",
+   "lessonKey": "3375ced8a177",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ ЭКОНОМЕТРИКА Пепа Р.Ю. 308",
+   "raw": "ЛЕКЦИЯ ЭКОНОМЕТРИКА Пепа Р.Ю. Д",
    "segments": [
     {
      "groups": [],
-     "room": "308",
+     "room": null,
      "subgroup": "",
      "teacher": "Пепа Р.Ю."
     }
    ],
    "start": "09:00",
-   "subject": "Эконометрика",
-   "subjectRaw": "ЭКОНОМЕТРИКА",
+   "subject": "Эконометрика д",
+   "subjectRaw": "ЭКОНОМЕТРИКА Д",
    "timeOverride": false
   },
   {
@@ -8425,17 +8425,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "e75e16e15523",
+   "id": "f2c5c9b31d29",
    "kind": "other",
    "lessonKey": "d06ab1964762",
    "pair": 2,
-   "raw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 1 гр. Мироненков А.А. 303 2 гр. Тарновская П.И. 304",
+   "raw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 1 гр. Мироненков А.А. Д 2 гр. Тарновская П.И. Д",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "303",
+     "room": null,
      "subgroup": "",
      "teacher": "Мироненков А.А."
     },
@@ -8443,7 +8443,7 @@
      "groups": [
       2
      ],
-     "room": "304",
+     "room": null,
      "subgroup": "",
      "teacher": "Тарновская П.И."
     }
@@ -8461,18 +8461,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "5f4705430a77",
+   "id": "a090a9a785cf",
    "kind": "seminar",
    "lessonKey": "576fd98cdf01",
    "pair": 2,
-   "raw": "СЗ ЭКОНОМЕТРИКА 3,4 гр. Аршакян Р.А. 308",
+   "raw": "СЗ ЭКОНОМЕТРИКА 3,4 гр. Аршакян Р.А. Д",
    "segments": [
     {
      "groups": [
       3,
       4
      ],
-     "room": "308",
+     "room": null,
      "subgroup": "",
      "teacher": "Аршакян Р.А."
     }
@@ -8490,17 +8490,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "b789e393c80d",
+   "id": "abf4a1b39579",
    "kind": "other",
    "lessonKey": "49eb0d6f98fa",
    "pair": 3,
-   "raw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 3 гр. Мироненков А.А. 303 4 гр. Тарновская П.И. 304",
+   "raw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 3 гр. Мироненков А.А. Д 4 гр. Тарновская П.И. Д",
    "segments": [
     {
      "groups": [
       3
      ],
-     "room": "303",
+     "room": null,
      "subgroup": "",
      "teacher": "Мироненков А.А."
     },
@@ -8508,7 +8508,7 @@
      "groups": [
       4
      ],
-     "room": "304",
+     "room": null,
      "subgroup": "",
      "teacher": "Тарновская П.И."
     }
@@ -8526,18 +8526,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "dcc1830b447d",
+   "id": "9bee31d640a9",
    "kind": "seminar",
    "lessonKey": "3fa6a5d6ece1",
    "pair": 3,
-   "raw": "СЗ ЭКОНОМЕТРИКА 1,2 гр. Аршакян Р.А. 308",
+   "raw": "СЗ ЭКОНОМЕТРИКА 1,2 гр. Аршакян Р.А. Д",
    "segments": [
     {
      "groups": [
       1,
       2
      ],
-     "room": "308",
+     "room": null,
      "subgroup": "",
      "teacher": "Аршакян Р.А."
     }
@@ -8607,17 +8607,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "7ae5054b2693",
+   "id": "18a0448806d9",
    "kind": "seminar",
    "lessonKey": "b1094ffcd8be",
    "pair": 2,
-   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 1 гр. Шаклеина М.В. 303 2 гр. Попова Т.А. 304",
+   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 1 гр. Шаклеина М.В. Д 2 гр. Попова Т.А. Д",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "303",
+     "room": null,
      "subgroup": "",
      "teacher": "Шаклеина М.В."
     },
@@ -8625,7 +8625,7 @@
      "groups": [
       2
      ],
-     "room": "304",
+     "room": null,
      "subgroup": "",
      "teacher": "Попова Т.А."
     }
@@ -8643,22 +8643,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "7e20a960104f",
+   "id": "5e1867d587e7",
    "kind": "lecture",
-   "lessonKey": "ba4a7b0c5a8c",
+   "lessonKey": "256a1d12622c",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА Кукушкин Д.С. 308",
+   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА Кукушкин Д.С. Д",
    "segments": [
     {
      "groups": [],
-     "room": "308",
+     "room": null,
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     }
    ],
    "start": "12:25",
-   "subject": "Микроэкономика",
-   "subjectRaw": "МИКРОЭКОНОМИКА",
+   "subject": "Микроэкономика д",
+   "subjectRaw": "МИКРОЭКОНОМИКА Д",
    "timeOverride": false
   },
   {
@@ -8669,17 +8669,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "ec5c3c2946dd",
+   "id": "e87518e71e69",
    "kind": "seminar",
    "lessonKey": "b14bad3498a6",
    "pair": 4,
-   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 3 гр. Селезнев А.И. 303 4 гр. Лариошина Л.Ю. 304",
+   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 3 гр. Селезнев А.И. Д 4 гр. Лариошина Л.Ю. Д",
    "segments": [
     {
      "groups": [
       3
      ],
-     "room": "303",
+     "room": null,
      "subgroup": "",
      "teacher": "Селезнев А.И."
     },
@@ -8687,7 +8687,7 @@
      "groups": [
       4
      ],
-     "room": "304",
+     "room": null,
      "subgroup": "",
      "teacher": "Лариошина Л.Ю."
     }
@@ -8705,22 +8705,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "bf7dddb8b1d0",
+   "id": "31c8df3cd3fb",
    "kind": "russian_foreign",
    "lessonKey": "ed8f589683eb",
    "pair": 5,
-   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. 403",
+   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. Д",
    "segments": [
     {
      "groups": [],
-     "room": "403",
+     "room": null,
      "subgroup": "",
      "teacher": "Бордюгов Д.Г."
     }
    ],
    "start": "15:45",
    "subject": "Русский язык для иностранцев",
-   "subjectRaw": "",
+   "subjectRaw": "Д",
    "timeOverride": false
   },
   {
@@ -8835,17 +8835,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "55be0b316c74",
+   "id": "30626a4542dd",
    "kind": "lecture",
    "lessonKey": "b9d733eaec9d",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ ФУНКЦИОНАЛЬНЫЙ АНАЛИЗ 1 гр. Пепа Р.Ю. 403",
+   "raw": "ЛЕКЦИЯ ФУНКЦИОНАЛЬНЫЙ АНАЛИЗ 1 гр. Пепа Р.Ю. Д",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "403",
+     "room": null,
      "subgroup": "",
      "teacher": "Пепа Р.Ю."
     }
@@ -8863,17 +8863,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "c20825a8e553",
+   "id": "f22a7a7bdb71",
    "kind": "seminar",
    "lessonKey": "ee03b4c0067c",
    "pair": 2,
-   "raw": "СЗ ФУНКЦИОНАЛЬНЫЙ АНАЛИЗ 1гр. Пепа Р.Ю. 403",
+   "raw": "СЗ ФУНКЦИОНАЛЬНЫЙ АНАЛИЗ 1гр. Пепа Р.Ю. Д",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "403",
+     "room": null,
      "subgroup": "",
      "teacher": "Пепа Р.Ю."
     }
@@ -8891,22 +8891,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "c427759d32e6",
+   "id": "017d7bed4bf9",
    "kind": "lecture",
-   "lessonKey": "aacacbb01446",
+   "lessonKey": "153f3163236e",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. 402",
+   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. Д",
    "segments": [
     {
      "groups": [],
-     "room": "402",
+     "room": null,
      "subgroup": "",
      "teacher": "Наумова Т.А."
     }
    ],
    "start": "12:25",
-   "subject": "Налоги и налогообложение",
-   "subjectRaw": "Налоги и налогообложение",
+   "subject": "Налоги и налогообложение д",
+   "subjectRaw": "Налоги и налогообложение Д",
    "timeOverride": false
   },
   {
@@ -8917,22 +8917,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "a593a45b3efa",
+   "id": "dd15e8e5e361",
    "kind": "lecture",
-   "lessonKey": "7f2776592cb3",
+   "lessonKey": "f1c08c934f0d",
    "pair": 4,
-   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. 402",
+   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. Д",
    "segments": [
     {
      "groups": [],
-     "room": "402",
+     "room": null,
      "subgroup": "",
      "teacher": "Наумова Т.А."
     }
    ],
    "start": "14:10",
-   "subject": "Налоги и налогообложение",
-   "subjectRaw": "Налоги и налогообложение",
+   "subject": "Налоги и налогообложение д",
+   "subjectRaw": "Налоги и налогообложение Д",
    "timeOverride": false
   }
  ],
@@ -8998,8 +8998,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "D7CC1C37BCA21B618F1CD1B25CC0D8DB4A600F53",
-  "mtime": 1792588127,
+  "hash": "8E2C2CD7397C75953F4D1BEC5611A2552C3EFF81",
+  "mtime": 1792588482,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
