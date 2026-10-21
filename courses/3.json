@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-10-21T13:17:48+00:00",
+ "generatedAt": "2026-10-21T20:29:13+00:00",
  "groups": [
   1,
   2,
@@ -7740,6 +7740,33 @@
    "timeOverride": false
   },
   {
+   "audience": "stream",
+   "cell": "AA14",
+   "date": "2026-10-23",
+   "end": null,
+   "flags": {
+    "conflict": false,
+    "noTime": true
+   },
+   "id": "729551abdc35",
+   "kind": "other",
+   "lessonKey": "bf3576112530",
+   "pair": 1,
+   "raw": "ПЕРЕНОСИТСЯ Пересдача за лето Макроэкономика Букина И.С. Кукушкин Д.С. Герелишина А.К.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Букина И.С."
+    }
+   ],
+   "start": null,
+   "subject": "Переносится пересдача за лето макроэкономика",
+   "subjectRaw": "ПЕРЕНОСИТСЯ Пересдача за лето Макроэкономика",
+   "timeOverride": false
+  },
+  {
    "audience": "personal",
    "cell": "AA4",
    "date": "2026-10-23",
@@ -7816,32 +7843,6 @@
    "subject": "Военная кафедра",
    "subjectRaw": "",
    "timeOverride": false
-  },
-  {
-   "audience": "personal",
-   "cell": "AA14",
-   "date": "2026-10-23",
-   "end": null,
-   "flags": {
-    "conflict": false
-   },
-   "id": "2291fc132a95",
-   "kind": "retake",
-   "lessonKey": "d3efb7b78e51",
-   "pair": 4,
-   "raw": "14:10 Пересдача за лето Макроэкономика Букина И.С. Кукушкин Д.С. Герелишина А.К. Д",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Букина И.С., Кукушкин Д.С., Герелишина А.К."
-    }
-   ],
-   "start": "14:10",
-   "subject": "Макроэкономика д",
-   "subjectRaw": "Макроэкономика Д",
-   "timeOverride": true
   },
   {
    "audience": "personal",
@@ -8998,8 +8999,8 @@
    "2026-10-30",
    "2026-10-31"
   ],
-  "hash": "8E2C2CD7397C75953F4D1BEC5611A2552C3EFF81",
-  "mtime": 1792588482,
+  "hash": "6F89332C721F4A47007BB979235F05EC820643EC",
+  "mtime": 1792614461,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
@@ -9012,6 +9013,13 @@
    ],
    "code": "no_time",
    "message": "событие без времени в ячейке Y14 (2026-10-21)"
+  },
+  {
+   "cells": [
+    "AA14"
+   ],
+   "code": "no_time",
+   "message": "событие без времени в ячейке AA14 (2026-10-23)"
   }
  ]
 }
