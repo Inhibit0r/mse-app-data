@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-10-21T20:29:13+00:00",
+ "generatedAt": "2026-10-22T12:36:55+00:00",
  "groups": [
   1,
   2,
@@ -8895,6 +8895,32 @@
   },
   {
    "audience": "stream",
+   "cell": "AD4",
+   "date": "2026-10-26",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "1aadbb2c77e2",
+   "kind": "lecture",
+   "lessonKey": "759901f8d56d",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ МАКРОЭКОНОМИКА Букина И.С. Д",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Букина И.С."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Макроэкономика д",
+   "subjectRaw": "МАКРОЭКОНОМИКА Д",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
    "cell": "AD8",
    "date": "2026-10-26",
    "end": "13:55",
@@ -9803,32 +9829,6 @@
    "start": "14:10",
    "subject": "Право",
    "subjectRaw": "ПРАВО",
-   "timeOverride": false
-  },
-  {
-   "audience": "stream",
-   "cell": "AH4",
-   "date": "2026-10-30",
-   "end": "10:30",
-   "flags": {
-    "conflict": false
-   },
-   "id": "457edae4cacc",
-   "kind": "lecture",
-   "lessonKey": "f1eccaeaaf83",
-   "pair": 1,
-   "raw": "ЛЕКЦИЯ МАКРОЭКОНОМИКА Букина И.С. Д",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Букина И.С."
-    }
-   ],
-   "start": "09:00",
-   "subject": "Макроэкономика д",
-   "subjectRaw": "МАКРОЭКОНОМИКА Д",
    "timeOverride": false
   },
   {
@@ -12253,7 +12253,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 369,
+  "cells": 368,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -12321,8 +12321,8 @@
    "2026-11-13",
    "2026-11-14"
   ],
-  "hash": "712D6F4473709209A389E0CEE1DE83247F54A750",
-  "mtime": 1792614362,
+  "hash": "DB1B0403920C131AE24ED15C53CE5454CD253059",
+  "mtime": 1792672452,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26",
