@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-10-22T12:36:55+00:00",
+ "generatedAt": "2026-10-22T16:37:25+00:00",
  "groups": [
   1,
   2,
@@ -10402,157 +10402,89 @@
    "flags": {
     "conflict": false
    },
-   "id": "8cf867f8a241",
-   "kind": "lecture",
-   "lessonKey": "391e4de7db7d",
+   "id": "5982c839cba1",
+   "kind": "other",
+   "lessonKey": "6fdbf1eb7f0a",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ ФИЛОСОФИЯ Полякова С.В. Д",
+   "raw": "ВЫХОДНОЙ ДЕНЬ",
    "segments": [
     {
      "groups": [],
      "room": null,
      "subgroup": "",
-     "teacher": "Полякова С.В."
+     "teacher": null
     }
    ],
    "start": "09:00",
-   "subject": "Философия д",
-   "subjectRaw": "ФИЛОСОФИЯ Д",
+   "subject": "Выходной день",
+   "subjectRaw": "ВЫХОДНОЙ ДЕНЬ",
    "timeOverride": false
   },
   {
-   "audience": "groups",
-   "cell": "AM6",
+   "audience": "stream",
+   "cell": "AM4",
    "date": "2026-11-04",
    "end": "12:10",
    "flags": {
     "conflict": false
    },
-   "id": "5b418156a4b9",
-   "kind": "seminar",
-   "lessonKey": "6b144f81b595",
+   "id": "ae7a3331d589",
+   "kind": "other",
+   "lessonKey": "33ba6ea67307",
    "pair": 2,
-   "raw": "СЗ ФИЛОСОФИЯ 2гр. Полякова С. В. Д",
+   "raw": "ВЫХОДНОЙ ДЕНЬ",
    "segments": [
     {
-     "groups": [
-      2
-     ],
+     "groups": [],
      "room": null,
      "subgroup": "",
-     "teacher": "Полякова С.В."
+     "teacher": null
     }
    ],
    "start": "10:40",
-   "subject": "Философия",
-   "subjectRaw": "ФИЛОСОФИЯ",
+   "subject": "Выходной день",
+   "subjectRaw": "ВЫХОДНОЙ ДЕНЬ",
    "timeOverride": false
   },
   {
-   "audience": "groups",
-   "cell": "AM7",
-   "date": "2026-11-04",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "de769410509b",
-   "kind": "seminar",
-   "lessonKey": "73c8e1542f97",
-   "pair": 2,
-   "raw": "СЗ ЭК.ПРИРОДОПОЛЬ-ИЯ 3 гр. Никоноров С.М. Д 4гр. Лобанова Е.О. Д",
-   "segments": [
-    {
-     "groups": [
-      3
-     ],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Никоноров С.М."
-    },
-    {
-     "groups": [
-      4
-     ],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Лобанова Е.О."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Экономика природопользования",
-   "subjectRaw": "ЭК.ПРИРОДОПОЛЬ-ИЯ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "AM8",
+   "audience": "stream",
+   "cell": "AM4",
    "date": "2026-11-04",
    "end": "13:55",
    "flags": {
     "conflict": false
    },
-   "id": "d1ea991df001",
-   "kind": "seminar",
-   "lessonKey": "c4127aeb6d78",
+   "id": "8a02cab505c9",
+   "kind": "other",
+   "lessonKey": "3f7ab5cfcbc8",
    "pair": 3,
-   "raw": "СЗ ФИЛОСОФИЯ 4 гр. Полякова С. В. Д",
+   "raw": "ВЫХОДНОЙ ДЕНЬ",
    "segments": [
     {
-     "groups": [
-      4
-     ],
+     "groups": [],
      "room": null,
      "subgroup": "",
-     "teacher": "Полякова С.В."
+     "teacher": null
     }
    ],
    "start": "12:25",
-   "subject": "Философия",
-   "subjectRaw": "ФИЛОСОФИЯ",
+   "subject": "Выходной день",
+   "subjectRaw": "ВЫХОДНОЙ ДЕНЬ",
    "timeOverride": false
   },
   {
-   "audience": "groups",
-   "cell": "AM9",
-   "date": "2026-11-04",
-   "end": "13:55",
-   "flags": {
-    "conflict": false
-   },
-   "id": "8bbf987870e8",
-   "kind": "seminar",
-   "lessonKey": "9b64c6639d05",
-   "pair": 3,
-   "raw": "СЗ ЭК.ПРИРОДОПОЛЬ-ИЯ 1 гр. Никоноров С.М. Д",
-   "segments": [
-    {
-     "groups": [
-      1
-     ],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Никоноров С.М."
-    }
-   ],
-   "start": "12:25",
-   "subject": "Экономика природопользования",
-   "subjectRaw": "ЭК.ПРИРОДОПОЛЬ-ИЯ",
-   "timeOverride": false
-  },
-  {
-   "audience": "personal",
-   "cell": "AM10",
+   "audience": "stream",
+   "cell": "AM4",
    "date": "2026-11-04",
    "end": "15:40",
    "flags": {
     "conflict": false
    },
-   "id": "e6400a949501",
-   "kind": "mfk",
-   "lessonKey": "71e1a2faa8fa",
+   "id": "9f23f0af01f1",
+   "kind": "other",
+   "lessonKey": "effbd8670485",
    "pair": 4,
-   "raw": "МФК",
+   "raw": "ВЫХОДНОЙ ДЕНЬ",
    "segments": [
     {
      "groups": [],
@@ -10562,23 +10494,23 @@
     }
    ],
    "start": "14:10",
-   "subject": "Межфакультетские курсы",
-   "subjectRaw": "",
+   "subject": "Выходной день",
+   "subjectRaw": "ВЫХОДНОЙ ДЕНЬ",
    "timeOverride": false
   },
   {
-   "audience": "personal",
-   "cell": "AM10",
+   "audience": "stream",
+   "cell": "AM4",
    "date": "2026-11-04",
    "end": "17:15",
    "flags": {
     "conflict": false
    },
-   "id": "bac8740a3274",
-   "kind": "mfk",
-   "lessonKey": "cf8dfde3bf0a",
+   "id": "2280ebc51d85",
+   "kind": "other",
+   "lessonKey": "59eeefb40456",
    "pair": 5,
-   "raw": "МФК",
+   "raw": "ВЫХОДНОЙ ДЕНЬ",
    "segments": [
     {
      "groups": [],
@@ -10588,8 +10520,8 @@
     }
    ],
    "start": "15:45",
-   "subject": "Межфакультетские курсы",
-   "subjectRaw": "",
+   "subject": "Выходной день",
+   "subjectRaw": "ВЫХОДНОЙ ДЕНЬ",
    "timeOverride": false
   },
   {
@@ -12253,7 +12185,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 368,
+  "cells": 363,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -12321,8 +12253,8 @@
    "2026-11-13",
    "2026-11-14"
   ],
-  "hash": "DB1B0403920C131AE24ED15C53CE5454CD253059",
-  "mtime": 1792672452,
+  "hash": "E17860C536BCA4B349671B334079F3E745A41CCE",
+  "mtime": 1792686985,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26",
