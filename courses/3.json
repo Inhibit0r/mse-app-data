@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-10-22T16:52:27+00:00",
+ "generatedAt": "2026-10-22T16:57:29+00:00",
  "groups": [
   1,
   2,
@@ -9193,22 +9193,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "c4076ede4b66",
+   "id": "1ff972f4ed20",
    "kind": "lecture",
-   "lessonKey": "46abbcf44775",
+   "lessonKey": "49fee2631ffe",
    "pair": 2,
-   "raw": "ЛЕКЦИЯ СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СТАТИСТИКА Шаклеина М.В. 308",
+   "raw": "ЛЕКЦИЯ СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СТАТИСТИКА Шаклеина М.В. Д",
    "segments": [
     {
      "groups": [],
-     "room": "308",
+     "room": null,
      "subgroup": "",
      "teacher": "Шаклеина М.В."
     }
    ],
    "start": "10:40",
-   "subject": "Социально-экономическая статистика",
-   "subjectRaw": "СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СТАТИСТИКА",
+   "subject": "Социально-экономическая статистика д",
+   "subjectRaw": "СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СТАТИСТИКА Д",
    "timeOverride": false
   },
   {
@@ -9219,22 +9219,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "4727c88a19ff",
+   "id": "df287b1ec5bb",
    "kind": "lecture",
-   "lessonKey": "9805a0cd0260",
+   "lessonKey": "d4c15616c40e",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ СОЦИОЛОГИЯ Зверев А.Л. 308",
+   "raw": "ЛЕКЦИЯ СОЦИОЛОГИЯ Зверев А.Л. Д",
    "segments": [
     {
      "groups": [],
-     "room": "308",
+     "room": null,
      "subgroup": "",
      "teacher": "Зверев А.Л."
     }
    ],
    "start": "12:25",
-   "subject": "Социология",
-   "subjectRaw": "СОЦИОЛОГИЯ",
+   "subject": "Социология д",
+   "subjectRaw": "СОЦИОЛОГИЯ Д",
    "timeOverride": false
   },
   {
@@ -9245,18 +9245,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "44edca128330",
+   "id": "49ac75297a3a",
    "kind": "seminar",
    "lessonKey": "cd5a88339f24",
    "pair": 4,
-   "raw": "СЗ СОЦИОЛОГИЯ 3,4 гр. Зверев А.Л. 308",
+   "raw": "СЗ СОЦИОЛОГИЯ 3,4 гр. Зверев А.Л. Д",
    "segments": [
     {
      "groups": [
       3,
       4
      ],
-     "room": "308",
+     "room": null,
      "subgroup": "",
      "teacher": "Зверев А.Л."
     }
@@ -9274,18 +9274,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "280155998ee8",
+   "id": "bf812344a960",
    "kind": "seminar",
    "lessonKey": "4ffab87b27bf",
    "pair": 4,
-   "raw": "СЗ МАКРОЭКОНОМИКА-II 1,2 гр Кукушкин Д. С. 403",
+   "raw": "СЗ МАКРОЭКОНОМИКА-II 1,2 гр Кукушкин Д.С. Д",
    "segments": [
     {
      "groups": [
       1,
       2
      ],
-     "room": "403",
+     "room": null,
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     }
@@ -9303,18 +9303,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "e88a78fa175a",
+   "id": "3da098b0043a",
    "kind": "seminar",
    "lessonKey": "1e6643b7e50f",
    "pair": 5,
-   "raw": "СЗ СОЦИОЛОГИЯ 1,2 гр. Зверев А.Л. 402",
+   "raw": "СЗ СОЦИОЛОГИЯ 1,2 гр. Зверев А.Л. Д",
    "segments": [
     {
      "groups": [
       1,
       2
      ],
-     "room": "402",
+     "room": null,
      "subgroup": "",
      "teacher": "Зверев А.Л."
     }
@@ -9332,18 +9332,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "8c0a258563a9",
+   "id": "90c54d13cc10",
    "kind": "seminar",
    "lessonKey": "b12cd7942d18",
    "pair": 5,
-   "raw": "СЗ МАКРОЭКОНОМИКА-II 3,4 гр Кукушкин Д. С. 308",
+   "raw": "СЗ МАКРОЭКОНОМИКА-II 3,4 гр Кукушкин Д.С. Д",
    "segments": [
     {
      "groups": [
       3,
       4
      ],
-     "room": "308",
+     "room": null,
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     }
@@ -9888,8 +9888,8 @@
    "2026-11-06",
    "2026-11-07"
   ],
-  "hash": "5A9C2D96174F8F1A452FD8286B8DFB07D9A7A105",
-  "mtime": 1792687940,
+  "hash": "21E98F653E07E74EE56747C5E6BA957BADCDDAEA",
+  "mtime": 1792687986,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
