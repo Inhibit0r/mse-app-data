@@ -1,6 +1,6 @@
 {
  "course": 1,
- "generatedAt": "2026-10-23T08:47:26+00:00",
+ "generatedAt": "2026-10-23T10:17:36+00:00",
  "groups": [
   1,
   2,
@@ -8009,6 +8009,32 @@
    "timeOverride": false
   },
   {
+   "audience": "stream",
+   "cell": "AG10",
+   "date": "2026-10-29",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "b998578d6a57",
+   "kind": "seminar",
+   "lessonKey": "dc0ced4629ba",
+   "pair": 4,
+   "raw": "СЗ Безопасность жизнедеятельности Дынник В.П. Д",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Дынник В.П."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Безопасность жизнедеятельности д",
+   "subjectRaw": "Безопасность жизнедеятельности Д",
+   "timeOverride": false
+  },
+  {
    "audience": "groups",
    "cell": "AH5",
    "date": "2026-10-30",
@@ -13125,8 +13151,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "790FC9D4257FB7FBBE7626FBDA15C5DF1EB93259",
-  "mtime": 1792745087,
+  "hash": "19DAC0467345C535E1866F23F0ABF27E9EA0EF11",
+  "mtime": 1792750482,
   "name": "1_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "1 курс_СЕНТЯБРЬ_26, 1 курс_ОКТЯБРЬ_26, 1 курс_НОЯБРЬ_26",
