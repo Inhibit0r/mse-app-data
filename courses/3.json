@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-10-23T17:13:20+00:00",
+ "generatedAt": "2026-10-23T17:18:20+00:00",
  "groups": [
   1,
   2,
@@ -10011,17 +10011,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "57ee6d251523",
+   "id": "bee3d77b49e8",
    "kind": "seminar",
    "lessonKey": "f82c24140e25",
    "pair": 5,
-   "raw": "СЗ ЭКОНОМИКА ФИРМЫ 2 гр. Варфаловский А.В. Д 1 гр. Лариошина Л.Ю. Д",
+   "raw": "СЗ ЭКОНОМИКА ФИРМЫ 2 гр. Варфаловский А.В. 308 1 гр. Лариошина Л.Ю. 402",
    "segments": [
     {
      "groups": [
       2
      ],
-     "room": null,
+     "room": "308",
      "subgroup": "",
      "teacher": "Варфаловский А.В."
     },
@@ -10029,7 +10029,7 @@
      "groups": [
       1
      ],
-     "room": null,
+     "room": "402",
      "subgroup": "",
      "teacher": "Лариошина Л.Ю."
     }
@@ -10047,17 +10047,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "1f6dc8065a8f",
+   "id": "f5d879b1525a",
    "kind": "seminar",
    "lessonKey": "9012e7a53d78",
    "pair": 5,
-   "raw": "СЗ МИКРОЭКОНОМИКА-II 3 гр. Кукушкин Д.С. Д 4 гр. Починкин Д.В. Д",
+   "raw": "СЗ МИКРОЭКОНОМИКА-II 3 гр. Кукушкин Д.С. 404 4 гр. Починкин Д.В. 405",
    "segments": [
     {
      "groups": [
       3
      ],
-     "room": null,
+     "room": "404",
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     },
@@ -10065,7 +10065,7 @@
      "groups": [
       4
      ],
-     "room": null,
+     "room": "405",
      "subgroup": "",
      "teacher": "Починкин Д.В."
     }
@@ -10083,22 +10083,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "f99a298f8c9c",
+   "id": "5719de976605",
    "kind": "lecture",
-   "lessonKey": "e33fe1179ca5",
+   "lessonKey": "5ee4210622a4",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ МАКРОЭКОНОМИКА-II Кукушкин Д.С. Д",
+   "raw": "ЛЕКЦИЯ МАКРОЭКОНОМИКА-II Кукушкин Д.С. 308",
    "segments": [
     {
      "groups": [],
-     "room": null,
+     "room": "308",
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     }
    ],
    "start": "09:00",
-   "subject": "Макроэкономика-II д",
-   "subjectRaw": "МАКРОЭКОНОМИКА-II Д",
+   "subject": "Макроэкономика II",
+   "subjectRaw": "МАКРОЭКОНОМИКА-II",
    "timeOverride": false
   },
   {
@@ -10109,22 +10109,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "a6d40fd01d3f",
+   "id": "10e655266ed2",
    "kind": "lecture",
-   "lessonKey": "455b37284a88",
+   "lessonKey": "1cc9918ace96",
    "pair": 2,
-   "raw": "ЛЕКЦИЯ СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СТАТИСТИКА Шаклеина М.В. Д",
+   "raw": "ЛЕКЦИЯ СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СТАТИСТИКА Шаклеина М.В. 308",
    "segments": [
     {
      "groups": [],
-     "room": null,
+     "room": "308",
      "subgroup": "",
      "teacher": "Шаклеина М.В."
     }
    ],
    "start": "10:40",
-   "subject": "Социально-экономическая статистика д",
-   "subjectRaw": "СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СТАТИСТИКА Д",
+   "subject": "Социально-экономическая статистика",
+   "subjectRaw": "СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СТАТИСТИКА",
    "timeOverride": false
   },
   {
@@ -10135,22 +10135,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "56de17b9e9c7",
+   "id": "1640f6d6025f",
    "kind": "lecture",
-   "lessonKey": "e1c0a7be6668",
+   "lessonKey": "0b1f209ffd9d",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ СОЦИОЛОГИЯ Зверев А.Л. Д",
+   "raw": "ЛЕКЦИЯ СОЦИОЛОГИЯ Зверев А.Л. 308",
    "segments": [
     {
      "groups": [],
-     "room": null,
+     "room": "308",
      "subgroup": "",
      "teacher": "Зверев А.Л."
     }
    ],
    "start": "12:25",
-   "subject": "Социология д",
-   "subjectRaw": "СОЦИОЛОГИЯ Д",
+   "subject": "Социология",
+   "subjectRaw": "СОЦИОЛОГИЯ",
    "timeOverride": false
   },
   {
@@ -10161,18 +10161,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "380bd5d9083a",
+   "id": "9c5166d7242b",
    "kind": "seminar",
    "lessonKey": "193e74ec2dc0",
    "pair": 4,
-   "raw": "СЗ СОЦИОЛОГИЯ 3,4 гр. Зверев А.Л. Д",
+   "raw": "СЗ СОЦИОЛОГИЯ 3,4 гр. Зверев А.Л. 308",
    "segments": [
     {
      "groups": [
       3,
       4
      ],
-     "room": null,
+     "room": "308",
      "subgroup": "",
      "teacher": "Зверев А.Л."
     }
@@ -10190,18 +10190,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "013b93875108",
+   "id": "e322c963d0a3",
    "kind": "seminar",
    "lessonKey": "babfbd8227f9",
    "pair": 4,
-   "raw": "СЗ МАКРОЭКОНОМИКА-II 1,2 гр Кукушкин Д.С. Д",
+   "raw": "СЗ МАКРОЭКОНОМИКА-II 1,2 гр Кукушкин Д.С. 403",
    "segments": [
     {
      "groups": [
       1,
       2
      ],
-     "room": null,
+     "room": "403",
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     }
@@ -10219,18 +10219,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "7f89e214d9d2",
+   "id": "0f6d1d693982",
    "kind": "seminar",
    "lessonKey": "1ceb4486f3a5",
    "pair": 5,
-   "raw": "СЗ СОЦИОЛОГИЯ 1,2 гр. Зверев А.Л. Д",
+   "raw": "СЗ СОЦИОЛОГИЯ 1,2 гр. Зверев А.Л. 308",
    "segments": [
     {
      "groups": [
       1,
       2
      ],
-     "room": null,
+     "room": "308",
      "subgroup": "",
      "teacher": "Зверев А.Л."
     }
@@ -10248,18 +10248,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "30bfbcb59f4f",
+   "id": "ec30dda67bfe",
    "kind": "seminar",
    "lessonKey": "e2a6ac825d16",
    "pair": 5,
-   "raw": "СЗ МАКРОЭКОНОМИКА-II 3,4 гр Кукушкин Д.С. Д",
+   "raw": "СЗ МАКРОЭКОНОМИКА-II 3,4 гр Кукушкин Д.С. 403",
    "segments": [
     {
      "groups": [
       3,
       4
      ],
-     "room": null,
+     "room": "403",
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     }
@@ -10277,22 +10277,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "7a87d81351de",
+   "id": "b5a7756d8d8f",
    "kind": "lecture",
-   "lessonKey": "1aa015895915",
+   "lessonKey": "9d5f0684769e",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ ЭКОНОМЕТРИКА Пепа Р.Ю. Д",
+   "raw": "ЛЕКЦИЯ ЭКОНОМЕТРИКА Пепа Р.Ю. 308",
    "segments": [
     {
      "groups": [],
-     "room": null,
+     "room": "308",
      "subgroup": "",
      "teacher": "Пепа Р.Ю."
     }
    ],
    "start": "09:00",
-   "subject": "Эконометрика д",
-   "subjectRaw": "ЭКОНОМЕТРИКА Д",
+   "subject": "Эконометрика",
+   "subjectRaw": "ЭКОНОМЕТРИКА",
    "timeOverride": false
   },
   {
@@ -10303,17 +10303,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "19c233da6fb0",
+   "id": "84a294b2757e",
    "kind": "other",
    "lessonKey": "2dcabd2ac66d",
    "pair": 2,
-   "raw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 1 гр. Мироненков А.А. Д 2 гр. Тарновская П.И. Д",
+   "raw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 1 гр. Мироненков А.А. 303 2 гр. Тарновская П.И. 304",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": null,
+     "room": "303",
      "subgroup": "",
      "teacher": "Мироненков А.А."
     },
@@ -10321,7 +10321,7 @@
      "groups": [
       2
      ],
-     "room": null,
+     "room": "304",
      "subgroup": "",
      "teacher": "Тарновская П.И."
     }
@@ -10339,18 +10339,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "995ab61e18c1",
+   "id": "d2ffdef6c80d",
    "kind": "seminar",
    "lessonKey": "cc9b16663dea",
    "pair": 2,
-   "raw": "СЗ ЭКОНОМЕТРИКА 3,4 гр. Аршакян Р.А. Д",
+   "raw": "СЗ ЭКОНОМЕТРИКА 3,4 гр. Аршакян Р.А. 302",
    "segments": [
     {
      "groups": [
       3,
       4
      ],
-     "room": null,
+     "room": "302",
      "subgroup": "",
      "teacher": "Аршакян Р.А."
     }
@@ -10368,17 +10368,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "298b5aa88feb",
+   "id": "a897d74d32fb",
    "kind": "other",
    "lessonKey": "1ae5118d6e8b",
    "pair": 3,
-   "raw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 3 гр. Мироненков А.А. Д 4 гр. Тарновская П.И. Д",
+   "raw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 3 гр. Мироненков А.А. 303 4 гр. Тарновская П.И. 304",
    "segments": [
     {
      "groups": [
       3
      ],
-     "room": null,
+     "room": "303",
      "subgroup": "",
      "teacher": "Мироненков А.А."
     },
@@ -10386,7 +10386,7 @@
      "groups": [
       4
      ],
-     "room": null,
+     "room": "304",
      "subgroup": "",
      "teacher": "Тарновская П.И."
     }
@@ -10404,18 +10404,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "f08c6a9ee6fc",
+   "id": "54d45367553d",
    "kind": "seminar",
    "lessonKey": "9f505c1891c8",
    "pair": 3,
-   "raw": "СЗ ЭКОНОМЕТРИКА 1,2 гр. Аршакян Р.А. Д",
+   "raw": "СЗ ЭКОНОМЕТРИКА 1,2 гр. Аршакян Р.А. 302",
    "segments": [
     {
      "groups": [
       1,
       2
      ],
-     "room": null,
+     "room": "302",
      "subgroup": "",
      "teacher": "Аршакян Р.А."
     }
@@ -10426,6 +10426,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "AT14",
+   "date": "2026-11-11",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "9e71f8f84a12",
+   "kind": "retake",
+   "lessonKey": "e03aec0ecf67",
+   "pair": 4,
+   "raw": "14:10 ПЕРЕСДАЧА ЗА ЛЕТО ЭОС для тех у кого справки Лобанова Е.О. Никитина С.А.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Лобанова Е.О., Никитина С."
+    }
+   ],
+   "start": "14:10",
+   "subject": "ЭОС для тех у кого справки а",
+   "subjectRaw": "ЭОС для тех у кого справки А",
+   "timeOverride": true
+  },
+  {
    "audience": "groups",
    "cell": "AU6",
    "date": "2026-11-12",
@@ -10433,17 +10459,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "240c7f968a55",
+   "id": "0e04d10e1641",
    "kind": "seminar",
    "lessonKey": "b71df420fec9",
    "pair": 2,
-   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 1 гр. Шаклеина М.В. Д 2 гр. Попова Т.А. Д",
+   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 1 гр. Шаклеина М.В. 303 2 гр. Попова Т.А. 304",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": null,
+     "room": "303",
      "subgroup": "",
      "teacher": "Шаклеина М.В."
     },
@@ -10451,7 +10477,7 @@
      "groups": [
       2
      ],
-     "room": null,
+     "room": "304",
      "subgroup": "",
      "teacher": "Попова Т.А."
     }
@@ -10469,22 +10495,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "6e363fe4b9d4",
+   "id": "e1bce10cb18a",
    "kind": "lecture",
-   "lessonKey": "0d1bab65876b",
+   "lessonKey": "645b2e0fe37b",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА Кукушкин Д.С. Д",
+   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА Кукушкин Д.С. 302",
    "segments": [
     {
      "groups": [],
-     "room": null,
+     "room": "302",
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
     }
    ],
    "start": "12:25",
-   "subject": "Микроэкономика д",
-   "subjectRaw": "МИКРОЭКОНОМИКА Д",
+   "subject": "Микроэкономика",
+   "subjectRaw": "МИКРОЭКОНОМИКА",
    "timeOverride": false
   },
   {
@@ -10495,17 +10521,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "1451364c4e1b",
+   "id": "ba6e82824cff",
    "kind": "seminar",
    "lessonKey": "1be830d5554a",
    "pair": 4,
-   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 3 гр. Селезнев А.И. Д 4 гр. Лариошина Л.Ю. Д",
+   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 3 гр. Селезнев А.И. 303 4 гр. Лариошина Л.Ю. 304",
    "segments": [
     {
      "groups": [
       3
      ],
-     "room": null,
+     "room": "303",
      "subgroup": "",
      "teacher": "Селезнев А.И."
     },
@@ -10513,7 +10539,7 @@
      "groups": [
       4
      ],
-     "room": null,
+     "room": "304",
      "subgroup": "",
      "teacher": "Лариошина Л.Ю."
     }
@@ -10531,22 +10557,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "ab4ca5a438ed",
+   "id": "1d7f0be98fb7",
    "kind": "russian_foreign",
    "lessonKey": "f474252a8e38",
    "pair": 5,
-   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. Д",
+   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. 403",
    "segments": [
     {
      "groups": [],
-     "room": null,
+     "room": "403",
      "subgroup": "",
      "teacher": "Бордюгов Д.Г."
     }
    ],
    "start": "15:45",
    "subject": "Русский язык для иностранцев",
-   "subjectRaw": "Д",
+   "subjectRaw": "",
    "timeOverride": false
   },
   {
@@ -10768,7 +10794,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 329,
+  "cells": 330,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -10836,8 +10862,8 @@
    "2026-11-13",
    "2026-11-14"
   ],
-  "hash": "DBC1FD3138CDECEA217DF7DE638FCD6ED13B39FE",
-  "mtime": 1792775593,
+  "hash": "F0BA3AD3D54DDEB2F25D3ACF21B3AADA6BBBC62F",
+  "mtime": 1792775864,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
