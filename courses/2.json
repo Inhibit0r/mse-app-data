@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-10-26T08:10:40+00:00",
+ "generatedAt": "2026-10-26T08:30:41+00:00",
  "groups": [
   1,
   2,
@@ -8895,7 +8895,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AD4",
+   "cell": "B4",
    "date": "2026-10-26",
    "end": "10:30",
    "flags": {
@@ -8921,7 +8921,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AD8",
+   "cell": "B8",
    "date": "2026-10-26",
    "end": "13:55",
    "flags": {
@@ -8947,7 +8947,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AD10",
+   "cell": "B10",
    "date": "2026-10-26",
    "end": "15:40",
    "flags": {
@@ -8973,7 +8973,7 @@
   },
   {
    "audience": "personal",
-   "cell": "AD12",
+   "cell": "B12",
    "date": "2026-10-26",
    "end": "17:15",
    "flags": {
@@ -8999,7 +8999,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AE4",
+   "cell": "C4",
    "date": "2026-10-27",
    "end": "10:30",
    "flags": {
@@ -9027,7 +9027,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AE5",
+   "cell": "C5",
    "date": "2026-10-27",
    "end": "10:30",
    "flags": {
@@ -9055,7 +9055,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AE6",
+   "cell": "C6",
    "date": "2026-10-27",
    "end": "12:10",
    "flags": {
@@ -9091,7 +9091,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AE7",
+   "cell": "C7",
    "date": "2026-10-27",
    "end": "12:10",
    "flags": {
@@ -9127,7 +9127,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AE8",
+   "cell": "C8",
    "date": "2026-10-27",
    "end": "13:55",
    "flags": {
@@ -9179,7 +9179,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AE9",
+   "cell": "C9",
    "date": "2026-10-27",
    "end": "13:55",
    "flags": {
@@ -9215,7 +9215,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AE10",
+   "cell": "C10",
    "date": "2026-10-27",
    "end": "15:40",
    "flags": {
@@ -9267,7 +9267,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AE11",
+   "cell": "C11",
    "date": "2026-10-27",
    "end": "15:40",
    "flags": {
@@ -9295,7 +9295,7 @@
   },
   {
    "audience": "personal",
-   "cell": "AE12",
+   "cell": "C12",
    "date": "2026-10-27",
    "end": "17:15",
    "flags": {
@@ -9321,7 +9321,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AF4",
+   "cell": "D4",
    "date": "2026-10-28",
    "end": "10:30",
    "flags": {
@@ -9347,7 +9347,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AF6",
+   "cell": "D6",
    "date": "2026-10-28",
    "end": "12:10",
    "flags": {
@@ -9375,7 +9375,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AF7",
+   "cell": "D7",
    "date": "2026-10-28",
    "end": "12:10",
    "flags": {
@@ -9411,7 +9411,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AF8",
+   "cell": "D8",
    "date": "2026-10-28",
    "end": "13:55",
    "flags": {
@@ -9439,7 +9439,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AF9",
+   "cell": "D9",
    "date": "2026-10-28",
    "end": "13:55",
    "flags": {
@@ -9475,7 +9475,7 @@
   },
   {
    "audience": "personal",
-   "cell": "AF10",
+   "cell": "D10",
    "date": "2026-10-28",
    "end": "15:40",
    "flags": {
@@ -9501,7 +9501,7 @@
   },
   {
    "audience": "personal",
-   "cell": "AF10",
+   "cell": "D10",
    "date": "2026-10-28",
    "end": "17:15",
    "flags": {
@@ -9527,7 +9527,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AG4",
+   "cell": "E4",
    "date": "2026-10-29",
    "end": "10:30",
    "flags": {
@@ -9563,7 +9563,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AG5",
+   "cell": "E5",
    "date": "2026-10-29",
    "end": "10:30",
    "flags": {
@@ -9599,7 +9599,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AG6",
+   "cell": "E6",
    "date": "2026-10-29",
    "end": "12:10",
    "flags": {
@@ -9635,7 +9635,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AG7",
+   "cell": "E7",
    "date": "2026-10-29",
    "end": "12:10",
    "flags": {
@@ -9671,7 +9671,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AG8",
+   "cell": "E8",
    "date": "2026-10-29",
    "end": "13:55",
    "flags": {
@@ -9723,7 +9723,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AG9",
+   "cell": "E9",
    "date": "2026-10-29",
    "end": "13:55",
    "flags": {
@@ -9752,7 +9752,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AG10",
+   "cell": "E10",
    "date": "2026-10-29",
    "end": "15:40",
    "flags": {
@@ -9804,7 +9804,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AG11",
+   "cell": "E11",
    "date": "2026-10-29",
    "end": "15:40",
    "flags": {
@@ -9833,7 +9833,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AH6",
+   "cell": "F6",
    "date": "2026-10-30",
    "end": "12:10",
    "flags": {
@@ -9859,7 +9859,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AH8",
+   "cell": "F8",
    "date": "2026-10-30",
    "end": "13:55",
    "flags": {
@@ -9885,7 +9885,7 @@
   },
   {
    "audience": "personal",
-   "cell": "AH12",
+   "cell": "F12",
    "date": "2026-10-30",
    "end": "17:15",
    "flags": {
@@ -9911,7 +9911,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AI14",
+   "cell": "G14",
    "date": "2026-10-31",
    "end": null,
    "flags": {
@@ -9938,7 +9938,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AI4",
+   "cell": "G4",
    "date": "2026-10-31",
    "end": "10:30",
    "flags": {
@@ -9966,7 +9966,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AI6",
+   "cell": "G6",
    "date": "2026-10-31",
    "end": "12:10",
    "flags": {
@@ -9994,7 +9994,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AK8",
+   "cell": "I8",
    "date": "2026-11-02",
    "end": "13:55",
    "flags": {
@@ -10020,7 +10020,7 @@
   },
   {
    "audience": "personal",
-   "cell": "AK12",
+   "cell": "I12",
    "date": "2026-11-02",
    "end": "17:15",
    "flags": {
@@ -10046,7 +10046,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AL4",
+   "cell": "J4",
    "date": "2026-11-03",
    "end": "10:30",
    "flags": {
@@ -10074,7 +10074,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AL5",
+   "cell": "J5",
    "date": "2026-11-03",
    "end": "10:30",
    "flags": {
@@ -10102,7 +10102,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AL6",
+   "cell": "J6",
    "date": "2026-11-03",
    "end": "12:10",
    "flags": {
@@ -10138,7 +10138,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AL7",
+   "cell": "J7",
    "date": "2026-11-03",
    "end": "12:10",
    "flags": {
@@ -10174,7 +10174,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AL8",
+   "cell": "J8",
    "date": "2026-11-03",
    "end": "13:55",
    "flags": {
@@ -10226,7 +10226,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AL9",
+   "cell": "J9",
    "date": "2026-11-03",
    "end": "13:55",
    "flags": {
@@ -10262,7 +10262,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AL10",
+   "cell": "J10",
    "date": "2026-11-03",
    "end": "15:40",
    "flags": {
@@ -10314,7 +10314,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AL11",
+   "cell": "J11",
    "date": "2026-11-03",
    "end": "15:40",
    "flags": {
@@ -10342,7 +10342,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AL11",
+   "cell": "J11",
    "date": "2026-11-03",
    "end": "15:40",
    "flags": {
@@ -10370,7 +10370,7 @@
   },
   {
    "audience": "personal",
-   "cell": "AL12",
+   "cell": "J12",
    "date": "2026-11-03",
    "end": "17:15",
    "flags": {
@@ -10396,7 +10396,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AM4",
+   "cell": "K4",
    "date": "2026-11-04",
    "end": "10:30",
    "flags": {
@@ -10422,7 +10422,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AM4",
+   "cell": "K4",
    "date": "2026-11-04",
    "end": "12:10",
    "flags": {
@@ -10448,7 +10448,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AM4",
+   "cell": "K4",
    "date": "2026-11-04",
    "end": "13:55",
    "flags": {
@@ -10474,7 +10474,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AM4",
+   "cell": "K4",
    "date": "2026-11-04",
    "end": "15:40",
    "flags": {
@@ -10500,7 +10500,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AM4",
+   "cell": "K4",
    "date": "2026-11-04",
    "end": "17:15",
    "flags": {
@@ -10526,7 +10526,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AN4",
+   "cell": "L4",
    "date": "2026-11-05",
    "end": "10:30",
    "flags": {
@@ -10562,7 +10562,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AN5",
+   "cell": "L5",
    "date": "2026-11-05",
    "end": "10:30",
    "flags": {
@@ -10598,7 +10598,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AN6",
+   "cell": "L6",
    "date": "2026-11-05",
    "end": "12:10",
    "flags": {
@@ -10634,7 +10634,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AN7",
+   "cell": "L7",
    "date": "2026-11-05",
    "end": "12:10",
    "flags": {
@@ -10670,7 +10670,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AN8",
+   "cell": "L8",
    "date": "2026-11-05",
    "end": "13:55",
    "flags": {
@@ -10722,7 +10722,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AN9",
+   "cell": "L9",
    "date": "2026-11-05",
    "end": "13:55",
    "flags": {
@@ -10751,7 +10751,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AN10",
+   "cell": "L10",
    "date": "2026-11-05",
    "end": "15:40",
    "flags": {
@@ -10803,7 +10803,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AN11",
+   "cell": "L11",
    "date": "2026-11-05",
    "end": "15:40",
    "flags": {
@@ -10832,7 +10832,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AO4",
+   "cell": "M4",
    "date": "2026-11-06",
    "end": "10:30",
    "flags": {
@@ -10858,7 +10858,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AO6",
+   "cell": "M6",
    "date": "2026-11-06",
    "end": "12:10",
    "flags": {
@@ -10884,7 +10884,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AO8",
+   "cell": "M8",
    "date": "2026-11-06",
    "end": "13:55",
    "flags": {
@@ -10910,7 +10910,7 @@
   },
   {
    "audience": "personal",
-   "cell": "AO12",
+   "cell": "M12",
    "date": "2026-11-06",
    "end": "17:15",
    "flags": {
@@ -10936,7 +10936,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AP4",
+   "cell": "N4",
    "date": "2026-11-07",
    "end": "10:30",
    "flags": {
@@ -10964,7 +10964,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AP6",
+   "cell": "N6",
    "date": "2026-11-07",
    "end": "12:10",
    "flags": {
@@ -10992,7 +10992,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AR4",
+   "cell": "P4",
    "date": "2026-11-09",
    "end": "10:30",
    "flags": {
@@ -11018,7 +11018,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AR6",
+   "cell": "P6",
    "date": "2026-11-09",
    "end": "12:10",
    "flags": {
@@ -11044,7 +11044,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AR8",
+   "cell": "P8",
    "date": "2026-11-09",
    "end": "13:55",
    "flags": {
@@ -11070,7 +11070,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AR10",
+   "cell": "P10",
    "date": "2026-11-09",
    "end": "15:40",
    "flags": {
@@ -11096,7 +11096,7 @@
   },
   {
    "audience": "personal",
-   "cell": "AR12",
+   "cell": "P12",
    "date": "2026-11-09",
    "end": "17:15",
    "flags": {
@@ -11122,7 +11122,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AS4",
+   "cell": "Q4",
    "date": "2026-11-10",
    "end": "10:30",
    "flags": {
@@ -11158,7 +11158,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AS5",
+   "cell": "Q5",
    "date": "2026-11-10",
    "end": "10:30",
    "flags": {
@@ -11186,7 +11186,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AS6",
+   "cell": "Q6",
    "date": "2026-11-10",
    "end": "12:10",
    "flags": {
@@ -11222,7 +11222,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AS7",
+   "cell": "Q7",
    "date": "2026-11-10",
    "end": "12:10",
    "flags": {
@@ -11258,7 +11258,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AS8",
+   "cell": "Q8",
    "date": "2026-11-10",
    "end": "13:55",
    "flags": {
@@ -11310,7 +11310,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AS9",
+   "cell": "Q9",
    "date": "2026-11-10",
    "end": "13:55",
    "flags": {
@@ -11346,7 +11346,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AS10",
+   "cell": "Q10",
    "date": "2026-11-10",
    "end": "15:40",
    "flags": {
@@ -11398,7 +11398,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AS11",
+   "cell": "Q11",
    "date": "2026-11-10",
    "end": "15:40",
    "flags": {
@@ -11426,7 +11426,7 @@
   },
   {
    "audience": "personal",
-   "cell": "AS12",
+   "cell": "Q12",
    "date": "2026-11-10",
    "end": "17:15",
    "flags": {
@@ -11452,7 +11452,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AT4",
+   "cell": "R4",
    "date": "2026-11-11",
    "end": "10:30",
    "flags": {
@@ -11478,7 +11478,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AT6",
+   "cell": "R6",
    "date": "2026-11-11",
    "end": "12:10",
    "flags": {
@@ -11506,7 +11506,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AT6",
+   "cell": "R6",
    "date": "2026-11-11",
    "end": "12:10",
    "flags": {
@@ -11534,7 +11534,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AT7",
+   "cell": "R7",
    "date": "2026-11-11",
    "end": "12:10",
    "flags": {
@@ -11570,7 +11570,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AT8",
+   "cell": "R8",
    "date": "2026-11-11",
    "end": "13:55",
    "flags": {
@@ -11598,7 +11598,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AT8",
+   "cell": "R8",
    "date": "2026-11-11",
    "end": "13:55",
    "flags": {
@@ -11626,7 +11626,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AT9",
+   "cell": "R9",
    "date": "2026-11-11",
    "end": "13:55",
    "flags": {
@@ -11662,7 +11662,7 @@
   },
   {
    "audience": "personal",
-   "cell": "AT10",
+   "cell": "R10",
    "date": "2026-11-11",
    "end": "15:40",
    "flags": {
@@ -11688,7 +11688,7 @@
   },
   {
    "audience": "personal",
-   "cell": "AT10",
+   "cell": "R10",
    "date": "2026-11-11",
    "end": "17:15",
    "flags": {
@@ -11714,7 +11714,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AU4",
+   "cell": "S4",
    "date": "2026-11-12",
    "end": "10:30",
    "flags": {
@@ -11750,7 +11750,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AU5",
+   "cell": "S5",
    "date": "2026-11-12",
    "end": "10:30",
    "flags": {
@@ -11786,7 +11786,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AU6",
+   "cell": "S6",
    "date": "2026-11-12",
    "end": "12:10",
    "flags": {
@@ -11822,7 +11822,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AU7",
+   "cell": "S7",
    "date": "2026-11-12",
    "end": "12:10",
    "flags": {
@@ -11858,7 +11858,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AU8",
+   "cell": "S8",
    "date": "2026-11-12",
    "end": "13:55",
    "flags": {
@@ -11910,7 +11910,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AU9",
+   "cell": "S9",
    "date": "2026-11-12",
    "end": "13:55",
    "flags": {
@@ -11939,7 +11939,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AU10",
+   "cell": "S10",
    "date": "2026-11-12",
    "end": "15:40",
    "flags": {
@@ -11991,7 +11991,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AU11",
+   "cell": "S11",
    "date": "2026-11-12",
    "end": "15:40",
    "flags": {
@@ -12020,7 +12020,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AV4",
+   "cell": "T4",
    "date": "2026-11-13",
    "end": "10:30",
    "flags": {
@@ -12046,7 +12046,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AV6",
+   "cell": "T6",
    "date": "2026-11-13",
    "end": "12:10",
    "flags": {
@@ -12072,7 +12072,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AV8",
+   "cell": "T8",
    "date": "2026-11-13",
    "end": "13:55",
    "flags": {
@@ -12098,7 +12098,7 @@
   },
   {
    "audience": "personal",
-   "cell": "AV12",
+   "cell": "T12",
    "date": "2026-11-13",
    "end": "17:15",
    "flags": {
@@ -12124,7 +12124,7 @@
   },
   {
    "audience": "personal",
-   "cell": "AW14",
+   "cell": "U14",
    "date": "2026-11-14",
    "end": null,
    "flags": {
@@ -12151,7 +12151,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AW4",
+   "cell": "U4",
    "date": "2026-11-14",
    "end": "10:30",
    "flags": {
@@ -12179,7 +12179,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AW6",
+   "cell": "U6",
    "date": "2026-11-14",
    "end": "12:10",
    "flags": {
@@ -12280,11 +12280,11 @@
    "2026-11-13",
    "2026-11-14"
   ],
-  "hash": "37200EE4D286F5B39536DCE8DFB5B58B8795D668",
-  "mtime": 1793002165,
+  "hash": "D08602881A970C28F77581BDDE67CEB8DAC40556",
+  "mtime": 1793003434,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
-  "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26",
+  "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26, 2 курс_НОЯБРЬ_26",
   "weblink": "3E6d/KywgbgiRU"
  },
  "warnings": [
@@ -12304,17 +12304,17 @@
   },
   {
    "cells": [
-    "AI14"
+    "G14"
    ],
    "code": "no_time",
-   "message": "событие без времени в ячейке AI14 (2026-10-31)"
+   "message": "событие без времени в ячейке G14 (2026-10-31)"
   },
   {
    "cells": [
-    "AW14"
+    "U14"
    ],
    "code": "no_time",
-   "message": "событие без времени в ячейке AW14 (2026-11-14)"
+   "message": "событие без времени в ячейке U14 (2026-11-14)"
   }
  ]
 }
