@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-10-26T08:45:43+00:00",
+ "generatedAt": "2026-10-26T08:50:43+00:00",
  "groups": [
   1,
   2,
@@ -8939,7 +8939,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AK4",
+   "cell": "B4",
    "date": "2026-11-02",
    "end": "10:30",
    "flags": {
@@ -8965,7 +8965,33 @@
   },
   {
    "audience": "stream",
-   "cell": "AK6",
+   "cell": "P4",
+   "date": "2026-11-02",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "fe67983697c3",
+   "kind": "lecture",
+   "lessonKey": "153b518aa499",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ ИСТОРИЯ ЭКОНОМИЧЕСКИХ УЧЕНИЙ Тымчик В.И. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Тымчик В.И."
+    }
+   ],
+   "start": "09:00",
+   "subject": "История экономических учений",
+   "subjectRaw": "ИСТОРИЯ ЭКОНОМИЧЕСКИХ УЧЕНИЙ",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "B6",
    "date": "2026-11-02",
    "end": "12:10",
    "flags": {
@@ -8991,7 +9017,33 @@
   },
   {
    "audience": "stream",
-   "cell": "AK8",
+   "cell": "P6",
+   "date": "2026-11-02",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "763eee893d3a",
+   "kind": "lecture",
+   "lessonKey": "69fd622db917",
+   "pair": 2,
+   "raw": "ЛЕКЦИЯ ИСТОРИЯ ЭКОНОМИЧЕСКИХ УЧЕНИЙ Тымчик В.И. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Тымчик В.И."
+    }
+   ],
+   "start": "10:40",
+   "subject": "История экономических учений",
+   "subjectRaw": "ИСТОРИЯ ЭКОНОМИЧЕСКИХ УЧЕНИЙ",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "B8",
    "date": "2026-11-02",
    "end": "13:55",
    "flags": {
@@ -9016,12 +9068,38 @@
    "timeOverride": false
   },
   {
+   "audience": "stream",
+   "cell": "P8",
+   "date": "2026-11-02",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "6aeb803654ab",
+   "kind": "lecture",
+   "lessonKey": "0e4e185c71a7",
+   "pair": 3,
+   "raw": "ЛЕКЦИЯ ЭКОНОМИКА ФИРМЫ Лариошина Л.Ю. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Лариошина Л.Ю."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Экономика фирмы",
+   "subjectRaw": "ЭКОНОМИКА ФИРМЫ",
+   "timeOverride": false
+  },
+  {
    "audience": "groups",
-   "cell": "AK10",
+   "cell": "B10",
    "date": "2026-11-02",
    "end": "15:40",
    "flags": {
-    "conflict": false
+    "conflict": true
    },
    "id": "d191c2f5189f",
    "kind": "seminar",
@@ -9053,11 +9131,11 @@
   },
   {
    "audience": "groups",
-   "cell": "AK11",
+   "cell": "B11",
    "date": "2026-11-02",
    "end": "15:40",
    "flags": {
-    "conflict": false
+    "conflict": true
    },
    "id": "f878c5fb733b",
    "kind": "seminar",
@@ -9089,11 +9167,83 @@
   },
   {
    "audience": "groups",
-   "cell": "AK12",
+   "cell": "P10",
+   "date": "2026-11-02",
+   "end": "15:40",
+   "flags": {
+    "conflict": true
+   },
+   "id": "a24e537f90d4",
+   "kind": "seminar",
+   "lessonKey": "96d9237bf7b1",
+   "pair": 4,
+   "raw": "СЗ ЭКОНОМИКА ФИРМЫ 4 гр. Варфаловский А.В. 308 3 гр. Попова Т.А. 403",
+   "segments": [
+    {
+     "groups": [
+      4
+     ],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Варфаловский А.В."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Попова Т.А."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Экономика фирмы",
+   "subjectRaw": "ЭКОНОМИКА ФИРМЫ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "P11",
+   "date": "2026-11-02",
+   "end": "15:40",
+   "flags": {
+    "conflict": true
+   },
+   "id": "67383969028f",
+   "kind": "seminar",
+   "lessonKey": "289c754e241e",
+   "pair": 4,
+   "raw": "СЗ МИКРОЭКОНОМИКА-II 1 гр. Кукушкин Д.С. 308 2гр. Починкин Д.В. 303",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Кукушкин Д.С."
+    },
+    {
+     "groups": [
+      2
+     ],
+     "room": "303",
+     "subgroup": "",
+     "teacher": "Починкин Д.В."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Микроэкономика II",
+   "subjectRaw": "МИКРОЭКОНОМИКА-II",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "B12",
    "date": "2026-11-02",
    "end": "17:15",
    "flags": {
-    "conflict": false
+    "conflict": true
    },
    "id": "1c9ec242f91f",
    "kind": "seminar",
@@ -9125,11 +9275,11 @@
   },
   {
    "audience": "groups",
-   "cell": "AK13",
+   "cell": "B13",
    "date": "2026-11-02",
    "end": "17:15",
    "flags": {
-    "conflict": false
+    "conflict": true
    },
    "id": "87d72cb134e2",
    "kind": "seminar",
@@ -9160,8 +9310,80 @@
    "timeOverride": false
   },
   {
+   "audience": "groups",
+   "cell": "P12",
+   "date": "2026-11-02",
+   "end": "17:15",
+   "flags": {
+    "conflict": true
+   },
+   "id": "2be019ffcab9",
+   "kind": "seminar",
+   "lessonKey": "31c6dc6d7eb8",
+   "pair": 5,
+   "raw": "СЗ ЭКОНОМИКА ФИРМЫ 2 гр. Варфаловский А.В.308 1 гр. Лариошина Л.Ю. 308",
+   "segments": [
+    {
+     "groups": [
+      2
+     ],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Варфаловский А.В."
+    },
+    {
+     "groups": [
+      1
+     ],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Лариошина Л.Ю."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Экономика фирмы",
+   "subjectRaw": "ЭКОНОМИКА ФИРМЫ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "P13",
+   "date": "2026-11-02",
+   "end": "17:15",
+   "flags": {
+    "conflict": true
+   },
+   "id": "1ba7c42c08d7",
+   "kind": "seminar",
+   "lessonKey": "c5753f9bba52",
+   "pair": 5,
+   "raw": "СЗ МИКРОЭКОНОМИКА-II 3 гр. Кукушкин Д.С. 405 4 гр. Починкин Д.В. 404",
+   "segments": [
+    {
+     "groups": [
+      3
+     ],
+     "room": "405",
+     "subgroup": "",
+     "teacher": "Кукушкин Д.С."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Починкин Д.В."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Микроэкономика II",
+   "subjectRaw": "МИКРОЭКОНОМИКА-II",
+   "timeOverride": false
+  },
+  {
    "audience": "stream",
-   "cell": "AL4",
+   "cell": "C4",
    "date": "2026-11-03",
    "end": "10:30",
    "flags": {
@@ -9187,7 +9409,33 @@
   },
   {
    "audience": "stream",
-   "cell": "AL6",
+   "cell": "Q4",
+   "date": "2026-11-03",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "8d30dd0a1c00",
+   "kind": "lecture",
+   "lessonKey": "44d595251591",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ МАКРОЭКОНОМИКА-II Кукушкин Д.С. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Кукушкин Д.С."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Макроэкономика II",
+   "subjectRaw": "МАКРОЭКОНОМИКА-II",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "C6",
    "date": "2026-11-03",
    "end": "12:10",
    "flags": {
@@ -9213,7 +9461,33 @@
   },
   {
    "audience": "stream",
-   "cell": "AL8",
+   "cell": "Q6",
+   "date": "2026-11-03",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "c4076ede4b66",
+   "kind": "lecture",
+   "lessonKey": "46abbcf44775",
+   "pair": 2,
+   "raw": "ЛЕКЦИЯ СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СТАТИСТИКА Шаклеина М.В. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Шаклеина М.В."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Социально-экономическая статистика",
+   "subjectRaw": "СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СТАТИСТИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "C8",
    "date": "2026-11-03",
    "end": "13:55",
    "flags": {
@@ -9238,12 +9512,38 @@
    "timeOverride": false
   },
   {
+   "audience": "stream",
+   "cell": "Q8",
+   "date": "2026-11-03",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "4727c88a19ff",
+   "kind": "lecture",
+   "lessonKey": "9805a0cd0260",
+   "pair": 3,
+   "raw": "ЛЕКЦИЯ СОЦИОЛОГИЯ Зверев А.Л. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Зверев А.Л."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Социология",
+   "subjectRaw": "СОЦИОЛОГИЯ",
+   "timeOverride": false
+  },
+  {
    "audience": "groups",
-   "cell": "AL10",
+   "cell": "C10",
    "date": "2026-11-03",
    "end": "15:40",
    "flags": {
-    "conflict": false
+    "conflict": true
    },
    "id": "49ac75297a3a",
    "kind": "seminar",
@@ -9268,11 +9568,11 @@
   },
   {
    "audience": "groups",
-   "cell": "AL11",
+   "cell": "C11",
    "date": "2026-11-03",
    "end": "15:40",
    "flags": {
-    "conflict": false
+    "conflict": true
    },
    "id": "bf812344a960",
    "kind": "seminar",
@@ -9297,11 +9597,69 @@
   },
   {
    "audience": "groups",
-   "cell": "AL12",
+   "cell": "Q10",
+   "date": "2026-11-03",
+   "end": "15:40",
+   "flags": {
+    "conflict": true
+   },
+   "id": "44edca128330",
+   "kind": "seminar",
+   "lessonKey": "cd5a88339f24",
+   "pair": 4,
+   "raw": "СЗ СОЦИОЛОГИЯ 3,4 гр. Зверев А.Л. 308",
+   "segments": [
+    {
+     "groups": [
+      3,
+      4
+     ],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Зверев А.Л."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Социология",
+   "subjectRaw": "СОЦИОЛОГИЯ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "Q11",
+   "date": "2026-11-03",
+   "end": "15:40",
+   "flags": {
+    "conflict": true
+   },
+   "id": "30dbdec1d2d9",
+   "kind": "seminar",
+   "lessonKey": "4ffab87b27bf",
+   "pair": 4,
+   "raw": "СЗ МАКРОЭКОНОМИКА-II 1,2 гр Кукушкин Д. С. 402",
+   "segments": [
+    {
+     "groups": [
+      1,
+      2
+     ],
+     "room": "402",
+     "subgroup": "",
+     "teacher": "Кукушкин Д.С."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Макроэкономика II",
+   "subjectRaw": "МАКРОЭКОНОМИКА-II",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "C12",
    "date": "2026-11-03",
    "end": "17:15",
    "flags": {
-    "conflict": false
+    "conflict": true
    },
    "id": "3da098b0043a",
    "kind": "seminar",
@@ -9326,11 +9684,11 @@
   },
   {
    "audience": "groups",
-   "cell": "AL13",
+   "cell": "C13",
    "date": "2026-11-03",
    "end": "17:15",
    "flags": {
-    "conflict": false
+    "conflict": true
    },
    "id": "90c54d13cc10",
    "kind": "seminar",
@@ -9354,8 +9712,66 @@
    "timeOverride": false
   },
   {
+   "audience": "groups",
+   "cell": "Q12",
+   "date": "2026-11-03",
+   "end": "17:15",
+   "flags": {
+    "conflict": true
+   },
+   "id": "e88a78fa175a",
+   "kind": "seminar",
+   "lessonKey": "1e6643b7e50f",
+   "pair": 5,
+   "raw": "СЗ СОЦИОЛОГИЯ 1,2 гр. Зверев А.Л. 402",
+   "segments": [
+    {
+     "groups": [
+      1,
+      2
+     ],
+     "room": "402",
+     "subgroup": "",
+     "teacher": "Зверев А.Л."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Социология",
+   "subjectRaw": "СОЦИОЛОГИЯ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "Q13",
+   "date": "2026-11-03",
+   "end": "17:15",
+   "flags": {
+    "conflict": true
+   },
+   "id": "8c0a258563a9",
+   "kind": "seminar",
+   "lessonKey": "b12cd7942d18",
+   "pair": 5,
+   "raw": "СЗ МАКРОЭКОНОМИКА-II 3,4 гр Кукушкин Д. С. 308",
+   "segments": [
+    {
+     "groups": [
+      3,
+      4
+     ],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Кукушкин Д.С."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Макроэкономика II",
+   "subjectRaw": "МАКРОЭКОНОМИКА-II",
+   "timeOverride": false
+  },
+  {
    "audience": "stream",
-   "cell": "AM4",
+   "cell": "D4",
    "date": "2026-11-04",
    "end": "10:30",
    "flags": {
@@ -9381,7 +9797,33 @@
   },
   {
    "audience": "stream",
-   "cell": "AM4",
+   "cell": "R4",
+   "date": "2026-11-04",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "abb7d5b61769",
+   "kind": "lecture",
+   "lessonKey": "17655f64917b",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ ЭКОНОМЕТРИКА Пепа Р.Ю. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Пепа Р.Ю."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Эконометрика",
+   "subjectRaw": "ЭКОНОМЕТРИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "D4",
    "date": "2026-11-04",
    "end": "12:10",
    "flags": {
@@ -9406,8 +9848,73 @@
    "timeOverride": false
   },
   {
+   "audience": "groups",
+   "cell": "R6",
+   "date": "2026-11-04",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "16c9891852ff",
+   "kind": "other",
+   "lessonKey": "0d10d40ba664",
+   "pair": 2,
+   "raw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 1 гр. Мироненков А.А. 303 2 гр. Тарновская П.И. 304",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "303",
+     "subgroup": "",
+     "teacher": "Мироненков А.А."
+    },
+    {
+     "groups": [
+      2
+     ],
+     "room": "304",
+     "subgroup": "",
+     "teacher": "Тарновская П.И."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Эконометрический практикум",
+   "subjectRaw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "R7",
+   "date": "2026-11-04",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "71f7ffc603a9",
+   "kind": "seminar",
+   "lessonKey": "deb29912c4fe",
+   "pair": 2,
+   "raw": "СЗ ЭКОНОМЕТРИКА 3,4 гр. Аршакян Р.А. 308",
+   "segments": [
+    {
+     "groups": [
+      3,
+      4
+     ],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Аршакян Р.А."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Эконометрика",
+   "subjectRaw": "ЭКОНОМЕТРИКА",
+   "timeOverride": false
+  },
+  {
    "audience": "stream",
-   "cell": "AM4",
+   "cell": "D4",
    "date": "2026-11-04",
    "end": "13:55",
    "flags": {
@@ -9432,8 +9939,73 @@
    "timeOverride": false
   },
   {
+   "audience": "groups",
+   "cell": "R8",
+   "date": "2026-11-04",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "04dbbbe01df3",
+   "kind": "other",
+   "lessonKey": "1fed281d2806",
+   "pair": 3,
+   "raw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 3 гр. Мироненков А.А. 303 4 гр. Тарновская П.И. 304",
+   "segments": [
+    {
+     "groups": [
+      3
+     ],
+     "room": "303",
+     "subgroup": "",
+     "teacher": "Мироненков А.А."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "304",
+     "subgroup": "",
+     "teacher": "Тарновская П.И."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Эконометрический практикум",
+   "subjectRaw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "R9",
+   "date": "2026-11-04",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "573be29339ce",
+   "kind": "seminar",
+   "lessonKey": "0e423e4a2244",
+   "pair": 3,
+   "raw": "СЗ ЭКОНОМЕТРИКА 1,2 гр. Аршакян Р.А. 308",
+   "segments": [
+    {
+     "groups": [
+      1,
+      2
+     ],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Аршакян Р.А."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Эконометрика",
+   "subjectRaw": "ЭКОНОМЕТРИКА",
+   "timeOverride": false
+  },
+  {
    "audience": "stream",
-   "cell": "AM4",
+   "cell": "D4",
    "date": "2026-11-04",
    "end": "15:40",
    "flags": {
@@ -9458,8 +10030,34 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "R10",
+   "date": "2026-11-04",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "e6400a949501",
+   "kind": "mfk",
+   "lessonKey": "71e1a2faa8fa",
+   "pair": 4,
+   "raw": "МФК",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "14:10",
+   "subject": "Межфакультетские курсы",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
    "audience": "stream",
-   "cell": "AM4",
+   "cell": "D4",
    "date": "2026-11-04",
    "end": "17:15",
    "flags": {
@@ -9484,12 +10082,67 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "R10",
+   "date": "2026-11-04",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "bac8740a3274",
+   "kind": "mfk",
+   "lessonKey": "cf8dfde3bf0a",
+   "pair": 5,
+   "raw": "МФК",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "15:45",
+   "subject": "Межфакультетские курсы",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
    "audience": "groups",
-   "cell": "AN6",
+   "cell": "S5",
+   "date": "2026-11-05",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "30124b62c4f5",
+   "kind": "seminar",
+   "lessonKey": "fea8cc46d4d9",
+   "pair": 1,
+   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 1,2 гр. Попова Т.А. 304",
+   "segments": [
+    {
+     "groups": [
+      1,
+      2
+     ],
+     "room": "304",
+     "subgroup": "",
+     "teacher": "Попова Т.А."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Социально-экономическая статистика",
+   "subjectRaw": "СОЦ.- ЭКОНОМ. СТАТИСТИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "E6",
    "date": "2026-11-05",
    "end": "12:10",
    "flags": {
-    "conflict": false
+    "conflict": true
    },
    "id": "3683605f7ebd",
    "kind": "seminar",
@@ -9520,8 +10173,37 @@
    "timeOverride": false
   },
   {
+   "audience": "groups",
+   "cell": "S6",
+   "date": "2026-11-05",
+   "end": "12:10",
+   "flags": {
+    "conflict": true
+   },
+   "id": "0f56d2e64ec6",
+   "kind": "seminar",
+   "lessonKey": "49af20248bbd",
+   "pair": 2,
+   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 1,2 гр. Попова Т.А. 304",
+   "segments": [
+    {
+     "groups": [
+      1,
+      2
+     ],
+     "room": "304",
+     "subgroup": "",
+     "teacher": "Попова Т.А."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Социально-экономическая статистика",
+   "subjectRaw": "СОЦ.- ЭКОНОМ. СТАТИСТИКА",
+   "timeOverride": false
+  },
+  {
    "audience": "stream",
-   "cell": "AN8",
+   "cell": "E8",
    "date": "2026-11-05",
    "end": "13:55",
    "flags": {
@@ -9546,12 +10228,38 @@
    "timeOverride": false
   },
   {
+   "audience": "stream",
+   "cell": "S8",
+   "date": "2026-11-05",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "58cb654ee1ed",
+   "kind": "lecture",
+   "lessonKey": "82364ca51c6a",
+   "pair": 3,
+   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА Кукушкин Д.С. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Кукушкин Д.С."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Микроэкономика",
+   "subjectRaw": "МИКРОЭКОНОМИКА",
+   "timeOverride": false
+  },
+  {
    "audience": "groups",
-   "cell": "AN10",
+   "cell": "E10",
    "date": "2026-11-05",
    "end": "15:40",
    "flags": {
-    "conflict": false
+    "conflict": true
    },
    "id": "5f10c8418168",
    "kind": "seminar",
@@ -9582,8 +10290,44 @@
    "timeOverride": false
   },
   {
+   "audience": "groups",
+   "cell": "S10",
+   "date": "2026-11-05",
+   "end": "15:40",
+   "flags": {
+    "conflict": true
+   },
+   "id": "51e4e76962e7",
+   "kind": "seminar",
+   "lessonKey": "68f4ca76d9d7",
+   "pair": 4,
+   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 3 гр. Селезнев А.И. 303 4 гр. Лариошина Л.Ю. 304",
+   "segments": [
+    {
+     "groups": [
+      3
+     ],
+     "room": "303",
+     "subgroup": "",
+     "teacher": "Селезнев А.И."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "304",
+     "subgroup": "",
+     "teacher": "Лариошина Л.Ю."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Социально-экономическая статистика",
+   "subjectRaw": "СОЦ.- ЭКОНОМ. СТАТИСТИКА",
+   "timeOverride": false
+  },
+  {
    "audience": "personal",
-   "cell": "AN13",
+   "cell": "E13",
    "date": "2026-11-05",
    "end": "17:15",
    "flags": {
@@ -9609,7 +10353,33 @@
   },
   {
    "audience": "personal",
-   "cell": "AO4",
+   "cell": "S13",
+   "date": "2026-11-05",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "3e9365939f04",
+   "kind": "russian_foreign",
+   "lessonKey": "97a8a50992ae",
+   "pair": 5,
+   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. 403",
+   "segments": [
+    {
+     "groups": [],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Бордюгов Д.Г."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Русский язык для иностранцев",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "F4",
    "date": "2026-11-06",
    "end": "10:30",
    "flags": {
@@ -9635,7 +10405,33 @@
   },
   {
    "audience": "personal",
-   "cell": "AO4",
+   "cell": "T4",
+   "date": "2026-11-06",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "95b4af6a3d51",
+   "kind": "military",
+   "lessonKey": "4d644fc3606f",
+   "pair": 1,
+   "raw": "ВОЕННАЯ КАФЕДРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "09:00",
+   "subject": "Военная кафедра",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "F4",
    "date": "2026-11-06",
    "end": "12:10",
    "flags": {
@@ -9661,7 +10457,33 @@
   },
   {
    "audience": "personal",
-   "cell": "AO4",
+   "cell": "T4",
+   "date": "2026-11-06",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "745537da6c7f",
+   "kind": "military",
+   "lessonKey": "abee36123bf1",
+   "pair": 2,
+   "raw": "ВОЕННАЯ КАФЕДРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "10:40",
+   "subject": "Военная кафедра",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "F4",
    "date": "2026-11-06",
    "end": "13:55",
    "flags": {
@@ -9687,7 +10509,59 @@
   },
   {
    "audience": "personal",
-   "cell": "AO4",
+   "cell": "T4",
+   "date": "2026-11-06",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "4dfc17e3dfd4",
+   "kind": "military",
+   "lessonKey": "4a587d8a84ba",
+   "pair": 3,
+   "raw": "ВОЕННАЯ КАФЕДРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "12:25",
+   "subject": "Военная кафедра",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "F4",
+   "date": "2026-11-06",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "fd599699dd7e",
+   "kind": "military",
+   "lessonKey": "626f764ee11f",
+   "pair": 4,
+   "raw": "ВОЕННАЯ КАФЕДРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "14:10",
+   "subject": "Военная кафедра",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "T4",
    "date": "2026-11-06",
    "end": "15:40",
    "flags": {
@@ -9713,11 +10587,11 @@
   },
   {
    "audience": "groups",
-   "cell": "AP5",
+   "cell": "G5",
    "date": "2026-11-07",
    "end": "10:30",
    "flags": {
-    "conflict": false
+    "conflict": true
    },
    "id": "8a522ad7f819",
    "kind": "lecture",
@@ -9741,11 +10615,67 @@
   },
   {
    "audience": "groups",
-   "cell": "AP6",
+   "cell": "U5",
+   "date": "2026-11-07",
+   "end": "10:30",
+   "flags": {
+    "conflict": true
+   },
+   "id": "8a522ad7f819",
+   "kind": "lecture",
+   "lessonKey": "92ae3815ae37",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ ФУНКЦИОНАЛЬНЫЙ АНАЛИЗ 1 гр. Пепа Р.Ю. 403",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Пепа Р.Ю."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Функциональный анализ",
+   "subjectRaw": "ФУНКЦИОНАЛЬНЫЙ АНАЛИЗ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "G6",
    "date": "2026-11-07",
    "end": "12:10",
    "flags": {
-    "conflict": false
+    "conflict": true
+   },
+   "id": "c0f97283d639",
+   "kind": "seminar",
+   "lessonKey": "8d365b4149c8",
+   "pair": 2,
+   "raw": "СЗ ФУНКЦИОНАЛЬНЫЙ АНАЛИЗ 1гр. Пепа Р.Ю. 403",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Пепа Р.Ю."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Функциональный анализ",
+   "subjectRaw": "ФУНКЦИОНАЛЬНЫЙ АНАЛИЗ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "U6",
+   "date": "2026-11-07",
+   "end": "12:10",
+   "flags": {
+    "conflict": true
    },
    "id": "c0f97283d639",
    "kind": "seminar",
@@ -9769,7 +10699,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AP8",
+   "cell": "G8",
    "date": "2026-11-07",
    "end": "13:55",
    "flags": {
@@ -9795,7 +10725,59 @@
   },
   {
    "audience": "stream",
-   "cell": "AP10",
+   "cell": "U8",
+   "date": "2026-11-07",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "ebd23951d957",
+   "kind": "lecture",
+   "lessonKey": "0a93449bf613",
+   "pair": 3,
+   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. Д",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Наумова Т.А."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Налоги и налогообложение д",
+   "subjectRaw": "Налоги и налогообложение Д",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "G10",
+   "date": "2026-11-07",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "6f1e9240cb3b",
+   "kind": "lecture",
+   "lessonKey": "d7256586782d",
+   "pair": 4,
+   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. Д",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Наумова Т.А."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Налоги и налогообложение д",
+   "subjectRaw": "Налоги и налогообложение Д",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "U10",
    "date": "2026-11-07",
    "end": "15:40",
    "flags": {
@@ -9821,7 +10803,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AR4",
+   "cell": "I4",
    "date": "2026-11-09",
    "end": "10:30",
    "flags": {
@@ -9850,7 +10832,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AR6",
+   "cell": "I6",
    "date": "2026-11-09",
    "end": "12:10",
    "flags": {
@@ -9879,7 +10861,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AR7",
+   "cell": "I7",
    "date": "2026-11-09",
    "end": "12:10",
    "flags": {
@@ -9907,7 +10889,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AR8",
+   "cell": "I8",
    "date": "2026-11-09",
    "end": "13:55",
    "flags": {
@@ -9933,7 +10915,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AR10",
+   "cell": "I10",
    "date": "2026-11-09",
    "end": "15:40",
    "flags": {
@@ -9969,7 +10951,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AR11",
+   "cell": "I11",
    "date": "2026-11-09",
    "end": "15:40",
    "flags": {
@@ -10005,7 +10987,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AR12",
+   "cell": "I12",
    "date": "2026-11-09",
    "end": "17:15",
    "flags": {
@@ -10041,7 +11023,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AR13",
+   "cell": "I13",
    "date": "2026-11-09",
    "end": "17:15",
    "flags": {
@@ -10077,7 +11059,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AS4",
+   "cell": "J4",
    "date": "2026-11-10",
    "end": "10:30",
    "flags": {
@@ -10103,7 +11085,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AS6",
+   "cell": "J6",
    "date": "2026-11-10",
    "end": "12:10",
    "flags": {
@@ -10129,7 +11111,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AS8",
+   "cell": "J8",
    "date": "2026-11-10",
    "end": "13:55",
    "flags": {
@@ -10155,7 +11137,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AS10",
+   "cell": "J10",
    "date": "2026-11-10",
    "end": "15:40",
    "flags": {
@@ -10184,7 +11166,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AS11",
+   "cell": "J11",
    "date": "2026-11-10",
    "end": "15:40",
    "flags": {
@@ -10213,7 +11195,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AS12",
+   "cell": "J12",
    "date": "2026-11-10",
    "end": "17:15",
    "flags": {
@@ -10242,7 +11224,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AS13",
+   "cell": "J13",
    "date": "2026-11-10",
    "end": "17:15",
    "flags": {
@@ -10271,7 +11253,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AT4",
+   "cell": "K4",
    "date": "2026-11-11",
    "end": "10:30",
    "flags": {
@@ -10297,7 +11279,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AT6",
+   "cell": "K6",
    "date": "2026-11-11",
    "end": "12:10",
    "flags": {
@@ -10333,7 +11315,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AT7",
+   "cell": "K7",
    "date": "2026-11-11",
    "end": "12:10",
    "flags": {
@@ -10362,7 +11344,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AT8",
+   "cell": "K8",
    "date": "2026-11-11",
    "end": "13:55",
    "flags": {
@@ -10398,7 +11380,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AT9",
+   "cell": "K9",
    "date": "2026-11-11",
    "end": "13:55",
    "flags": {
@@ -10427,7 +11409,7 @@
   },
   {
    "audience": "personal",
-   "cell": "AT14",
+   "cell": "K14",
    "date": "2026-11-11",
    "end": null,
    "flags": {
@@ -10453,7 +11435,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AU6",
+   "cell": "L6",
    "date": "2026-11-12",
    "end": "12:10",
    "flags": {
@@ -10489,7 +11471,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AU8",
+   "cell": "L8",
    "date": "2026-11-12",
    "end": "13:55",
    "flags": {
@@ -10515,7 +11497,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AU10",
+   "cell": "L10",
    "date": "2026-11-12",
    "end": "15:40",
    "flags": {
@@ -10551,7 +11533,7 @@
   },
   {
    "audience": "personal",
-   "cell": "AU13",
+   "cell": "L13",
    "date": "2026-11-12",
    "end": "17:15",
    "flags": {
@@ -10577,7 +11559,7 @@
   },
   {
    "audience": "personal",
-   "cell": "AV4",
+   "cell": "M4",
    "date": "2026-11-13",
    "end": "10:30",
    "flags": {
@@ -10603,7 +11585,7 @@
   },
   {
    "audience": "personal",
-   "cell": "AV4",
+   "cell": "M4",
    "date": "2026-11-13",
    "end": "12:10",
    "flags": {
@@ -10629,7 +11611,7 @@
   },
   {
    "audience": "personal",
-   "cell": "AV4",
+   "cell": "M4",
    "date": "2026-11-13",
    "end": "13:55",
    "flags": {
@@ -10655,7 +11637,7 @@
   },
   {
    "audience": "personal",
-   "cell": "AV4",
+   "cell": "M4",
    "date": "2026-11-13",
    "end": "15:40",
    "flags": {
@@ -10681,7 +11663,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AW5",
+   "cell": "N5",
    "date": "2026-11-14",
    "end": "10:30",
    "flags": {
@@ -10709,7 +11691,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AW6",
+   "cell": "N6",
    "date": "2026-11-14",
    "end": "12:10",
    "flags": {
@@ -10737,7 +11719,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AW8",
+   "cell": "N8",
    "date": "2026-11-14",
    "end": "13:55",
    "flags": {
@@ -10763,7 +11745,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AW10",
+   "cell": "N10",
    "date": "2026-11-14",
    "end": "15:40",
    "flags": {
@@ -10794,7 +11776,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 330,
+  "cells": 414,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -10862,11 +11844,11 @@
    "2026-11-13",
    "2026-11-14"
   ],
-  "hash": "A1875934966B91078D88EFC2CE97B3A6D8010406",
-  "mtime": 1793004051,
+  "hash": "A1C8BC2CC14C16F6CDAAB8897BC3B7511483091B",
+  "mtime": 1793004629,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
-  "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26",
+  "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26, 3 курс_НОЯБРЬ_26",
   "weblink": "nPxA/Ffnz43t4E"
  },
  "warnings": [
@@ -10890,6 +11872,182 @@
    ],
    "code": "no_time",
    "message": "событие без времени в ячейке AD14 (2026-10-26)"
+  },
+  {
+   "cells": [
+    "B10",
+    "P10"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-11-02 пара 4: группа 4 в двух парах"
+  },
+  {
+   "cells": [
+    "B10",
+    "P10"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-11-02 пара 4: группа 3 в двух парах"
+  },
+  {
+   "cells": [
+    "B11",
+    "P11"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-11-02 пара 4: группа 1 в двух парах"
+  },
+  {
+   "cells": [
+    "B11",
+    "P11"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-11-02 пара 4: группа 2 в двух парах"
+  },
+  {
+   "cells": [
+    "B12",
+    "P12"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-11-02 пара 5: группа 2 в двух парах"
+  },
+  {
+   "cells": [
+    "B12",
+    "P12"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-11-02 пара 5: группа 1 в двух парах"
+  },
+  {
+   "cells": [
+    "B13",
+    "P13"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-11-02 пара 5: группа 3 в двух парах"
+  },
+  {
+   "cells": [
+    "B13",
+    "P13"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-11-02 пара 5: группа 4 в двух парах"
+  },
+  {
+   "cells": [
+    "C10",
+    "Q10"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-11-03 пара 4: группа 3 в двух парах"
+  },
+  {
+   "cells": [
+    "C10",
+    "Q10"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-11-03 пара 4: группа 4 в двух парах"
+  },
+  {
+   "cells": [
+    "C11",
+    "Q11"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-11-03 пара 4: группа 1 в двух парах"
+  },
+  {
+   "cells": [
+    "C11",
+    "Q11"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-11-03 пара 4: группа 2 в двух парах"
+  },
+  {
+   "cells": [
+    "C12",
+    "Q12"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-11-03 пара 5: группа 1 в двух парах"
+  },
+  {
+   "cells": [
+    "C12",
+    "Q12"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-11-03 пара 5: группа 2 в двух парах"
+  },
+  {
+   "cells": [
+    "C13",
+    "Q13"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-11-03 пара 5: группа 3 в двух парах"
+  },
+  {
+   "cells": [
+    "C13",
+    "Q13"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-11-03 пара 5: группа 4 в двух парах"
+  },
+  {
+   "cells": [
+    "E6",
+    "S6"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-11-05 пара 2: группа 1 в двух парах"
+  },
+  {
+   "cells": [
+    "E6",
+    "S6"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-11-05 пара 2: группа 2 в двух парах"
+  },
+  {
+   "cells": [
+    "E10",
+    "S10"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-11-05 пара 4: группа 3 в двух парах"
+  },
+  {
+   "cells": [
+    "E10",
+    "S10"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-11-05 пара 4: группа 4 в двух парах"
+  },
+  {
+   "cells": [
+    "G5",
+    "U5"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-11-07 пара 1: группа 1 в двух парах"
+  },
+  {
+   "cells": [
+    "G6",
+    "U6"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-11-07 пара 2: группа 1 в двух парах"
   }
  ]
 }
