@@ -2,6 +2,18 @@
  "course": 2,
  "events": [
   {
+   "date": "2026-10-30",
+   "detectedAt": "2026-10-28T06:25:52+00:00",
+   "groups": [],
+   "id": "ed44b52c4aef",
+   "kind": "lecture",
+   "lessonKey": "bc6f5f9321ca",
+   "pair": 1,
+   "subject": "ТВиМС д",
+   "text": "Лекция ТВиМС д: Пт 30.10, 2 пара → Пт 30.10, 1 пара",
+   "type": "moved"
+  },
+  {
    "date": "2026-09-01",
    "detectedAt": "2026-10-26T08:55:44+00:00",
    "groups": [],
