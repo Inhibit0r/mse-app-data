@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-10-28T09:31:10+00:00",
+ "generatedAt": "2026-10-28T11:26:20+00:00",
  "groups": [
   1,
   2,
@@ -8972,32 +8972,6 @@
    "timeOverride": false
   },
   {
-   "audience": "personal",
-   "cell": "AD12",
-   "date": "2026-10-26",
-   "end": "17:15",
-   "flags": {
-    "conflict": false
-   },
-   "id": "59250d919497",
-   "kind": "russian_foreign",
-   "lessonKey": "8091a0c63c08",
-   "pair": 5,
-   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. Д",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Бордюгов Д.Г."
-    }
-   ],
-   "start": "15:45",
-   "subject": "Русский язык для иностранцев",
-   "subjectRaw": "Д",
-   "timeOverride": false
-  },
-  {
    "audience": "groups",
    "cell": "AE4",
    "date": "2026-10-27",
@@ -9832,6 +9806,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "AG12",
+   "date": "2026-10-29",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "31c8df3cd3fb",
+   "kind": "russian_foreign",
+   "lessonKey": "ed8f589683eb",
+   "pair": 5,
+   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. Д",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Бордюгов Д.Г."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Русский язык для иностранцев",
+   "subjectRaw": "Д",
+   "timeOverride": false
+  },
+  {
    "audience": "stream",
    "cell": "AH4",
    "date": "2026-10-30",
@@ -10016,32 +10016,6 @@
    "start": "12:25",
    "subject": "Микроэкономика-I д",
    "subjectRaw": "МИКРОЭКОНОМИКА-I Д",
-   "timeOverride": false
-  },
-  {
-   "audience": "personal",
-   "cell": "B12",
-   "date": "2026-11-02",
-   "end": "17:15",
-   "flags": {
-    "conflict": false
-   },
-   "id": "8355d3469d4b",
-   "kind": "russian_foreign",
-   "lessonKey": "c4de03f8bbed",
-   "pair": 5,
-   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. Д",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Бордюгов Д.Г."
-    }
-   ],
-   "start": "15:45",
-   "subject": "Русский язык для иностранцев",
-   "subjectRaw": "Д",
    "timeOverride": false
   },
   {
@@ -10831,6 +10805,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "E12",
+   "date": "2026-11-05",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "54c8792c912a",
+   "kind": "russian_foreign",
+   "lessonKey": "97a8a50992ae",
+   "pair": 5,
+   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. Д",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Бордюгов Д.Г."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Русский язык для иностранцев",
+   "subjectRaw": "Д",
+   "timeOverride": false
+  },
+  {
    "audience": "stream",
    "cell": "F4",
    "date": "2026-11-06",
@@ -11092,32 +11092,6 @@
    "start": "14:10",
    "subject": "Экономика природопользования",
    "subjectRaw": "ЭКОНОМИКА ПРИРОДОПОЛЬЗОВАНИЯ",
-   "timeOverride": false
-  },
-  {
-   "audience": "personal",
-   "cell": "I12",
-   "date": "2026-11-09",
-   "end": "17:15",
-   "flags": {
-    "conflict": false
-   },
-   "id": "19d3021894b4",
-   "kind": "russian_foreign",
-   "lessonKey": "1aeb9afbbe29",
-   "pair": 5,
-   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. 403",
-   "segments": [
-    {
-     "groups": [],
-     "room": "403",
-     "subgroup": "",
-     "teacher": "Бордюгов Д.Г."
-    }
-   ],
-   "start": "15:45",
-   "subject": "Русский язык для иностранцев",
-   "subjectRaw": "",
    "timeOverride": false
   },
   {
@@ -12039,6 +12013,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "L12",
+   "date": "2026-11-12",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "1d7f0be98fb7",
+   "kind": "russian_foreign",
+   "lessonKey": "f474252a8e38",
+   "pair": 5,
+   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. 403",
+   "segments": [
+    {
+     "groups": [],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Бордюгов Д.Г."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Русский язык для иностранцев",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
    "audience": "stream",
    "cell": "M4",
    "date": "2026-11-13",
@@ -12327,32 +12327,6 @@
    "start": "14:10",
    "subject": "Экономика природопользования",
    "subjectRaw": "ЭКОНОМИКА ПРИРОДОПОЛЬЗОВАНИЯ",
-   "timeOverride": false
-  },
-  {
-   "audience": "personal",
-   "cell": "P12",
-   "date": "2026-11-16",
-   "end": "17:15",
-   "flags": {
-    "conflict": false
-   },
-   "id": "f7cd8dd8735a",
-   "kind": "russian_foreign",
-   "lessonKey": "4967224bb45a",
-   "pair": 5,
-   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. 403",
-   "segments": [
-    {
-     "groups": [],
-     "room": "403",
-     "subgroup": "",
-     "teacher": "Бордюгов Д.Г."
-    }
-   ],
-   "start": "15:45",
-   "subject": "Русский язык для иностранцев",
-   "subjectRaw": "",
    "timeOverride": false
   },
   {
@@ -13254,6 +13228,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "S12",
+   "date": "2026-11-19",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "59baa7a4f3cf",
+   "kind": "russian_foreign",
+   "lessonKey": "4107adfd5e38",
+   "pair": 5,
+   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. 403",
+   "segments": [
+    {
+     "groups": [],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Бордюгов Д.Г."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Русский язык для иностранцев",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
    "audience": "stream",
    "cell": "T4",
    "date": "2026-11-20",
@@ -13515,32 +13515,6 @@
    "start": "14:10",
    "subject": "Экономика природопользования",
    "subjectRaw": "ЭКОНОМИКА ПРИРОДОПОЛЬЗОВАНИЯ",
-   "timeOverride": false
-  },
-  {
-   "audience": "personal",
-   "cell": "W12",
-   "date": "2026-11-23",
-   "end": "17:15",
-   "flags": {
-    "conflict": false
-   },
-   "id": "949b9c978b04",
-   "kind": "russian_foreign",
-   "lessonKey": "51870897035b",
-   "pair": 5,
-   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. 403",
-   "segments": [
-    {
-     "groups": [],
-     "room": "403",
-     "subgroup": "",
-     "teacher": "Бордюгов Д.Г."
-    }
-   ],
-   "start": "15:45",
-   "subject": "Русский язык для иностранцев",
-   "subjectRaw": "",
    "timeOverride": false
   },
   {
@@ -14462,6 +14436,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "Z12",
+   "date": "2026-11-26",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "c8dbf821182c",
+   "kind": "russian_foreign",
+   "lessonKey": "c922167a7b7d",
+   "pair": 5,
+   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. 403",
+   "segments": [
+    {
+     "groups": [],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Бордюгов Д.Г."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Русский язык для иностранцев",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
    "audience": "stream",
    "cell": "AA4",
    "date": "2026-11-27",
@@ -14723,32 +14723,6 @@
    "start": "14:10",
    "subject": "Экономика природопользования",
    "subjectRaw": "ЭКОНОМИКА ПРИРОДОПОЛЬЗОВАНИЯ",
-   "timeOverride": false
-  },
-  {
-   "audience": "personal",
-   "cell": "AD12",
-   "date": "2026-11-30",
-   "end": "17:15",
-   "flags": {
-    "conflict": false
-   },
-   "id": "b344ab028323",
-   "kind": "russian_foreign",
-   "lessonKey": "8d738072073c",
-   "pair": 5,
-   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. 403",
-   "segments": [
-    {
-     "groups": [],
-     "room": "403",
-     "subgroup": "",
-     "teacher": "Бордюгов Д.Г."
-    }
-   ],
-   "start": "15:45",
-   "subject": "Русский язык для иностранцев",
-   "subjectRaw": "",
    "timeOverride": false
   },
   {
@@ -15650,6 +15624,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "AG12",
+   "date": "2026-12-03",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "0eba3e6bf99b",
+   "kind": "russian_foreign",
+   "lessonKey": "1b45a755bf59",
+   "pair": 5,
+   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. 403",
+   "segments": [
+    {
+     "groups": [],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Бордюгов Д.Г."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Русский язык для иностранцев",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
    "audience": "stream",
    "cell": "AH4",
    "date": "2026-12-04",
@@ -15902,8 +15902,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "57976F72F88FFBEB640F3B8F785E61BB5D763852",
-  "mtime": 1793179738,
+  "hash": "787DE3CB447DCA49A1B3EDF7AA114D074D5D4692",
+  "mtime": 1793186653,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26, 2 курс_НОЯБРЬ_26",
