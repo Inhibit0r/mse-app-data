@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-10-28T12:06:25+00:00",
+ "generatedAt": "2026-10-28T12:11:25+00:00",
  "groups": [
   1,
   2,
@@ -10992,54 +10992,28 @@
   },
   {
    "audience": "stream",
-   "cell": "I4",
-   "date": "2026-11-09",
-   "end": "10:30",
-   "flags": {
-    "conflict": false
-   },
-   "id": "fbe7ef3330b0",
-   "kind": "lecture",
-   "lessonKey": "db957235372d",
-   "pair": 1,
-   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА Щербанин Ю.А. 402",
-   "segments": [
-    {
-     "groups": [],
-     "room": "402",
-     "subgroup": "",
-     "teacher": "Щербанин Ю.А."
-    }
-   ],
-   "start": "09:00",
-   "subject": "Мировая экономика",
-   "subjectRaw": "МИРОВАЯ ЭКОНОМИКА",
-   "timeOverride": false
-  },
-  {
-   "audience": "stream",
    "cell": "I6",
    "date": "2026-11-09",
    "end": "12:10",
    "flags": {
     "conflict": false
    },
-   "id": "211dcf4847a5",
+   "id": "35fb973594fc",
    "kind": "lecture",
-   "lessonKey": "8d4854458a1f",
+   "lessonKey": "1fdbeb77b26c",
    "pair": 2,
-   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА Щербанин Ю.А. 402",
+   "raw": "ЛЕКЦИЯ ЭКОНОМИКА ПРИРОДОПОЛЬЗОВАНИЯ Никоноров С.М. 417",
    "segments": [
     {
      "groups": [],
-     "room": "402",
+     "room": "417",
      "subgroup": "",
-     "teacher": "Щербанин Ю.А."
+     "teacher": "Никоноров С.М."
     }
    ],
    "start": "10:40",
-   "subject": "Мировая экономика",
-   "subjectRaw": "МИРОВАЯ ЭКОНОМИКА",
+   "subject": "Экономика природопользования",
+   "subjectRaw": "ЭКОНОМИКА ПРИРОДОПОЛЬЗОВАНИЯ",
    "timeOverride": false
   },
   {
@@ -11076,22 +11050,48 @@
    "flags": {
     "conflict": false
    },
-   "id": "b60d1b048075",
+   "id": "f4656b4e900e",
    "kind": "lecture",
-   "lessonKey": "a1e23d6af3a2",
+   "lessonKey": "9ebf365ad334",
    "pair": 4,
-   "raw": "ЛЕКЦИЯ ЭКОНОМИКА ПРИРОДОПОЛЬЗОВАНИЯ Никоноров С.М. 302",
+   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА Щербанин Ю.А. 302",
    "segments": [
     {
      "groups": [],
      "room": "302",
      "subgroup": "",
-     "teacher": "Никоноров С.М."
+     "teacher": "Щербанин Ю.А."
     }
    ],
    "start": "14:10",
-   "subject": "Экономика природопользования",
-   "subjectRaw": "ЭКОНОМИКА ПРИРОДОПОЛЬЗОВАНИЯ",
+   "subject": "Мировая экономика",
+   "subjectRaw": "МИРОВАЯ ЭКОНОМИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "I12",
+   "date": "2026-11-09",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "75290f87c43b",
+   "kind": "lecture",
+   "lessonKey": "d143f1092913",
+   "pair": 5,
+   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА Щербанин Ю.А. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Щербанин Ю.А."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Мировая экономика",
+   "subjectRaw": "МИРОВАЯ ЭКОНОМИКА",
    "timeOverride": false
   },
   {
@@ -11102,17 +11102,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "631ece2fdc3c",
+   "id": "4c52da81b587",
    "kind": "seminar",
    "lessonKey": "4754fa82c78d",
    "pair": 1,
-   "raw": "СЗ МЭО 1 гр. Никитина С.А. 3 гр. Кочетовская О.С.",
+   "raw": "СЗ МЭО 1 гр. Никитина С.А. 402 3 гр. Кочетовская О.С. 403",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": null,
+     "room": "402",
      "subgroup": "",
      "teacher": "Никитина С.А."
     },
@@ -11120,7 +11120,7 @@
      "groups": [
       3
      ],
-     "room": null,
+     "room": "403",
      "subgroup": "",
      "teacher": "Кочетовская О.С."
     }
@@ -11514,17 +11514,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "26a5f1857de1",
+   "id": "8738a4d5ab1e",
    "kind": "seminar",
    "lessonKey": "d562a3b859c0",
    "pair": 2,
-   "raw": "СЗ МЭО 1гр. Никитина С.А. Д 304",
+   "raw": "СЗ МЭО 1гр. Никитина С.А. 404",
    "segments": [
     {
      "groups": [
       1
      ],
-     "room": "304",
+     "room": "404",
      "subgroup": "",
      "teacher": "Никитина С.А."
     }
@@ -11542,17 +11542,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "6b35c8ffb245",
+   "id": "e4ac80efaeb1",
    "kind": "seminar",
    "lessonKey": "40afcf18524d",
    "pair": 2,
-   "raw": "СЗ ЭК.ПРИРОДОПОЛЬ-ИЯ 3 гр. Никоноров С.М. 302 4гр. Лобанова Е.О. 404",
+   "raw": "СЗ ЭК.ПРИРОДОПОЛЬ-ИЯ 3 гр. Никоноров С.М. 402 4гр. Лобанова Е.О. 405",
    "segments": [
     {
      "groups": [
       3
      ],
-     "room": "302",
+     "room": "402",
      "subgroup": "",
      "teacher": "Никоноров С.М."
     },
@@ -11560,7 +11560,7 @@
      "groups": [
       4
      ],
-     "room": "404",
+     "room": "405",
      "subgroup": "",
      "teacher": "Лобанова Е.О."
     }
@@ -11606,17 +11606,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "37c44776c0e7",
+   "id": "758bae686a12",
    "kind": "seminar",
    "lessonKey": "e090735ef78c",
    "pair": 3,
-   "raw": "СЗ МЭО 2гр. Никитина С.А. 404",
+   "raw": "СЗ МЭО 2гр. Никитина С.А. 309",
    "segments": [
     {
      "groups": [
       2
      ],
-     "room": "404",
+     "room": "309",
      "subgroup": "",
      "teacher": "Никитина С.А."
     }
@@ -12151,22 +12151,22 @@
     "conflict": false,
     "noTime": true
    },
-   "id": "b185689fe170",
+   "id": "38bb7d1dab46",
    "kind": "retake",
-   "lessonKey": "1ba776d2a3cc",
+   "lessonKey": "d478cf8f647e",
    "pair": 1,
-   "raw": "Пересдача за лето История России Щербакова Е.И. Мойса Н.И.",
+   "raw": "Пересдача за лето История России Щербакова Е.И. Мойса Н.И. 404",
    "segments": [
     {
      "groups": [],
-     "room": null,
+     "room": "404",
      "subgroup": "",
-     "teacher": "Щербакова Е.И., Мойса Н."
+     "teacher": "Щербакова Е.И., Мойса Н.И."
     }
    ],
    "start": null,
-   "subject": "История россии и",
-   "subjectRaw": "История России И",
+   "subject": "История России",
+   "subjectRaw": "История России",
    "timeOverride": false
   },
   {
@@ -12233,15 +12233,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "a0c2c33ce980",
+   "id": "e12b2d249bf5",
    "kind": "lecture",
    "lessonKey": "fb6247e88798",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА Щербанин Ю.А. 402",
+   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА Щербанин Ю.А. 417",
    "segments": [
     {
      "groups": [],
-     "room": "402",
+     "room": "417",
      "subgroup": "",
      "teacher": "Щербанин Ю.А."
     }
@@ -12259,15 +12259,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "d0fe5464f72b",
+   "id": "876d06f345bd",
    "kind": "lecture",
    "lessonKey": "d4a5f77b6d7f",
    "pair": 2,
-   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА Щербанин Ю.А. 402",
+   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА Щербанин Ю.А. 417",
    "segments": [
     {
      "groups": [],
-     "room": "402",
+     "room": "417",
      "subgroup": "",
      "teacher": "Щербанин Ю.А."
     }
@@ -15902,8 +15902,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "F3201CF3FD8701682F3D7DA5E457B6F32AAE0138",
-  "mtime": 1793189143,
+  "hash": "2684DD8810E0BAEC9D0329DFA5CD20ED4C5B2C6D",
+  "mtime": 1793189236,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26, 2 курс_НОЯБРЬ_26",
