@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-11-02T09:00:51+00:00",
+ "generatedAt": "2026-11-02T09:15:52+00:00",
  "groups": [
   1,
   2,
@@ -9234,35 +9234,6 @@
   },
   {
    "audience": "groups",
-   "cell": "C11",
-   "date": "2026-11-03",
-   "end": "15:40",
-   "flags": {
-    "conflict": false
-   },
-   "id": "bf812344a960",
-   "kind": "seminar",
-   "lessonKey": "4ffab87b27bf",
-   "pair": 4,
-   "raw": "СЗ МАКРОЭКОНОМИКА-II 1,2 гр Кукушкин Д.С. Д",
-   "segments": [
-    {
-     "groups": [
-      1,
-      2
-     ],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Кукушкин Д.С."
-    }
-   ],
-   "start": "14:10",
-   "subject": "Макроэкономика II",
-   "subjectRaw": "МАКРОЭКОНОМИКА-II",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
    "cell": "C12",
    "date": "2026-11-03",
    "end": "17:15",
@@ -9288,35 +9259,6 @@
    "start": "15:45",
    "subject": "Социология",
    "subjectRaw": "СОЦИОЛОГИЯ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "C13",
-   "date": "2026-11-03",
-   "end": "17:15",
-   "flags": {
-    "conflict": false
-   },
-   "id": "90c54d13cc10",
-   "kind": "seminar",
-   "lessonKey": "b12cd7942d18",
-   "pair": 5,
-   "raw": "СЗ МАКРОЭКОНОМИКА-II 3,4 гр Кукушкин Д.С. Д",
-   "segments": [
-    {
-     "groups": [
-      3,
-      4
-     ],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Кукушкин Д.С."
-    }
-   ],
-   "start": "15:45",
-   "subject": "Макроэкономика II",
-   "subjectRaw": "МАКРОЭКОНОМИКА-II",
    "timeOverride": false
   },
   {
@@ -13752,8 +13694,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "1FDCF0A49FF0B2E74DB0034702F234DA269F044A",
-  "mtime": 1793609793,
+  "hash": "D99978060439EC1E44CD9C789D0E519A2964E594",
+  "mtime": 1793610903,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26, 3 курс_НОЯБРЬ_26",
