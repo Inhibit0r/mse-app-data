@@ -2,6 +2,36 @@
  "course": 3,
  "events": [
   {
+   "date": "2026-11-03",
+   "detectedAt": "2026-11-02T09:25:53+00:00",
+   "groups": [
+    1,
+    2
+   ],
+   "id": "96e832a25769",
+   "kind": "seminar",
+   "lessonKey": "4ffab87b27bf",
+   "pair": 4,
+   "subject": "Макроэкономика II",
+   "text": "Вт 03.11, 4 пара: отменён Семинар Макроэкономика II (1, 2 гр.)",
+   "type": "cancelled"
+  },
+  {
+   "date": "2026-11-03",
+   "detectedAt": "2026-11-02T09:25:53+00:00",
+   "groups": [
+    3,
+    4
+   ],
+   "id": "a61c5c55f019",
+   "kind": "seminar",
+   "lessonKey": "b12cd7942d18",
+   "pair": 5,
+   "subject": "Макроэкономика II",
+   "text": "Вт 03.11, 5 пара: отменён Семинар Макроэкономика II (3, 4 гр.)",
+   "type": "cancelled"
+  },
+  {
    "date": "2026-11-02",
    "detectedAt": "2026-11-02T09:10:52+00:00",
    "groups": [],
