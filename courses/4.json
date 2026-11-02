@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-11-02T20:49:01+00:00",
+ "generatedAt": "2026-11-02T20:54:02+00:00",
  "groups": [
   1,
   2,
@@ -7856,16 +7856,16 @@
   },
   {
    "audience": "groups",
-   "cell": "L9",
+   "cell": "L10",
    "date": "2026-11-12",
-   "end": "13:55",
+   "end": "15:40",
    "flags": {
     "conflict": false
    },
-   "id": "7837f26dcc61",
+   "id": "9602a395a8bc",
    "kind": "seminar",
-   "lessonKey": "cef64084be84",
-   "pair": 3,
+   "lessonKey": "f0e5af0ee098",
+   "pair": 4,
    "raw": "СЗ АНАЛИЗ - II 1,4 гр. Пепа Р.Ю. 304",
    "segments": [
     {
@@ -7878,7 +7878,7 @@
      "teacher": "Пепа Р.Ю."
     }
    ],
-   "start": "12:25",
+   "start": "14:10",
    "subject": "Анализ II",
    "subjectRaw": "АНАЛИЗ - II",
    "timeOverride": false
@@ -10168,8 +10168,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "00060A33C3AA6565080A44F7D873EDE7AD4E41B3",
-  "mtime": 1793652525,
+  "hash": "9FC04C2150CD6BD024416B8BDD76355DBF7A505E",
+  "mtime": 1793652586,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26, 4 курс_НОЯБРЬ_26",
