@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-11-02T09:56:09+00:00",
+ "generatedAt": "2026-11-02T14:32:36+00:00",
  "groups": [
   1,
   2,
@@ -7005,7 +7005,7 @@
    "date": "2026-11-05",
    "end": "13:55",
    "flags": {
-    "conflict": false
+    "conflict": true
    },
    "id": "e8d0451f726a",
    "kind": "seminar",
@@ -7034,12 +7034,41 @@
    "date": "2026-11-05",
    "end": "13:55",
    "flags": {
+    "conflict": true
+   },
+   "id": "e8d0451f726a",
+   "kind": "seminar",
+   "lessonKey": "0736fefa68fb",
+   "pair": 3,
+   "raw": "СЗ ЭКОНОМИКА ТРУДА 2,3 гр. Починкин Д.В. 309",
+   "segments": [
+    {
+     "groups": [
+      2,
+      3
+     ],
+     "room": "309",
+     "subgroup": "",
+     "teacher": "Починкин Д.В."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Экономика труда",
+   "subjectRaw": "ЭКОНОМИКА ТРУДА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "E10",
+   "date": "2026-11-05",
+   "end": "15:40",
+   "flags": {
     "conflict": false
    },
-   "id": "c9effea2fc0e",
+   "id": "b61d3c10588b",
    "kind": "seminar",
-   "lessonKey": "c19b61575aa1",
-   "pair": 3,
+   "lessonKey": "2da544702b63",
+   "pair": 4,
    "raw": "СЗ АНАЛИЗ - II 1,4 гр. Пепа Р.Ю. 113",
    "segments": [
     {
@@ -7052,7 +7081,7 @@
      "teacher": "Пепа Р.Ю."
     }
    ],
-   "start": "12:25",
+   "start": "14:10",
    "subject": "Анализ II",
    "subjectRaw": "АНАЛИЗ - II",
    "timeOverride": false
@@ -9998,7 +10027,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 317,
+  "cells": 318,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -10084,12 +10113,29 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "927EA3B40243B1FF7BE0AEE2D88F3771CC096DC4",
-  "mtime": 1793606571,
+  "hash": "6909AA1613C2235DC6AD37F3AC46C2D491C3C442",
+  "mtime": 1793629891,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26, 4 курс_НОЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
  },
- "warnings": []
+ "warnings": [
+  {
+   "cells": [
+    "E8",
+    "E9"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-11-05 пара 3: группа 2 в двух парах"
+  },
+  {
+   "cells": [
+    "E8",
+    "E9"
+   ],
+   "code": "conflict",
+   "message": "конфликт групп 2026-11-05 пара 3: группа 3 в двух парах"
+  }
+ ]
 }
