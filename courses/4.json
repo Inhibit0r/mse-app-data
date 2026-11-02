@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-11-02T14:37:36+00:00",
+ "generatedAt": "2026-11-02T20:49:01+00:00",
  "groups": [
   1,
   2,
@@ -6923,80 +6923,48 @@
    "flags": {
     "conflict": false
    },
-   "id": "d3bbf1333e8f",
+   "id": "1ae6672aa581",
    "kind": "lecture",
-   "lessonKey": "a6fd6b8bae2c",
+   "lessonKey": "440d7ae36711",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ АНАЛИЗ-II Пепа Р.Ю. 308",
+   "raw": "ЛЕКЦИЯ СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Широв А.А. Д",
    "segments": [
     {
      "groups": [],
-     "room": "308",
+     "room": null,
      "subgroup": "",
-     "teacher": "Пепа Р.Ю."
+     "teacher": "Широв А.А."
     }
    ],
    "start": "09:00",
-   "subject": "Анализ II",
-   "subjectRaw": "АНАЛИЗ-II",
+   "subject": "Состояние и перспективы росс. экономики д",
+   "subjectRaw": "СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Д",
    "timeOverride": false
   },
   {
-   "audience": "groups",
+   "audience": "stream",
    "cell": "E6",
    "date": "2026-11-05",
    "end": "12:10",
    "flags": {
     "conflict": false
    },
-   "id": "2be0b5c69fa9",
-   "kind": "seminar",
-   "lessonKey": "ba0a1f922e1c",
+   "id": "d9feaf0f35e8",
+   "kind": "lecture",
+   "lessonKey": "a4995f38c43c",
    "pair": 2,
-   "raw": "СЗ ЭКОНОМИКА ТРУДА 1,4 гр. Починкин Д.В. 309",
+   "raw": "ЛЕКЦИЯ СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Широв А.А. Д",
    "segments": [
     {
-     "groups": [
-      1,
-      4
-     ],
-     "room": "309",
+     "groups": [],
+     "room": null,
      "subgroup": "",
-     "teacher": "Починкин Д.В."
+     "teacher": "Широв А.А."
     }
    ],
    "start": "10:40",
-   "subject": "Экономика труда",
-   "subjectRaw": "ЭКОНОМИКА ТРУДА",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "E7",
-   "date": "2026-11-05",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "2ba821d58fde",
-   "kind": "seminar",
-   "lessonKey": "47847b2fb249",
-   "pair": 2,
-   "raw": "СЗ АНАЛИЗ - II 2,3 гр. Пепа Р.Ю. 113",
-   "segments": [
-    {
-     "groups": [
-      2,
-      3
-     ],
-     "room": "113",
-     "subgroup": "",
-     "teacher": "Пепа Р.Ю."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Анализ II",
-   "subjectRaw": "АНАЛИЗ - II",
+   "subject": "Состояние и перспективы росс. экономики д",
+   "subjectRaw": "СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РОСС. ЭКОНОМИКИ Д",
    "timeOverride": false
   },
   {
@@ -7007,18 +6975,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "e8d0451f726a",
+   "id": "34cd695be8f1",
    "kind": "seminar",
    "lessonKey": "0736fefa68fb",
    "pair": 3,
-   "raw": "СЗ ЭКОНОМИКА ТРУДА 2,3 гр. Починкин Д.В. 309",
+   "raw": "СЗ ЭКОНОМИКА ТРУДА 1,4 гр. Починкин Д.В. Д",
    "segments": [
     {
      "groups": [
-      2,
-      3
+      1,
+      4
      ],
-     "room": "309",
+     "room": null,
      "subgroup": "",
      "teacher": "Починкин Д.В."
     }
@@ -7036,16 +7004,16 @@
    "flags": {
     "conflict": false
    },
-   "id": "414dcf74591c",
+   "id": "514be2d301e0",
    "kind": "seminar",
    "lessonKey": "0229290d4265",
    "pair": 3,
-   "raw": "СЗ МИРОВАЯ ЭКОНОМИКА 1,4 гр. Кочетовская О. С. Д",
+   "raw": "СЗ МИРОВАЯ ЭКОНОМИКА 2,3 гр. Кочетовская О. С. Д",
    "segments": [
     {
      "groups": [
-      1,
-      4
+      2,
+      3
      ],
      "room": null,
      "subgroup": "",
@@ -7065,23 +7033,81 @@
    "flags": {
     "conflict": false
    },
-   "id": "b61d3c10588b",
+   "id": "7e4da8d61cdb",
+   "kind": "seminar",
+   "lessonKey": "c8b1aa5805f4",
+   "pair": 4,
+   "raw": "СЗ ЭКОНОМИКА ТРУДА 2,3 гр. Починкин Д.В. Д",
+   "segments": [
+    {
+     "groups": [
+      2,
+      3
+     ],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Починкин Д.В."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Экономика труда",
+   "subjectRaw": "ЭКОНОМИКА ТРУДА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "E11",
+   "date": "2026-11-05",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "e9c62b1f84de",
    "kind": "seminar",
    "lessonKey": "2da544702b63",
    "pair": 4,
-   "raw": "СЗ АНАЛИЗ - II 1,4 гр. Пепа Р.Ю. 113",
+   "raw": "СЗ АНАЛИЗ - II 1,4 гр. Пепа Р.Ю. Д",
    "segments": [
     {
      "groups": [
       1,
       4
      ],
-     "room": "113",
+     "room": null,
      "subgroup": "",
      "teacher": "Пепа Р.Ю."
     }
    ],
    "start": "14:10",
+   "subject": "Анализ II",
+   "subjectRaw": "АНАЛИЗ - II",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "E12",
+   "date": "2026-11-05",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "bfd6a2536a02",
+   "kind": "seminar",
+   "lessonKey": "653a1aa568d7",
+   "pair": 5,
+   "raw": "СЗ АНАЛИЗ - II 2,3 гр. Пепа Р.Ю. Д",
+   "segments": [
+    {
+     "groups": [
+      2,
+      3
+     ],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Пепа Р.Ю."
+    }
+   ],
+   "start": "15:45",
    "subject": "Анализ II",
    "subjectRaw": "АНАЛИЗ - II",
    "timeOverride": false
@@ -7148,16 +7174,16 @@
    "flags": {
     "conflict": false
    },
-   "id": "ffbcaec1632d",
+   "id": "441d7f47fec7",
    "kind": "seminar",
    "lessonKey": "912e1c2b0de4",
    "pair": 3,
-   "raw": "СЗ МИРОВАЯ ЭКОНОМИКА 2,3 гр. Кочетовская О. С. Д",
+   "raw": "СЗ МИРОВАЯ ЭКОНОМИКА 1,4 гр. Кочетовская О. С. Д",
    "segments": [
     {
      "groups": [
-      2,
-      3
+      1,
+      4
      ],
      "room": null,
      "subgroup": "",
@@ -10056,7 +10082,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 319,
+  "cells": 320,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -10142,8 +10168,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "B463AA6CD2A030EDDB3FC31026F514B39F859907",
-  "mtime": 1793630135,
+  "hash": "00060A33C3AA6565080A44F7D873EDE7AD4E41B3",
+  "mtime": 1793652525,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26, 4 курс_НОЯБРЬ_26",
