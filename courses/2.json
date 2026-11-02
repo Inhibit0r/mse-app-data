@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-11-02T07:40:44+00:00",
+ "generatedAt": "2026-11-02T09:20:53+00:00",
  "groups": [
   1,
   2,
@@ -10542,11 +10542,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "36ac13453205",
+   "id": "54dd53c0f4b8",
    "kind": "seminar",
    "lessonKey": "a749403eae60",
    "pair": 1,
-   "raw": "СЗ МАКРОЭКОНОМИКА-I 1 гр. Букина И.С. Д 4 гр Герелишина А.К. Д",
+   "raw": "СЗ МАКРОЭКОНОМИКА-I 1 гр. Букина И.С. Д ОТМ 4 гр Герелишина А.К.",
    "segments": [
     {
      "groups": [
@@ -10555,53 +10555,9 @@
      "room": null,
      "subgroup": "",
      "teacher": "Букина И.С."
-    },
-    {
-     "groups": [
-      4
-     ],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Герелишина А.К."
     }
    ],
    "start": "09:00",
-   "subject": "Макроэкономика I",
-   "subjectRaw": "МАКРОЭКОНОМИКА-I",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "E6",
-   "date": "2026-11-05",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "ec9dd81d641a",
-   "kind": "seminar",
-   "lessonKey": "0634753e5be0",
-   "pair": 2,
-   "raw": "СЗ МАКРОЭКОНОМИКА-I 3 гр.Кукушкин Д.С. Д 2 гр Герелишина А.К. Д",
-   "segments": [
-    {
-     "groups": [
-      3
-     ],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Кукушкин Д.С."
-    },
-    {
-     "groups": [
-      2
-     ],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Герелишина А.К."
-    }
-   ],
-   "start": "10:40",
    "subject": "Макроэкономика I",
    "subjectRaw": "МАКРОЭКОНОМИКА-I",
    "timeOverride": false
@@ -15902,8 +15858,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "E0AA0874F49A9C6DBC868B3EF2EFDF1F6B806B64",
-  "mtime": 1793605184,
+  "hash": "64B35498E7D75554D1F6608712FE67D78B97D3A4",
+  "mtime": 1793611002,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26, 2 курс_НОЯБРЬ_26",
