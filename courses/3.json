@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-11-02T07:45:45+00:00",
+ "generatedAt": "2026-11-02T08:55:51+00:00",
  "groups": [
   1,
   2,
@@ -8990,32 +8990,6 @@
    "timeOverride": false
   },
   {
-   "audience": "stream",
-   "cell": "B8",
-   "date": "2026-11-02",
-   "end": "13:55",
-   "flags": {
-    "conflict": false
-   },
-   "id": "8d69b3362b6e",
-   "kind": "lecture",
-   "lessonKey": "1b10fde14de2",
-   "pair": 3,
-   "raw": "ЛЕКЦИЯ ЭКОНОМИКА ФИРМЫ Лариошина Л.Ю. Д",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Лариошина Л.Ю."
-    }
-   ],
-   "start": "12:25",
-   "subject": "Экономика фирмы д",
-   "subjectRaw": "ЭКОНОМИКА ФИРМЫ Д",
-   "timeOverride": false
-  },
-  {
    "audience": "groups",
    "cell": "B10",
    "date": "2026-11-02",
@@ -9095,11 +9069,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "1c9ec242f91f",
+   "id": "13f873cbd805",
    "kind": "seminar",
    "lessonKey": "31c6dc6d7eb8",
    "pair": 5,
-   "raw": "СЗ ЭКОНОМИКА ФИРМЫ 2 гр. Варфаловский А.В. Д 1 гр. Лариошина Л.Ю. Д",
+   "raw": "СЗ ЭКОНОМИКА ФИРМЫ 2 гр. Варфаловский А.В. Д ОТМ 1 гр. Лариошина Л.Ю.",
    "segments": [
     {
      "groups": [
@@ -9108,14 +9082,6 @@
      "room": null,
      "subgroup": "",
      "teacher": "Варфаловский А.В."
-    },
-    {
-     "groups": [
-      1
-     ],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Лариошина Л.Ю."
     }
    ],
    "start": "15:45",
@@ -13786,8 +13752,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "A9E589BB0B03F351F6C641573C25E19168F6C385",
-  "mtime": 1793605260,
+  "hash": "9525EE198675F2B30EE37D542726DEBCCD41A1BD",
+  "mtime": 1793609773,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26, 3 курс_НОЯБРЬ_26",
