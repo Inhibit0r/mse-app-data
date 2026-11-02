@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-10-30T15:26:10+00:00",
+ "generatedAt": "2026-11-02T07:40:44+00:00",
  "groups": [
   1,
   2,
@@ -10858,32 +10858,6 @@
   },
   {
    "audience": "stream",
-   "cell": "F6",
-   "date": "2026-11-06",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "1ec7901e2005",
-   "kind": "lecture",
-   "lessonKey": "0257fe5283b7",
-   "pair": 2,
-   "raw": "ЛЕКЦИЯ ТВиМС Курбацкий А.Н. Д",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Курбацкий А.Н."
-    }
-   ],
-   "start": "10:40",
-   "subject": "ТВиМС д",
-   "subjectRaw": "ТВиМС Д",
-   "timeOverride": false
-  },
-  {
-   "audience": "stream",
    "cell": "F8",
    "date": "2026-11-06",
    "end": "13:55",
@@ -15928,8 +15902,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "E07AF63919344A302910102791304D3C1DBB890E",
-  "mtime": 1793373960,
+  "hash": "E0AA0874F49A9C6DBC868B3EF2EFDF1F6B806B64",
+  "mtime": 1793605184,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "parser": 2,
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26, 2 курс_НОЯБРЬ_26",
