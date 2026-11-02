@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-11-02T14:32:36+00:00",
+ "generatedAt": "2026-11-02T14:37:36+00:00",
  "groups": [
   1,
   2,
@@ -7005,7 +7005,7 @@
    "date": "2026-11-05",
    "end": "13:55",
    "flags": {
-    "conflict": true
+    "conflict": false
    },
    "id": "e8d0451f726a",
    "kind": "seminar",
@@ -7034,27 +7034,27 @@
    "date": "2026-11-05",
    "end": "13:55",
    "flags": {
-    "conflict": true
+    "conflict": false
    },
-   "id": "e8d0451f726a",
+   "id": "414dcf74591c",
    "kind": "seminar",
-   "lessonKey": "0736fefa68fb",
+   "lessonKey": "0229290d4265",
    "pair": 3,
-   "raw": "СЗ ЭКОНОМИКА ТРУДА 2,3 гр. Починкин Д.В. 309",
+   "raw": "СЗ МИРОВАЯ ЭКОНОМИКА 1,4 гр. Кочетовская О. С. Д",
    "segments": [
     {
      "groups": [
-      2,
-      3
+      1,
+      4
      ],
-     "room": "309",
+     "room": null,
      "subgroup": "",
-     "teacher": "Починкин Д.В."
+     "teacher": "Кочетовская О.С."
     }
    ],
    "start": "12:25",
-   "subject": "Экономика труда",
-   "subjectRaw": "ЭКОНОМИКА ТРУДА",
+   "subject": "Мировая экономика",
+   "subjectRaw": "МИРОВАЯ ЭКОНОМИКА",
    "timeOverride": false
   },
   {
@@ -7138,6 +7138,35 @@
    "start": "10:40",
    "subject": "Теория отраслевых рынков",
    "subjectRaw": "ТОР",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "F8",
+   "date": "2026-11-06",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "ffbcaec1632d",
+   "kind": "seminar",
+   "lessonKey": "912e1c2b0de4",
+   "pair": 3,
+   "raw": "СЗ МИРОВАЯ ЭКОНОМИКА 2,3 гр. Кочетовская О. С. Д",
+   "segments": [
+    {
+     "groups": [
+      2,
+      3
+     ],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Кочетовская О.С."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Мировая экономика",
+   "subjectRaw": "МИРОВАЯ ЭКОНОМИКА",
    "timeOverride": false
   },
   {
@@ -10027,7 +10056,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 318,
+  "cells": 319,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -10113,29 +10142,12 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "6909AA1613C2235DC6AD37F3AC46C2D491C3C442",
-  "mtime": 1793629891,
+  "hash": "B463AA6CD2A030EDDB3FC31026F514B39F859907",
+  "mtime": 1793630135,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26, 4 курс_НОЯБРЬ_26",
   "weblink": "ZT9D/NLnydzE8E"
  },
- "warnings": [
-  {
-   "cells": [
-    "E8",
-    "E9"
-   ],
-   "code": "conflict",
-   "message": "конфликт групп 2026-11-05 пара 3: группа 2 в двух парах"
-  },
-  {
-   "cells": [
-    "E8",
-    "E9"
-   ],
-   "code": "conflict",
-   "message": "конфликт групп 2026-11-05 пара 3: группа 3 в двух парах"
-  }
- ]
+ "warnings": []
 }
