@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-11-02T20:54:02+00:00",
+ "generatedAt": "2026-11-02T21:19:04+00:00",
  "groups": [
   1,
   2,
@@ -9311,6 +9311,58 @@
   },
   {
    "audience": "stream",
+   "cell": "AA8",
+   "date": "2026-11-27",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "4610fded1d33",
+   "kind": "lecture",
+   "lessonKey": "13b217750b83",
+   "pair": 3,
+   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА II Головнин М.Ю. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Головнин М.Ю."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Мировая экономика II",
+   "subjectRaw": "МИРОВАЯ ЭКОНОМИКА II",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AA10",
+   "date": "2026-11-27",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "86f9abdd90aa",
+   "kind": "lecture",
+   "lessonKey": "27268bd4a7ce",
+   "pair": 4,
+   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА II Головнин М.Ю. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Головнин М.Ю."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Мировая экономика II",
+   "subjectRaw": "МИРОВАЯ ЭКОНОМИКА II",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
    "cell": "AB10",
    "date": "2026-11-28",
    "end": "15:40",
@@ -10082,7 +10134,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 320,
+  "cells": 322,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -10168,8 +10220,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "9FC04C2150CD6BD024416B8BDD76355DBF7A505E",
-  "mtime": 1793652586,
+  "hash": "C6894A5098849D262BE1B141D570A1B5F3EE64D9",
+  "mtime": 1793654108,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26, 4 курс_НОЯБРЬ_26",
