@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-11-02T21:19:04+00:00",
+ "generatedAt": "2026-11-05T10:51:57+00:00",
  "groups": [
   1,
   2,
@@ -7196,6 +7196,37 @@
    "timeOverride": false
   },
   {
+   "audience": "groups",
+   "cell": "F10",
+   "date": "2026-11-06",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "ffe5c6055c6b",
+   "kind": "seminar",
+   "lessonKey": "ba241396d5a7",
+   "pair": 4,
+   "raw": "СЗ МИРОВАЯ ЭКОНОМИКА 1,2,3,4 гр. Кочетовская О. С. Д",
+   "segments": [
+    {
+     "groups": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Кочетовская О.С."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Мировая экономика",
+   "subjectRaw": "МИРОВАЯ ЭКОНОМИКА",
+   "timeOverride": false
+  },
+  {
    "audience": "personal",
    "cell": "G14",
    "date": "2026-11-07",
@@ -10134,7 +10165,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 322,
+  "cells": 323,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -10220,8 +10251,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "C6894A5098849D262BE1B141D570A1B5F3EE64D9",
-  "mtime": 1793654108,
+  "hash": "C7C47BA8502DBCE41C4A8BDED221AB3276E58100",
+  "mtime": 1793875730,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26, 4 курс_НОЯБРЬ_26",
