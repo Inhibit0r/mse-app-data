@@ -1,6 +1,6 @@
 {
  "course": 1,
- "generatedAt": "2026-11-05T10:56:57+00:00",
+ "generatedAt": "2026-11-05T20:14:36+00:00",
  "groups": [
   1,
   2,
@@ -8193,17 +8193,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "61d9ad2faceb",
+   "id": "063adab57603",
    "kind": "lecture",
    "lessonKey": "aeb0c0c3e30b",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ ИСТОРИЯ РОССИИ Щербакова Е.И. Д",
+   "raw": "ЛЕКЦИЯ ИСТОРИЯ РОССИИ Мойса Н.И. Д",
    "segments": [
     {
      "groups": [],
      "room": null,
      "subgroup": "",
-     "teacher": "Щербакова Е.И."
+     "teacher": "Мойса Н.И."
     }
    ],
    "start": "09:00",
@@ -9076,17 +9076,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "c26a4b2ef525",
+   "id": "1b3d0ca2e744",
    "kind": "lecture",
    "lessonKey": "e49a24ef3f8a",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ ИСТОРИЯ РОССИИ Щербакова Е.И. 302",
+   "raw": "ЛЕКЦИЯ ИСТОРИЯ РОССИИ Мойса Н.И. 302",
    "segments": [
     {
      "groups": [],
      "room": "302",
      "subgroup": "",
-     "teacher": "Щербакова Е.И."
+     "teacher": "Мойса Н.И."
     }
    ],
    "start": "09:00",
@@ -9472,17 +9472,17 @@
    "flags": {
     "conflict": false
    },
-   "id": "fef5635c3d58",
+   "id": "f1bb4d202daf",
    "kind": "lecture",
    "lessonKey": "1a9cee55cc91",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ ИСТОРИЯ РОССИИ Щербакова Е.И. 302",
+   "raw": "ЛЕКЦИЯ ИСТОРИЯ РОССИИ Мойса Н.И. 302",
    "segments": [
     {
      "groups": [],
      "room": "302",
      "subgroup": "",
-     "teacher": "Щербакова Е.И."
+     "teacher": "Мойса Н.И."
     }
    ],
    "start": "09:00",
@@ -13155,8 +13155,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "2AACE401F882BF66DF51CE430E44A968AAD20865",
-  "mtime": 1793875978,
+  "hash": "40E15620F6270161BD76573F1DDC2C428F979B24",
+  "mtime": 1793909592,
   "name": "1_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "1 курс_СЕНТЯБРЬ_26, 1 курс_ОКТЯБРЬ_26, 1 курс_НОЯБРЬ_26",
