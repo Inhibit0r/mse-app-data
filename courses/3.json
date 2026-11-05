@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-11-02T09:56:09+00:00",
+ "generatedAt": "2026-11-05T10:36:55+00:00",
  "groups": [
   1,
   2,
@@ -10011,32 +10011,6 @@
   },
   {
    "audience": "stream",
-   "cell": "J6",
-   "date": "2026-11-10",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "10e655266ed2",
-   "kind": "lecture",
-   "lessonKey": "1cc9918ace96",
-   "pair": 2,
-   "raw": "ЛЕКЦИЯ СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СТАТИСТИКА Шаклеина М.В. 308",
-   "segments": [
-    {
-     "groups": [],
-     "room": "308",
-     "subgroup": "",
-     "teacher": "Шаклеина М.В."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Социально-экономическая статистика",
-   "subjectRaw": "СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СТАТИСТИКА",
-   "timeOverride": false
-  },
-  {
-   "audience": "stream",
    "cell": "J8",
    "date": "2026-11-10",
    "end": "13:55",
@@ -10358,6 +10332,32 @@
    "subject": "ЭОС для тех у кого справки",
    "subjectRaw": "ЭОС для тех у кого справки",
    "timeOverride": true
+  },
+  {
+   "audience": "stream",
+   "cell": "L4",
+   "date": "2026-11-12",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "ce3f835e4e40",
+   "kind": "lecture",
+   "lessonKey": "c6416f3b6be9",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СТАТИСТИКА Шаклеина М.В. 417",
+   "segments": [
+    {
+     "groups": [],
+     "room": "417",
+     "subgroup": "",
+     "teacher": "Шаклеина М.В."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Социально-экономическая статистика",
+   "subjectRaw": "СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СТАТИСТИКА",
+   "timeOverride": false
   },
   {
    "audience": "groups",
@@ -13694,8 +13694,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "D99978060439EC1E44CD9C789D0E519A2964E594",
-  "mtime": 1793612711,
+  "hash": "C215512089E2D6D49B51C58C198D4F3FB6745330",
+  "mtime": 1793874866,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26, 3 курс_НОЯБРЬ_26",
