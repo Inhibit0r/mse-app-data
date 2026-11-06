@@ -1,6 +1,6 @@
 {
  "course": 1,
- "generatedAt": "2026-11-05T20:19:37+00:00",
+ "generatedAt": "2026-11-06T06:11:51+00:00",
  "groups": [
   1,
   2,
@@ -8930,11 +8930,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "0a3ce1201658",
+   "id": "fc78316f1e29",
    "kind": "seminar",
    "lessonKey": "a2526ab7be05",
    "pair": 2,
-   "raw": "СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 1гр. Кочетовская О. С. Д 3 гр. Лобанова Е.О. Д",
+   "raw": "СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 1гр. Кочетовская О. С. Д 3,4 гр. Лобанова Е.О. Д",
    "segments": [
     {
      "groups": [
@@ -8946,7 +8946,8 @@
     },
     {
      "groups": [
-      3
+      3,
+      4
      ],
      "room": null,
      "subgroup": "",
@@ -8966,15 +8967,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "d4a10b58628d",
+   "id": "230f55c90e6c",
    "kind": "seminar",
    "lessonKey": "5b209b18eb76",
    "pair": 2,
-   "raw": "СЗ ЭК.ИНФОРМАТИКА-I 4 гр. Колпаков Д.В. Д",
+   "raw": "СЗ ЭК.ИНФОРМАТИКА-I 2 гр. Колпаков Д.В. Д",
    "segments": [
     {
      "groups": [
-      4
+      2
      ],
      "room": null,
      "subgroup": "",
@@ -8988,49 +8989,21 @@
   },
   {
    "audience": "groups",
-   "cell": "F8",
-   "date": "2026-11-06",
-   "end": "13:55",
-   "flags": {
-    "conflict": false
-   },
-   "id": "21cb66f4451f",
-   "kind": "seminar",
-   "lessonKey": "05b3cf47ed04",
-   "pair": 3,
-   "raw": "СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 4 гр. Лобанова Е.О. Д",
-   "segments": [
-    {
-     "groups": [
-      4
-     ],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Лобанова Е.О."
-    }
-   ],
-   "start": "12:25",
-   "subject": "Введение в общую экономическую теорию",
-   "subjectRaw": "ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
    "cell": "F9",
    "date": "2026-11-06",
    "end": "13:55",
    "flags": {
     "conflict": false
    },
-   "id": "fbc2af2ceb84",
+   "id": "cc3a40b962de",
    "kind": "seminar",
    "lessonKey": "d966afd47b4d",
    "pair": 3,
-   "raw": "СЗ ЭК.ИНФОРМАТИКА-I 2 гр. Колпаков Д.В. Д",
+   "raw": "СЗ ЭК.ИНФОРМАТИКА-I 4 гр. Колпаков Д.В. Д",
    "segments": [
     {
      "groups": [
-      2
+      4
      ],
      "room": null,
      "subgroup": "",
@@ -13069,7 +13042,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 403,
+  "cells": 402,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -13155,8 +13128,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "F69A203A3FC3A21EBE0AFD65036AD9EB652C13EB",
-  "mtime": 1793909683,
+  "hash": "D7EF2F0EC9AED73EBFC710E7C7CAAC37FB91D2E3",
+  "mtime": 1793945375,
   "name": "1_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "1 курс_СЕНТЯБРЬ_26, 1 курс_ОКТЯБРЬ_26, 1 курс_НОЯБРЬ_26",
