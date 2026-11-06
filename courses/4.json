@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-11-05T10:51:57+00:00",
+ "generatedAt": "2026-11-06T08:07:01+00:00",
  "groups": [
   1,
   2,
@@ -7227,32 +7227,6 @@
    "timeOverride": false
   },
   {
-   "audience": "personal",
-   "cell": "G14",
-   "date": "2026-11-07",
-   "end": null,
-   "flags": {
-    "conflict": false
-   },
-   "id": "d3205ff663cd",
-   "kind": "retake",
-   "lessonKey": "fc3e6273d35e",
-   "pair": 2,
-   "raw": "11:00 Пересдача за лето Политология Лукашина Е.В. 404",
-   "segments": [
-    {
-     "groups": [],
-     "room": "404",
-     "subgroup": "",
-     "teacher": "Лукашина Е.В."
-    }
-   ],
-   "start": "11:00",
-   "subject": "Политология",
-   "subjectRaw": "Политология",
-   "timeOverride": true
-  },
-  {
    "audience": "stream",
    "cell": "G10",
    "date": "2026-11-07",
@@ -7997,6 +7971,32 @@
    "subject": "Экономическая политика",
    "subjectRaw": "ЭКОНОМИЧЕСКАЯ ПОЛИТИКА",
    "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "N14",
+   "date": "2026-11-14",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "5939995d4db0",
+   "kind": "retake",
+   "lessonKey": "343adccb7f48",
+   "pair": 3,
+   "raw": "12:30 Пересдача за лето Политология Лукашина Е.В. 404",
+   "segments": [
+    {
+     "groups": [],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Лукашина Е.В."
+    }
+   ],
+   "start": "12:30",
+   "subject": "Политология",
+   "subjectRaw": "Политология",
+   "timeOverride": true
   },
   {
    "audience": "stream",
@@ -10251,8 +10251,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "C7C47BA8502DBCE41C4A8BDED221AB3276E58100",
-  "mtime": 1793875730,
+  "hash": "195D867B3DA61784DA8033383FE916A6F9C01D4D",
+  "mtime": 1793952407,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26, 4 курс_НОЯБРЬ_26",
