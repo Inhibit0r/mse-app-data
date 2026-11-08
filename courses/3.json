@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-11-08T15:01:48+00:00",
+ "generatedAt": "2026-11-08T15:06:49+00:00",
  "groups": [
   1,
   2,
@@ -10011,6 +10011,32 @@
   },
   {
    "audience": "stream",
+   "cell": "J6",
+   "date": "2026-11-10",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "2719ba6fde78",
+   "kind": "lecture",
+   "lessonKey": "7ff2ac0bb05d",
+   "pair": 2,
+   "raw": "ЛЕКЦИЯ ТПЭП Яковлев А.А. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Яковлев А.А."
+    }
+   ],
+   "start": "10:40",
+   "subject": "ТПЭП",
+   "subjectRaw": "ТПЭП",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
    "cell": "J8",
    "date": "2026-11-10",
    "end": "13:55",
@@ -13608,7 +13634,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 419,
+  "cells": 420,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -13694,8 +13720,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "5A9C980C7C824593DA9568963931CFA3EBEBAE3B",
-  "mtime": 1794150102,
+  "hash": "1993BA3CCAA085094F34572D17A25D182AAC0035",
+  "mtime": 1794150244,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26, 3 курс_НОЯБРЬ_26",
