@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-11-09T09:20:24+00:00",
+ "generatedAt": "2026-11-09T09:50:27+00:00",
  "groups": [
   1,
   2,
@@ -9877,42 +9877,6 @@
   },
   {
    "audience": "groups",
-   "cell": "I11",
-   "date": "2026-11-09",
-   "end": "15:40",
-   "flags": {
-    "conflict": false
-   },
-   "id": "dc9035f9478e",
-   "kind": "seminar",
-   "lessonKey": "ca8e991dfb82",
-   "pair": 4,
-   "raw": "СЗ МИКРОЭКОНОМИКА-II 1 гр. Кукушкин Д.С. 316 2гр. Починкин Д.В. 303",
-   "segments": [
-    {
-     "groups": [
-      1
-     ],
-     "room": "316",
-     "subgroup": "",
-     "teacher": "Кукушкин Д.С."
-    },
-    {
-     "groups": [
-      2
-     ],
-     "room": "303",
-     "subgroup": "",
-     "teacher": "Починкин Д.В."
-    }
-   ],
-   "start": "14:10",
-   "subject": "Микроэкономика II",
-   "subjectRaw": "МИКРОЭКОНОМИКА-II",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
    "cell": "I12",
    "date": "2026-11-09",
    "end": "17:15",
@@ -9945,42 +9909,6 @@
    "start": "15:45",
    "subject": "Экономика фирмы",
    "subjectRaw": "ЭКОНОМИКА ФИРМЫ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "I13",
-   "date": "2026-11-09",
-   "end": "17:15",
-   "flags": {
-    "conflict": false
-   },
-   "id": "f5d879b1525a",
-   "kind": "seminar",
-   "lessonKey": "9012e7a53d78",
-   "pair": 5,
-   "raw": "СЗ МИКРОЭКОНОМИКА-II 3 гр. Кукушкин Д.С. 404 4 гр. Починкин Д.В. 405",
-   "segments": [
-    {
-     "groups": [
-      3
-     ],
-     "room": "404",
-     "subgroup": "",
-     "teacher": "Кукушкин Д.С."
-    },
-    {
-     "groups": [
-      4
-     ],
-     "room": "405",
-     "subgroup": "",
-     "teacher": "Починкин Д.В."
-    }
-   ],
-   "start": "15:45",
-   "subject": "Микроэкономика II",
-   "subjectRaw": "МИКРОЭКОНОМИКА-II",
    "timeOverride": false
   },
   {
@@ -11711,18 +11639,25 @@
    "flags": {
     "conflict": false
    },
-   "id": "f998a22b03b8",
+   "id": "b91fffacc948",
    "kind": "seminar",
    "lessonKey": "213a1cbc3b3c",
    "pair": 1,
-   "raw": "СЗ ИСТОРИЯ ЭКОНОМИЧЕСКИХ УЧЕНИЙ 1,4 гр. Починкин Д.В. 308",
+   "raw": "СЗ ИСТОРИЯ ЭКОНОМИЧЕСКИХ УЧЕНИЙ 1 гр. Тымчик В.И. 308 4 гр. Починкин Д.В. 403",
    "segments": [
     {
      "groups": [
-      1,
-      4
+      1
      ],
      "room": "308",
+     "subgroup": "",
+     "teacher": "Тымчик В.И."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "403",
      "subgroup": "",
      "teacher": "Починкин Д.В."
     }
@@ -11740,18 +11675,25 @@
    "flags": {
     "conflict": false
    },
-   "id": "3bfa0e5d7956",
+   "id": "ef4dda12db66",
    "kind": "seminar",
    "lessonKey": "47813702e10d",
    "pair": 2,
-   "raw": "СЗ ИСТОРИЯ ЭКОНОМИЧЕСКИХ УЧЕНИЙ 2,3 гр. Починкин Д.В. 308",
+   "raw": "СЗ ИСТОРИЯ ЭКОНОМИЧЕСКИХ УЧЕНИЙ 2 гр. Тымчик В.И. 308 3 гр. Починкин Д.В. 403",
    "segments": [
     {
      "groups": [
-      2,
-      3
+      2
      ],
      "room": "308",
+     "subgroup": "",
+     "teacher": "Тымчик В.И."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": "403",
      "subgroup": "",
      "teacher": "Починкин Д.В."
     }
@@ -13634,7 +13576,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 420,
+  "cells": 418,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -13720,8 +13662,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "95A14532AFC3EEC81184621D5AED6F0FAC905649",
-  "mtime": 1794215952,
+  "hash": "9A31FDA110D3A906C8B3A66E13DC9CFDA3CD2026",
+  "mtime": 1794217793,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26, 3 курс_НОЯБРЬ_26",

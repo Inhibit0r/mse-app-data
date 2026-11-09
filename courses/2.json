@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-11-09T09:45:26+00:00",
+ "generatedAt": "2026-11-09T09:50:27+00:00",
  "groups": [
   1,
   2,
@@ -10976,32 +10976,6 @@
   },
   {
    "audience": "stream",
-   "cell": "I8",
-   "date": "2026-11-09",
-   "end": "13:55",
-   "flags": {
-    "conflict": false
-   },
-   "id": "33a1c9b9c62b",
-   "kind": "lecture",
-   "lessonKey": "0330f529d073",
-   "pair": 3,
-   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА-I Кукушкин Д.С. 302",
-   "segments": [
-    {
-     "groups": [],
-     "room": "302",
-     "subgroup": "",
-     "teacher": "Кукушкин Д.С."
-    }
-   ],
-   "start": "12:25",
-   "subject": "Микроэкономика I",
-   "subjectRaw": "МИКРОЭКОНОМИКА-I",
-   "timeOverride": false
-  },
-  {
-   "audience": "stream",
    "cell": "I10",
    "date": "2026-11-09",
    "end": "15:40",
@@ -12058,6 +12032,32 @@
    "start": "12:25",
    "subject": "Право",
    "subjectRaw": "ПРАВО",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "M10",
+   "date": "2026-11-13",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "19fd911fae84",
+   "kind": "lecture",
+   "lessonKey": "ad71c87ecce0",
+   "pair": 4,
+   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА-I Кукушкин Д.С. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Кукушкин Д.С."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Микроэкономика I",
+   "subjectRaw": "МИКРОЭКОНОМИКА-I",
    "timeOverride": false
   },
   {
@@ -15872,8 +15872,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "6096F896B41FD4AD83B893118CDFCDBCCE0D1AA1",
-  "mtime": 1794217523,
+  "hash": "9232E89563511D6C81FCD8DBC4A231B81190E92F",
+  "mtime": 1794217570,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26, 2 курс_НОЯБРЬ_26",
