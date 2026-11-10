@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-11-09T12:30:44+00:00",
+ "generatedAt": "2026-11-10T07:30:07+00:00",
  "groups": [
   1,
   2,
@@ -11274,32 +11274,29 @@
    "timeOverride": false
   },
   {
-   "audience": "groups",
-   "cell": "S5",
+   "audience": "stream",
+   "cell": "S4",
    "date": "2026-11-19",
    "end": "10:30",
    "flags": {
     "conflict": false
    },
-   "id": "4cabca3e8b42",
-   "kind": "seminar",
-   "lessonKey": "0d0b0f6cb3b4",
+   "id": "81ae73c7e467",
+   "kind": "lecture",
+   "lessonKey": "b4aba4db6a7f",
    "pair": 1,
-   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 1,2 гр. Попова Т.А. 304",
+   "raw": "ЛЕКЦИЯ ТПЭП Яковлев А.А. 308",
    "segments": [
     {
-     "groups": [
-      1,
-      2
-     ],
-     "room": "304",
+     "groups": [],
+     "room": "308",
      "subgroup": "",
-     "teacher": "Попова Т.А."
+     "teacher": "Яковлев А.А."
     }
    ],
    "start": "09:00",
-   "subject": "Социально-экономическая статистика",
-   "subjectRaw": "СОЦ.- ЭКОНОМ. СТАТИСТИКА",
+   "subject": "ТПЭП",
+   "subjectRaw": "ТПЭП",
    "timeOverride": false
   },
   {
@@ -11386,6 +11383,35 @@
      "room": "304",
      "subgroup": "",
      "teacher": "Лариошина Л.Ю."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Социально-экономическая статистика",
+   "subjectRaw": "СОЦ.- ЭКОНОМ. СТАТИСТИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "S11",
+   "date": "2026-11-19",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "71a3562efc31",
+   "kind": "seminar",
+   "lessonKey": "cdb147c12bf5",
+   "pair": 4,
+   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 1,2 гр. Попова Т.А. 418",
+   "segments": [
+    {
+     "groups": [
+      1,
+      2
+     ],
+     "room": "418",
+     "subgroup": "",
+     "teacher": "Попова Т.А."
     }
    ],
    "start": "14:10",
@@ -13576,7 +13602,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 418,
+  "cells": 419,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -13662,8 +13688,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "57104E31034E23FAB7F436CC19DACC554D78B988",
-  "mtime": 1794227409,
+  "hash": "57FC758C7D4C56203DDF6604C37F5838B1C55FC1",
+  "mtime": 1794295668,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26, 3 курс_НОЯБРЬ_26",
