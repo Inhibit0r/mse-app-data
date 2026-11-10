@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-11-10T09:10:16+00:00",
+ "generatedAt": "2026-11-10T11:35:45+00:00",
  "groups": [
   1,
   2,
@@ -10262,32 +10262,6 @@
    "timeOverride": false
   },
   {
-   "audience": "personal",
-   "cell": "K14",
-   "date": "2026-11-11",
-   "end": null,
-   "flags": {
-    "conflict": false
-   },
-   "id": "73fdec0aab83",
-   "kind": "retake",
-   "lessonKey": "339d7fa5a514",
-   "pair": 4,
-   "raw": "14:10 ПЕРЕСДАЧА ЗА ЛЕТО ЭОС для тех у кого справки Лобанова Е.О. Никитина С.А. 403",
-   "segments": [
-    {
-     "groups": [],
-     "room": "403",
-     "subgroup": "",
-     "teacher": "Лобанова Е.О., Никитина С.А."
-    }
-   ],
-   "start": "14:10",
-   "subject": "ЭОС для тех у кого справки",
-   "subjectRaw": "ЭОС для тех у кого справки",
-   "timeOverride": true
-  },
-  {
    "audience": "stream",
    "cell": "L4",
    "date": "2026-11-12",
@@ -11246,6 +11220,32 @@
    "subject": "Межфакультетские курсы",
    "subjectRaw": "",
    "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "R14",
+   "date": "2026-11-18",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "278c9d2ff60c",
+   "kind": "retake",
+   "lessonKey": "f5e8531eece3",
+   "pair": 4,
+   "raw": "14:10 ПЕРЕСДАЧА ЗА ЛЕТО ЭОС для тех у кого справки Лобанова Е.О. Никитина С.А. 403",
+   "segments": [
+    {
+     "groups": [],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Лобанова Е.О., Никитина С.А."
+    }
+   ],
+   "start": "14:10",
+   "subject": "ЭОС для тех у кого справки",
+   "subjectRaw": "ЭОС для тех у кого справки",
+   "timeOverride": true
   },
   {
    "audience": "personal",
@@ -13688,8 +13688,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "066F391E4823478C8F6A54E7ED8B632DBEE455FA",
-  "mtime": 1794301798,
+  "hash": "BD2D53243EA3641233ED513D6F88B2A6C90B1A65",
+  "mtime": 1794310493,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26, 3 курс_НОЯБРЬ_26",
