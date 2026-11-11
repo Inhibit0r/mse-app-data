@@ -1,6 +1,6 @@
 {
  "course": 1,
- "generatedAt": "2026-11-10T18:56:35+00:00",
+ "generatedAt": "2026-11-11T13:57:13+00:00",
  "groups": [
   1,
   2,
@@ -10875,6 +10875,34 @@
   },
   {
    "audience": "groups",
+   "cell": "T5",
+   "date": "2026-11-20",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "8a7d24c0f421",
+   "kind": "seminar",
+   "lessonKey": "79f0f2077dab",
+   "pair": 1,
+   "raw": "СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 1 гр. Кочетовская О.С. 403",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Кочетовская О.С."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Введение в общую экономическую теорию",
+   "subjectRaw": "ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
    "cell": "T6",
    "date": "2026-11-20",
    "end": "12:10",
@@ -13016,7 +13044,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 402,
+  "cells": 403,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -13102,8 +13130,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "A779E8642FA332DAB57F9487ADF6D795A1A2C4AF",
-  "mtime": 1794336925,
+  "hash": "40F03D9FBBD4B70C711A28AD8EF9C79CE2ADE9EC",
+  "mtime": 1794405287,
   "name": "1_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "1 курс_СЕНТЯБРЬ_26, 1 курс_ОКТЯБРЬ_26, 1 курс_НОЯБРЬ_26",
