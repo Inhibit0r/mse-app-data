@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-11-11T13:32:11+00:00",
+ "generatedAt": "2026-11-11T13:37:11+00:00",
  "groups": [
   1,
   2,
@@ -8103,56 +8103,56 @@
    "timeOverride": false
   },
   {
-   "audience": "personal",
-   "cell": "P9",
+   "audience": "stream",
+   "cell": "P7",
+   "date": "2026-11-16",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "6e95cc9c0c64",
+   "kind": "other",
+   "lessonKey": "fa152412473e",
+   "pair": 2,
+   "raw": "12:10 ВСТРЕЧА С ПРЕДСТАВИТЕЛЯМИ РАБОТАДАТЕЛЯ (МОСКОВСКИЙ КРЕДИТНЫЙ БАНК) 113",
+   "segments": [
+    {
+     "groups": [],
+     "room": "113",
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "12:10",
+   "subject": "Встреча с представителями работадателя (московский кредитный банк)",
+   "subjectRaw": "ВСТРЕЧА С ПРЕДСТАВИТЕЛЯМИ РАБОТАДАТЕЛЯ (МОСКОВСКИЙ КРЕДИТНЫЙ БАНК)",
+   "timeOverride": true
+  },
+  {
+   "audience": "stream",
+   "cell": "P7",
    "date": "2026-11-16",
    "end": "13:55",
    "flags": {
     "conflict": false
    },
-   "id": "6b9f04aeb4ac",
-   "kind": "military",
-   "lessonKey": "918736af1c8e",
+   "id": "7033f745d9db",
+   "kind": "other",
+   "lessonKey": "25a7dc03b9ad",
    "pair": 3,
-   "raw": "ВОЕННАЯ КАФЕДРА",
+   "raw": "12:10 ВСТРЕЧА С ПРЕДСТАВИТЕЛЯМИ РАБОТАДАТЕЛЯ (МОСКОВСКИЙ КРЕДИТНЫЙ БАНК) 113",
    "segments": [
     {
      "groups": [],
-     "room": null,
+     "room": "113",
      "subgroup": "",
      "teacher": null
     }
    ],
-   "start": "12:25",
-   "subject": "Военная кафедра",
-   "subjectRaw": "",
-   "timeOverride": false
-  },
-  {
-   "audience": "personal",
-   "cell": "P9",
-   "date": "2026-11-16",
-   "end": "15:40",
-   "flags": {
-    "conflict": false
-   },
-   "id": "e259bf48b364",
-   "kind": "military",
-   "lessonKey": "4099468b97ab",
-   "pair": 4,
-   "raw": "ВОЕННАЯ КАФЕДРА",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": null
-    }
-   ],
-   "start": "14:10",
-   "subject": "Военная кафедра",
-   "subjectRaw": "",
-   "timeOverride": false
+   "start": "12:10",
+   "subject": "Встреча с представителями работадателя (московский кредитный банк)",
+   "subjectRaw": "ВСТРЕЧА С ПРЕДСТАВИТЕЛЯМИ РАБОТАДАТЕЛЯ (МОСКОВСКИЙ КРЕДИТНЫЙ БАНК)",
+   "timeOverride": true
   },
   {
    "audience": "stream",
@@ -10199,8 +10199,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "61ED06E375D3AB33AA6F439D18119B04F38E4461",
-  "mtime": 1794403881,
+  "hash": "F7176BD78896E416F997AC0D25C6378DF9BDADC3",
+  "mtime": 1794403987,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26, 4 курс_НОЯБРЬ_26",
