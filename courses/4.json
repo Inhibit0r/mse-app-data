@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-11-11T13:27:10+00:00",
+ "generatedAt": "2026-11-11T13:32:11+00:00",
  "groups": [
   1,
   2,
@@ -8077,6 +8077,84 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "P4",
+   "date": "2026-11-16",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "46bed0cc7766",
+   "kind": "military",
+   "lessonKey": "f11755d23a9e",
+   "pair": 2,
+   "raw": "ВОЕННАЯ КАФЕДРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "10:40",
+   "subject": "Военная кафедра",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "P9",
+   "date": "2026-11-16",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "6b9f04aeb4ac",
+   "kind": "military",
+   "lessonKey": "918736af1c8e",
+   "pair": 3,
+   "raw": "ВОЕННАЯ КАФЕДРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "12:25",
+   "subject": "Военная кафедра",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "P9",
+   "date": "2026-11-16",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "e259bf48b364",
+   "kind": "military",
+   "lessonKey": "4099468b97ab",
+   "pair": 4,
+   "raw": "ВОЕННАЯ КАФЕДРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "14:10",
+   "subject": "Военная кафедра",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
    "audience": "stream",
    "cell": "Q4",
    "date": "2026-11-17",
@@ -10035,7 +10113,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 321,
+  "cells": 322,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -10121,8 +10199,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "2CD9C4BFA32F71A94909E3767546221D79470AEF",
-  "mtime": 1794403563,
+  "hash": "61ED06E375D3AB33AA6F439D18119B04F38E4461",
+  "mtime": 1794403881,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26, 4 курс_НОЯБРЬ_26",
