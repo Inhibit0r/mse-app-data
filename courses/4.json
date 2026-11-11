@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-11-10T12:50:52+00:00",
+ "generatedAt": "2026-11-11T07:15:10+00:00",
  "groups": [
   1,
   2,
@@ -9400,11 +9400,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "21ec4360869d",
+   "id": "be1bbdd01d0a",
    "kind": "other",
-   "lessonKey": "b04db8c7463f",
+   "lessonKey": "628e3f72ccc8",
    "pair": 4,
-   "raw": "СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ Шульпин С.Е. 302",
+   "raw": "ЗАЧЕТ СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ Шульпин С.Е. 302",
    "segments": [
     {
      "groups": [],
@@ -9414,8 +9414,8 @@
     }
    ],
    "start": "14:10",
-   "subject": "Стратегический маркетинг",
-   "subjectRaw": "СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ",
+   "subject": "Зачет стратегический маркетинг",
+   "subjectRaw": "ЗАЧЕТ СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ",
    "timeOverride": false
   },
   {
@@ -9426,11 +9426,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "f9802b5e12be",
+   "id": "ca770fa1965a",
    "kind": "other",
-   "lessonKey": "3304b1e1472b",
+   "lessonKey": "3f1aa6a0677e",
    "pair": 5,
-   "raw": "СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ Шульпин С.Е. 302",
+   "raw": "ЗАЧЕТ СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ Шульпин С.Е. 302",
    "segments": [
     {
      "groups": [],
@@ -9440,8 +9440,8 @@
     }
    ],
    "start": "15:45",
-   "subject": "Стратегический маркетинг",
-   "subjectRaw": "СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ",
+   "subject": "Зачет стратегический маркетинг",
+   "subjectRaw": "ЗАЧЕТ СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ",
    "timeOverride": false
   },
   {
@@ -10105,58 +10105,6 @@
    "subject": "Теория отраслевых рынков",
    "subjectRaw": "ТОР",
    "timeOverride": false
-  },
-  {
-   "audience": "stream",
-   "cell": "AI10",
-   "date": "2026-12-05",
-   "end": "15:40",
-   "flags": {
-    "conflict": false
-   },
-   "id": "76cf30602824",
-   "kind": "other",
-   "lessonKey": "eb92179fe1d2",
-   "pair": 4,
-   "raw": "СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ Шульпин С.Е. 302",
-   "segments": [
-    {
-     "groups": [],
-     "room": "302",
-     "subgroup": "",
-     "teacher": "Шульпин С.Е."
-    }
-   ],
-   "start": "14:10",
-   "subject": "Стратегический маркетинг",
-   "subjectRaw": "СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ",
-   "timeOverride": false
-  },
-  {
-   "audience": "stream",
-   "cell": "AI12",
-   "date": "2026-12-05",
-   "end": "17:15",
-   "flags": {
-    "conflict": false
-   },
-   "id": "9f8913028271",
-   "kind": "other",
-   "lessonKey": "0350a2745633",
-   "pair": 5,
-   "raw": "СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ Шульпин С.Е. 302",
-   "segments": [
-    {
-     "groups": [],
-     "room": "302",
-     "subgroup": "",
-     "teacher": "Шульпин С.Е."
-    }
-   ],
-   "start": "15:45",
-   "subject": "Стратегический маркетинг",
-   "subjectRaw": "СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ",
-   "timeOverride": false
   }
  ],
  "range": {
@@ -10165,7 +10113,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 323,
+  "cells": 321,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -10251,8 +10199,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "EC6E87D7115E1CEE3426238DACCA8366676C15B7",
-  "mtime": 1794315034,
+  "hash": "A23258AA1118985CC29E4CC6B6AB685AAAB3A862",
+  "mtime": 1794381159,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26, 4 курс_НОЯБРЬ_26",
