@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-11-11T09:46:23+00:00",
+ "generatedAt": "2026-11-11T10:11:30+00:00",
  "groups": [
   1,
   2,
@@ -10383,15 +10383,14 @@
    "flags": {
     "conflict": false
    },
-   "id": "8494bc808821",
+   "id": "a085ab20de7b",
    "kind": "seminar",
    "lessonKey": "8aa2eb30d5cf",
    "pair": 2,
-   "raw": "СЗ ТПЭП 3,4 гр. Багамаева Д.К. 309",
+   "raw": "СЗ ТПЭП 4 гр. Багамаева Д.К. 309",
    "segments": [
     {
      "groups": [
-      3,
       4
      ],
      "room": "309",
@@ -10464,6 +10463,34 @@
    "start": "14:10",
    "subject": "Социально-экономическая статистика",
    "subjectRaw": "СОЦ.- ЭКОНОМ. СТАТИСТИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "L12",
+   "date": "2026-11-12",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "6590ec6f589c",
+   "kind": "seminar",
+   "lessonKey": "e028c602f222",
+   "pair": 5,
+   "raw": "СЗ ТПЭП 3 гр. Багамаева Д.К. 308",
+   "segments": [
+    {
+     "groups": [
+      3
+     ],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Багамаева Д.К."
+    }
+   ],
+   "start": "15:45",
+   "subject": "ТПЭП",
+   "subjectRaw": "ТПЭП",
    "timeOverride": false
   },
   {
@@ -13683,7 +13710,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 421,
+  "cells": 422,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -13769,8 +13796,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "E37E6D2C3474C8B250087F318DA8B57F5CF57A0B",
-  "mtime": 1794390197,
+  "hash": "948A65EEC8064EC65B25C144944CD5FBFA0B6821",
+  "mtime": 1794391780,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26, 3 курс_НОЯБРЬ_26",
