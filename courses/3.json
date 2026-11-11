@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-11-10T11:35:45+00:00",
+ "generatedAt": "2026-11-11T09:41:22+00:00",
  "groups": [
   1,
   2,
@@ -10262,6 +10262,58 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "K10",
+   "date": "2026-11-11",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "0bd015be227a",
+   "kind": "mfk",
+   "lessonKey": "ee2fd4a36868",
+   "pair": 4,
+   "raw": "МФК",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "14:10",
+   "subject": "Межфакультетские курсы",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "K10",
+   "date": "2026-11-11",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "5ea37cb42881",
+   "kind": "mfk",
+   "lessonKey": "de2da964e1f2",
+   "pair": 5,
+   "raw": "МФК",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "15:45",
+   "subject": "Межфакультетские курсы",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
    "audience": "stream",
    "cell": "L4",
    "date": "2026-11-12",
@@ -13602,7 +13654,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 419,
+  "cells": 420,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -13688,8 +13740,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "BD2D53243EA3641233ED513D6F88B2A6C90B1A65",
-  "mtime": 1794310493,
+  "hash": "CDA69EBB927AE40835FFF37C116FD883F853D0C0",
+  "mtime": 1794389928,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26, 3 курс_НОЯБРЬ_26",
