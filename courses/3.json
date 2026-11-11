@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-11-11T09:41:22+00:00",
+ "generatedAt": "2026-11-11T09:46:23+00:00",
  "groups": [
   1,
   2,
@@ -10376,6 +10376,35 @@
    "timeOverride": false
   },
   {
+   "audience": "groups",
+   "cell": "L7",
+   "date": "2026-11-12",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "8494bc808821",
+   "kind": "seminar",
+   "lessonKey": "8aa2eb30d5cf",
+   "pair": 2,
+   "raw": "СЗ ТПЭП 3,4 гр. Багамаева Д.К. 309",
+   "segments": [
+    {
+     "groups": [
+      3,
+      4
+     ],
+     "room": "309",
+     "subgroup": "",
+     "teacher": "Багамаева Д.К."
+    }
+   ],
+   "start": "10:40",
+   "subject": "ТПЭП",
+   "subjectRaw": "ТПЭП",
+   "timeOverride": false
+  },
+  {
    "audience": "stream",
    "cell": "L8",
    "date": "2026-11-12",
@@ -13654,7 +13683,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 420,
+  "cells": 421,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -13740,8 +13769,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "CDA69EBB927AE40835FFF37C116FD883F853D0C0",
-  "mtime": 1794389928,
+  "hash": "E37E6D2C3474C8B250087F318DA8B57F5CF57A0B",
+  "mtime": 1794390197,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26, 3 курс_НОЯБРЬ_26",
