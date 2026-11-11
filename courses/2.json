@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-11-11T04:34:55+00:00",
+ "generatedAt": "2026-11-11T04:39:56+00:00",
  "groups": [
   1,
   2,
@@ -11418,34 +11418,6 @@
   },
   {
    "audience": "groups",
-   "cell": "K6",
-   "date": "2026-11-11",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "8738a4d5ab1e",
-   "kind": "seminar",
-   "lessonKey": "d562a3b859c0",
-   "pair": 2,
-   "raw": "СЗ МЭО 1гр. Никитина С.А. 404",
-   "segments": [
-    {
-     "groups": [
-      1
-     ],
-     "room": "404",
-     "subgroup": "",
-     "teacher": "Никитина С.А."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Международные экономические отношения",
-   "subjectRaw": "МЭО",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
    "cell": "K7",
    "date": "2026-11-11",
    "end": "12:10",
@@ -11498,34 +11470,6 @@
    "start": "12:25",
    "subject": "Философия",
    "subjectRaw": "ФИЛОСОФИЯ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "K8",
-   "date": "2026-11-11",
-   "end": "13:55",
-   "flags": {
-    "conflict": false
-   },
-   "id": "758bae686a12",
-   "kind": "seminar",
-   "lessonKey": "e090735ef78c",
-   "pair": 3,
-   "raw": "СЗ МЭО 2гр. Никитина С.А. 309",
-   "segments": [
-    {
-     "groups": [
-      2
-     ],
-     "room": "309",
-     "subgroup": "",
-     "teacher": "Никитина С.А."
-    }
-   ],
-   "start": "12:25",
-   "subject": "Международные экономические отношения",
-   "subjectRaw": "МЭО",
    "timeOverride": false
   },
   {
@@ -15856,8 +15800,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "E27D46D5115B4128AE311FC8A0ADB2AFA3DC300D",
-  "mtime": 1794371689,
+  "hash": "5AFEA0D54CA25E22D2044201EE7902ED435A187E",
+  "mtime": 1794371978,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26, 2 курс_НОЯБРЬ_26",
