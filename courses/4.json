@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-11-11T13:37:11+00:00",
+ "generatedAt": "2026-11-12T10:01:58+00:00",
  "groups": [
   1,
   2,
@@ -8547,18 +8547,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "ea39422edb97",
+   "id": "b3290b40c048",
    "kind": "seminar",
    "lessonKey": "fa8e1034b541",
    "pair": 2,
-   "raw": "СЗ АНАЛИЗ - II 2,3 гр. Пепа Р.Ю. 113",
+   "raw": "СЗ АНАЛИЗ - II 2,3 гр. Пепа Р.Ю. 418",
    "segments": [
     {
      "groups": [
       2,
       3
      ],
-     "room": "113",
+     "room": "418",
      "subgroup": "",
      "teacher": "Пепа Р.Ю."
     }
@@ -8576,18 +8576,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "da99f8fe6f38",
+   "id": "795b13192364",
    "kind": "seminar",
    "lessonKey": "e02434c173d7",
    "pair": 3,
-   "raw": "СЗ ЭКОНОМИКА ТРУДА 2,3 гр. Починкин Д.В. 309",
+   "raw": "СЗ ЭКОНОМИКА ТРУДА 2,3 гр. Починкин Д.В. 317",
    "segments": [
     {
      "groups": [
       2,
       3
      ],
-     "room": "309",
+     "room": "317",
      "subgroup": "",
      "teacher": "Починкин Д.В."
     }
@@ -8599,29 +8599,29 @@
   },
   {
    "audience": "groups",
-   "cell": "S9",
+   "cell": "S10",
    "date": "2026-11-19",
-   "end": "13:55",
+   "end": "15:40",
    "flags": {
     "conflict": false
    },
-   "id": "2cb20d84f134",
+   "id": "9b3fcf7f8c29",
    "kind": "seminar",
-   "lessonKey": "4bad2650531d",
-   "pair": 3,
-   "raw": "СЗ АНАЛИЗ - II 1,4 гр. Пепа Р.Ю. 113",
+   "lessonKey": "a61b5eb0c6c8",
+   "pair": 4,
+   "raw": "СЗ АНАЛИЗ - II 1,4 гр. Пепа Р.Ю. 418",
    "segments": [
     {
      "groups": [
       1,
       4
      ],
-     "room": "113",
+     "room": "418",
      "subgroup": "",
      "teacher": "Пепа Р.Ю."
     }
    ],
-   "start": "12:25",
+   "start": "14:10",
    "subject": "Анализ II",
    "subjectRaw": "АНАЛИЗ - II",
    "timeOverride": false
@@ -9287,16 +9287,16 @@
   },
   {
    "audience": "groups",
-   "cell": "Z9",
+   "cell": "Z10",
    "date": "2026-11-26",
-   "end": "13:55",
+   "end": "15:40",
    "flags": {
     "conflict": false
    },
-   "id": "b9c311b55cb3",
+   "id": "71a04b6ec973",
    "kind": "seminar",
-   "lessonKey": "718e98f7c883",
-   "pair": 3,
+   "lessonKey": "e4dd746126e9",
+   "pair": 4,
    "raw": "СЗ АНАЛИЗ - II 1,4 гр. Пепа Р.Ю. 113",
    "segments": [
     {
@@ -9309,7 +9309,7 @@
      "teacher": "Пепа Р.Ю."
     }
    ],
-   "start": "12:25",
+   "start": "14:10",
    "subject": "Анализ II",
    "subjectRaw": "АНАЛИЗ - II",
    "timeOverride": false
@@ -10199,8 +10199,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "F7176BD78896E416F997AC0D25C6378DF9BDADC3",
-  "mtime": 1794403987,
+  "hash": "FF56CBB016E752E2160F84935EC4EB344B7954B4",
+  "mtime": 1794477682,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26, 4 курс_НОЯБРЬ_26",
