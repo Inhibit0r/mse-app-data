@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-11-11T10:11:30+00:00",
+ "generatedAt": "2026-11-12T09:31:56+00:00",
  "groups": [
   1,
   2,
@@ -11383,16 +11383,16 @@
   },
   {
    "audience": "stream",
-   "cell": "S4",
+   "cell": "S6",
    "date": "2026-11-19",
-   "end": "10:30",
+   "end": "12:10",
    "flags": {
     "conflict": false
    },
-   "id": "81ae73c7e467",
+   "id": "140fddfb82b9",
    "kind": "lecture",
-   "lessonKey": "b4aba4db6a7f",
-   "pair": 1,
+   "lessonKey": "713e6ef7df13",
+   "pair": 2,
    "raw": "ЛЕКЦИЯ ТПЭП Яковлев А.А. 308",
    "segments": [
     {
@@ -11402,38 +11402,9 @@
      "teacher": "Яковлев А.А."
     }
    ],
-   "start": "09:00",
+   "start": "10:40",
    "subject": "ТПЭП",
    "subjectRaw": "ТПЭП",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "S6",
-   "date": "2026-11-19",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "759800145f39",
-   "kind": "seminar",
-   "lessonKey": "09908404e902",
-   "pair": 2,
-   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 1,2 гр. Попова Т.А. 304",
-   "segments": [
-    {
-     "groups": [
-      1,
-      2
-     ],
-     "room": "304",
-     "subgroup": "",
-     "teacher": "Попова Т.А."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Социально-экономическая статистика",
-   "subjectRaw": "СОЦ.- ЭКОНОМ. СТАТИСТИКА",
    "timeOverride": false
   },
   {
@@ -13710,7 +13681,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 422,
+  "cells": 421,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -13796,8 +13767,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "948A65EEC8064EC65B25C144944CD5FBFA0B6821",
-  "mtime": 1794391780,
+  "hash": "C6CACF882A83FCC686173E16B070B608214717A2",
+  "mtime": 1794475657,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26, 3 курс_НОЯБРЬ_26",
