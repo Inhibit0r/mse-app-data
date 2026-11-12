@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-11-12T08:36:51+00:00",
+ "generatedAt": "2026-11-12T08:41:52+00:00",
  "groups": [
   1,
   2,
@@ -12023,33 +12023,6 @@
    "timeOverride": true
   },
   {
-   "audience": "personal",
-   "cell": "N14",
-   "date": "2026-11-14",
-   "end": null,
-   "flags": {
-    "conflict": false,
-    "noTime": true
-   },
-   "id": "38bb7d1dab46",
-   "kind": "retake",
-   "lessonKey": "d478cf8f647e",
-   "pair": 1,
-   "raw": "Пересдача за лето История России Щербакова Е.И. Мойса Н.И. 404",
-   "segments": [
-    {
-     "groups": [],
-     "room": "404",
-     "subgroup": "",
-     "teacher": "Щербакова Е.И., Мойса Н.И."
-    }
-   ],
-   "start": null,
-   "subject": "История России",
-   "subjectRaw": "История России",
-   "timeOverride": false
-  },
-  {
    "audience": "groups",
    "cell": "N4",
    "date": "2026-11-14",
@@ -12104,6 +12077,32 @@
    "subject": "Дифференциальные уравнения и динамические системы",
    "subjectRaw": "ДИФФЕРЕНЦИАЛЬНЫЕ УРАВНЕНИЯ И ДИНАМИЧЕСКИЕ СИСТЕМЫ",
    "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "N14",
+   "date": "2026-11-14",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "d8d2502eec8c",
+   "kind": "retake",
+   "lessonKey": "5457c400a9c4",
+   "pair": 3,
+   "raw": "12:25 Пересдача за лето История России Щербакова Е.И. Мойса Н.И. 404",
+   "segments": [
+    {
+     "groups": [],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Щербакова Е.И., Мойса Н.И."
+    }
+   ],
+   "start": "12:25",
+   "subject": "История России",
+   "subjectRaw": "История России",
+   "timeOverride": true
   },
   {
    "audience": "stream",
@@ -15808,8 +15807,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "3DF4687F14DBC7BCEBF8CD8FF534338C6F7556A3",
-  "mtime": 1794472524,
+  "hash": "01A041DD2122AB11FEBCAC9261D249FF6D538CA2",
+  "mtime": 1794472633,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26, 2 курс_НОЯБРЬ_26",
@@ -15836,13 +15835,6 @@
    ],
    "code": "no_time",
    "message": "событие без времени в ячейке AI14 (2026-10-31)"
-  },
-  {
-   "cells": [
-    "N14"
-   ],
-   "code": "no_time",
-   "message": "событие без времени в ячейке N14 (2026-11-14)"
   }
  ]
 }
