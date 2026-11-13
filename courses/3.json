@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-11-12T12:38:01+00:00",
+ "generatedAt": "2026-11-13T09:52:45+00:00",
  "groups": [
   1,
   2,
@@ -11148,6 +11148,32 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "Q14",
+   "date": "2026-11-17",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "5758ff09de05",
+   "kind": "retake",
+   "lessonKey": "acae5e6fca13",
+   "pair": 6,
+   "raw": "17:20 ПЕРЕСДАЧА ЗА ЛЕТО БУХ УЧЕТ Леонова М.Е.",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Леонова М."
+    }
+   ],
+   "start": "17:20",
+   "subject": "БУХ учет е",
+   "subjectRaw": "БУХ УЧЕТ Е",
+   "timeOverride": true
+  },
+  {
    "audience": "stream",
    "cell": "R4",
    "date": "2026-11-18",
@@ -13681,7 +13707,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 421,
+  "cells": 422,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -13767,8 +13793,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "2DA0F26796B50B461CC1B068C1D48FAFAD435654",
-  "mtime": 1794487007,
+  "hash": "83F5567A63A2CA05A4C8E403913FE78E6837857F",
+  "mtime": 1794563564,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26, 3 курс_НОЯБРЬ_26",
