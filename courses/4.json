@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-11-12T10:11:59+00:00",
+ "generatedAt": "2026-11-13T08:17:36+00:00",
  "groups": [
   1,
   2,
@@ -8266,15 +8266,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "8c48b63a41bd",
+   "id": "d3a1d69dc9fa",
    "kind": "seminar",
    "lessonKey": "32f96bfa6363",
    "pair": 5,
-   "raw": "СЗ ЭКСПЕРИМЕНТАЛЬНАЯ ЭКОНОМИКА Колпаков Д.В. 304",
+   "raw": "СЗ ЭКСПЕРИМЕНТАЛЬНАЯ ЭКОНОМИКА Колпаков Д.В. 303",
    "segments": [
     {
      "groups": [],
-     "room": "304",
+     "room": "303",
      "subgroup": "",
      "teacher": "Колпаков Д.В."
     }
@@ -8990,15 +8990,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "7fe06ffa3335",
+   "id": "1433ee5a6d29",
    "kind": "seminar",
    "lessonKey": "28107b963edb",
    "pair": 5,
-   "raw": "СЗ ЭКСПЕРИМЕНТАЛЬНАЯ ЭКОНОМИКА Колпаков Д.В. 304",
+   "raw": "СЗ ЭКСПЕРИМЕНТАЛЬНАЯ ЭКОНОМИКА Колпаков Д.В. 303",
    "segments": [
     {
      "groups": [],
-     "room": "304",
+     "room": "303",
      "subgroup": "",
      "teacher": "Колпаков Д.В."
     }
@@ -9316,16 +9316,16 @@
   },
   {
    "audience": "stream",
-   "cell": "AA6",
+   "cell": "AA4",
    "date": "2026-11-27",
-   "end": "12:10",
+   "end": "10:30",
    "flags": {
     "conflict": false
    },
-   "id": "aec035163fe6",
+   "id": "efe8b53350c0",
    "kind": "lecture",
-   "lessonKey": "b0a8e175a4c6",
-   "pair": 2,
+   "lessonKey": "5650afd5d29a",
+   "pair": 1,
    "raw": "ЛЕКЦИЯ СЕТЕВАЯ ЭКОНОМИКА Устюжанина Е.В. 302",
    "segments": [
     {
@@ -9335,9 +9335,35 @@
      "teacher": "Устюжанина Е.В."
     }
    ],
-   "start": "10:40",
+   "start": "09:00",
    "subject": "Сетевая экономика",
    "subjectRaw": "СЕТЕВАЯ ЭКОНОМИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AA6",
+   "date": "2026-11-27",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "916e573d49df",
+   "kind": "lecture",
+   "lessonKey": "12b690524a4b",
+   "pair": 2,
+   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА II Головнин М.Ю. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Головнин М.Ю."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Мировая экономика II",
+   "subjectRaw": "МИРОВАЯ ЭКОНОМИКА II",
    "timeOverride": false
   },
   {
@@ -9362,32 +9388,6 @@
     }
    ],
    "start": "12:25",
-   "subject": "Мировая экономика II",
-   "subjectRaw": "МИРОВАЯ ЭКОНОМИКА II",
-   "timeOverride": false
-  },
-  {
-   "audience": "stream",
-   "cell": "AA10",
-   "date": "2026-11-27",
-   "end": "15:40",
-   "flags": {
-    "conflict": false
-   },
-   "id": "86f9abdd90aa",
-   "kind": "lecture",
-   "lessonKey": "27268bd4a7ce",
-   "pair": 4,
-   "raw": "ЛЕКЦИЯ МИРОВАЯ ЭКОНОМИКА II Головнин М.Ю. 302",
-   "segments": [
-    {
-     "groups": [],
-     "room": "302",
-     "subgroup": "",
-     "teacher": "Головнин М.Ю."
-    }
-   ],
-   "start": "14:10",
    "subject": "Мировая экономика II",
    "subjectRaw": "МИРОВАЯ ЭКОНОМИКА II",
    "timeOverride": false
@@ -10199,8 +10199,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "9687DE33F85DDFDF2EF80338F6B1377BF9DB02B8",
-  "mtime": 1794478083,
+  "hash": "2F4FA489B085267FAD7BFAC75163F219DA713280",
+  "mtime": 1794557815,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26, 4 курс_НОЯБРЬ_26",
