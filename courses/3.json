@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-11-13T09:52:45+00:00",
+ "generatedAt": "2026-11-13T09:57:45+00:00",
  "groups": [
   1,
   2,
@@ -7979,33 +7979,6 @@
    "timeOverride": false
   },
   {
-   "audience": "stream",
-   "cell": "AD14",
-   "date": "2026-10-26",
-   "end": null,
-   "flags": {
-    "conflict": false,
-    "noTime": true
-   },
-   "id": "d3156a2c440e",
-   "kind": "other",
-   "lessonKey": "913f7529db83",
-   "pair": 1,
-   "raw": "ПЕРЕНОСИТСЯ НА НОЯБРЬ Пересдача за лето Бухучет Леонова М.Е.",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Леонова М.Е."
-    }
-   ],
-   "start": null,
-   "subject": "Переносится НА ноябрь пересдача за лето бухучет",
-   "subjectRaw": "ПЕРЕНОСИТСЯ НА НОЯБРЬ Пересдача за лето Бухучет",
-   "timeOverride": false
-  },
-  {
    "audience": "groups",
    "cell": "AD4",
    "date": "2026-10-26",
@@ -11155,22 +11128,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "5758ff09de05",
+   "id": "be2793a69a9a",
    "kind": "retake",
-   "lessonKey": "acae5e6fca13",
+   "lessonKey": "6cc5983fa3a1",
    "pair": 6,
-   "raw": "17:20 ПЕРЕСДАЧА ЗА ЛЕТО БУХ УЧЕТ Леонова М.Е.",
+   "raw": "17:20 ПЕРЕСДАЧА ЗА ЛЕТО БУХ УЧЕТ Леонова М.Е. 317",
    "segments": [
     {
      "groups": [],
-     "room": null,
+     "room": "317",
      "subgroup": "",
-     "teacher": "Леонова М."
+     "teacher": "Леонова М.Е."
     }
    ],
    "start": "17:20",
-   "subject": "БУХ учет е",
-   "subjectRaw": "БУХ УЧЕТ Е",
+   "subject": "БУХ учет",
+   "subjectRaw": "БУХ УЧЕТ",
    "timeOverride": true
   },
   {
@@ -13707,7 +13680,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 422,
+  "cells": 421,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -13793,8 +13766,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "83F5567A63A2CA05A4C8E403913FE78E6837857F",
-  "mtime": 1794563564,
+  "hash": "EBFE9C9A698C0C4C35A0D2AD73D4878C5ADDB68A",
+  "mtime": 1794563722,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26, 3 курс_НОЯБРЬ_26",
@@ -13814,13 +13787,6 @@
    ],
    "code": "no_time",
    "message": "событие без времени в ячейке AA14 (2026-10-23)"
-  },
-  {
-   "cells": [
-    "AD14"
-   ],
-   "code": "no_time",
-   "message": "событие без времени в ячейке AD14 (2026-10-26)"
   }
  ]
 }
