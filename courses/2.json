@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-11-12T12:23:00+00:00",
+ "generatedAt": "2026-11-13T07:22:07+00:00",
  "groups": [
   1,
   2,
@@ -12023,6 +12023,32 @@
    "timeOverride": true
   },
   {
+   "audience": "personal",
+   "cell": "N14",
+   "date": "2026-11-14",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "26d35b7a0004",
+   "kind": "retake",
+   "lessonKey": "d478cf8f647e",
+   "pair": 1,
+   "raw": "9:30 Пересдача за лето История России Щербакова Е.И. Мойса Н.И. 315, 404",
+   "segments": [
+    {
+     "groups": [],
+     "room": "315, 404",
+     "subgroup": "",
+     "teacher": "Щербакова Е.И., Мойса Н.И."
+    }
+   ],
+   "start": "09:30",
+   "subject": "История России",
+   "subjectRaw": "История России",
+   "timeOverride": true
+  },
+  {
    "audience": "groups",
    "cell": "N4",
    "date": "2026-11-14",
@@ -12077,32 +12103,6 @@
    "subject": "Дифференциальные уравнения и динамические системы",
    "subjectRaw": "ДИФФЕРЕНЦИАЛЬНЫЕ УРАВНЕНИЯ И ДИНАМИЧЕСКИЕ СИСТЕМЫ",
    "timeOverride": false
-  },
-  {
-   "audience": "personal",
-   "cell": "N14",
-   "date": "2026-11-14",
-   "end": null,
-   "flags": {
-    "conflict": false
-   },
-   "id": "d8d2502eec8c",
-   "kind": "retake",
-   "lessonKey": "5457c400a9c4",
-   "pair": 3,
-   "raw": "12:25 Пересдача за лето История России Щербакова Е.И. Мойса Н.И. 404",
-   "segments": [
-    {
-     "groups": [],
-     "room": "404",
-     "subgroup": "",
-     "teacher": "Щербакова Е.И., Мойса Н.И."
-    }
-   ],
-   "start": "12:25",
-   "subject": "История России",
-   "subjectRaw": "История России",
-   "timeOverride": true
   },
   {
    "audience": "stream",
@@ -15807,8 +15807,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "2091ACDCB546B6051D2DA7FEE6508CFF82B16E6F",
-  "mtime": 1794485963,
+  "hash": "D5325D95479607C9170A3C80ECF850CFDEC78567",
+  "mtime": 1794554244,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26, 2 курс_НОЯБРЬ_26",
