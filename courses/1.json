@@ -1,6 +1,6 @@
 {
  "course": 1,
- "generatedAt": "2026-11-16T07:32:29+00:00",
+ "generatedAt": "2026-11-16T07:37:30+00:00",
  "groups": [
   1,
   2,
@@ -12127,7 +12127,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AD4",
+   "cell": "B4",
    "date": "2026-11-30",
    "end": "10:30",
    "flags": {
@@ -12153,7 +12153,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AD6",
+   "cell": "B6",
    "date": "2026-11-30",
    "end": "12:10",
    "flags": {
@@ -12179,7 +12179,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AD8",
+   "cell": "B8",
    "date": "2026-11-30",
    "end": "13:55",
    "flags": {
@@ -12231,7 +12231,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AD9",
+   "cell": "B9",
    "date": "2026-11-30",
    "end": "13:55",
    "flags": {
@@ -12267,7 +12267,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AD10",
+   "cell": "B10",
    "date": "2026-11-30",
    "end": "15:40",
    "flags": {
@@ -12319,7 +12319,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AD11",
+   "cell": "B11",
    "date": "2026-11-30",
    "end": "15:40",
    "flags": {
@@ -12355,7 +12355,7 @@
   },
   {
    "audience": "personal",
-   "cell": "AD12",
+   "cell": "B12",
    "date": "2026-11-30",
    "end": "17:15",
    "flags": {
@@ -12381,7 +12381,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AE4",
+   "cell": "C4",
    "date": "2026-12-01",
    "end": "10:30",
    "flags": {
@@ -12407,7 +12407,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AE6",
+   "cell": "C6",
    "date": "2026-12-01",
    "end": "12:10",
    "flags": {
@@ -12433,7 +12433,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AE8",
+   "cell": "C8",
    "date": "2026-12-01",
    "end": "13:55",
    "flags": {
@@ -12469,7 +12469,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AE9",
+   "cell": "C9",
    "date": "2026-12-01",
    "end": "13:55",
    "flags": {
@@ -12497,7 +12497,7 @@
   },
   {
    "audience": "personal",
-   "cell": "AE10",
+   "cell": "C10",
    "date": "2026-12-01",
    "end": "15:40",
    "flags": {
@@ -12523,7 +12523,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AF4",
+   "cell": "D4",
    "date": "2026-12-02",
    "end": "10:30",
    "flags": {
@@ -12549,7 +12549,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AF6",
+   "cell": "D6",
    "date": "2026-12-02",
    "end": "12:10",
    "flags": {
@@ -12575,7 +12575,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AF8",
+   "cell": "D8",
    "date": "2026-12-02",
    "end": "13:55",
    "flags": {
@@ -12627,7 +12627,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AF9",
+   "cell": "D9",
    "date": "2026-12-02",
    "end": "13:55",
    "flags": {
@@ -12655,7 +12655,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AF10",
+   "cell": "D10",
    "date": "2026-12-02",
    "end": "15:40",
    "flags": {
@@ -12707,7 +12707,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AF11",
+   "cell": "D11",
    "date": "2026-12-02",
    "end": "15:40",
    "flags": {
@@ -12735,7 +12735,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AF12",
+   "cell": "D12",
    "date": "2026-12-02",
    "end": "17:15",
    "flags": {
@@ -12761,7 +12761,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AG5",
+   "cell": "E5",
    "date": "2026-12-03",
    "end": "10:30",
    "flags": {
@@ -12789,7 +12789,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AG6",
+   "cell": "E6",
    "date": "2026-12-03",
    "end": "12:10",
    "flags": {
@@ -12825,7 +12825,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AG7",
+   "cell": "E7",
    "date": "2026-12-03",
    "end": "12:10",
    "flags": {
@@ -12861,7 +12861,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AG8",
+   "cell": "E8",
    "date": "2026-12-03",
    "end": "13:55",
    "flags": {
@@ -12897,7 +12897,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AG9",
+   "cell": "E9",
    "date": "2026-12-03",
    "end": "13:55",
    "flags": {
@@ -12933,7 +12933,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AG10",
+   "cell": "E10",
    "date": "2026-12-03",
    "end": "15:40",
    "flags": {
@@ -12959,7 +12959,7 @@
   },
   {
    "audience": "stream",
-   "cell": "AH4",
+   "cell": "F4",
    "date": "2026-12-04",
    "end": "10:30",
    "flags": {
@@ -12985,7 +12985,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AH6",
+   "cell": "F6",
    "date": "2026-12-04",
    "end": "12:10",
    "flags": {
@@ -13013,7 +13013,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AH7",
+   "cell": "F7",
    "date": "2026-12-04",
    "end": "12:10",
    "flags": {
@@ -13041,7 +13041,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AH8",
+   "cell": "F8",
    "date": "2026-12-04",
    "end": "13:55",
    "flags": {
@@ -13069,7 +13069,7 @@
   },
   {
    "audience": "groups",
-   "cell": "AH9",
+   "cell": "F9",
    "date": "2026-12-04",
    "end": "13:55",
    "flags": {
@@ -13097,7 +13097,7 @@
   },
   {
    "audience": "personal",
-   "cell": "AH10",
+   "cell": "F10",
    "date": "2026-12-04",
    "end": "15:40",
    "flags": {
@@ -13120,15 +13120,1985 @@
    "subject": "Физическая культура",
    "subjectRaw": "",
    "timeOverride": true
+  },
+  {
+   "audience": "stream",
+   "cell": "I4",
+   "date": "2026-12-07",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "e54c8cc0276f",
+   "kind": "lecture",
+   "lessonKey": "a54fa42b2a0c",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ ИСТОРИЯ РОССИИ Щербакова Е.И. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Щербакова Е.И."
+    }
+   ],
+   "start": "09:00",
+   "subject": "История России",
+   "subjectRaw": "ИСТОРИЯ РОССИИ",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "I6",
+   "date": "2026-12-07",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "d4b1ea7c5cd5",
+   "kind": "lecture",
+   "lessonKey": "32fd14226f2f",
+   "pair": 2,
+   "raw": "ЛЕКЦИЯ ЛИНЕЙНАЯ АЛГЕБРА Попеленский Ф. Ю. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Попеленский Ф.Ю."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Линейная алгебра",
+   "subjectRaw": "ЛИНЕЙНАЯ АЛГЕБРА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "I8",
+   "date": "2026-12-07",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "7ac9af4ba580",
+   "kind": "english",
+   "lessonKey": "f59caf3722df",
+   "pair": 3,
+   "raw": "АНГЛ. ЯЗЫК 2А гр. Ильина Г.А. 315 2Б гр. Шмараева А.А. 402 4А гр. Сахарова А. Б. 314 4Б гр. Бордюгов Д.Г. 404",
+   "segments": [
+    {
+     "groups": [
+      2
+     ],
+     "room": "315",
+     "subgroup": "А",
+     "teacher": "Ильина Г.А."
+    },
+    {
+     "groups": [
+      2
+     ],
+     "room": "402",
+     "subgroup": "Б",
+     "teacher": "Шмараева А.А."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "314",
+     "subgroup": "А",
+     "teacher": "Сахарова А.Б."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "404",
+     "subgroup": "Б",
+     "teacher": "Бордюгов Д.Г."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Английский язык",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "I9",
+   "date": "2026-12-07",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "421edd5e0050",
+   "kind": "seminar",
+   "lessonKey": "ee70b0f795b1",
+   "pair": 3,
+   "raw": "СЗ ЛИНЕЙНАЯ АЛГЕБРА 1 гр Попеленский Ф.Ю. 403 3 гр. Мироненков А.А. 405",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Попеленский Ф.Ю."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": "405",
+     "subgroup": "",
+     "teacher": "Мироненков А.А."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Линейная алгебра",
+   "subjectRaw": "ЛИНЕЙНАЯ АЛГЕБРА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "I10",
+   "date": "2026-12-07",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "c481dfc2886e",
+   "kind": "english",
+   "lessonKey": "72d5b365a1a5",
+   "pair": 4,
+   "raw": "АНГЛ. ЯЗЫК 1А гр. Ильина Г.А. 315 1Б гр. Шмараева А.А. 402 3А гр. Сахарова А. Б. 314 3Б гр. Бордюгов Д.Г. 404",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "315",
+     "subgroup": "А",
+     "teacher": "Ильина Г.А."
+    },
+    {
+     "groups": [
+      1
+     ],
+     "room": "402",
+     "subgroup": "Б",
+     "teacher": "Шмараева А.А."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": "314",
+     "subgroup": "А",
+     "teacher": "Сахарова А.Б."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": "404",
+     "subgroup": "Б",
+     "teacher": "Бордюгов Д.Г."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Английский язык",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "I11",
+   "date": "2026-12-07",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "49023cf3d289",
+   "kind": "seminar",
+   "lessonKey": "2e78fe1dfd9c",
+   "pair": 4,
+   "raw": "СЗ ЛИНЕЙНАЯ АЛГЕБРА 2 гр Мироненков А.А. 405 4 гр Пепа Р.Ю. 403",
+   "segments": [
+    {
+     "groups": [
+      2
+     ],
+     "room": "405",
+     "subgroup": "",
+     "teacher": "Мироненков А.А."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Пепа Р.Ю."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Линейная алгебра",
+   "subjectRaw": "ЛИНЕЙНАЯ АЛГЕБРА",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "I12",
+   "date": "2026-12-07",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "ffc7838812ad",
+   "kind": "russian_foreign",
+   "lessonKey": "637a530ab7da",
+   "pair": 5,
+   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. 403",
+   "segments": [
+    {
+     "groups": [],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Бордюгов Д.Г."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Русский язык для иностранцев",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "J4",
+   "date": "2026-12-08",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "5eb71e4d7577",
+   "kind": "lecture",
+   "lessonKey": "7b1145178020",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ МАТЕМАТИЧЕСКИЙ АНАЛИЗ Хизгияев С.В. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Хизгияев С.В."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Математический анализ",
+   "subjectRaw": "МАТЕМАТИЧЕСКИЙ АНАЛИЗ",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "J6",
+   "date": "2026-12-08",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "b20b34c95293",
+   "kind": "lecture",
+   "lessonKey": "1b55d0ff92be",
+   "pair": 2,
+   "raw": "ЛЕКЦИЯ ВВЕДЕНИЕ В ЭКОНОМИКУ Некипелов А. Д. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Некипелов А.Д."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Введение в экономику",
+   "subjectRaw": "ВВЕДЕНИЕ В ЭКОНОМИКУ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "J8",
+   "date": "2026-12-08",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "8ba05cbea959",
+   "kind": "seminar",
+   "lessonKey": "78025d305f96",
+   "pair": 3,
+   "raw": "СЗ ЭК.ИНФОРМАТИКА-I 1 гр. Хизгияев С.В. 304 3 гр. Колпаков Д.В. 303",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "304",
+     "subgroup": "",
+     "teacher": "Хизгияев С.В."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": "303",
+     "subgroup": "",
+     "teacher": "Колпаков Д.В."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Экономическая информатика I",
+   "subjectRaw": "ЭК.ИНФОРМАТИКА-I",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "J9",
+   "date": "2026-12-08",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "e81a3cb5d9e6",
+   "kind": "seminar",
+   "lessonKey": "17084faa3d4b",
+   "pair": 3,
+   "raw": "СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 2 гр. Мироненкова М.В. 403",
+   "segments": [
+    {
+     "groups": [
+      2
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Мироненкова М.В."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Введение в общую экономическую теорию",
+   "subjectRaw": "ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "J10",
+   "date": "2026-12-08",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "5fe664f444e4",
+   "kind": "pe",
+   "lessonKey": "59d873fb325c",
+   "pair": 4,
+   "raw": "14:50 ФИЗИЧЕСКАЯ КУЛЬТУРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "14:50",
+   "subject": "Физическая культура",
+   "subjectRaw": "",
+   "timeOverride": true
+  },
+  {
+   "audience": "stream",
+   "cell": "K4",
+   "date": "2026-12-09",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "ad2509c4ace0",
+   "kind": "lecture",
+   "lessonKey": "667666a54e77",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ ИСТОРИЯ РОССИИ Щербакова Е.И. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Щербакова Е.И."
+    }
+   ],
+   "start": "09:00",
+   "subject": "История России",
+   "subjectRaw": "ИСТОРИЯ РОССИИ",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "K6",
+   "date": "2026-12-09",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "4bbea56fac32",
+   "kind": "lecture",
+   "lessonKey": "92eee8089316",
+   "pair": 2,
+   "raw": "ЛЕКЦИЯ ПСИХОЛОГИЯ И ЭКОНОМИЧЕСКОЕ ПОВЕДЕНИЕ Белоусова В.В. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Белоусова В.В."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Психология и экономическое поведение",
+   "subjectRaw": "ПСИХОЛОГИЯ И ЭКОНОМИЧЕСКОЕ ПОВЕДЕНИЕ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "K8",
+   "date": "2026-12-09",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "71f5a5a7643a",
+   "kind": "english",
+   "lessonKey": "1cec5d4c0766",
+   "pair": 3,
+   "raw": "АНГЛ. ЯЗЫК 2А гр. Ильина Г.А. 315 2Б гр. Шмараева А.А. 402 4А гр. Сахарова А. Б. 314 4Б гр. Бордюгов Д.Г. 404",
+   "segments": [
+    {
+     "groups": [
+      2
+     ],
+     "room": "315",
+     "subgroup": "А",
+     "teacher": "Ильина Г.А."
+    },
+    {
+     "groups": [
+      2
+     ],
+     "room": "402",
+     "subgroup": "Б",
+     "teacher": "Шмараева А.А."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "314",
+     "subgroup": "А",
+     "teacher": "Сахарова А.Б."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "404",
+     "subgroup": "Б",
+     "teacher": "Бордюгов Д.Г."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Английский язык",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "K9",
+   "date": "2026-12-09",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "f62f1556a8b8",
+   "kind": "seminar",
+   "lessonKey": "086e918b66b5",
+   "pair": 3,
+   "raw": "СЗ ЭК. география 1 гр. Гузенко И.С 405",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "405",
+     "subgroup": "",
+     "teacher": "Гузенко И."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Экономическая география",
+   "subjectRaw": "ЭК. география",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "K10",
+   "date": "2026-12-09",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "7a4ad12a9ab2",
+   "kind": "english",
+   "lessonKey": "c50e31663a25",
+   "pair": 4,
+   "raw": "АНГЛ. ЯЗЫК 1А гр. Ильина Г.А. 315 1Б гр. Шмараева А.А. 402 3А гр. Сахарова А. Б. 314 3Б гр. Бордюгов Д.Г. 404",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "315",
+     "subgroup": "А",
+     "teacher": "Ильина Г.А."
+    },
+    {
+     "groups": [
+      1
+     ],
+     "room": "402",
+     "subgroup": "Б",
+     "teacher": "Шмараева А.А."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": "314",
+     "subgroup": "А",
+     "teacher": "Сахарова А.Б."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": "404",
+     "subgroup": "Б",
+     "teacher": "Бордюгов Д.Г."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Английский язык",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "K11",
+   "date": "2026-12-09",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "65dfaad17f3b",
+   "kind": "seminar",
+   "lessonKey": "937623c746f7",
+   "pair": 4,
+   "raw": "СЗ ЭК. география 2 гр. Гузенко И.С 405",
+   "segments": [
+    {
+     "groups": [
+      2
+     ],
+     "room": "405",
+     "subgroup": "",
+     "teacher": "Гузенко И."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Экономическая география",
+   "subjectRaw": "ЭК. география",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "K12",
+   "date": "2026-12-09",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "a3be683fdf22",
+   "kind": "other",
+   "lessonKey": "3d2e6fc60ad9",
+   "pair": 5,
+   "raw": "Искуственный интелект наука и образование Шумилов И.А. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Шумилов И.А."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Искусственный интеллект: наука и образование",
+   "subjectRaw": "Искуственный интелект наука и образование",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "L4",
+   "date": "2026-12-10",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "9b1b822f70e3",
+   "kind": "seminar",
+   "lessonKey": "2932c5b9a0ce",
+   "pair": 1,
+   "raw": "СЗ Психология и эконом поведение 2,4 гр. Белоусова В.В. 302",
+   "segments": [
+    {
+     "groups": [
+      2,
+      4
+     ],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Белоусова В.В."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Психология и экономическое поведение",
+   "subjectRaw": "Психология и эконом поведение",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "L5",
+   "date": "2026-12-10",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "b3b1afc7e601",
+   "kind": "seminar",
+   "lessonKey": "fa441d6350bb",
+   "pair": 1,
+   "raw": "СЗ ИСТОРИЯ РОССИИ 1 гр. Щербакова Е. И. 402 3 гр. Мойса Н.И. 403",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "402",
+     "subgroup": "",
+     "teacher": "Щербакова Е.И."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Мойса Н.И."
+    }
+   ],
+   "start": "09:00",
+   "subject": "История России",
+   "subjectRaw": "ИСТОРИЯ РОССИИ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "L6",
+   "date": "2026-12-10",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "2195498eb2a4",
+   "kind": "seminar",
+   "lessonKey": "fbc04e1c8034",
+   "pair": 2,
+   "raw": "СЗ МАТ.АНАЛИЗ 2 гр Хизгияев С. В. 402 4 гр Афонин К.А. 403",
+   "segments": [
+    {
+     "groups": [
+      2
+     ],
+     "room": "402",
+     "subgroup": "",
+     "teacher": "Хизгияев С.В."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Афонин К.А."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Математический анализ",
+   "subjectRaw": "МАТ.АНАЛИЗ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "L7",
+   "date": "2026-12-10",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "6dc95ad67fd5",
+   "kind": "seminar",
+   "lessonKey": "7dba9761f56e",
+   "pair": 2,
+   "raw": "СЗ Психология и эконом поведение 1,3гр. Белоусова В.В. 302",
+   "segments": [
+    {
+     "groups": [
+      1,
+      3
+     ],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Белоусова В.В."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Психология и экономическое поведение",
+   "subjectRaw": "Психология и эконом поведение",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "L8",
+   "date": "2026-12-10",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "8a9d6c7e3dff",
+   "kind": "seminar",
+   "lessonKey": "a63613f4a2bf",
+   "pair": 3,
+   "raw": "СЗ ИСТОРИЯ РОССИИ 4 гр. Щербакова Е. И. 404 2 гр. Мойса Н.И. 405",
+   "segments": [
+    {
+     "groups": [
+      4
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Щербакова Е.И."
+    },
+    {
+     "groups": [
+      2
+     ],
+     "room": "405",
+     "subgroup": "",
+     "teacher": "Мойса Н.И."
+    }
+   ],
+   "start": "12:25",
+   "subject": "История России",
+   "subjectRaw": "ИСТОРИЯ РОССИИ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "L9",
+   "date": "2026-12-10",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "466b8e997a59",
+   "kind": "seminar",
+   "lessonKey": "a4f9e8ac6f9f",
+   "pair": 3,
+   "raw": "СЗ МАТ.АНАЛИЗ 1 гр Хизгияев С. В. 402 3 гр Афонин К.А. 403",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "402",
+     "subgroup": "",
+     "teacher": "Хизгияев С.В."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Афонин К.А."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Математический анализ",
+   "subjectRaw": "МАТ.АНАЛИЗ",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "L10",
+   "date": "2026-12-10",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "dbd22efcd092",
+   "kind": "seminar",
+   "lessonKey": "17a9ed61c824",
+   "pair": 4,
+   "raw": "14:20 СЗ Безопасность жизнедеятельности Дынник В.П. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Дынник В.П."
+    }
+   ],
+   "start": "14:20",
+   "subject": "Безопасность жизнедеятельности",
+   "subjectRaw": "Безопасность жизнедеятельности",
+   "timeOverride": true
+  },
+  {
+   "audience": "groups",
+   "cell": "M5",
+   "date": "2026-12-11",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "ead2fce39b8a",
+   "kind": "seminar",
+   "lessonKey": "8240919a9a73",
+   "pair": 1,
+   "raw": "СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 1 гр. Кочетовская О.С. 403",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Кочетовская О.С."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Введение в общую экономическую теорию",
+   "subjectRaw": "ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "M6",
+   "date": "2026-12-11",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "29ed449baddc",
+   "kind": "seminar",
+   "lessonKey": "6a2616f3e825",
+   "pair": 2,
+   "raw": "СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 3 гр. Лобанова Е.О. 404",
+   "segments": [
+    {
+     "groups": [
+      3
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Лобанова Е.О."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Введение в общую экономическую теорию",
+   "subjectRaw": "ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "M7",
+   "date": "2026-12-11",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "fda864fdebab",
+   "kind": "seminar",
+   "lessonKey": "7dd64da9d4a5",
+   "pair": 2,
+   "raw": "СЗ ЭК.ИНФОРМАТИКА-I 4 гр. Колпаков Д.В. 303",
+   "segments": [
+    {
+     "groups": [
+      4
+     ],
+     "room": "303",
+     "subgroup": "",
+     "teacher": "Колпаков Д.В."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Экономическая информатика I",
+   "subjectRaw": "ЭК.ИНФОРМАТИКА-I",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "M8",
+   "date": "2026-12-11",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "ab6c3b36e93c",
+   "kind": "seminar",
+   "lessonKey": "b51c2a287887",
+   "pair": 3,
+   "raw": "СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 4 гр. Лобанова Е.О. 404",
+   "segments": [
+    {
+     "groups": [
+      4
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Лобанова Е.О."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Введение в общую экономическую теорию",
+   "subjectRaw": "ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "M9",
+   "date": "2026-12-11",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "a5d4ba2c7d58",
+   "kind": "seminar",
+   "lessonKey": "4b07cc14ee4b",
+   "pair": 3,
+   "raw": "СЗ ЭК.ИНФОРМАТИКА-I 2 гр. Колпаков Д.В. 303",
+   "segments": [
+    {
+     "groups": [
+      2
+     ],
+     "room": "303",
+     "subgroup": "",
+     "teacher": "Колпаков Д.В."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Экономическая информатика I",
+   "subjectRaw": "ЭК.ИНФОРМАТИКА-I",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "M10",
+   "date": "2026-12-11",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "d1f718796a26",
+   "kind": "pe",
+   "lessonKey": "66b96f1b24b1",
+   "pair": 4,
+   "raw": "14:50 ФИЗИЧЕСКАЯ КУЛЬТУРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "14:50",
+   "subject": "Физическая культура",
+   "subjectRaw": "",
+   "timeOverride": true
+  },
+  {
+   "audience": "stream",
+   "cell": "P4",
+   "date": "2026-12-14",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "79b587bb45cf",
+   "kind": "lecture",
+   "lessonKey": "3b68743128dd",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ ИСТОРИЯ РОССИИ Мойса Н.И. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Мойса Н.И."
+    }
+   ],
+   "start": "09:00",
+   "subject": "История России",
+   "subjectRaw": "ИСТОРИЯ РОССИИ",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "P6",
+   "date": "2026-12-14",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "cac5eaae238b",
+   "kind": "lecture",
+   "lessonKey": "fbb898afb89c",
+   "pair": 2,
+   "raw": "ЛЕКЦИЯ ЛИНЕЙНАЯ АЛГЕБРА Попеленский Ф. Ю. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Попеленский Ф.Ю."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Линейная алгебра",
+   "subjectRaw": "ЛИНЕЙНАЯ АЛГЕБРА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "P8",
+   "date": "2026-12-14",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "800b952dc1ea",
+   "kind": "english",
+   "lessonKey": "a1fd98bfe2ec",
+   "pair": 3,
+   "raw": "АНГЛ. ЯЗЫК 2А гр. Ильина Г.А. 315 2Б гр. Шмараева А.А. 402 4А гр. Сахарова А. Б. 314 4Б гр. Бордюгов Д.Г. 404",
+   "segments": [
+    {
+     "groups": [
+      2
+     ],
+     "room": "315",
+     "subgroup": "А",
+     "teacher": "Ильина Г.А."
+    },
+    {
+     "groups": [
+      2
+     ],
+     "room": "402",
+     "subgroup": "Б",
+     "teacher": "Шмараева А.А."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "314",
+     "subgroup": "А",
+     "teacher": "Сахарова А.Б."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "404",
+     "subgroup": "Б",
+     "teacher": "Бордюгов Д.Г."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Английский язык",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "P9",
+   "date": "2026-12-14",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "6c264c40d96f",
+   "kind": "seminar",
+   "lessonKey": "2f5d3b201f9e",
+   "pair": 3,
+   "raw": "СЗ ЛИНЕЙНАЯ АЛГЕБРА 1 гр Попеленский Ф.Ю. 403 3 гр. Мироненков А.А. 405",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Попеленский Ф.Ю."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": "405",
+     "subgroup": "",
+     "teacher": "Мироненков А.А."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Линейная алгебра",
+   "subjectRaw": "ЛИНЕЙНАЯ АЛГЕБРА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "P10",
+   "date": "2026-12-14",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "ea4015309186",
+   "kind": "english",
+   "lessonKey": "bebf4c7cf1b0",
+   "pair": 4,
+   "raw": "АНГЛ. ЯЗЫК 1А гр. Ильина Г.А. 315 1Б гр. Шмараева А.А. 402 3А гр. Сахарова А. Б. 314 3Б гр. Бордюгов Д.Г. 404",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "315",
+     "subgroup": "А",
+     "teacher": "Ильина Г.А."
+    },
+    {
+     "groups": [
+      1
+     ],
+     "room": "402",
+     "subgroup": "Б",
+     "teacher": "Шмараева А.А."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": "314",
+     "subgroup": "А",
+     "teacher": "Сахарова А.Б."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": "404",
+     "subgroup": "Б",
+     "teacher": "Бордюгов Д.Г."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Английский язык",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "P11",
+   "date": "2026-12-14",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "a1284b39996a",
+   "kind": "seminar",
+   "lessonKey": "0e6c25404bd9",
+   "pair": 4,
+   "raw": "СЗ ЛИНЕЙНАЯ АЛГЕБРА 2 гр Мироненков А.А. 405 4 гр Пепа Р.Ю. 403",
+   "segments": [
+    {
+     "groups": [
+      2
+     ],
+     "room": "405",
+     "subgroup": "",
+     "teacher": "Мироненков А.А."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Пепа Р.Ю."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Линейная алгебра",
+   "subjectRaw": "ЛИНЕЙНАЯ АЛГЕБРА",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "P12",
+   "date": "2026-12-14",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "93fc5da2fe9c",
+   "kind": "russian_foreign",
+   "lessonKey": "59bb911d05c2",
+   "pair": 5,
+   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. 403",
+   "segments": [
+    {
+     "groups": [],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Бордюгов Д.Г."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Русский язык для иностранцев",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "Q4",
+   "date": "2026-12-15",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "d955024ca94a",
+   "kind": "lecture",
+   "lessonKey": "a25be642fa7b",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ МАТЕМАТИЧЕСКИЙ АНАЛИЗ Хизгияев С.В. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Хизгияев С.В."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Математический анализ",
+   "subjectRaw": "МАТЕМАТИЧЕСКИЙ АНАЛИЗ",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "Q6",
+   "date": "2026-12-15",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "412ab6044688",
+   "kind": "lecture",
+   "lessonKey": "c6571767b8c3",
+   "pair": 2,
+   "raw": "ЛЕКЦИЯ ВВЕДЕНИЕ В ЭКОНОМИКУ Некипелов А. Д. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Некипелов А.Д."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Введение в экономику",
+   "subjectRaw": "ВВЕДЕНИЕ В ЭКОНОМИКУ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "Q8",
+   "date": "2026-12-15",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "ea66dc647df4",
+   "kind": "seminar",
+   "lessonKey": "0e09b8400121",
+   "pair": 3,
+   "raw": "СЗ ЭК.ИНФОРМАТИКА-I 1 гр. Хизгияев С.В. 304 3 гр. Колпаков Д.В. 303",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "304",
+     "subgroup": "",
+     "teacher": "Хизгияев С.В."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": "303",
+     "subgroup": "",
+     "teacher": "Колпаков Д.В."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Экономическая информатика I",
+   "subjectRaw": "ЭК.ИНФОРМАТИКА-I",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "Q9",
+   "date": "2026-12-15",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "aacbe6a3baea",
+   "kind": "seminar",
+   "lessonKey": "1efd4c22eab6",
+   "pair": 3,
+   "raw": "СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 2 гр. Мироненкова М.В. 403",
+   "segments": [
+    {
+     "groups": [
+      2
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Мироненкова М.В."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Введение в общую экономическую теорию",
+   "subjectRaw": "ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "Q10",
+   "date": "2026-12-15",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "be20949018ca",
+   "kind": "pe",
+   "lessonKey": "652ea2f2f2d1",
+   "pair": 4,
+   "raw": "14:50 ФИЗИЧЕСКАЯ КУЛЬТУРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "14:50",
+   "subject": "Физическая культура",
+   "subjectRaw": "",
+   "timeOverride": true
+  },
+  {
+   "audience": "stream",
+   "cell": "R4",
+   "date": "2026-12-16",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "c74736a744c1",
+   "kind": "lecture",
+   "lessonKey": "1c0ae286089b",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ ИСТОРИЯ РОССИИ Мойса Н.И. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Мойса Н.И."
+    }
+   ],
+   "start": "09:00",
+   "subject": "История России",
+   "subjectRaw": "ИСТОРИЯ РОССИИ",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "R6",
+   "date": "2026-12-16",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "8ce71402bc91",
+   "kind": "lecture",
+   "lessonKey": "26a33b0a4479",
+   "pair": 2,
+   "raw": "ЛЕКЦИЯ ЭК. ГЕОГРАФИЯ Гузенко И.С. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Гузенко И.С."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Экономическая география",
+   "subjectRaw": "ЭК. ГЕОГРАФИЯ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "R8",
+   "date": "2026-12-16",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "55e12b8a98f8",
+   "kind": "english",
+   "lessonKey": "1d62afafd9b3",
+   "pair": 3,
+   "raw": "АНГЛ. ЯЗЫК 2А гр. Ильина Г.А. 315 2Б гр. Шмараева А.А. 402 4А гр. Сахарова А. Б. 314 4Б гр. Бордюгов Д.Г. 404",
+   "segments": [
+    {
+     "groups": [
+      2
+     ],
+     "room": "315",
+     "subgroup": "А",
+     "teacher": "Ильина Г.А."
+    },
+    {
+     "groups": [
+      2
+     ],
+     "room": "402",
+     "subgroup": "Б",
+     "teacher": "Шмараева А.А."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "314",
+     "subgroup": "А",
+     "teacher": "Сахарова А.Б."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "404",
+     "subgroup": "Б",
+     "teacher": "Бордюгов Д.Г."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Английский язык",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "R9",
+   "date": "2026-12-16",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "e0e73fb062d6",
+   "kind": "seminar",
+   "lessonKey": "77fe1218b4d4",
+   "pair": 3,
+   "raw": "СЗ ЭК. география 3 гр. Гузенко И.С. 405",
+   "segments": [
+    {
+     "groups": [
+      3
+     ],
+     "room": "405",
+     "subgroup": "",
+     "teacher": "Гузенко И.С."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Экономическая география",
+   "subjectRaw": "ЭК. география",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "R10",
+   "date": "2026-12-16",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "dd70c3bcabe4",
+   "kind": "english",
+   "lessonKey": "6a6f582e7ed7",
+   "pair": 4,
+   "raw": "АНГЛ. ЯЗЫК 1А гр. Ильина Г.А. 315 1Б гр. Шмараева А.А. 402 3А гр. Сахарова А. Б. 314 3Б гр. Бордюгов Д.Г. 404",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "315",
+     "subgroup": "А",
+     "teacher": "Ильина Г.А."
+    },
+    {
+     "groups": [
+      1
+     ],
+     "room": "402",
+     "subgroup": "Б",
+     "teacher": "Шмараева А.А."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": "314",
+     "subgroup": "А",
+     "teacher": "Сахарова А.Б."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": "404",
+     "subgroup": "Б",
+     "teacher": "Бордюгов Д.Г."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Английский язык",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "R11",
+   "date": "2026-12-16",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "b62861ff81ef",
+   "kind": "seminar",
+   "lessonKey": "d4fb1c61efd5",
+   "pair": 4,
+   "raw": "СЗ ЭК. география 4 гр. Гузенко И.С 405",
+   "segments": [
+    {
+     "groups": [
+      4
+     ],
+     "room": "405",
+     "subgroup": "",
+     "teacher": "Гузенко И."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Экономическая география",
+   "subjectRaw": "ЭК. география",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "R12",
+   "date": "2026-12-16",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "b1184988dcde",
+   "kind": "other",
+   "lessonKey": "2175aa41b0ff",
+   "pair": 5,
+   "raw": "Искуственный интелект наука и образование Шумилов И.А. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Шумилов И.А."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Искусственный интеллект: наука и образование",
+   "subjectRaw": "Искуственный интелект наука и образование",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "S6",
+   "date": "2026-12-17",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "9efe480a5aef",
+   "kind": "seminar",
+   "lessonKey": "22f2ecfcc928",
+   "pair": 2,
+   "raw": "СЗ МАТ.АНАЛИЗ 2 гр Хизгияев С. В. 402 4 гр Афонин К.А. 403",
+   "segments": [
+    {
+     "groups": [
+      2
+     ],
+     "room": "402",
+     "subgroup": "",
+     "teacher": "Хизгияев С.В."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Афонин К.А."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Математический анализ",
+   "subjectRaw": "МАТ.АНАЛИЗ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "S7",
+   "date": "2026-12-17",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "503707d83645",
+   "kind": "seminar",
+   "lessonKey": "b9427d014f6a",
+   "pair": 2,
+   "raw": "СЗ ИСТОРИЯ РОССИИ 1 гр. Щербакова Е. И. 404 3 гр. Мойса Н.И. 405",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Щербакова Е.И."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": "405",
+     "subgroup": "",
+     "teacher": "Мойса Н.И."
+    }
+   ],
+   "start": "10:40",
+   "subject": "История России",
+   "subjectRaw": "ИСТОРИЯ РОССИИ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "S8",
+   "date": "2026-12-17",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "e35b3eac8b25",
+   "kind": "seminar",
+   "lessonKey": "8b66c2ed0ab8",
+   "pair": 3,
+   "raw": "СЗ ИСТОРИЯ РОССИИ 4 гр. Щербакова Е. И. 404 2 гр. Мойса Н.И. 405",
+   "segments": [
+    {
+     "groups": [
+      4
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Щербакова Е.И."
+    },
+    {
+     "groups": [
+      2
+     ],
+     "room": "405",
+     "subgroup": "",
+     "teacher": "Мойса Н.И."
+    }
+   ],
+   "start": "12:25",
+   "subject": "История России",
+   "subjectRaw": "ИСТОРИЯ РОССИИ",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "S9",
+   "date": "2026-12-17",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "e9dc452832d3",
+   "kind": "seminar",
+   "lessonKey": "39e08494ee85",
+   "pair": 3,
+   "raw": "СЗ МАТ.АНАЛИЗ 1 гр Хизгияев С. В. 402 3 гр Афонин К.А. 403",
+   "segments": [
+    {
+     "groups": [
+      1
+     ],
+     "room": "402",
+     "subgroup": "",
+     "teacher": "Хизгияев С.В."
+    },
+    {
+     "groups": [
+      3
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Афонин К.А."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Математический анализ",
+   "subjectRaw": "МАТ.АНАЛИЗ",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "S10",
+   "date": "2026-12-17",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "13439894026a",
+   "kind": "seminar",
+   "lessonKey": "1fb956b9ad68",
+   "pair": 4,
+   "raw": "14:20 СЗ Безопасность жизнедеятельности Дынник В.П. 302",
+   "segments": [
+    {
+     "groups": [],
+     "room": "302",
+     "subgroup": "",
+     "teacher": "Дынник В.П."
+    }
+   ],
+   "start": "14:20",
+   "subject": "Безопасность жизнедеятельности",
+   "subjectRaw": "Безопасность жизнедеятельности",
+   "timeOverride": true
+  },
+  {
+   "audience": "groups",
+   "cell": "T6",
+   "date": "2026-12-18",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "06d7613ea8f6",
+   "kind": "seminar",
+   "lessonKey": "82b4f77fa472",
+   "pair": 2,
+   "raw": "СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 3 гр. Лобанова Е.О. 404",
+   "segments": [
+    {
+     "groups": [
+      3
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Лобанова Е.О."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Введение в общую экономическую теорию",
+   "subjectRaw": "ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "T7",
+   "date": "2026-12-18",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "943036ae81be",
+   "kind": "seminar",
+   "lessonKey": "5463eb35e494",
+   "pair": 2,
+   "raw": "СЗ ЭК.ИНФОРМАТИКА-I 4 гр. Колпаков Д.В. 303",
+   "segments": [
+    {
+     "groups": [
+      4
+     ],
+     "room": "303",
+     "subgroup": "",
+     "teacher": "Колпаков Д.В."
+    }
+   ],
+   "start": "10:40",
+   "subject": "Экономическая информатика I",
+   "subjectRaw": "ЭК.ИНФОРМАТИКА-I",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "T8",
+   "date": "2026-12-18",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "59a8afddd384",
+   "kind": "seminar",
+   "lessonKey": "34e7682178c0",
+   "pair": 3,
+   "raw": "СЗ ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю 4 гр. Лобанова Е.О. 404",
+   "segments": [
+    {
+     "groups": [
+      4
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Лобанова Е.О."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Введение в общую экономическую теорию",
+   "subjectRaw": "ВВЕД-Е В ОБЩ ЭКОН ТЕО-Ю",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "T9",
+   "date": "2026-12-18",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "19c718f91e98",
+   "kind": "seminar",
+   "lessonKey": "a1431d455acd",
+   "pair": 3,
+   "raw": "СЗ ЭК.ИНФОРМАТИКА-I 2 гр. Колпаков Д.В. 303",
+   "segments": [
+    {
+     "groups": [
+      2
+     ],
+     "room": "303",
+     "subgroup": "",
+     "teacher": "Колпаков Д.В."
+    }
+   ],
+   "start": "12:25",
+   "subject": "Экономическая информатика I",
+   "subjectRaw": "ЭК.ИНФОРМАТИКА-I",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "T10",
+   "date": "2026-12-18",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "5adc0ccdac2a",
+   "kind": "pe",
+   "lessonKey": "64ef3509db69",
+   "pair": 4,
+   "raw": "14:50 ФИЗИЧЕСКАЯ КУЛЬТУРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "14:50",
+   "subject": "Физическая культура",
+   "subjectRaw": "",
+   "timeOverride": true
   }
  ],
  "range": {
   "from": "2026-09-01",
-  "to": "2026-12-05"
+  "to": "2026-12-19"
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 405,
+  "cells": 466,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -13212,10 +15182,22 @@
    "2026-12-02",
    "2026-12-03",
    "2026-12-04",
-   "2026-12-05"
+   "2026-12-05",
+   "2026-12-07",
+   "2026-12-08",
+   "2026-12-09",
+   "2026-12-10",
+   "2026-12-11",
+   "2026-12-12",
+   "2026-12-14",
+   "2026-12-15",
+   "2026-12-16",
+   "2026-12-17",
+   "2026-12-18",
+   "2026-12-19"
   ],
-  "hash": "11427DFB378C7B03F823ABB439115DABA6773033",
-  "mtime": 1794814340,
+  "hash": "14BA863FA6B8418845347D778FEC24C111801D30",
+  "mtime": 1794814643,
   "name": "1_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "1 курс_СЕНТЯБРЬ_26, 1 курс_ОКТЯБРЬ_26, 1 курс_НОЯБРЬ_26, 1 курс_ДЕКАБРЬ_26 ",
