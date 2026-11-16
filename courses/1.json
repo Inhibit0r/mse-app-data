@@ -1,6 +1,6 @@
 {
  "course": 1,
- "generatedAt": "2026-11-16T07:27:29+00:00",
+ "generatedAt": "2026-11-16T07:32:29+00:00",
  "groups": [
   1,
   2,
@@ -11099,7 +11099,7 @@
   },
   {
    "audience": "stream",
-   "cell": "P4",
+   "cell": "W4",
    "date": "2026-11-23",
    "end": "10:30",
    "flags": {
@@ -11125,7 +11125,7 @@
   },
   {
    "audience": "stream",
-   "cell": "P6",
+   "cell": "W6",
    "date": "2026-11-23",
    "end": "12:10",
    "flags": {
@@ -11151,7 +11151,7 @@
   },
   {
    "audience": "groups",
-   "cell": "P8",
+   "cell": "W8",
    "date": "2026-11-23",
    "end": "13:55",
    "flags": {
@@ -11203,7 +11203,7 @@
   },
   {
    "audience": "groups",
-   "cell": "P9",
+   "cell": "W9",
    "date": "2026-11-23",
    "end": "13:55",
    "flags": {
@@ -11239,7 +11239,7 @@
   },
   {
    "audience": "groups",
-   "cell": "P10",
+   "cell": "W10",
    "date": "2026-11-23",
    "end": "15:40",
    "flags": {
@@ -11291,7 +11291,7 @@
   },
   {
    "audience": "groups",
-   "cell": "P11",
+   "cell": "W11",
    "date": "2026-11-23",
    "end": "15:40",
    "flags": {
@@ -11327,7 +11327,7 @@
   },
   {
    "audience": "personal",
-   "cell": "P12",
+   "cell": "W12",
    "date": "2026-11-23",
    "end": "17:15",
    "flags": {
@@ -11353,7 +11353,7 @@
   },
   {
    "audience": "stream",
-   "cell": "Q4",
+   "cell": "X4",
    "date": "2026-11-24",
    "end": "10:30",
    "flags": {
@@ -11379,7 +11379,7 @@
   },
   {
    "audience": "stream",
-   "cell": "Q6",
+   "cell": "X6",
    "date": "2026-11-24",
    "end": "12:10",
    "flags": {
@@ -11405,7 +11405,7 @@
   },
   {
    "audience": "groups",
-   "cell": "Q8",
+   "cell": "X8",
    "date": "2026-11-24",
    "end": "13:55",
    "flags": {
@@ -11441,7 +11441,7 @@
   },
   {
    "audience": "groups",
-   "cell": "Q9",
+   "cell": "X9",
    "date": "2026-11-24",
    "end": "13:55",
    "flags": {
@@ -11469,7 +11469,7 @@
   },
   {
    "audience": "personal",
-   "cell": "Q10",
+   "cell": "X10",
    "date": "2026-11-24",
    "end": "15:40",
    "flags": {
@@ -11495,7 +11495,7 @@
   },
   {
    "audience": "stream",
-   "cell": "R4",
+   "cell": "Y4",
    "date": "2026-11-25",
    "end": "10:30",
    "flags": {
@@ -11521,7 +11521,7 @@
   },
   {
    "audience": "stream",
-   "cell": "R6",
+   "cell": "Y6",
    "date": "2026-11-25",
    "end": "12:10",
    "flags": {
@@ -11547,7 +11547,7 @@
   },
   {
    "audience": "groups",
-   "cell": "R8",
+   "cell": "Y8",
    "date": "2026-11-25",
    "end": "13:55",
    "flags": {
@@ -11599,7 +11599,7 @@
   },
   {
    "audience": "groups",
-   "cell": "R9",
+   "cell": "Y9",
    "date": "2026-11-25",
    "end": "13:55",
    "flags": {
@@ -11627,7 +11627,7 @@
   },
   {
    "audience": "groups",
-   "cell": "R10",
+   "cell": "Y10",
    "date": "2026-11-25",
    "end": "15:40",
    "flags": {
@@ -11679,7 +11679,7 @@
   },
   {
    "audience": "groups",
-   "cell": "R11",
+   "cell": "Y11",
    "date": "2026-11-25",
    "end": "15:40",
    "flags": {
@@ -11707,7 +11707,7 @@
   },
   {
    "audience": "stream",
-   "cell": "R12",
+   "cell": "Y12",
    "date": "2026-11-25",
    "end": "17:15",
    "flags": {
@@ -11733,7 +11733,7 @@
   },
   {
    "audience": "groups",
-   "cell": "S4",
+   "cell": "Z4",
    "date": "2026-11-26",
    "end": "10:30",
    "flags": {
@@ -11762,7 +11762,7 @@
   },
   {
    "audience": "groups",
-   "cell": "S5",
+   "cell": "Z5",
    "date": "2026-11-26",
    "end": "10:30",
    "flags": {
@@ -11798,7 +11798,7 @@
   },
   {
    "audience": "groups",
-   "cell": "S6",
+   "cell": "Z6",
    "date": "2026-11-26",
    "end": "12:10",
    "flags": {
@@ -11834,7 +11834,7 @@
   },
   {
    "audience": "groups",
-   "cell": "S7",
+   "cell": "Z7",
    "date": "2026-11-26",
    "end": "12:10",
    "flags": {
@@ -11863,7 +11863,7 @@
   },
   {
    "audience": "groups",
-   "cell": "S8",
+   "cell": "Z8",
    "date": "2026-11-26",
    "end": "13:55",
    "flags": {
@@ -11899,7 +11899,7 @@
   },
   {
    "audience": "groups",
-   "cell": "S9",
+   "cell": "Z9",
    "date": "2026-11-26",
    "end": "13:55",
    "flags": {
@@ -11935,7 +11935,7 @@
   },
   {
    "audience": "stream",
-   "cell": "S10",
+   "cell": "Z10",
    "date": "2026-11-26",
    "end": "15:40",
    "flags": {
@@ -11961,7 +11961,7 @@
   },
   {
    "audience": "groups",
-   "cell": "T5",
+   "cell": "AA5",
    "date": "2026-11-27",
    "end": "10:30",
    "flags": {
@@ -11989,7 +11989,7 @@
   },
   {
    "audience": "groups",
-   "cell": "T6",
+   "cell": "AA6",
    "date": "2026-11-27",
    "end": "12:10",
    "flags": {
@@ -12017,7 +12017,7 @@
   },
   {
    "audience": "groups",
-   "cell": "T7",
+   "cell": "AA7",
    "date": "2026-11-27",
    "end": "12:10",
    "flags": {
@@ -12045,7 +12045,7 @@
   },
   {
    "audience": "groups",
-   "cell": "T8",
+   "cell": "AA8",
    "date": "2026-11-27",
    "end": "13:55",
    "flags": {
@@ -12073,7 +12073,7 @@
   },
   {
    "audience": "groups",
-   "cell": "T9",
+   "cell": "AA9",
    "date": "2026-11-27",
    "end": "13:55",
    "flags": {
@@ -12101,7 +12101,7 @@
   },
   {
    "audience": "personal",
-   "cell": "T10",
+   "cell": "AA10",
    "date": "2026-11-27",
    "end": "15:40",
    "flags": {
@@ -12127,7 +12127,7 @@
   },
   {
    "audience": "stream",
-   "cell": "I4",
+   "cell": "AD4",
    "date": "2026-11-30",
    "end": "10:30",
    "flags": {
@@ -12153,7 +12153,7 @@
   },
   {
    "audience": "stream",
-   "cell": "I6",
+   "cell": "AD6",
    "date": "2026-11-30",
    "end": "12:10",
    "flags": {
@@ -12179,7 +12179,7 @@
   },
   {
    "audience": "groups",
-   "cell": "I8",
+   "cell": "AD8",
    "date": "2026-11-30",
    "end": "13:55",
    "flags": {
@@ -12231,7 +12231,7 @@
   },
   {
    "audience": "groups",
-   "cell": "I9",
+   "cell": "AD9",
    "date": "2026-11-30",
    "end": "13:55",
    "flags": {
@@ -12267,7 +12267,7 @@
   },
   {
    "audience": "groups",
-   "cell": "I10",
+   "cell": "AD10",
    "date": "2026-11-30",
    "end": "15:40",
    "flags": {
@@ -12319,7 +12319,7 @@
   },
   {
    "audience": "groups",
-   "cell": "I11",
+   "cell": "AD11",
    "date": "2026-11-30",
    "end": "15:40",
    "flags": {
@@ -12355,7 +12355,7 @@
   },
   {
    "audience": "personal",
-   "cell": "I12",
+   "cell": "AD12",
    "date": "2026-11-30",
    "end": "17:15",
    "flags": {
@@ -12381,7 +12381,7 @@
   },
   {
    "audience": "stream",
-   "cell": "J4",
+   "cell": "AE4",
    "date": "2026-12-01",
    "end": "10:30",
    "flags": {
@@ -12407,7 +12407,7 @@
   },
   {
    "audience": "stream",
-   "cell": "J6",
+   "cell": "AE6",
    "date": "2026-12-01",
    "end": "12:10",
    "flags": {
@@ -12433,7 +12433,7 @@
   },
   {
    "audience": "groups",
-   "cell": "J8",
+   "cell": "AE8",
    "date": "2026-12-01",
    "end": "13:55",
    "flags": {
@@ -12469,7 +12469,7 @@
   },
   {
    "audience": "groups",
-   "cell": "J9",
+   "cell": "AE9",
    "date": "2026-12-01",
    "end": "13:55",
    "flags": {
@@ -12497,7 +12497,7 @@
   },
   {
    "audience": "personal",
-   "cell": "J10",
+   "cell": "AE10",
    "date": "2026-12-01",
    "end": "15:40",
    "flags": {
@@ -12523,7 +12523,7 @@
   },
   {
    "audience": "stream",
-   "cell": "K4",
+   "cell": "AF4",
    "date": "2026-12-02",
    "end": "10:30",
    "flags": {
@@ -12549,7 +12549,7 @@
   },
   {
    "audience": "stream",
-   "cell": "K6",
+   "cell": "AF6",
    "date": "2026-12-02",
    "end": "12:10",
    "flags": {
@@ -12575,7 +12575,7 @@
   },
   {
    "audience": "groups",
-   "cell": "K8",
+   "cell": "AF8",
    "date": "2026-12-02",
    "end": "13:55",
    "flags": {
@@ -12627,7 +12627,7 @@
   },
   {
    "audience": "groups",
-   "cell": "K9",
+   "cell": "AF9",
    "date": "2026-12-02",
    "end": "13:55",
    "flags": {
@@ -12655,7 +12655,7 @@
   },
   {
    "audience": "groups",
-   "cell": "K10",
+   "cell": "AF10",
    "date": "2026-12-02",
    "end": "15:40",
    "flags": {
@@ -12707,7 +12707,7 @@
   },
   {
    "audience": "groups",
-   "cell": "K11",
+   "cell": "AF11",
    "date": "2026-12-02",
    "end": "15:40",
    "flags": {
@@ -12735,7 +12735,7 @@
   },
   {
    "audience": "stream",
-   "cell": "K12",
+   "cell": "AF12",
    "date": "2026-12-02",
    "end": "17:15",
    "flags": {
@@ -12761,7 +12761,7 @@
   },
   {
    "audience": "groups",
-   "cell": "L5",
+   "cell": "AG5",
    "date": "2026-12-03",
    "end": "10:30",
    "flags": {
@@ -12789,7 +12789,7 @@
   },
   {
    "audience": "groups",
-   "cell": "L6",
+   "cell": "AG6",
    "date": "2026-12-03",
    "end": "12:10",
    "flags": {
@@ -12825,7 +12825,7 @@
   },
   {
    "audience": "groups",
-   "cell": "L7",
+   "cell": "AG7",
    "date": "2026-12-03",
    "end": "12:10",
    "flags": {
@@ -12861,7 +12861,7 @@
   },
   {
    "audience": "groups",
-   "cell": "L8",
+   "cell": "AG8",
    "date": "2026-12-03",
    "end": "13:55",
    "flags": {
@@ -12897,7 +12897,7 @@
   },
   {
    "audience": "groups",
-   "cell": "L9",
+   "cell": "AG9",
    "date": "2026-12-03",
    "end": "13:55",
    "flags": {
@@ -12933,7 +12933,7 @@
   },
   {
    "audience": "stream",
-   "cell": "L10",
+   "cell": "AG10",
    "date": "2026-12-03",
    "end": "15:40",
    "flags": {
@@ -12959,7 +12959,7 @@
   },
   {
    "audience": "stream",
-   "cell": "M4",
+   "cell": "AH4",
    "date": "2026-12-04",
    "end": "10:30",
    "flags": {
@@ -12985,7 +12985,7 @@
   },
   {
    "audience": "groups",
-   "cell": "M6",
+   "cell": "AH6",
    "date": "2026-12-04",
    "end": "12:10",
    "flags": {
@@ -13013,7 +13013,7 @@
   },
   {
    "audience": "groups",
-   "cell": "M7",
+   "cell": "AH7",
    "date": "2026-12-04",
    "end": "12:10",
    "flags": {
@@ -13041,7 +13041,7 @@
   },
   {
    "audience": "groups",
-   "cell": "M8",
+   "cell": "AH8",
    "date": "2026-12-04",
    "end": "13:55",
    "flags": {
@@ -13069,7 +13069,7 @@
   },
   {
    "audience": "groups",
-   "cell": "M9",
+   "cell": "AH9",
    "date": "2026-12-04",
    "end": "13:55",
    "flags": {
@@ -13097,7 +13097,7 @@
   },
   {
    "audience": "personal",
-   "cell": "M10",
+   "cell": "AH10",
    "date": "2026-12-04",
    "end": "15:40",
    "flags": {
@@ -13214,8 +13214,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "14B9906AA567B3904BF7A99E1B81FF04EC814C9F",
-  "mtime": 1794813961,
+  "hash": "11427DFB378C7B03F823ABB439115DABA6773033",
+  "mtime": 1794814340,
   "name": "1_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "1 курс_СЕНТЯБРЬ_26, 1 курс_ОКТЯБРЬ_26, 1 курс_НОЯБРЬ_26, 1 курс_ДЕКАБРЬ_26 ",
