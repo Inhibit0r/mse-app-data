@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-11-16T11:08:00+00:00",
+ "generatedAt": "2026-11-16T11:13:01+00:00",
  "groups": [
   1,
   2,
@@ -15659,34 +15659,6 @@
    "timeOverride": false
   },
   {
-   "audience": "groups",
-   "cell": "W7",
-   "date": "2026-12-21",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "de4677ba4853",
-   "kind": "seminar",
-   "lessonKey": "63b41be4aae8",
-   "pair": 2,
-   "raw": "СЗ ЭКОНОМИКА ФИРМЫ 1 гр. Лариошина Л.Ю. 403",
-   "segments": [
-    {
-     "groups": [
-      1
-     ],
-     "room": "403",
-     "subgroup": "",
-     "teacher": "Лариошина Л.Ю."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Экономика фирмы",
-   "subjectRaw": "ЭКОНОМИКА ФИРМЫ",
-   "timeOverride": false
-  },
-  {
    "audience": "stream",
    "cell": "W8",
    "date": "2026-12-21",
@@ -15694,11 +15666,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "8b4a19221f8a",
-   "kind": "lecture",
-   "lessonKey": "a67087d005c1",
+   "id": "36bdf2bd1c14",
+   "kind": "other",
+   "lessonKey": "72263aa2e045",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ ЭКОНОМИКА ФИРМЫ Лариошина Л.Ю. 308",
+   "raw": "ЗАЧЕТ ЭКОНОМИКА ФИРМЫ Лариошина Л.Ю. Варфаловский А.В. Попова Т.А. 308",
    "segments": [
     {
      "groups": [],
@@ -15708,152 +15680,8 @@
     }
    ],
    "start": "12:25",
-   "subject": "Экономика фирмы",
-   "subjectRaw": "ЭКОНОМИКА ФИРМЫ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "W10",
-   "date": "2026-12-21",
-   "end": "15:40",
-   "flags": {
-    "conflict": false
-   },
-   "id": "54fcf36083d5",
-   "kind": "seminar",
-   "lessonKey": "e869c8320dd6",
-   "pair": 4,
-   "raw": "СЗ ЭКОНОМИКА ФИРМЫ 4 гр. Варфаловский А.В. 308 3 гр. Попова Т.А. 403",
-   "segments": [
-    {
-     "groups": [
-      4
-     ],
-     "room": "308",
-     "subgroup": "",
-     "teacher": "Варфаловский А.В."
-    },
-    {
-     "groups": [
-      3
-     ],
-     "room": "403",
-     "subgroup": "",
-     "teacher": "Попова Т.А."
-    }
-   ],
-   "start": "14:10",
-   "subject": "Экономика фирмы",
-   "subjectRaw": "ЭКОНОМИКА ФИРМЫ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "W11",
-   "date": "2026-12-21",
-   "end": "15:40",
-   "flags": {
-    "conflict": false
-   },
-   "id": "c3702214fbf7",
-   "kind": "seminar",
-   "lessonKey": "80e07b086aad",
-   "pair": 4,
-   "raw": "СЗ МИКРОЭКОНОМИКА-II 1 гр. Кукушкин Д.С. 316 2гр. Починкин Д.В. 303",
-   "segments": [
-    {
-     "groups": [
-      1
-     ],
-     "room": "316",
-     "subgroup": "",
-     "teacher": "Кукушкин Д.С."
-    },
-    {
-     "groups": [
-      2
-     ],
-     "room": "303",
-     "subgroup": "",
-     "teacher": "Починкин Д.В."
-    }
-   ],
-   "start": "14:10",
-   "subject": "Микроэкономика II",
-   "subjectRaw": "МИКРОЭКОНОМИКА-II",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "W12",
-   "date": "2026-12-21",
-   "end": "17:15",
-   "flags": {
-    "conflict": false
-   },
-   "id": "380b6379861c",
-   "kind": "seminar",
-   "lessonKey": "dee000b18d67",
-   "pair": 5,
-   "raw": "СЗ ЭКОНОМИКА ФИРМЫ 2 гр. Варфаловский А.В. 308 1 гр. Лариошина Л.Ю. 402",
-   "segments": [
-    {
-     "groups": [
-      2
-     ],
-     "room": "308",
-     "subgroup": "",
-     "teacher": "Варфаловский А.В."
-    },
-    {
-     "groups": [
-      1
-     ],
-     "room": "402",
-     "subgroup": "",
-     "teacher": "Лариошина Л.Ю."
-    }
-   ],
-   "start": "15:45",
-   "subject": "Экономика фирмы",
-   "subjectRaw": "ЭКОНОМИКА ФИРМЫ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "W13",
-   "date": "2026-12-21",
-   "end": "17:15",
-   "flags": {
-    "conflict": false
-   },
-   "id": "735a4e6f4963",
-   "kind": "seminar",
-   "lessonKey": "9e9079fb0fa5",
-   "pair": 5,
-   "raw": "СЗ МИКРОЭКОНОМИКА-II 3 гр. Кукушкин Д.С. 404 4 гр. Починкин Д.В. 405",
-   "segments": [
-    {
-     "groups": [
-      3
-     ],
-     "room": "404",
-     "subgroup": "",
-     "teacher": "Кукушкин Д.С."
-    },
-    {
-     "groups": [
-      4
-     ],
-     "room": "405",
-     "subgroup": "",
-     "teacher": "Починкин Д.В."
-    }
-   ],
-   "start": "15:45",
-   "subject": "Микроэкономика II",
-   "subjectRaw": "МИКРОЭКОНОМИКА-II",
+   "subject": "Зачет экономика фирмы",
+   "subjectRaw": "ЗАЧЕТ ЭКОНОМИКА ФИРМЫ",
    "timeOverride": false
   },
   {
@@ -15890,11 +15718,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "82ccccf61f82",
-   "kind": "lecture",
-   "lessonKey": "5ae1153d18cb",
+   "id": "344c99e0aed8",
+   "kind": "other",
+   "lessonKey": "820f8b1dc0e1",
    "pair": 2,
-   "raw": "ЛЕКЦИЯ СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СТАТИСТИКА Шаклеина М.В. 308",
+   "raw": "ЗАЧЕТ СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СТАТИСТИКА Шаклеина М.В. Селезнев А.И. Попова Т.А. 308",
    "segments": [
     {
      "groups": [],
@@ -15904,8 +15732,8 @@
     }
    ],
    "start": "10:40",
-   "subject": "Социально-экономическая статистика",
-   "subjectRaw": "СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СТАТИСТИКА",
+   "subject": "Зачет социально-экономическая статистика",
+   "subjectRaw": "ЗАЧЕТ СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ СТАТИСТИКА",
    "timeOverride": false
   },
   {
@@ -16497,7 +16325,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 526,
+  "cells": 516,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -16601,8 +16429,8 @@
    "2026-12-25",
    "2026-12-26"
   ],
-  "hash": "B56A2DA05615E3914D80881FF9E2562A7B54BDFA",
-  "mtime": 1794827215,
+  "hash": "9389208822118B850E48229BE997DD8C0D1A5D8D",
+  "mtime": 1794827550,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26, 3 курс_НОЯБРЬ_26, 3 курс_ДЕКАБРЬ_26 ",
