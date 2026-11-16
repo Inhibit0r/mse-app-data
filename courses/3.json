@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-11-13T11:03:05+00:00",
+ "generatedAt": "2026-11-16T09:37:46+00:00",
  "groups": [
   1,
   2,
@@ -11603,6 +11603,32 @@
   },
   {
    "audience": "personal",
+   "cell": "T14",
+   "date": "2026-11-20",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "1891b6a97e6f",
+   "kind": "retake",
+   "lessonKey": "d77da68ddc70",
+   "pair": 4,
+   "raw": "14:10 ПЕРЕСДАЧА ЗА ЛЕТО МАКРОЭКОНОМИКА Букина И.С. 404",
+   "segments": [
+    {
+     "groups": [],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Букина И.С."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Макроэкономика",
+   "subjectRaw": "МАКРОЭКОНОМИКА",
+   "timeOverride": true
+  },
+  {
+   "audience": "personal",
    "cell": "T4",
    "date": "2026-11-20",
    "end": "15:40",
@@ -13680,7 +13706,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 421,
+  "cells": 422,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -13766,8 +13792,8 @@
    "2026-12-04",
    "2026-12-05"
   ],
-  "hash": "F705DD6192926C507859E2B5FA3721DDF864E16F",
-  "mtime": 1794567724,
+  "hash": "EFC1A9A6DC9D3A21ACF948179CC730DF77842EB6",
+  "mtime": 1794821833,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26, 3 курс_НОЯБРЬ_26",
