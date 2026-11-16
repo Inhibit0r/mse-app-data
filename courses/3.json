@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-11-16T11:13:01+00:00",
+ "generatedAt": "2026-11-16T11:18:05+00:00",
  "groups": [
   1,
   2,
@@ -15799,25 +15799,34 @@
    "flags": {
     "conflict": false
    },
-   "id": "dbf329f6fba9",
-   "kind": "seminar",
-   "lessonKey": "dce775217180",
+   "id": "d3bb7102c31f",
+   "kind": "other",
+   "lessonKey": "e677bd9b9e35",
    "pair": 4,
-   "raw": "СЗ МАКРОЭКОНОМИКА-II 1,2 гр Кукушкин Д.С. 403",
+   "raw": "ЗАЧЕТ МАКРОЭКОНОМИКА-II 1,2 гр Кукушкин Д.С. Герелишина А.К. 302",
    "segments": [
     {
      "groups": [
       1,
       2
      ],
-     "room": "403",
+     "room": "302",
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
+    },
+    {
+     "groups": [
+      1,
+      2
+     ],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Герелишина А.К."
     }
    ],
    "start": "14:10",
-   "subject": "Макроэкономика II",
-   "subjectRaw": "МАКРОЭКОНОМИКА-II",
+   "subject": "Зачет макроэкономика-II",
+   "subjectRaw": "ЗАЧЕТ МАКРОЭКОНОМИКА-II",
    "timeOverride": false
   },
   {
@@ -15857,51 +15866,34 @@
    "flags": {
     "conflict": false
    },
-   "id": "578096a9ad8b",
-   "kind": "seminar",
-   "lessonKey": "ae6943538f0f",
+   "id": "efa6c70b8285",
+   "kind": "other",
+   "lessonKey": "f4118104bc4e",
    "pair": 5,
-   "raw": "СЗ МАКРОЭКОНОМИКА-II 3,4 гр Кукушкин Д.С. 403",
+   "raw": "ЗАЧЕТ МАКРОЭКОНОМИКА-II 3,4 гр Кукушкин Д.С. Герелишина А.К. 302",
    "segments": [
     {
      "groups": [
       3,
       4
      ],
-     "room": "403",
+     "room": "302",
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
+    },
+    {
+     "groups": [
+      3,
+      4
+     ],
+     "room": null,
+     "subgroup": "",
+     "teacher": "Герелишина А.К."
     }
    ],
    "start": "15:45",
-   "subject": "Макроэкономика II",
-   "subjectRaw": "МАКРОЭКОНОМИКА-II",
-   "timeOverride": false
-  },
-  {
-   "audience": "stream",
-   "cell": "Y4",
-   "date": "2026-12-23",
-   "end": "10:30",
-   "flags": {
-    "conflict": false
-   },
-   "id": "f7046bf01376",
-   "kind": "lecture",
-   "lessonKey": "d1d43096a568",
-   "pair": 1,
-   "raw": "ЛЕКЦИЯ ЭКОНОМЕТРИКА Пепа Р.Ю. 308",
-   "segments": [
-    {
-     "groups": [],
-     "room": "308",
-     "subgroup": "",
-     "teacher": "Пепа Р.Ю."
-    }
-   ],
-   "start": "09:00",
-   "subject": "Эконометрика",
-   "subjectRaw": "ЭКОНОМЕТРИКА",
+   "subject": "Зачет макроэкономика-II",
+   "subjectRaw": "ЗАЧЕТ МАКРОЭКОНОМИКА-II",
    "timeOverride": false
   },
   {
@@ -15912,11 +15904,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "a9da11b9bd80",
+   "id": "a72a6b27f966",
    "kind": "other",
-   "lessonKey": "b0cb0c3f73a7",
+   "lessonKey": "c21ae932260f",
    "pair": 2,
-   "raw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 1 гр. Мироненков А.А. 303 2 гр. Тарновская П.И. 304",
+   "raw": "ЗАЧЕТ ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 1 гр. Мироненков А.А. 303 2 гр. Тарновская П.И. 304",
    "segments": [
     {
      "groups": [
@@ -15936,37 +15928,8 @@
     }
    ],
    "start": "10:40",
-   "subject": "Эконометрический практикум",
-   "subjectRaw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "Y7",
-   "date": "2026-12-23",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "471b5b52cf7f",
-   "kind": "seminar",
-   "lessonKey": "2344369db7b9",
-   "pair": 2,
-   "raw": "СЗ ЭКОНОМЕТРИКА 3,4 гр. Аршакян Р.А. 302",
-   "segments": [
-    {
-     "groups": [
-      3,
-      4
-     ],
-     "room": "302",
-     "subgroup": "",
-     "teacher": "Аршакян Р.А."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Эконометрика",
-   "subjectRaw": "ЭКОНОМЕТРИКА",
+   "subject": "Зачет эконометрический практикум",
+   "subjectRaw": "ЗАЧЕТ ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ",
    "timeOverride": false
   },
   {
@@ -15977,11 +15940,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "f7df66b055b5",
+   "id": "4cfbdae26b8c",
    "kind": "other",
-   "lessonKey": "09b5f097192b",
+   "lessonKey": "8c1b91c2e540",
    "pair": 3,
-   "raw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 3 гр. Мироненков А.А. 303 4 гр. Тарновская П.И. 304",
+   "raw": "ЗАЧЕТ ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ 3 гр. Мироненков А.А. 303 4 гр. Тарновская П.И. 304",
    "segments": [
     {
      "groups": [
@@ -16001,37 +15964,8 @@
     }
    ],
    "start": "12:25",
-   "subject": "Эконометрический практикум",
-   "subjectRaw": "ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "Y9",
-   "date": "2026-12-23",
-   "end": "13:55",
-   "flags": {
-    "conflict": false
-   },
-   "id": "7a8edeaaa579",
-   "kind": "seminar",
-   "lessonKey": "be625a0d4cc1",
-   "pair": 3,
-   "raw": "СЗ ЭКОНОМЕТРИКА 1,2 гр. Аршакян Р.А. 302",
-   "segments": [
-    {
-     "groups": [
-      1,
-      2
-     ],
-     "room": "302",
-     "subgroup": "",
-     "teacher": "Аршакян Р.А."
-    }
-   ],
-   "start": "12:25",
-   "subject": "Эконометрика",
-   "subjectRaw": "ЭКОНОМЕТРИКА",
+   "subject": "Зачет эконометрический практикум",
+   "subjectRaw": "ЗАЧЕТ ЭКОНОМЕТРИЧЕСКИЙ ПРАКТИКУМ",
    "timeOverride": false
   },
   {
@@ -16325,7 +16259,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 516,
+  "cells": 510,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -16429,8 +16363,8 @@
    "2026-12-25",
    "2026-12-26"
   ],
-  "hash": "9389208822118B850E48229BE997DD8C0D1A5D8D",
-  "mtime": 1794827550,
+  "hash": "61619D26C81695CC0C84BBAF664E49BD09CF6CA0",
+  "mtime": 1794827767,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26, 3 курс_НОЯБРЬ_26, 3 курс_ДЕКАБРЬ_26 ",
