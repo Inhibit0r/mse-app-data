@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-11-16T11:03:00+00:00",
+ "generatedAt": "2026-11-16T11:08:00+00:00",
  "groups": [
   1,
   2,
@@ -15542,22 +15542,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "ccc75aac0b79",
-   "kind": "lecture",
-   "lessonKey": "1894d7c0e740",
+   "id": "3121c58513ec",
+   "kind": "other",
+   "lessonKey": "a351a6b55905",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. Д",
+   "raw": "ЗАЧЕТ Налоги и налогообложение Наумова Т.А. 402",
    "segments": [
     {
      "groups": [],
-     "room": null,
+     "room": "402",
      "subgroup": "",
      "teacher": "Наумова Т.А."
     }
    ],
    "start": "12:25",
-   "subject": "Налоги и налогообложение д",
-   "subjectRaw": "Налоги и налогообложение Д",
+   "subject": "Зачет налоги и налогообложение",
+   "subjectRaw": "ЗАЧЕТ Налоги и налогообложение",
    "timeOverride": false
   },
   {
@@ -15568,22 +15568,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "2e5c87029b88",
-   "kind": "lecture",
-   "lessonKey": "b98f31acf1cb",
+   "id": "880a3951422e",
+   "kind": "other",
+   "lessonKey": "3c62415fe61f",
    "pair": 4,
-   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. Д",
+   "raw": "ЗАЧЕТ Налоги и налогообложение Наумова Т.А. 402",
    "segments": [
     {
      "groups": [],
-     "room": null,
+     "room": "402",
      "subgroup": "",
      "teacher": "Наумова Т.А."
     }
    ],
    "start": "14:10",
-   "subject": "Налоги и налогообложение д",
-   "subjectRaw": "Налоги и налогообложение Д",
+   "subject": "Зачет налоги и налогообложение",
+   "subjectRaw": "ЗАЧЕТ Налоги и налогообложение",
    "timeOverride": false
   },
   {
@@ -16489,58 +16489,6 @@
    "subject": "Функциональный анализ",
    "subjectRaw": "ФУНКЦИОНАЛЬНЫЙ АНАЛИЗ",
    "timeOverride": false
-  },
-  {
-   "audience": "stream",
-   "cell": "AB8",
-   "date": "2026-12-26",
-   "end": "13:55",
-   "flags": {
-    "conflict": false
-   },
-   "id": "1457bd00a952",
-   "kind": "lecture",
-   "lessonKey": "e476d039be6f",
-   "pair": 3,
-   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. Д",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Наумова Т.А."
-    }
-   ],
-   "start": "12:25",
-   "subject": "Налоги и налогообложение д",
-   "subjectRaw": "Налоги и налогообложение Д",
-   "timeOverride": false
-  },
-  {
-   "audience": "stream",
-   "cell": "AB10",
-   "date": "2026-12-26",
-   "end": "15:40",
-   "flags": {
-    "conflict": false
-   },
-   "id": "df7b395c13f1",
-   "kind": "lecture",
-   "lessonKey": "e742273ad93f",
-   "pair": 4,
-   "raw": "ЛЕКЦИЯ Налоги и налогообложение Наумова Т.А. Д",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": "Наумова Т.А."
-    }
-   ],
-   "start": "14:10",
-   "subject": "Налоги и налогообложение д",
-   "subjectRaw": "Налоги и налогообложение Д",
-   "timeOverride": false
   }
  ],
  "range": {
@@ -16549,7 +16497,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 528,
+  "cells": 526,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -16653,8 +16601,8 @@
    "2026-12-25",
    "2026-12-26"
   ],
-  "hash": "35B5E389C7347E45A954AEEFFA1E7EF6913B775B",
-  "mtime": 1794826882,
+  "hash": "B56A2DA05615E3914D80881FF9E2562A7B54BDFA",
+  "mtime": 1794827215,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26, 3 курс_НОЯБРЬ_26, 3 курс_ДЕКАБРЬ_26 ",
