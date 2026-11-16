@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-11-16T11:48:08+00:00",
+ "generatedAt": "2026-11-16T11:53:08+00:00",
  "groups": [
   1,
   2,
@@ -10134,59 +10134,7 @@
   },
   {
    "audience": "personal",
-   "cell": "P4",
-   "date": "2026-12-07",
-   "end": "10:30",
-   "flags": {
-    "conflict": false
-   },
-   "id": "2319e461fbc6",
-   "kind": "military",
-   "lessonKey": "81f0e8040557",
-   "pair": 1,
-   "raw": "ВОЕННАЯ КАФЕДРА",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": null
-    }
-   ],
-   "start": "09:00",
-   "subject": "Военная кафедра",
-   "subjectRaw": "",
-   "timeOverride": false
-  },
-  {
-   "audience": "personal",
    "cell": "I4",
-   "date": "2026-12-07",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "567632814c40",
-   "kind": "military",
-   "lessonKey": "7d54f9588ff7",
-   "pair": 2,
-   "raw": "ВОЕННАЯ КАФЕДРА",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": null
-    }
-   ],
-   "start": "10:40",
-   "subject": "Военная кафедра",
-   "subjectRaw": "",
-   "timeOverride": false
-  },
-  {
-   "audience": "personal",
-   "cell": "P4",
    "date": "2026-12-07",
    "end": "12:10",
    "flags": {
@@ -10238,59 +10186,7 @@
   },
   {
    "audience": "personal",
-   "cell": "P4",
-   "date": "2026-12-07",
-   "end": "13:55",
-   "flags": {
-    "conflict": false
-   },
-   "id": "cc9a59d02c8f",
-   "kind": "military",
-   "lessonKey": "4dc13aaca358",
-   "pair": 3,
-   "raw": "ВОЕННАЯ КАФЕДРА",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": null
-    }
-   ],
-   "start": "12:25",
-   "subject": "Военная кафедра",
-   "subjectRaw": "",
-   "timeOverride": false
-  },
-  {
-   "audience": "personal",
    "cell": "I4",
-   "date": "2026-12-07",
-   "end": "15:40",
-   "flags": {
-    "conflict": false
-   },
-   "id": "9515aa67e288",
-   "kind": "military",
-   "lessonKey": "a5a24c83beef",
-   "pair": 4,
-   "raw": "ВОЕННАЯ КАФЕДРА",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": null
-    }
-   ],
-   "start": "14:10",
-   "subject": "Военная кафедра",
-   "subjectRaw": "",
-   "timeOverride": false
-  },
-  {
-   "audience": "personal",
-   "cell": "P4",
    "date": "2026-12-07",
    "end": "15:40",
    "flags": {
@@ -10342,59 +10238,7 @@
   },
   {
    "audience": "stream",
-   "cell": "Q10",
-   "date": "2026-12-08",
-   "end": "15:40",
-   "flags": {
-    "conflict": false
-   },
-   "id": "3fa951f9e8ef",
-   "kind": "lecture",
-   "lessonKey": "f3c8e930e1a6",
-   "pair": 4,
-   "raw": "ЛЕКЦИЯ ЭКОНОМИКА ТРУДА Починкин Д.В. 302",
-   "segments": [
-    {
-     "groups": [],
-     "room": "302",
-     "subgroup": "",
-     "teacher": "Починкин Д.В."
-    }
-   ],
-   "start": "14:10",
-   "subject": "Экономика труда",
-   "subjectRaw": "ЭКОНОМИКА ТРУДА",
-   "timeOverride": false
-  },
-  {
-   "audience": "stream",
    "cell": "J12",
-   "date": "2026-12-08",
-   "end": "17:15",
-   "flags": {
-    "conflict": false
-   },
-   "id": "7e4540af0900",
-   "kind": "seminar",
-   "lessonKey": "f745e72b6725",
-   "pair": 5,
-   "raw": "СЗ ЭКСПЕРИМЕНТАЛЬНАЯ ЭКОНОМИКА Колпаков Д.В. 303",
-   "segments": [
-    {
-     "groups": [],
-     "room": "303",
-     "subgroup": "",
-     "teacher": "Колпаков Д.В."
-    }
-   ],
-   "start": "15:45",
-   "subject": "Экспериментальная экономика",
-   "subjectRaw": "ЭКСПЕРИМЕНТАЛЬНАЯ ЭКОНОМИКА",
-   "timeOverride": false
-  },
-  {
-   "audience": "stream",
-   "cell": "Q12",
    "date": "2026-12-08",
    "end": "17:15",
    "flags": {
@@ -10445,38 +10289,12 @@
    "timeOverride": false
   },
   {
-   "audience": "stream",
-   "cell": "R4",
-   "date": "2026-12-09",
-   "end": "10:30",
-   "flags": {
-    "conflict": false
-   },
-   "id": "aa414c72a7e8",
-   "kind": "lecture",
-   "lessonKey": "c0a34edae317",
-   "pair": 1,
-   "raw": "ЛЕКЦИЯ ФИНАНСЫ И КРЕДИТ Мусаев Р.А. 417",
-   "segments": [
-    {
-     "groups": [],
-     "room": "417",
-     "subgroup": "",
-     "teacher": "Мусаев Р.А."
-    }
-   ],
-   "start": "09:00",
-   "subject": "Финансы и кредит",
-   "subjectRaw": "ФИНАНСЫ И КРЕДИТ",
-   "timeOverride": false
-  },
-  {
    "audience": "groups",
    "cell": "K6",
    "date": "2026-12-09",
    "end": "12:10",
    "flags": {
-    "conflict": true
+    "conflict": false
    },
    "id": "7076f645bfb2",
    "kind": "seminar",
@@ -10504,64 +10322,7 @@
    "date": "2026-12-09",
    "end": "12:10",
    "flags": {
-    "conflict": true
-   },
-   "id": "b072217aa238",
-   "kind": "seminar",
-   "lessonKey": "3021b57468de",
-   "pair": 2,
-   "raw": "СЗ ФИНАНСЫ И КРЕДИТ 2,3 гр. Мусаев Р.А. 417",
-   "segments": [
-    {
-     "groups": [
-      2,
-      3
-     ],
-     "room": "417",
-     "subgroup": "",
-     "teacher": "Мусаев Р.А."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Финансы и кредит",
-   "subjectRaw": "ФИНАНСЫ И КРЕДИТ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "R6",
-   "date": "2026-12-09",
-   "end": "12:10",
-   "flags": {
-    "conflict": true
-   },
-   "id": "7076f645bfb2",
-   "kind": "seminar",
-   "lessonKey": "9a784997bedd",
-   "pair": 2,
-   "raw": "СЗ ТОР 1 гр. Селезнев А.И. 315",
-   "segments": [
-    {
-     "groups": [
-      1
-     ],
-     "room": "315",
-     "subgroup": "",
-     "teacher": "Селезнев А.И."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Теория отраслевых рынков",
-   "subjectRaw": "ТОР",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "R7",
-   "date": "2026-12-09",
-   "end": "12:10",
-   "flags": {
-    "conflict": true
+    "conflict": false
    },
    "id": "b072217aa238",
    "kind": "seminar",
@@ -10590,36 +10351,7 @@
    "date": "2026-12-09",
    "end": "13:55",
    "flags": {
-    "conflict": true
-   },
-   "id": "0425eb48956c",
-   "kind": "seminar",
-   "lessonKey": "f7975428db25",
-   "pair": 3,
-   "raw": "СЗ ФИНАНСЫ И КРЕДИТ 1,4 гр. Мусаев Р.А. 417",
-   "segments": [
-    {
-     "groups": [
-      1,
-      4
-     ],
-     "room": "417",
-     "subgroup": "",
-     "teacher": "Мусаев Р.А."
-    }
-   ],
-   "start": "12:25",
-   "subject": "Финансы и кредит",
-   "subjectRaw": "ФИНАНСЫ И КРЕДИТ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "R8",
-   "date": "2026-12-09",
-   "end": "13:55",
-   "flags": {
-    "conflict": true
+    "conflict": false
    },
    "id": "0425eb48956c",
    "kind": "seminar",
@@ -10670,59 +10402,7 @@
   },
   {
    "audience": "personal",
-   "cell": "R10",
-   "date": "2026-12-09",
-   "end": "16:40",
-   "flags": {
-    "conflict": false
-   },
-   "id": "549b2a2f888f",
-   "kind": "mfk",
-   "lessonKey": "af1ed0ae249a",
-   "pair": 4,
-   "raw": "15.10-16.40 МЕЖФАКУЛЬТЕТСКИЕ КУРСЫ",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": null
-    }
-   ],
-   "start": "15:10",
-   "subject": "Межфакультетские курсы",
-   "subjectRaw": "",
-   "timeOverride": true
-  },
-  {
-   "audience": "personal",
    "cell": "K10",
-   "date": "2026-12-09",
-   "end": "16:40",
-   "flags": {
-    "conflict": false
-   },
-   "id": "86b47d3dbd46",
-   "kind": "mfk",
-   "lessonKey": "b2dbb9362b0b",
-   "pair": 5,
-   "raw": "15.10-16.40 МЕЖФАКУЛЬТЕТСКИЕ КУРСЫ",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": null
-    }
-   ],
-   "start": "15:10",
-   "subject": "Межфакультетские курсы",
-   "subjectRaw": "",
-   "timeOverride": true
-  },
-  {
-   "audience": "personal",
-   "cell": "R10",
    "date": "2026-12-09",
    "end": "16:40",
    "flags": {
@@ -10773,38 +10453,12 @@
    "timeOverride": false
   },
   {
-   "audience": "stream",
-   "cell": "S4",
-   "date": "2026-12-10",
-   "end": "10:30",
-   "flags": {
-    "conflict": false
-   },
-   "id": "c4f664b7ca83",
-   "kind": "lecture",
-   "lessonKey": "b96620f06835",
-   "pair": 1,
-   "raw": "ЛЕКЦИЯ АНАЛИЗ-II Пепа Р.Ю. 308",
-   "segments": [
-    {
-     "groups": [],
-     "room": "308",
-     "subgroup": "",
-     "teacher": "Пепа Р.Ю."
-    }
-   ],
-   "start": "09:00",
-   "subject": "Анализ II",
-   "subjectRaw": "АНАЛИЗ-II",
-   "timeOverride": false
-  },
-  {
    "audience": "groups",
    "cell": "L6",
    "date": "2026-12-10",
    "end": "12:10",
    "flags": {
-    "conflict": true
+    "conflict": false
    },
    "id": "00c97a57b23a",
    "kind": "seminar",
@@ -10833,65 +10487,7 @@
    "date": "2026-12-10",
    "end": "12:10",
    "flags": {
-    "conflict": true
-   },
-   "id": "f6968ba8da19",
-   "kind": "seminar",
-   "lessonKey": "66466c9eae43",
-   "pair": 2,
-   "raw": "СЗ АНАЛИЗ - II 2,3 гр. Пепа Р.Ю. 113",
-   "segments": [
-    {
-     "groups": [
-      2,
-      3
-     ],
-     "room": "113",
-     "subgroup": "",
-     "teacher": "Пепа Р.Ю."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Анализ II",
-   "subjectRaw": "АНАЛИЗ - II",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "S6",
-   "date": "2026-12-10",
-   "end": "12:10",
-   "flags": {
-    "conflict": true
-   },
-   "id": "00c97a57b23a",
-   "kind": "seminar",
-   "lessonKey": "0153742ab4a8",
-   "pair": 2,
-   "raw": "СЗ ЭКОНОМИКА ТРУДА 1,4 гр. Починкин Д.В. 309",
-   "segments": [
-    {
-     "groups": [
-      1,
-      4
-     ],
-     "room": "309",
-     "subgroup": "",
-     "teacher": "Починкин Д.В."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Экономика труда",
-   "subjectRaw": "ЭКОНОМИКА ТРУДА",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "S7",
-   "date": "2026-12-10",
-   "end": "12:10",
-   "flags": {
-    "conflict": true
+    "conflict": false
    },
    "id": "f6968ba8da19",
    "kind": "seminar",
@@ -10920,36 +10516,7 @@
    "date": "2026-12-10",
    "end": "13:55",
    "flags": {
-    "conflict": true
-   },
-   "id": "0caf33af6ec1",
-   "kind": "seminar",
-   "lessonKey": "eef5a2799a6e",
-   "pair": 3,
-   "raw": "СЗ ЭКОНОМИКА ТРУДА 2,3 гр. Починкин Д.В. 309",
-   "segments": [
-    {
-     "groups": [
-      2,
-      3
-     ],
-     "room": "309",
-     "subgroup": "",
-     "teacher": "Починкин Д.В."
-    }
-   ],
-   "start": "12:25",
-   "subject": "Экономика труда",
-   "subjectRaw": "ЭКОНОМИКА ТРУДА",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "S8",
-   "date": "2026-12-10",
-   "end": "13:55",
-   "flags": {
-    "conflict": true
+    "conflict": false
    },
    "id": "0caf33af6ec1",
    "kind": "seminar",
@@ -10978,36 +10545,7 @@
    "date": "2026-12-10",
    "end": "15:40",
    "flags": {
-    "conflict": true
-   },
-   "id": "481eabebce6b",
-   "kind": "seminar",
-   "lessonKey": "2705d47101cb",
-   "pair": 4,
-   "raw": "СЗ АНАЛИЗ - II 1,4 гр. Пепа Р.Ю. 113",
-   "segments": [
-    {
-     "groups": [
-      1,
-      4
-     ],
-     "room": "113",
-     "subgroup": "",
-     "teacher": "Пепа Р.Ю."
-    }
-   ],
-   "start": "14:10",
-   "subject": "Анализ II",
-   "subjectRaw": "АНАЛИЗ - II",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "S10",
-   "date": "2026-12-10",
-   "end": "15:40",
-   "flags": {
-    "conflict": true
+    "conflict": false
    },
    "id": "481eabebce6b",
    "kind": "seminar",
@@ -11057,39 +10595,481 @@
    "timeOverride": false
   },
   {
-   "audience": "stream",
-   "cell": "T6",
-   "date": "2026-12-11",
+   "audience": "personal",
+   "cell": "P4",
+   "date": "2026-12-14",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "cb3c28354cd0",
+   "kind": "military",
+   "lessonKey": "f76cbe66fb2e",
+   "pair": 1,
+   "raw": "ВОЕННАЯ КАФЕДРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "09:00",
+   "subject": "Военная кафедра",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "P4",
+   "date": "2026-12-14",
    "end": "12:10",
    "flags": {
     "conflict": false
    },
-   "id": "d4222ec6e7ca",
-   "kind": "lecture",
-   "lessonKey": "b2dbb5ee7fd9",
+   "id": "879afced05e6",
+   "kind": "military",
+   "lessonKey": "fb9579ae91f9",
    "pair": 2,
-   "raw": "ЛЕКЦИЯ СЕТЕВАЯ ЭКОНОМИКА Устюжанина Е.В. 302",
+   "raw": "ВОЕННАЯ КАФЕДРА",
    "segments": [
     {
      "groups": [],
-     "room": "302",
+     "room": null,
      "subgroup": "",
-     "teacher": "Устюжанина Е.В."
+     "teacher": null
     }
    ],
    "start": "10:40",
-   "subject": "Сетевая экономика",
-   "subjectRaw": "СЕТЕВАЯ ЭКОНОМИКА",
+   "subject": "Военная кафедра",
+   "subjectRaw": "",
    "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "P4",
+   "date": "2026-12-14",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "ed8233e456bd",
+   "kind": "military",
+   "lessonKey": "bf7fadccc4c2",
+   "pair": 3,
+   "raw": "ВОЕННАЯ КАФЕДРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "12:25",
+   "subject": "Военная кафедра",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "P4",
+   "date": "2026-12-14",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "43261bc9234d",
+   "kind": "military",
+   "lessonKey": "2608a112aeb5",
+   "pair": 4,
+   "raw": "ВОЕННАЯ КАФЕДРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "14:10",
+   "subject": "Военная кафедра",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "R10",
+   "date": "2026-12-16",
+   "end": "16:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "b57bbee05ed5",
+   "kind": "mfk",
+   "lessonKey": "8a06b94d00ac",
+   "pair": 4,
+   "raw": "15.10-16.40 МЕЖФАКУЛЬТЕТСКИЕ КУРСЫ",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "15:10",
+   "subject": "Межфакультетские курсы",
+   "subjectRaw": "",
+   "timeOverride": true
+  },
+  {
+   "audience": "personal",
+   "cell": "R10",
+   "date": "2026-12-16",
+   "end": "16:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "a3e90e4fd317",
+   "kind": "mfk",
+   "lessonKey": "77f047554b9a",
+   "pair": 5,
+   "raw": "15.10-16.40 МЕЖФАКУЛЬТЕТСКИЕ КУРСЫ",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "15:10",
+   "subject": "Межфакультетские курсы",
+   "subjectRaw": "",
+   "timeOverride": true
+  },
+  {
+   "audience": "personal",
+   "cell": "W4",
+   "date": "2026-12-21",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "3f63fe9d8441",
+   "kind": "military",
+   "lessonKey": "7fa3dc4d8955",
+   "pair": 1,
+   "raw": "ВОЕННАЯ КАФЕДРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "09:00",
+   "subject": "Военная кафедра",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "W4",
+   "date": "2026-12-21",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "4a383e47a470",
+   "kind": "military",
+   "lessonKey": "5e37bb038264",
+   "pair": 2,
+   "raw": "ВОЕННАЯ КАФЕДРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "10:40",
+   "subject": "Военная кафедра",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "W4",
+   "date": "2026-12-21",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "deb7630fea62",
+   "kind": "military",
+   "lessonKey": "457f3f8398c5",
+   "pair": 3,
+   "raw": "ВОЕННАЯ КАФЕДРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "12:25",
+   "subject": "Военная кафедра",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "W4",
+   "date": "2026-12-21",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "a931f196fa79",
+   "kind": "military",
+   "lessonKey": "1ab1055e6c26",
+   "pair": 4,
+   "raw": "ВОЕННАЯ КАФЕДРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "14:10",
+   "subject": "Военная кафедра",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "Y10",
+   "date": "2026-12-23",
+   "end": "16:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "d104ce27a31b",
+   "kind": "mfk",
+   "lessonKey": "0923cf65047c",
+   "pair": 4,
+   "raw": "15.10-16.40 МЕЖФАКУЛЬТЕТСКИЕ КУРСЫ",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "15:10",
+   "subject": "Межфакультетские курсы",
+   "subjectRaw": "",
+   "timeOverride": true
+  },
+  {
+   "audience": "personal",
+   "cell": "Y10",
+   "date": "2026-12-23",
+   "end": "16:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "eed96a83f2bb",
+   "kind": "mfk",
+   "lessonKey": "c31fff37f357",
+   "pair": 5,
+   "raw": "15.10-16.40 МЕЖФАКУЛЬТЕТСКИЕ КУРСЫ",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "15:10",
+   "subject": "Межфакультетские курсы",
+   "subjectRaw": "",
+   "timeOverride": true
+  },
+  {
+   "audience": "personal",
+   "cell": "AD4",
+   "date": "2026-12-28",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "4a944c947b4d",
+   "kind": "military",
+   "lessonKey": "a463badffe23",
+   "pair": 1,
+   "raw": "ВОЕННАЯ КАФЕДРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "09:00",
+   "subject": "Военная кафедра",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "AD4",
+   "date": "2026-12-28",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "2c8bb014e61b",
+   "kind": "military",
+   "lessonKey": "28cb8368e4cf",
+   "pair": 2,
+   "raw": "ВОЕННАЯ КАФЕДРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "10:40",
+   "subject": "Военная кафедра",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "AD4",
+   "date": "2026-12-28",
+   "end": "13:55",
+   "flags": {
+    "conflict": false
+   },
+   "id": "75218f6d39ba",
+   "kind": "military",
+   "lessonKey": "ac628305bd5d",
+   "pair": 3,
+   "raw": "ВОЕННАЯ КАФЕДРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "12:25",
+   "subject": "Военная кафедра",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "AD4",
+   "date": "2026-12-28",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "eef407126d9e",
+   "kind": "military",
+   "lessonKey": "e75cb20b5314",
+   "pair": 4,
+   "raw": "ВОЕННАЯ КАФЕДРА",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "14:10",
+   "subject": "Военная кафедра",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "AF10",
+   "date": "2026-12-30",
+   "end": "16:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "b1888dddee0a",
+   "kind": "mfk",
+   "lessonKey": "3a6b2db84754",
+   "pair": 4,
+   "raw": "15.10-16.40 МЕЖФАКУЛЬТЕТСКИЕ КУРСЫ",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "15:10",
+   "subject": "Межфакультетские курсы",
+   "subjectRaw": "",
+   "timeOverride": true
+  },
+  {
+   "audience": "personal",
+   "cell": "AF10",
+   "date": "2026-12-30",
+   "end": "16:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "7d7af99bcbc5",
+   "kind": "mfk",
+   "lessonKey": "0bab4cd6e8c4",
+   "pair": 5,
+   "raw": "15.10-16.40 МЕЖФАКУЛЬТЕТСКИЕ КУРСЫ",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "15:10",
+   "subject": "Межфакультетские курсы",
+   "subjectRaw": "",
+   "timeOverride": true
   }
  ],
  "range": {
   "from": "2026-09-01",
-  "to": "2026-12-12"
+  "to": "2026-12-30"
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 378,
+  "cells": 342,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -11179,119 +11159,29 @@
    "2026-12-09",
    "2026-12-10",
    "2026-12-11",
-   "2026-12-12"
+   "2026-12-12",
+   "2026-12-14",
+   "2026-12-15",
+   "2026-12-16",
+   "2026-12-17",
+   "2026-12-18",
+   "2026-12-19",
+   "2026-12-21",
+   "2026-12-22",
+   "2026-12-23",
+   "2026-12-24",
+   "2026-12-25",
+   "2026-12-26",
+   "2026-12-28",
+   "2026-12-29",
+   "2026-12-30"
   ],
-  "hash": "A1CAFF7566D48C407BAA9EE543AF33182B7E50EB",
-  "mtime": 1794829667,
+  "hash": "FF441F89D553E62DC6E07B59D3B78C5239ED12D6",
+  "mtime": 1794829953,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26, 4 курс_НОЯБРЬ_26, 4 курс_ДЕКАБРЬ_26 ",
   "weblink": "ZT9D/NLnydzE8E"
  },
- "warnings": [
-  {
-   "cells": [
-    "K6",
-    "R6"
-   ],
-   "code": "conflict",
-   "message": "конфликт групп 2026-12-09 пара 2: группа 1 в двух парах"
-  },
-  {
-   "cells": [
-    "K7",
-    "R7"
-   ],
-   "code": "conflict",
-   "message": "конфликт групп 2026-12-09 пара 2: группа 2 в двух парах"
-  },
-  {
-   "cells": [
-    "K7",
-    "R7"
-   ],
-   "code": "conflict",
-   "message": "конфликт групп 2026-12-09 пара 2: группа 3 в двух парах"
-  },
-  {
-   "cells": [
-    "K8",
-    "R8"
-   ],
-   "code": "conflict",
-   "message": "конфликт групп 2026-12-09 пара 3: группа 1 в двух парах"
-  },
-  {
-   "cells": [
-    "K8",
-    "R8"
-   ],
-   "code": "conflict",
-   "message": "конфликт групп 2026-12-09 пара 3: группа 4 в двух парах"
-  },
-  {
-   "cells": [
-    "L6",
-    "S6"
-   ],
-   "code": "conflict",
-   "message": "конфликт групп 2026-12-10 пара 2: группа 1 в двух парах"
-  },
-  {
-   "cells": [
-    "L6",
-    "S6"
-   ],
-   "code": "conflict",
-   "message": "конфликт групп 2026-12-10 пара 2: группа 4 в двух парах"
-  },
-  {
-   "cells": [
-    "L7",
-    "S7"
-   ],
-   "code": "conflict",
-   "message": "конфликт групп 2026-12-10 пара 2: группа 2 в двух парах"
-  },
-  {
-   "cells": [
-    "L7",
-    "S7"
-   ],
-   "code": "conflict",
-   "message": "конфликт групп 2026-12-10 пара 2: группа 3 в двух парах"
-  },
-  {
-   "cells": [
-    "L8",
-    "S8"
-   ],
-   "code": "conflict",
-   "message": "конфликт групп 2026-12-10 пара 3: группа 2 в двух парах"
-  },
-  {
-   "cells": [
-    "L8",
-    "S8"
-   ],
-   "code": "conflict",
-   "message": "конфликт групп 2026-12-10 пара 3: группа 3 в двух парах"
-  },
-  {
-   "cells": [
-    "L10",
-    "S10"
-   ],
-   "code": "conflict",
-   "message": "конфликт групп 2026-12-10 пара 4: группа 1 в двух парах"
-  },
-  {
-   "cells": [
-    "L10",
-    "S10"
-   ],
-   "code": "conflict",
-   "message": "конфликт групп 2026-12-10 пара 4: группа 4 в двух парах"
-  }
- ]
+ "warnings": []
 }
