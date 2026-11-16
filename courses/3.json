@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-11-16T11:18:05+00:00",
+ "generatedAt": "2026-11-16T11:23:06+00:00",
  "groups": [
   1,
   2,
@@ -15969,42 +15969,6 @@
    "timeOverride": false
   },
   {
-   "audience": "groups",
-   "cell": "Z6",
-   "date": "2026-12-24",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "69adf1de9be4",
-   "kind": "seminar",
-   "lessonKey": "be6aad6bb3c9",
-   "pair": 2,
-   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 1 гр. Шаклеина М.В. 303 2 гр. Попова Т.А. 304",
-   "segments": [
-    {
-     "groups": [
-      1
-     ],
-     "room": "303",
-     "subgroup": "",
-     "teacher": "Шаклеина М.В."
-    },
-    {
-     "groups": [
-      2
-     ],
-     "room": "304",
-     "subgroup": "",
-     "teacher": "Попова Т.А."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Социально-экономическая статистика",
-   "subjectRaw": "СОЦ.- ЭКОНОМ. СТАТИСТИКА",
-   "timeOverride": false
-  },
-  {
    "audience": "stream",
    "cell": "Z8",
    "date": "2026-12-24",
@@ -16012,11 +15976,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "aea4e353cf5a",
-   "kind": "lecture",
-   "lessonKey": "88d963681dc6",
+   "id": "8b52d607c17f",
+   "kind": "other",
+   "lessonKey": "50176b71703b",
    "pair": 3,
-   "raw": "ЛЕКЦИЯ МИКРОЭКОНОМИКА Кукушкин Д.С. 302",
+   "raw": "ЗАЧЕТ МИКРОЭКОНОМИКА Кукушкин Д.С. Починкин Д.В. 302",
    "segments": [
     {
      "groups": [],
@@ -16026,59 +15990,23 @@
     }
    ],
    "start": "12:25",
-   "subject": "Микроэкономика",
-   "subjectRaw": "МИКРОЭКОНОМИКА",
+   "subject": "Зачет микроэкономика",
+   "subjectRaw": "ЗАЧЕТ МИКРОЭКОНОМИКА",
    "timeOverride": false
   },
   {
-   "audience": "groups",
-   "cell": "Z10",
-   "date": "2026-12-24",
-   "end": "15:40",
-   "flags": {
-    "conflict": false
-   },
-   "id": "3dab00703c3f",
-   "kind": "seminar",
-   "lessonKey": "e9f97e98a855",
-   "pair": 4,
-   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 3 гр. Селезнев А.И. 303 4 гр. Лариошина Л.Ю. 304",
-   "segments": [
-    {
-     "groups": [
-      3
-     ],
-     "room": "303",
-     "subgroup": "",
-     "teacher": "Селезнев А.И."
-    },
-    {
-     "groups": [
-      4
-     ],
-     "room": "304",
-     "subgroup": "",
-     "teacher": "Лариошина Л.Ю."
-    }
-   ],
-   "start": "14:10",
-   "subject": "Социально-экономическая статистика",
-   "subjectRaw": "СОЦ.- ЭКОНОМ. СТАТИСТИКА",
-   "timeOverride": false
-  },
-  {
-   "audience": "personal",
+   "audience": "stream",
    "cell": "Z13",
    "date": "2026-12-24",
    "end": "17:15",
    "flags": {
     "conflict": false
    },
-   "id": "9e197a17ba03",
-   "kind": "russian_foreign",
-   "lessonKey": "922e26b3eab6",
+   "id": "eead0d9ed988",
+   "kind": "other",
+   "lessonKey": "aebdcfeeb770",
    "pair": 5,
-   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. 403",
+   "raw": "ЗАЧЕТ РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. 403",
    "segments": [
     {
      "groups": [],
@@ -16088,8 +16016,8 @@
     }
    ],
    "start": "15:45",
-   "subject": "Русский язык для иностранцев",
-   "subjectRaw": "",
+   "subject": "Зачет русский язык ДЛЯ иностранцев",
+   "subjectRaw": "ЗАЧЕТ РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ",
    "timeOverride": false
   },
   {
@@ -16198,17 +16126,17 @@
   },
   {
    "audience": "groups",
-   "cell": "AB5",
+   "cell": "AB4",
    "date": "2026-12-26",
    "end": "10:30",
    "flags": {
     "conflict": false
    },
-   "id": "1ff2d1742d17",
-   "kind": "lecture",
-   "lessonKey": "8965f89182d3",
+   "id": "8951b9a210e1",
+   "kind": "other",
+   "lessonKey": "7afaf346d63f",
    "pair": 1,
-   "raw": "ЛЕКЦИЯ ФУНКЦИОНАЛЬНЫЙ АНАЛИЗ 1 гр. Пепа Р.Ю. 403",
+   "raw": "ЗАЧЕТ ФУНКЦИОНАЛЬНЫЙ АНАЛИЗ 1 гр. Пепа Р.Ю. 403",
    "segments": [
     {
      "groups": [
@@ -16220,36 +16148,8 @@
     }
    ],
    "start": "09:00",
-   "subject": "Функциональный анализ",
-   "subjectRaw": "ФУНКЦИОНАЛЬНЫЙ АНАЛИЗ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "AB6",
-   "date": "2026-12-26",
-   "end": "12:10",
-   "flags": {
-    "conflict": false
-   },
-   "id": "97d880de607f",
-   "kind": "seminar",
-   "lessonKey": "9a01bcbf9cfa",
-   "pair": 2,
-   "raw": "СЗ ФУНКЦИОНАЛЬНЫЙ АНАЛИЗ 1гр. Пепа Р.Ю. 403",
-   "segments": [
-    {
-     "groups": [
-      1
-     ],
-     "room": "403",
-     "subgroup": "",
-     "teacher": "Пепа Р.Ю."
-    }
-   ],
-   "start": "10:40",
-   "subject": "Функциональный анализ",
-   "subjectRaw": "ФУНКЦИОНАЛЬНЫЙ АНАЛИЗ",
+   "subject": "Зачет функциональный анализ",
+   "subjectRaw": "ЗАЧЕТ ФУНКЦИОНАЛЬНЫЙ АНАЛИЗ",
    "timeOverride": false
   }
  ],
@@ -16259,7 +16159,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 510,
+  "cells": 507,
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -16363,8 +16263,8 @@
    "2026-12-25",
    "2026-12-26"
   ],
-  "hash": "61619D26C81695CC0C84BBAF664E49BD09CF6CA0",
-  "mtime": 1794827767,
+  "hash": "0B1F9584D2023807B519F994B0C8D13890FEC0BF",
+  "mtime": 1794828046,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 3,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26, 3 курс_НОЯБРЬ_26, 3 курс_ДЕКАБРЬ_26 ",
