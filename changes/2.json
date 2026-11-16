@@ -3,6 +3,18 @@
  "events": [
   {
    "date": "2026-09-01",
+   "detectedAt": "2026-11-16T10:07:48+00:00",
+   "groups": [],
+   "id": "557fea373335",
+   "kind": null,
+   "lessonKey": null,
+   "pair": null,
+   "subject": null,
+   "text": "Новый период расписания: 01.09 – 30.12",
+   "type": "period"
+  },
+  {
+   "date": "2026-09-01",
    "detectedAt": "2026-11-16T09:47:47+00:00",
    "groups": [],
    "id": "2a9a852d8a78",
