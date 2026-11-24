@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-11-16T11:28:06+00:00",
+ "generatedAt": "2026-11-24T11:22:37+00:00",
  "groups": [
   1,
   2,
@@ -11092,20 +11092,27 @@
    "flags": {
     "conflict": false
    },
-   "id": "20b54589eaa4",
+   "id": "677070634ac0",
    "kind": "seminar",
    "lessonKey": "22af9ae6e053",
    "pair": 5,
-   "raw": "СЗ МАКРОЭКОНОМИКА-II 3,4 гр Кукушкин Д. С. 308",
+   "raw": "СЗ МАКРОЭКОНОМИКА-II 3 гр Кукушкин Д. С. 308 4гр. Герелишина А.К. 403",
    "segments": [
     {
      "groups": [
-      3,
-      4
+      3
      ],
      "room": "308",
      "subgroup": "",
      "teacher": "Кукушкин Д.С."
+    },
+    {
+     "groups": [
+      4
+     ],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Герелишина А.К."
     }
    ],
    "start": "15:45",
@@ -11323,32 +11330,6 @@
   },
   {
    "audience": "personal",
-   "cell": "R14",
-   "date": "2026-11-18",
-   "end": null,
-   "flags": {
-    "conflict": false
-   },
-   "id": "278c9d2ff60c",
-   "kind": "retake",
-   "lessonKey": "f5e8531eece3",
-   "pair": 4,
-   "raw": "14:10 ПЕРЕСДАЧА ЗА ЛЕТО ЭОС для тех у кого справки Лобанова Е.О. Никитина С.А. 403",
-   "segments": [
-    {
-     "groups": [],
-     "room": "403",
-     "subgroup": "",
-     "teacher": "Лобанова Е.О., Никитина С.А."
-    }
-   ],
-   "start": "14:10",
-   "subject": "ЭОС для тех у кого справки",
-   "subjectRaw": "ЭОС для тех у кого справки",
-   "timeOverride": true
-  },
-  {
-   "audience": "personal",
    "cell": "R10",
    "date": "2026-11-18",
    "end": "17:15",
@@ -11462,11 +11443,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "b89cabf0e8d8",
+   "id": "25a2abb6bc4e",
    "kind": "seminar",
    "lessonKey": "cdb147c12bf5",
    "pair": 4,
-   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 3 гр. Селезнев А.И. 303 4 гр. Лариошина Л.Ю. 304",
+   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 3 гр. Селезнев А.И. 303 ОТМ 4 гр. Лариошина Л.Ю. 304",
    "segments": [
     {
      "groups": [
@@ -11475,19 +11456,67 @@
      "room": "303",
      "subgroup": "",
      "teacher": "Селезнев А.И."
-    },
-    {
-     "groups": [
-      4
-     ],
-     "room": "304",
-     "subgroup": "",
-     "teacher": "Лариошина Л.Ю."
     }
    ],
    "start": "14:10",
    "subject": "Социально-экономическая статистика",
    "subjectRaw": "СОЦ.- ЭКОНОМ. СТАТИСТИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "S11",
+   "date": "2026-11-19",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "16f063b17997",
+   "kind": "seminar",
+   "lessonKey": "36a47b5fd457",
+   "pair": 4,
+   "raw": "СЗ ТПЭП 4 гр. Багамаева Д.К. 113",
+   "segments": [
+    {
+     "groups": [
+      4
+     ],
+     "room": "113",
+     "subgroup": "",
+     "teacher": "Багамаева Д.К."
+    }
+   ],
+   "start": "14:10",
+   "subject": "ТПЭП",
+   "subjectRaw": "ТПЭП",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "S12",
+   "date": "2026-11-19",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "2dffb2d9557f",
+   "kind": "seminar",
+   "lessonKey": "88d26c2c8996",
+   "pair": 5,
+   "raw": "СЗ ТПЭП 3 гр. Багамаева Д.К. 113",
+   "segments": [
+    {
+     "groups": [
+      3
+     ],
+     "room": "113",
+     "subgroup": "",
+     "teacher": "Багамаева Д.К."
+    }
+   ],
+   "start": "15:45",
+   "subject": "ТПЭП",
+   "subjectRaw": "ТПЭП",
    "timeOverride": false
   },
   {
@@ -11602,15 +11631,15 @@
    "flags": {
     "conflict": false
    },
-   "id": "1891b6a97e6f",
+   "id": "a4bf2ebbea1a",
    "kind": "retake",
    "lessonKey": "d77da68ddc70",
    "pair": 4,
-   "raw": "14:10 ПЕРЕСДАЧА ЗА ЛЕТО МАКРОЭКОНОМИКА Букина И.С. 404",
+   "raw": "14:10 ПЕРЕСДАЧА ЗА ЛЕТО МАКРОЭКОНОМИКА Букина И.С. 302",
    "segments": [
     {
      "groups": [],
-     "room": "404",
+     "room": "302",
      "subgroup": "",
      "teacher": "Букина И.С."
     }
@@ -11762,11 +11791,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "b91fffacc948",
+   "id": "492a1866c1ea",
    "kind": "seminar",
    "lessonKey": "213a1cbc3b3c",
    "pair": 1,
-   "raw": "СЗ ИСТОРИЯ ЭКОНОМИЧЕСКИХ УЧЕНИЙ 1 гр. Тымчик В.И. 308 4 гр. Починкин Д.В. 403",
+   "raw": "СЗ ИСТОРИЯ ЭКОНОМИЧЕСКИХ УЧЕНИЙ 1 гр. Тымчик В.И. 308 4 гр. Починкин Д.В. 402",
    "segments": [
     {
      "groups": [
@@ -11780,7 +11809,7 @@
      "groups": [
       4
      ],
-     "room": "403",
+     "room": "402",
      "subgroup": "",
      "teacher": "Починкин Д.В."
     }
@@ -11862,11 +11891,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "b7b692e17b20",
-   "kind": "other",
-   "lessonKey": "8f01a6f9b8fd",
+   "id": "621192cdae20",
+   "kind": "lecture",
+   "lessonKey": "1b4734e809b2",
    "pair": 3,
-   "raw": "КОНТРОЛЬНАЯ РАБОТА ЭКОНОМИКА ФИРМЫ Лариошина Л.Ю. 308",
+   "raw": "ЛЕКЦИЯ ЭКОНОМИКА ФИРМЫ Лариошина Л.Ю. 308",
    "segments": [
     {
      "groups": [],
@@ -11876,42 +11905,6 @@
     }
    ],
    "start": "12:25",
-   "subject": "Контрольная работа экономика фирмы",
-   "subjectRaw": "КОНТРОЛЬНАЯ РАБОТА ЭКОНОМИКА ФИРМЫ",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "W10",
-   "date": "2026-11-23",
-   "end": "15:40",
-   "flags": {
-    "conflict": false
-   },
-   "id": "acbf095653c9",
-   "kind": "seminar",
-   "lessonKey": "1d24a60277f6",
-   "pair": 4,
-   "raw": "СЗ ЭКОНОМИКА ФИРМЫ 4 гр. Варфаловский А.В. 308 3 гр. Попова Т.А. 403",
-   "segments": [
-    {
-     "groups": [
-      4
-     ],
-     "room": "308",
-     "subgroup": "",
-     "teacher": "Варфаловский А.В."
-    },
-    {
-     "groups": [
-      3
-     ],
-     "room": "403",
-     "subgroup": "",
-     "teacher": "Попова Т.А."
-    }
-   ],
-   "start": "14:10",
    "subject": "Экономика фирмы",
    "subjectRaw": "ЭКОНОМИКА ФИРМЫ",
    "timeOverride": false
@@ -11950,42 +11943,6 @@
    "start": "14:10",
    "subject": "Микроэкономика II",
    "subjectRaw": "МИКРОЭКОНОМИКА-II",
-   "timeOverride": false
-  },
-  {
-   "audience": "groups",
-   "cell": "W12",
-   "date": "2026-11-23",
-   "end": "17:15",
-   "flags": {
-    "conflict": false
-   },
-   "id": "b0b1926a6abb",
-   "kind": "seminar",
-   "lessonKey": "1c78d1538a10",
-   "pair": 5,
-   "raw": "СЗ ЭКОНОМИКА ФИРМЫ 2 гр. Варфаловский А.В. 308 1 гр. Лариошина Л.Ю. 402",
-   "segments": [
-    {
-     "groups": [
-      2
-     ],
-     "room": "308",
-     "subgroup": "",
-     "teacher": "Варфаловский А.В."
-    },
-    {
-     "groups": [
-      1
-     ],
-     "room": "402",
-     "subgroup": "",
-     "teacher": "Лариошина Л.Ю."
-    }
-   ],
-   "start": "15:45",
-   "subject": "Экономика фирмы",
-   "subjectRaw": "ЭКОНОМИКА ФИРМЫ",
    "timeOverride": false
   },
   {
@@ -12168,18 +12125,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "2dfde9804437",
+   "id": "4e907c3102e0",
    "kind": "seminar",
    "lessonKey": "404966d2143d",
    "pair": 5,
-   "raw": "СЗ СОЦИОЛОГИЯ 1,2 гр. Зверев А.Л. 308",
+   "raw": "СЗ СОЦИОЛОГИЯ 1,2 гр. Зверев А.Л. 402",
    "segments": [
     {
      "groups": [
       1,
       2
      ],
-     "room": "308",
+     "room": "402",
      "subgroup": "",
      "teacher": "Зверев А.Л."
     }
@@ -12197,20 +12154,27 @@
    "flags": {
     "conflict": false
    },
-   "id": "81ba48046777",
+   "id": "a99156534bbe",
    "kind": "seminar",
    "lessonKey": "ce222823381f",
    "pair": 5,
-   "raw": "СЗ МАКРОЭКОНОМИКА-II 3,4 гр Кукушкин Д.С. 403",
+   "raw": "СЗ МАКРОЭКОНОМИКА-II 3 гр Кукушкин Д. С. 308 4гр. Герелишина А.К. 403",
    "segments": [
     {
      "groups": [
-      3,
+      3
+     ],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Кукушкин Д.С."
+    },
+    {
+     "groups": [
       4
      ],
      "room": "403",
      "subgroup": "",
-     "teacher": "Кукушкин Д.С."
+     "teacher": "Герелишина А.К."
     }
    ],
    "start": "15:45",
@@ -12288,18 +12252,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "1fd77b1cd4da",
+   "id": "03d822df9e22",
    "kind": "seminar",
    "lessonKey": "842e0cfd8177",
    "pair": 2,
-   "raw": "СЗ ЭКОНОМЕТРИКА 3,4 гр. Аршакян Р.А. 302",
+   "raw": "СЗ ЭКОНОМЕТРИКА 3,4 гр. Аршакян Р.А. 308",
    "segments": [
     {
      "groups": [
       3,
       4
      ],
-     "room": "302",
+     "room": "308",
      "subgroup": "",
      "teacher": "Аршакян Р.А."
     }
@@ -12353,18 +12317,18 @@
    "flags": {
     "conflict": false
    },
-   "id": "aaa3f3b67f29",
+   "id": "c4192faa137d",
    "kind": "seminar",
    "lessonKey": "1c196ee8678b",
    "pair": 3,
-   "raw": "СЗ ЭКОНОМЕТРИКА 1,2 гр. Аршакян Р.А. 302",
+   "raw": "СЗ ЭКОНОМЕТРИКА 1,2 гр. Аршакян Р.А. 308",
    "segments": [
     {
      "groups": [
       1,
       2
      ],
-     "room": "302",
+     "room": "308",
      "subgroup": "",
      "teacher": "Аршакян Р.А."
     }
@@ -12375,6 +12339,110 @@
    "timeOverride": false
   },
   {
+   "audience": "personal",
+   "cell": "Y10",
+   "date": "2026-11-25",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "8dde7aea1ceb",
+   "kind": "mfk",
+   "lessonKey": "032652fbc80a",
+   "pair": 4,
+   "raw": "МФК",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "14:10",
+   "subject": "Межфакультетские курсы",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "personal",
+   "cell": "Y14",
+   "date": "2026-11-25",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "9471b4a3a265",
+   "kind": "retake",
+   "lessonKey": "fb022c43fb44",
+   "pair": 4,
+   "raw": "14:10 ПЕРЕСДАЧА ЗА ЛЕТО ЭОС для тех у кого справки Лобанова Е.О. Никитина С.А. 403",
+   "segments": [
+    {
+     "groups": [],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Лобанова Е.О., Никитина С.А."
+    }
+   ],
+   "start": "14:10",
+   "subject": "ЭОС для тех у кого справки",
+   "subjectRaw": "ЭОС для тех у кого справки",
+   "timeOverride": true
+  },
+  {
+   "audience": "personal",
+   "cell": "Y10",
+   "date": "2026-11-25",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "8d48192e27aa",
+   "kind": "mfk",
+   "lessonKey": "5f919120a696",
+   "pair": 5,
+   "raw": "МФК",
+   "segments": [
+    {
+     "groups": [],
+     "room": null,
+     "subgroup": "",
+     "teacher": null
+    }
+   ],
+   "start": "15:45",
+   "subject": "Межфакультетские курсы",
+   "subjectRaw": "",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "Z4",
+   "date": "2026-11-26",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "3432c0c1c21f",
+   "kind": "lecture",
+   "lessonKey": "1d9f6bf0dddc",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ ТПЭП Яковлев А.А. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Яковлев А.А."
+    }
+   ],
+   "start": "09:00",
+   "subject": "ТПЭП",
+   "subjectRaw": "ТПЭП",
+   "timeOverride": false
+  },
+  {
    "audience": "groups",
    "cell": "Z6",
    "date": "2026-11-26",
@@ -12382,27 +12450,21 @@
    "flags": {
     "conflict": false
    },
-   "id": "aaa9e2fd2eba",
+   "id": "7ea6b5a7eb46",
    "kind": "seminar",
    "lessonKey": "bc981962a600",
    "pair": 2,
-   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 1 гр. Шаклеина М.В. 303 2 гр. Попова Т.А. 304",
+   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 1,2,4 гр. Шаклеина М.В. 308",
    "segments": [
     {
      "groups": [
-      1
+      1,
+      2,
+      4
      ],
-     "room": "303",
+     "room": "308",
      "subgroup": "",
      "teacher": "Шаклеина М.В."
-    },
-    {
-     "groups": [
-      2
-     ],
-     "room": "304",
-     "subgroup": "",
-     "teacher": "Попова Т.А."
     }
    ],
    "start": "10:40",
@@ -12444,11 +12506,11 @@
    "flags": {
     "conflict": false
    },
-   "id": "99c4083b87a8",
+   "id": "a4b538349e3a",
    "kind": "seminar",
    "lessonKey": "6c060af3fc83",
    "pair": 4,
-   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 3 гр. Селезнев А.И. 303 4 гр. Лариошина Л.Ю. 304",
+   "raw": "СЗ СОЦ.- ЭКОНОМ. СТАТИСТИКА 3 гр. Селезнев А.И. 303",
    "segments": [
     {
      "groups": [
@@ -12457,19 +12519,40 @@
      "room": "303",
      "subgroup": "",
      "teacher": "Селезнев А.И."
-    },
-    {
-     "groups": [
-      4
-     ],
-     "room": "304",
-     "subgroup": "",
-     "teacher": "Лариошина Л.Ю."
     }
    ],
    "start": "14:10",
    "subject": "Социально-экономическая статистика",
    "subjectRaw": "СОЦ.- ЭКОНОМ. СТАТИСТИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "Z11",
+   "date": "2026-11-26",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "65100ea6d2d9",
+   "kind": "seminar",
+   "lessonKey": "583bbc8951c7",
+   "pair": 4,
+   "raw": "СЗ ТПЭП 1,2 гр. Починкин Д.В. 404",
+   "segments": [
+    {
+     "groups": [
+      1,
+      2
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Починкин Д.В."
+    }
+   ],
+   "start": "14:10",
+   "subject": "ТПЭП",
+   "subjectRaw": "ТПЭП",
    "timeOverride": false
   },
   {
@@ -13335,6 +13418,32 @@
    "timeOverride": false
   },
   {
+   "audience": "stream",
+   "cell": "E4",
+   "date": "2026-12-03",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "c3bd54c7e288",
+   "kind": "lecture",
+   "lessonKey": "7c3db3e6d569",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ ТПЭП Яковлев А.А. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Яковлев А.А."
+    }
+   ],
+   "start": "09:00",
+   "subject": "ТПЭП",
+   "subjectRaw": "ТПЭП",
+   "timeOverride": false
+  },
+  {
    "audience": "groups",
    "cell": "E6",
    "date": "2026-12-03",
@@ -13430,6 +13539,35 @@
    "start": "14:10",
    "subject": "Социально-экономическая статистика",
    "subjectRaw": "СОЦ.- ЭКОНОМ. СТАТИСТИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "E11",
+   "date": "2026-12-03",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "400e30e4503e",
+   "kind": "seminar",
+   "lessonKey": "2f18c4e403ff",
+   "pair": 4,
+   "raw": "СЗ ТПЭП 1,2 гр. Починкин Д.В. 404",
+   "segments": [
+    {
+     "groups": [
+      1,
+      2
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Починкин Д.В."
+    }
+   ],
+   "start": "14:10",
+   "subject": "ТПЭП",
+   "subjectRaw": "ТПЭП",
    "timeOverride": false
   },
   {
@@ -14291,6 +14429,32 @@
    "timeOverride": false
   },
   {
+   "audience": "stream",
+   "cell": "L4",
+   "date": "2026-12-10",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "5ee419052914",
+   "kind": "lecture",
+   "lessonKey": "3bb56dc910e3",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ ТПЭП Яковлев А.А. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Яковлев А.А."
+    }
+   ],
+   "start": "09:00",
+   "subject": "ТПЭП",
+   "subjectRaw": "ТПЭП",
+   "timeOverride": false
+  },
+  {
    "audience": "groups",
    "cell": "L6",
    "date": "2026-12-10",
@@ -14389,6 +14553,35 @@
    "timeOverride": false
   },
   {
+   "audience": "groups",
+   "cell": "L11",
+   "date": "2026-12-10",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "67c7694830a0",
+   "kind": "seminar",
+   "lessonKey": "50c5e05129a9",
+   "pair": 4,
+   "raw": "СЗ ТПЭП 1,2 гр. Починкин Д.В. 404",
+   "segments": [
+    {
+     "groups": [
+      1,
+      2
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Починкин Д.В."
+    }
+   ],
+   "start": "14:10",
+   "subject": "ТПЭП",
+   "subjectRaw": "ТПЭП",
+   "timeOverride": false
+  },
+  {
    "audience": "personal",
    "cell": "L13",
    "date": "2026-12-10",
@@ -14396,22 +14589,22 @@
    "flags": {
     "conflict": false
    },
-   "id": "baf7486a4beb",
+   "id": "65d195499f46",
    "kind": "russian_foreign",
    "lessonKey": "79d6c9b2a474",
    "pair": 5,
-   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. 403",
+   "raw": "РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. 113 (кино)",
    "segments": [
     {
      "groups": [],
-     "room": "403",
+     "room": "113",
      "subgroup": "",
      "teacher": "Бордюгов Д.Г."
     }
    ],
    "start": "15:45",
    "subject": "Русский язык для иностранцев",
-   "subjectRaw": "",
+   "subjectRaw": "(кино)",
    "timeOverride": false
   },
   {
@@ -15251,6 +15444,32 @@
    "timeOverride": false
   },
   {
+   "audience": "stream",
+   "cell": "S4",
+   "date": "2026-12-17",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "d4c4b527f773",
+   "kind": "lecture",
+   "lessonKey": "1990d102c4de",
+   "pair": 1,
+   "raw": "ЛЕКЦИЯ ТПЭП Яковлев А.А. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Яковлев А.А."
+    }
+   ],
+   "start": "09:00",
+   "subject": "ТПЭП",
+   "subjectRaw": "ТПЭП",
+   "timeOverride": false
+  },
+  {
    "audience": "groups",
    "cell": "S6",
    "date": "2026-12-17",
@@ -15970,6 +16189,32 @@
   },
   {
    "audience": "stream",
+   "cell": "Z4",
+   "date": "2026-12-24",
+   "end": "10:30",
+   "flags": {
+    "conflict": false
+   },
+   "id": "3791a0f29cc1",
+   "kind": "other",
+   "lessonKey": "101c9a43aaf5",
+   "pair": 1,
+   "raw": "ЗАЧЕТ ТПЭП Яковлев А.А. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Яковлев А.А."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Зачет тпэп",
+   "subjectRaw": "ЗАЧЕТ ТПЭП",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
    "cell": "Z8",
    "date": "2026-12-24",
    "end": "13:55",
@@ -15996,29 +16241,29 @@
   },
   {
    "audience": "stream",
-   "cell": "Z13",
+   "cell": "Z10",
    "date": "2026-12-24",
-   "end": "17:15",
+   "end": "15:40",
    "flags": {
     "conflict": false
    },
-   "id": "eead0d9ed988",
+   "id": "39c9a2b712e0",
    "kind": "other",
-   "lessonKey": "aebdcfeeb770",
-   "pair": 5,
-   "raw": "ЗАЧЕТ РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. 403",
+   "lessonKey": "5be1d4c1adee",
+   "pair": 4,
+   "raw": "14:10 Защита курсовых работ по эконометрике 303/304",
    "segments": [
     {
      "groups": [],
-     "room": "403",
+     "room": "303",
      "subgroup": "",
-     "teacher": "Бордюгов Д.Г."
+     "teacher": null
     }
    ],
-   "start": "15:45",
-   "subject": "Зачет русский язык ДЛЯ иностранцев",
-   "subjectRaw": "ЗАЧЕТ РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ",
-   "timeOverride": false
+   "start": "14:10",
+   "subject": "Защита курсовых работ по эконометрике /",
+   "subjectRaw": "Защита курсовых работ по эконометрике /",
+   "timeOverride": true
   },
   {
    "audience": "personal",
@@ -16125,6 +16370,32 @@
    "timeOverride": false
   },
   {
+   "audience": "stream",
+   "cell": "AA12",
+   "date": "2026-12-25",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "20d55a45654f",
+   "kind": "other",
+   "lessonKey": "a51af097d125",
+   "pair": 5,
+   "raw": "ЗАЧЕТ РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ Бордюгов Д.Г. 403,402",
+   "segments": [
+    {
+     "groups": [],
+     "room": "403",
+     "subgroup": "",
+     "teacher": "Бордюгов Д.Г."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Зачет русский язык ДЛЯ иностранцев",
+   "subjectRaw": "ЗАЧЕТ РУССКИЙ ЯЗЫК ДЛЯ ИНОСТРАНЦЕВ",
+   "timeOverride": false
+  },
+  {
    "audience": "groups",
    "cell": "AB4",
    "date": "2026-12-26",
@@ -16151,15 +16422,103 @@
    "subject": "Зачет функциональный анализ",
    "subjectRaw": "ЗАЧЕТ ФУНКЦИОНАЛЬНЫЙ АНАЛИЗ",
    "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "AH4",
+   "date": "2027-01-11",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "f62ca71cd117",
+   "kind": "other",
+   "lessonKey": "29c07b1fcc50",
+   "pair": 1,
+   "raw": "09:00 ЭКЗАМЕН ИСТОРИЯ ЭКОНОМИЧЕСКИХ УЧЕНИЙ Тымчик В.И. Починкин Д.В. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Тымчик В.И."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Экзамен история экономических учений",
+   "subjectRaw": "ЭКЗАМЕН ИСТОРИЯ ЭКОНОМИЧЕСКИХ УЧЕНИЙ",
+   "timeOverride": true
+  },
+  {
+   "audience": "stream",
+   "cell": "AL5",
+   "date": "2027-01-15",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "c01892795c2f",
+   "kind": "other",
+   "lessonKey": "aa2765c5c803",
+   "pair": 1,
+   "raw": "10:00 ЭКЗАМЕН ЭКОНОМЕТРИКА Пепа Р.Ю. Аршакян Р.А. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Пепа Р.Ю."
+    }
+   ],
+   "start": "10:00",
+   "subject": "Экзамен эконометрика",
+   "subjectRaw": "ЭКЗАМЕН ЭКОНОМЕТРИКА",
+   "timeOverride": true
+  },
+  {
+   "audience": "stream",
+   "cell": "AP4",
+   "date": "2027-01-19",
+   "end": null,
+   "flags": {
+    "conflict": false
+   },
+   "id": "7e5648472220",
+   "kind": "other",
+   "lessonKey": "46cd9f163aba",
+   "pair": 1,
+   "raw": "09:00 ЭКЗАМЕН СОЦИОЛОГИЯ Зверев А.Л. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Зверев А.Л."
+    }
+   ],
+   "start": "09:00",
+   "subject": "Экзамен социология",
+   "subjectRaw": "ЭКЗАМЕН СОЦИОЛОГИЯ",
+   "timeOverride": true
   }
  ],
  "range": {
   "from": "2026-09-01",
-  "to": "2026-12-26"
+  "to": "2027-01-23"
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 507,
+  "cells": 510,
+  "dateRanges": [
+   [
+    "2026-09-01",
+    "2026-12-30"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-23"
+   ]
+  ],
   "dates": [
    "2026-09-01",
    "2026-09-02",
@@ -16261,12 +16620,27 @@
    "2026-12-23",
    "2026-12-24",
    "2026-12-25",
-   "2026-12-26"
+   "2026-12-26",
+   "2026-12-28",
+   "2026-12-29",
+   "2026-12-30",
+   "2027-01-11",
+   "2027-01-12",
+   "2027-01-13",
+   "2027-01-14",
+   "2027-01-15",
+   "2027-01-16",
+   "2027-01-18",
+   "2027-01-19",
+   "2027-01-20",
+   "2027-01-21",
+   "2027-01-22",
+   "2027-01-23"
   ],
-  "hash": "F5D8DBC45B088D3B8E609007F6EA6E7532223D1E",
-  "mtime": 1794828478,
+  "hash": "9116A4A0472E7255400A74AD047F8E50DEA8DCCC",
+  "mtime": 1795514243,
   "name": "3_курс_Бакалавриат_2026.xlsx",
-  "parser": 3,
+  "parser": 4,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26, 3 курс_НОЯБРЬ_26, 3 курс_ДЕКАБРЬ_26 ",
   "weblink": "nPxA/Ffnz43t4E"
  },
