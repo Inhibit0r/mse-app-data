@@ -1,6 +1,6 @@
 {
  "course": 3,
- "generatedAt": "2026-11-24T11:37:49+00:00",
+ "generatedAt": "2026-11-25T12:38:25+00:00",
  "groups": [
   1,
   2,
@@ -13473,6 +13473,35 @@
    "timeOverride": false
   },
   {
+   "audience": "groups",
+   "cell": "E7",
+   "date": "2026-12-03",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "4a3bf51c33e3",
+   "kind": "seminar",
+   "lessonKey": "b646a63b2170",
+   "pair": 2,
+   "raw": "СЗ ТПЭП 3,4 гр. Багамаева Д.К. 404",
+   "segments": [
+    {
+     "groups": [
+      3,
+      4
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Багамаева Д.К."
+    }
+   ],
+   "start": "10:40",
+   "subject": "ТПЭП",
+   "subjectRaw": "ТПЭП",
+   "timeOverride": false
+  },
+  {
    "audience": "stream",
    "cell": "E8",
    "date": "2026-12-03",
@@ -14481,6 +14510,35 @@
    "start": "10:40",
    "subject": "Социально-экономическая статистика",
    "subjectRaw": "СОЦ.- ЭКОНОМ. СТАТИСТИКА",
+   "timeOverride": false
+  },
+  {
+   "audience": "groups",
+   "cell": "L7",
+   "date": "2026-12-10",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "c1d46e45300a",
+   "kind": "seminar",
+   "lessonKey": "2d18fd1fc415",
+   "pair": 2,
+   "raw": "СЗ ТПЭП 3,4 гр. Багамаева Д.К. 404",
+   "segments": [
+    {
+     "groups": [
+      3,
+      4
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Багамаева Д.К."
+    }
+   ],
+   "start": "10:40",
+   "subject": "ТПЭП",
+   "subjectRaw": "ТПЭП",
    "timeOverride": false
   },
   {
@@ -15499,6 +15557,35 @@
    "timeOverride": false
   },
   {
+   "audience": "groups",
+   "cell": "S7",
+   "date": "2026-12-17",
+   "end": "12:10",
+   "flags": {
+    "conflict": false
+   },
+   "id": "f2651305c993",
+   "kind": "seminar",
+   "lessonKey": "d64344bf5fae",
+   "pair": 2,
+   "raw": "СЗ ТПЭП 3,4 гр. Багамаева Д.К. 404",
+   "segments": [
+    {
+     "groups": [
+      3,
+      4
+     ],
+     "room": "404",
+     "subgroup": "",
+     "teacher": "Багамаева Д.К."
+    }
+   ],
+   "start": "10:40",
+   "subject": "ТПЭП",
+   "subjectRaw": "ТПЭП",
+   "timeOverride": false
+  },
+  {
    "audience": "stream",
    "cell": "S8",
    "date": "2026-12-17",
@@ -16192,7 +16279,7 @@
    "kind": "other",
    "lessonKey": "101c9a43aaf5",
    "pair": 1,
-   "raw": "ЗАЧЕТ ТПЭП Яковлев А.А. 308",
+   "raw": "ЗАЧЕТ ТПЭП Яковлев А.А. Починкин Д.В. Багамаева Д.К. 308",
    "segments": [
     {
      "groups": [],
@@ -16501,7 +16588,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 510,
+  "cells": 513,
   "dateRanges": [
    [
     "2026-09-01",
@@ -16630,8 +16717,8 @@
    "2027-01-22",
    "2027-01-23"
   ],
-  "hash": "D4E8B237A5D63760D5724D185E84B538415AB05F",
-  "mtime": 1795520108,
+  "hash": "7FA7CE4B89EED39A60B03FAFAFFA67CF9EAF56FC",
+  "mtime": 1795610108,
   "name": "3_курс_Бакалавриат_2026.xlsx",
   "parser": 4,
   "sheet": "3 курс_СЕНТЯБРЬ_26, 3 курс_ОКТЯБРЬ_26, 3 курс_НОЯБРЬ_26, 3 курс_ДЕКАБРЬ_26 ",
