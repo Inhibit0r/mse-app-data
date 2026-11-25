@@ -1,6 +1,6 @@
 {
  "course": 4,
- "generatedAt": "2026-11-25T13:19:19+00:00",
+ "generatedAt": "2026-11-25T13:24:19+00:00",
  "groups": [
   1,
   2,
@@ -10182,6 +10182,58 @@
    "timeOverride": false
   },
   {
+   "audience": "stream",
+   "cell": "G10",
+   "date": "2026-12-05",
+   "end": "15:40",
+   "flags": {
+    "conflict": false
+   },
+   "id": "41c08b3225fe",
+   "kind": "other",
+   "lessonKey": "c072f985e5e6",
+   "pair": 4,
+   "raw": "ЗАЧЕТ СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ Шульпин С.Е. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Шульпин С.Е."
+    }
+   ],
+   "start": "14:10",
+   "subject": "Зачет стратегический маркетинг",
+   "subjectRaw": "ЗАЧЕТ СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ",
+   "timeOverride": false
+  },
+  {
+   "audience": "stream",
+   "cell": "G12",
+   "date": "2026-12-05",
+   "end": "17:15",
+   "flags": {
+    "conflict": false
+   },
+   "id": "17b6c4c7aeef",
+   "kind": "other",
+   "lessonKey": "5fe2679666df",
+   "pair": 5,
+   "raw": "ЗАЧЕТ СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ Шульпин С.Е. 308",
+   "segments": [
+    {
+     "groups": [],
+     "room": "308",
+     "subgroup": "",
+     "teacher": "Шульпин С.Е."
+    }
+   ],
+   "start": "15:45",
+   "subject": "Зачет стратегический маркетинг",
+   "subjectRaw": "ЗАЧЕТ СТРАТЕГИЧЕСКИЙ МАРКЕТИНГ",
+   "timeOverride": false
+  },
+  {
    "audience": "personal",
    "cell": "I4",
    "date": "2026-12-07",
@@ -12563,7 +12615,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 395,
+  "cells": 397,
   "dateRanges": [
    [
     "2026-09-01",
@@ -12692,8 +12744,8 @@
    "2027-01-22",
    "2027-01-23"
   ],
-  "hash": "908B36189FAFEEFB825890FFF8564C4AB2456E70",
-  "mtime": 1795612754,
+  "hash": "85DBBEA5BD3527882B2FB087ACA009EBE7835EB1",
+  "mtime": 1795612854,
   "name": "4_курс_Бакалавриат_2026.xlsx",
   "parser": 4,
   "sheet": "4 курс_СЕНТЯБРЬ_26, 4 курс_ОКТЯБРЬ_26, 4 курс_НОЯБРЬ_26, 4 курс_ДЕКАБРЬ_26 ",
