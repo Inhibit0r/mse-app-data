@@ -1,6 +1,6 @@
 {
  "course": 2,
- "generatedAt": "2026-11-26T08:19:29+00:00",
+ "generatedAt": "2026-11-26T11:25:35+00:00",
  "groups": [
   1,
   2,
@@ -18045,18 +18045,18 @@
    "timeOverride": false
   },
   {
-   "audience": "personal",
+   "audience": "stream",
    "cell": "X12",
    "date": "2026-12-22",
    "end": "17:15",
    "flags": {
     "conflict": false
    },
-   "id": "25834f221fe5",
-   "kind": "pe",
-   "lessonKey": "737deddc36cd",
+   "id": "762366a5f885",
+   "kind": "other",
+   "lessonKey": "b34bc961590e",
    "pair": 5,
-   "raw": "16:35 ФИЗИЧЕСКАЯ КУЛЬТУРА",
+   "raw": "16:35 ЗАЧЕТ ФИЗИЧЕСКАЯ КУЛЬТУРА",
    "segments": [
     {
      "groups": [],
@@ -18066,8 +18066,8 @@
     }
    ],
    "start": "16:35",
-   "subject": "Физическая культура",
-   "subjectRaw": "",
+   "subject": "Зачет физическая культура",
+   "subjectRaw": "ЗАЧЕТ ФИЗИЧЕСКАЯ КУЛЬТУРА",
    "timeOverride": true
   },
   {
@@ -18501,32 +18501,6 @@
    "timeOverride": false
   },
   {
-   "audience": "personal",
-   "cell": "AA12",
-   "date": "2026-12-25",
-   "end": "17:15",
-   "flags": {
-    "conflict": false
-   },
-   "id": "b4689ae25276",
-   "kind": "pe",
-   "lessonKey": "c6889a51b2c7",
-   "pair": 5,
-   "raw": "16:35 ФИЗИЧЕСКАЯ КУЛЬТУРА",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": null
-    }
-   ],
-   "start": "16:35",
-   "subject": "Физическая культура",
-   "subjectRaw": "",
-   "timeOverride": true
-  },
-  {
    "audience": "stream",
    "cell": "AH6",
    "date": "2027-01-11",
@@ -18701,7 +18675,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 555,
+  "cells": 554,
   "dateRanges": [
    [
     "2026-09-01",
@@ -18830,8 +18804,8 @@
    "2027-01-22",
    "2027-01-23"
   ],
-  "hash": "97B77C539AD543B7199B68EB1FE65C9402C5E509",
-  "mtime": 1795681050,
+  "hash": "ECCDFBC4FB80B470B805A0CEDA5A761BD4515100",
+  "mtime": 1795692190,
   "name": "2_курс_Бакалавриат_2026.xlsx",
   "parser": 4,
   "sheet": "2 курс_СЕНТЯБРЬ_26, 2 курс_ОКТЯБРЬ_26, 2 курс_НОЯБРЬ_26, 2 курс_ДЕКАБРЬ_26 ",

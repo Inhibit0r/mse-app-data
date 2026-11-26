@@ -1,6 +1,6 @@
 {
  "course": 1,
- "generatedAt": "2026-11-24T11:22:37+00:00",
+ "generatedAt": "2026-11-26T11:25:35+00:00",
  "groups": [
   1,
   2,
@@ -15439,18 +15439,18 @@
    "timeOverride": false
   },
   {
-   "audience": "personal",
+   "audience": "stream",
    "cell": "X10",
    "date": "2026-12-22",
    "end": "15:40",
    "flags": {
     "conflict": false
    },
-   "id": "b13250446e4c",
-   "kind": "pe",
-   "lessonKey": "18ded6669096",
+   "id": "de6a2ad39f3d",
+   "kind": "other",
+   "lessonKey": "13f70a37433c",
    "pair": 4,
-   "raw": "14:50 ФИЗИЧЕСКАЯ КУЛЬТУРА",
+   "raw": "14:50 ЗАЧЕТ ФИЗИЧЕСКАЯ КУЛЬТУРА",
    "segments": [
     {
      "groups": [],
@@ -15460,8 +15460,8 @@
     }
    ],
    "start": "14:50",
-   "subject": "Физическая культура",
-   "subjectRaw": "",
+   "subject": "Зачет физическая культура",
+   "subjectRaw": "ЗАЧЕТ ФИЗИЧЕСКАЯ КУЛЬТУРА",
    "timeOverride": true
   },
   {
@@ -15706,17 +15706,17 @@
   },
   {
    "audience": "stream",
-   "cell": "Z10",
-   "date": "2026-12-24",
-   "end": "15:40",
+   "cell": "AA6",
+   "date": "2026-12-25",
+   "end": "12:10",
    "flags": {
     "conflict": false
    },
-   "id": "363b376d552b",
+   "id": "60cfa0cbf2c9",
    "kind": "other",
-   "lessonKey": "961615bf5cfb",
-   "pair": 4,
-   "raw": "14:20 ЗАЧЕТ Безопасность жизнедеятельности Дынник В.П. 302",
+   "lessonKey": "5d118479e67d",
+   "pair": 2,
+   "raw": "ЗАЧЕТ Безопасность жизнедеятельности Дынник В.П. 302",
    "segments": [
     {
      "groups": [],
@@ -15725,36 +15725,10 @@
      "teacher": "Дынник В.П."
     }
    ],
-   "start": "14:20",
+   "start": "10:40",
    "subject": "Зачет безопасность жизнедеятельности",
    "subjectRaw": "ЗАЧЕТ Безопасность жизнедеятельности",
-   "timeOverride": true
-  },
-  {
-   "audience": "personal",
-   "cell": "AA10",
-   "date": "2026-12-25",
-   "end": "15:40",
-   "flags": {
-    "conflict": false
-   },
-   "id": "01b585991bff",
-   "kind": "pe",
-   "lessonKey": "a99d7e66777a",
-   "pair": 4,
-   "raw": "14:50 ФИЗИЧЕСКАЯ КУЛЬТУРА",
-   "segments": [
-    {
-     "groups": [],
-     "room": null,
-     "subgroup": "",
-     "teacher": null
-    }
-   ],
-   "start": "14:50",
-   "subject": "Физическая культура",
-   "subjectRaw": "",
-   "timeOverride": true
+   "timeOverride": false
   },
   {
    "audience": "stream",
@@ -15867,7 +15841,7 @@
  },
  "schemaVersion": 1,
  "source": {
-  "cells": 490,
+  "cells": 489,
   "dateRanges": [
    [
     "2026-09-01",
@@ -15996,8 +15970,8 @@
    "2027-01-22",
    "2027-01-23"
   ],
-  "hash": "A522EBA0822118C95FCEB3BB294D11521E19FDA1",
-  "mtime": 1795422714,
+  "hash": "4B3BC1DFB1901FC100A217FD3922B80B6D2BD3D6",
+  "mtime": 1795692145,
   "name": "1_курс_Бакалавриат_2026.xlsx",
   "parser": 4,
   "sheet": "1 курс_СЕНТЯБРЬ_26, 1 курс_ОКТЯБРЬ_26, 1 курс_НОЯБРЬ_26, 1 курс_ДЕКАБРЬ_26 ",
